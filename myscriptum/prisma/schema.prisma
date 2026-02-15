@@ -1,0 +1,415 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// ============================================
+// MODELO DE DATOS MYSCRIPTUM
+// ============================================
+
+// 1. TESTAMENTOS
+model Testament {
+  id        String   @id @default(cuid())
+  name      String   // "Antiguo Testamento"
+  nameEn    String   // "Old Testament"
+  slug      String   @unique
+  order     Int      // 1, 2
+  
+  books     Book[]
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  @@map("testaments")
+}
+
+// 2. LIBROS BÍBLICOS
+model Book {
+  id              String    @id @default(cuid())
+  testamentId     String
+  testament       Testament @relation(fields: [testamentId], references: [id], onDelete: Cascade)
+  
+  name            String    // "Ezequiel"
+  nameEn          String    // "Ezekiel"
+  slug            String    @unique
+  abbreviation    String    // "Ez"
+  order           Int       // Orden dentro del testamento
+  
+  // Metadatos del libro
+  authorTraditional      String?
+  dateApproximate        String?
+  literaryGenre          String?
+  literaryGenreEn        String?
+  originalAudience       String?
+  originalAudienceEn     String?
+  centralTheme           String?
+  centralThemeEn         String?
+  historicalLocation     String?
+  historicalLocationEn   String?
+  
+  // Relaciones
+  chapters        Chapter[]
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([testamentId])
+  @@map("books")
+}
+
+// 3. CAPÍTULOS
+model Chapter {
+  id              String   @id @default(cuid())
+  bookId          String
+  book            Book     @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  
+  number          Int      // 1, 2, 3...
+  slug            String   @unique // "ezequiel-1"
+  
+  // Metadatos del capítulo
+  historicalPeriod         String?
+  historicalPeriodEn       String?
+  relatedEvents            String?
+  relatedEventsEn          String?
+  keyCharacters            String?  // JSON array
+  theologicalIntensity     String?
+  theologicalIntensityEn   String?
+  literaryStructure        String?
+  literaryStructureEn      String?
+  
+  // Contexto inmediato
+  contextualNotes      String?  @db.Text
+  contextualNotesEn    String?  @db.Text
+  
+  // Relaciones
+  verses               Verse[]
+  historicalContext    ChapterHistoricalContext?
+  reflectionQuestions  ReflectionQuestion[]
+  connections          ChapterConnection[] @relation("connectionFrom")
+  connectedFrom        ChapterConnection[] @relation("connectionTo")
+  studyFlows           StudyFlow[]
+  
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+  
+  @@unique([bookId, number])
+  @@index([bookId])
+  @@index([slug])
+  @@map("chapters")
+}
+
+// 4. VERSÍCULOS
+model Verse {
+  id            String   @id @default(cuid())
+  chapterId     String
+  chapter       Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  
+  number        Int      // 1, 2, 3...
+  text          String   @db.Text
+  textEn        String?  @db.Text
+  
+  // Texto original
+  textOriginal  String?  @db.Text
+  language      String?  // "hebrew" | "aramaic" | "greek"
+  
+  // Palabras clave
+  keyWords      String?  @db.Text // JSON array
+  
+  // Análisis breve
+  briefNote     String?
+  briefNoteEn   String?
+  
+  // Relaciones
+  etymologies     Etymology[]
+  crossReferences CrossReference[]
+  
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  
+  @@unique([chapterId, number])
+  @@index([chapterId])
+  @@map("verses")
+}
+
+// 5. CONTEXTO HISTÓRICO POR CAPÍTULO
+model ChapterHistoricalContext {
+  id                String   @id @default(cuid())
+  chapterId         String   @unique
+  chapter           Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  
+  dominantEmpire    String?
+  dominantEmpireEn  String?
+  
+  kingName          String?
+  kingNameEn        String?
+  kingRegion        String?
+  kingRegionEn      String?
+  
+  activeProphets    String?  @db.Text // JSON array
+  activeProphetsEn  String?  @db.Text
+  
+  templeStatus      String?
+  templeStatusEn    String?
+  
+  politicalSituation     String?  @db.Text
+  politicalSituationEn   String?  @db.Text
+  
+  spiritualState    String?  @db.Text
+  spiritualStateEn  String?  @db.Text
+  
+  militaryEvents    String?  @db.Text // JSON array
+  militaryEventsEn  String?  @db.Text
+  
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  
+  @@index([chapterId])
+  @@map("chapter_historical_contexts")
+}
+
+// 6. ETIMOLOGÍA Y PALABRAS CLAVE
+model Etymology {
+  id              String   @id @default(cuid())
+  verseId         String
+  verse           Verse    @relation(fields: [verseId], references: [id], onDelete: Cascade)
+  
+  word            String
+  wordEn          String?
+  language        String   // "hebrew" | "aramaic" | "greek"
+  transliteration String
+  
+  literalMeaning      String
+  literalMeaningEn    String?
+  primaryMeaning      String
+  primaryMeaningEn    String?
+  theologicalMeaning  String?  @db.Text
+  theologicalMeaningEn String? @db.Text
+  
+  semiticRoot         String?
+  semanticField       String?  @db.Text // JSON
+  cognates            String?  @db.Text // JSON
+  cognatesEn          String?  @db.Text
+  
+  biblicalFrequency   Int?
+  notableOccurrences  String?  @db.Text // JSON array
+  
+  semanticEvolution   String?  @db.Text
+  semanticEvolutionEn String?  @db.Text
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([verseId])
+  @@index([word])
+  @@map("etymologies")
+}
+
+// 7. REFERENCIAS CRUZADAS
+model CrossReference {
+  id              String   @id @default(cuid())
+  verseId         String
+  verse           Verse    @relation(fields: [verseId], references: [id], onDelete: Cascade)
+  
+  referencedVerseId  String?
+  referencedBibleRef String?
+  
+  connectionType  String   // "historical" | "thematic" | "prophetic" | "typological" | "lexical"
+  
+  description     String?  @db.Text
+  descriptionEn   String?  @db.Text
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([verseId])
+  @@index([connectionType])
+  @@map("cross_references")
+}
+
+// Conexiones entre capítulos completos
+model ChapterConnection {
+  id              String   @id @default(cuid())
+  fromChapterId   String
+  toChapterId     String
+  from            Chapter  @relation("connectionFrom", fields: [fromChapterId], references: [id], onDelete: Cascade)
+  to              Chapter  @relation("connectionTo", fields: [toChapterId], references: [id], onDelete: Cascade)
+  
+  connectionType  String   // "historical" | "thematic" | "prophetic" | "typological"
+  description     String?  @db.Text
+  descriptionEn   String?  @db.Text
+  
+  @@unique([fromChapterId, toChapterId])
+  @@index([fromChapterId])
+  @@index([toChapterId])
+  @@map("chapter_connections")
+}
+
+// 8. PREGUNTAS REFLEXIVAS
+model ReflectionQuestion {
+  id              String   @id @default(cuid())
+  chapterId       String
+  chapter         Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  
+  stage           String   // "observation" | "interpretation" | "implication"
+  stageLabel      String
+  stageLabelEn    String?
+  
+  question        String   @db.Text
+  questionEn      String?  @db.Text
+  
+  guidance        String?  @db.Text
+  guidanceEn      String?  @db.Text
+  
+  order           Int
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@index([chapterId])
+  @@index([stage])
+  @@map("reflection_questions")
+}
+
+// 9. USUARIOS
+model User {
+  id                String   @id @default(cuid())
+  email             String   @unique
+  name              String?
+  password          String
+  
+  // Preferencias
+  language          String   @default("es") // "es" | "en"
+  depthLevelPreference String @default("intermediate")
+  
+  // Suscripción (Freemium)
+  subscriptionTier  String   @default("FREE") // "FREE" | "PRO" | "TEAM"
+  subscriptionStart DateTime?
+  subscriptionEnd   DateTime?
+  
+  stripeCustomerId      String?  @unique
+  stripeSubscriptionId  String?  @unique
+  
+  // Uso de features (para limitar en FREE)
+  aiQueriesThisMonth Int @default(0)
+  exportsThisMonth   Int @default(0)
+  
+  // Libros en estudio
+  booksInStudy      String   @db.Text @default("[]") // JSON array
+  
+  readingPace       String   @default("flexible")
+  
+  // Relaciones
+  progress          ChapterProgress[]
+  responses         ReflectionResponse[]
+  studyFlows        StudyFlow[]
+  sessions          Session[]
+  
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  
+  @@index([email])
+  @@map("users")
+}
+
+// 10. PROGRESO DEL USUARIO
+model ChapterProgress {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  chapterId       String
+  
+  status          String   @default("not_started") // "not_started" | "in_progress" | "completed"
+  
+  sectionIntroductionCompleted Boolean @default(false)
+  sectionReadingCompleted      Boolean @default(false)
+  sectionAnalysisCompleted     Boolean @default(false)
+  sectionEtymologyCompleted    Boolean @default(false)
+  sectionConnectionsCompleted  Boolean @default(false)
+  sectionReflectionCompleted   Boolean @default(false)
+  
+  timeSpentMinutes Int @default(0)
+  
+  startedAt       DateTime?
+  completedAt     DateTime?
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([userId, chapterId])
+  @@index([userId])
+  @@index([status])
+  @@map("chapter_progress")
+}
+
+// 11. RESPUESTAS A PREGUNTAS REFLEXIVAS
+model ReflectionResponse {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  questionId      String
+  
+  textResponse    String?  @db.Text
+  audioUrl        String?
+  
+  isPrivate       Boolean  @default(true)
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([userId, questionId])
+  @@index([userId])
+  @@map("reflection_responses")
+}
+
+// 12. FLUJO DE ESTUDIO
+model StudyFlow {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  chapterId       String
+  chapter         Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  
+  order           String   @db.Text // JSON array del orden
+  
+  includeIntroduction Boolean @default(true)
+  includeReading      Boolean @default(true)
+  includeAnalysis     Boolean @default(true)
+  includeEtymology    Boolean @default(true)
+  includeConnections  Boolean @default(true)
+  includeReflection   Boolean @default(true)
+  
+  depthLevel      String   // "basic" | "intermediate" | "advanced"
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  @@unique([userId, chapterId])
+  @@index([userId])
+  @@index([chapterId])
+  @@map("study_flows")
+}
+
+// 13. SESIONES DE AUTENTICACIÓN
+model Session {
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  token         String   @unique
+  expires       DateTime
+  
+  createdAt     DateTime @default(now())
+  
+  @@index([userId])
+  @@index([token])
+  @@map("sessions")
+}
