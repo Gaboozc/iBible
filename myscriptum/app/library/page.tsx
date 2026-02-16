@@ -86,8 +86,8 @@ export default function LibraryPage() {
       <header className="sticky top-0 z-40 border-b" style={{ backgroundColor: palette.bg.header, borderColor: palette.accent.primary }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
-            <div className="flex items-center gap-2">
-              <Image src="/assets/img/logo.png" alt="MyScriptum" width={32} height={32} className="h-8 w-8" />
+            <div className="flex items-center gap-3">
+              <Image src="/assets/img/logo.png" alt="MyScriptum" width={48} height={48} className="h-12 w-12" />
               <span className="text-xl font-bold" style={{ color: palette.text.light }}>MyScriptum</span>
             </div>
             <nav className="flex items-center gap-3 text-sm">
