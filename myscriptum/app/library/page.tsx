@@ -2,16 +2,19 @@
 
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
-import { BookOpen, ChevronRight, Search, Library, Check } from 'lucide-react';
+import { BookOpen, ChevronRight, Search, Library, Check, Moon, Sun } from 'lucide-react';
 import { useEffect } from 'react';
 import type { BookEntry, TestamentEntry } from '@/data/bibleCatalog';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
+import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 
 const getChapterHref = (book: BookEntry, chapterNumber: number) => {
   return `/study/${book.slug}/${chapterNumber}`;
 };
 
 export default function LibraryPage() {
+  const { mode, toggleTheme } = useTheme();
+  const palette = getColors(mode);
   const [bibleCatalog, setBibleCatalog] = useState<TestamentEntry[]>([]);
   const [selectedTestamentId, setSelectedTestamentId] = useState('ot');
   const [selectedBookId, setSelectedBookId] = useState('');
@@ -68,25 +71,33 @@ export default function LibraryPage() {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 via-blue-50 to-slate-100">
-        <p className="text-slate-600">Cargando biblioteca...</p>
+      <div className="min-h-screen flex items-center justify-center" style={{ backgroundColor: palette.bg.primary }}>
+        <p style={{ color: palette.text.secondary }}>Cargando biblioteca...</p>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#F2E9D4' }}>
-      <header className="sticky top-0 z-40 border-b" style={{ backgroundColor: '#3D2644', borderColor: '#B08D57' }}>
+    <div style={{ backgroundColor: palette.bg.primary }}>
+      <header className="sticky top-0 z-40 border-b" style={{ backgroundColor: palette.bg.header, borderColor: palette.accent.primary }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
-              <BookOpen className="h-6 w-6" style={{ color: '#B08D57' }} />
-              <span className="text-xl font-bold" style={{ color: '#F2E9D4' }}>MyScriptum</span>
+              <BookOpen className="h-6 w-6" style={{ color: palette.accent.primary }} />
+              <span className="text-xl font-bold" style={{ color: palette.text.light }}>MyScriptum</span>
             </div>
             <nav className="flex items-center gap-4 text-sm">
-              <Link href="/progress" style={{ color: '#4A908F' }} className="hover:opacity-75 transition">Progreso</Link>
-              <Link href="/study" style={{ color: '#4A908F' }} className="hover:opacity-75 transition">Demo</Link>
-              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: '#B08D57', color: '#F2E9D4' }}>Entrar</Link>
+              <Link href="/progress" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">Progreso</Link>
+              <Link href="/study" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">Demo</Link>
+              <button
+                onClick={toggleTheme}
+                className="p-2 rounded-lg transition"
+                style={{ backgroundColor: palette.accent.secondary, color: palette.text.light }}
+                title={mode === 'light' ? 'Modo oscuro' : 'Modo claro'}
+              >
+                {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
+              </button>
+              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Entrar</Link>
             </nav>
           </div>
         </div>
@@ -95,19 +106,19 @@ export default function LibraryPage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-8">
         <section className="space-y-4">
           <div className="flex items-center gap-3">
-            <Library className="h-6 w-6" style={{ color: '#B08D57' }} />
-            <h1 className="text-3xl font-bold" style={{ color: '#3D2644' }}>Biblioteca Bíblica</h1>
+            <Library className="h-6 w-6" style={{ color: palette.accent.primary }} />
+            <h1 className="text-3xl font-bold" style={{ color: palette.text.secondary }}>Biblioteca Bíblica</h1>
           </div>
-          <p style={{ color: '#1A1A1A' }} className="max-w-2xl">
+          <p style={{ color: palette.text.primary }} className="max-w-2xl">
             Explora testamentos, libros y capítulos. Los capítulos disponibles están marcados para comenzar el estudio.
           </p>
         </section>
 
-        <section className="rounded-2xl shadow-lg border overflow-hidden" style={{ backgroundColor: '#FFFFFF', borderColor: '#B08D57' }}>
+        <section className="rounded-2xl shadow-lg border overflow-hidden" style={{ backgroundColor: palette.bg.secondary, borderColor: palette.accent.primary }}>
           <div className="grid lg:grid-cols-12 gap-0">
             {/* Column: Testaments */}
-            <div className="lg:col-span-3 border-b lg:border-b-0 lg:border-r p-6" style={{ borderColor: '#B08D57' }}>
-              <h2 className="text-sm uppercase tracking-wide font-semibold mb-4" style={{ color: '#3D2644' }}>Testamentos</h2>
+            <div className="lg:col-span-3 border-b lg:border-b-0 lg:border-r p-6" style={{ borderColor: palette.accent.primary, backgroundColor: palette.bg.secondary }}>
+              <h2 className="text-sm uppercase tracking-wide font-semibold mb-4" style={{ color: palette.text.secondary }}>Testamentos</h2>
               <div className="space-y-3">
                 {bibleCatalog.map((testament) => (
                   <button
@@ -118,9 +129,9 @@ export default function LibraryPage() {
                     }}
                     className="w-full text-left px-4 py-3 rounded-xl border transition-all"
                     style={{
-                      backgroundColor: selectedTestamentId === testament.id ? '#4A908F' : '#F2E9D4',
-                      borderColor: selectedTestamentId === testament.id ? '#B08D57' : '#B08D57',
-                      color: selectedTestamentId === testament.id ? '#F2E9D4' : '#3D2644',
+                      backgroundColor: selectedTestamentId === testament.id ? palette.accent.secondary : palette.bg.primary,
+                      borderColor: palette.accent.primary,
+                      color: selectedTestamentId === testament.id ? palette.text.light : palette.text.primary,
                     }}
                   >
                     <div className="font-semibold">{testament.name}</div>
@@ -131,21 +142,22 @@ export default function LibraryPage() {
             </div>
 
             {/* Column: Books */}
-            <div className="lg:col-span-5 border-b lg:border-b-0 lg:border-r p-6 space-y-4" style={{ borderColor: '#B08D57' }}>
+            <div className="lg:col-span-5 border-b lg:border-b-0 lg:border-r p-6 space-y-4" style={{ borderColor: palette.accent.primary, backgroundColor: palette.bg.secondary }}>
               <div className="flex items-center justify-between gap-3">
-                <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: '#3D2644' }}>Libros</h2>
+                <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>Libros</h2>
                 <div className="relative w-full max-w-xs">
-                  <Search className="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2" style={{ color: '#4A908F' }} />
+                  <Search className="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2" style={{ color: palette.accent.secondary }} />
                   <input
                     value={query}
                     onChange={(event) => setQuery(event.target.value)}
                     placeholder="Buscar libro..."
                     className="w-full pl-9 pr-3 py-2 border rounded-lg text-sm focus:outline-none"
                     style={{
-                      borderColor: '#B08D57',
-                      color: '#1A1A1A',
+                      borderColor: palette.accent.primary,
+                      color: palette.text.primary,
+                      backgroundColor: palette.bg.primary,
                     }}
-                    onFocus={(e) => e.currentTarget.style.outline = `2px solid #4A908F`}
+                    onFocus={(e) => e.currentTarget.style.outline = `2px solid ${palette.accent.secondary}`}
                   />
                 </div>
               </div>
@@ -157,9 +169,9 @@ export default function LibraryPage() {
                     onClick={() => setSelectedBookId(book.id)}
                     className="w-full text-left p-4 rounded-xl border transition-all"
                     style={{
-                      backgroundColor: selectedBook?.id === book.id ? '#4A908F' : '#F2E9D4',
-                      borderColor: '#B08D57',
-                      color: selectedBook?.id === book.id ? '#F2E9D4' : '#1A1A1A',
+                      backgroundColor: selectedBook?.id === book.id ? palette.accent.secondary : palette.bg.primary,
+                      borderColor: palette.accent.primary,
+                      color: selectedBook?.id === book.id ? palette.text.light : palette.text.primary,
                     }}
                   >
                     <div className="flex items-center justify-between">
@@ -173,25 +185,25 @@ export default function LibraryPage() {
                   </button>
                 ))}
                 {filteredBooks.length === 0 && (
-                  <div className="text-sm" style={{ color: '#3D2644' }}>No hay libros con ese nombre.</div>
+                  <div className="text-sm" style={{ color: palette.text.secondary }}>No hay libros con ese nombre.</div>
                 )}
               </div>
             </div>
 
             {/* Column: Chapters */}
-            <div className="lg:col-span-4 p-6">
+            <div className="lg:col-span-4 p-6" style={{ backgroundColor: palette.bg.secondary }}>
               <div className="flex items-center justify-between mb-4">
                 <div>
-                  <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: '#3D2644' }}>Capítulos</h2>
-                  <p className="text-xs opacity-75" style={{ color: '#3D2644' }}>{selectedBook?.name}</p>
+                  <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>Capítulos</h2>
+                  <p className="text-xs opacity-75" style={{ color: palette.text.secondary }}>{selectedBook?.name}</p>
                 </div>
-                <span className="text-xs opacity-75" style={{ color: '#3D2644' }}>{selectedBook?.chapters.length ?? 0} capítulos</span>
+                <span className="text-xs opacity-75" style={{ color: palette.text.secondary }}>{selectedBook?.chapters.length ?? 0} capítulos</span>
               </div>
 
               {!selectedBook ? (
-                <div className="text-sm" style={{ color: '#3D2644' }}>Selecciona un libro</div>
+                <div className="text-sm" style={{ color: palette.text.secondary }}>Selecciona un libro</div>
               ) : selectedBook.chapters.length === 0 ? (
-                <div className="text-sm" style={{ color: '#3D2644' }}>No hay capítulos cargados</div>
+                <div className="text-sm" style={{ color: palette.text.secondary }}>No hay capítulos cargados</div>
               ) : (
                 <div className="grid grid-cols-4 sm:grid-cols-6 gap-3">
                 {selectedBook?.chapters.map((chapter) => {
@@ -204,9 +216,9 @@ export default function LibraryPage() {
                         href={href}
                         className="flex items-center justify-center gap-1 px-3 py-2 rounded-lg border text-sm font-semibold transition"
                         style={{
-                          borderColor: '#B08D57',
-                          backgroundColor: isRead ? '#4A908F' : '#F2E9D4',
-                          color: isRead ? '#F2E9D4' : '#1A1A1A',
+                          borderColor: palette.accent.primary,
+                          backgroundColor: isRead ? palette.accent.secondary : palette.bg.primary,
+                          color: isRead ? palette.text.light : palette.text.primary,
                         }}
                         title="Ver capítulo"
                       >
@@ -219,10 +231,10 @@ export default function LibraryPage() {
                           toggleReadChapter(selectedBook, chapter.number);
                         }}
                         className="absolute -top-2 -right-2 opacity-0 group-hover:opacity-100 transition rounded-full p-1 hover:opacity-100"
-                        style={{ backgroundColor: '#B08D57' }}
+                        style={{ backgroundColor: palette.accent.primary }}
                         title={isRead ? 'Marcar no leído' : 'Marcar leído'}
                       >
-                        <Check className="h-3 w-3" style={{ color: '#F2E9D4' }} />
+                        <Check className="h-3 w-3" style={{ color: palette.text.light }} />
                       </button>
                     </div>
                   );
@@ -230,13 +242,13 @@ export default function LibraryPage() {
                 </div>
               )}
 
-              <div className="mt-6 rounded-lg p-4 text-sm border" style={{ backgroundColor: '#F2E9D4', borderColor: '#B08D57', color: '#1A1A1A' }}>
-                <p className="font-semibold mb-1" style={{ color: '#3D2644' }}>Estado de lectura</p>
+              <div className="mt-6 rounded-lg p-4 text-sm border" style={{ backgroundColor: palette.bg.primary, borderColor: palette.accent.primary, color: palette.text.primary }}>
+                <p className="font-semibold mb-1" style={{ color: palette.text.secondary }}>Estado de lectura</p>
                 <div className="flex items-center gap-2">
-                  <span className="inline-flex items-center gap-1" style={{ color: '#4A908F' }}>
+                  <span className="inline-flex items-center gap-1" style={{ color: palette.accent.secondary }}>
                     <Check className="h-4 w-4" /> Leído
                   </span>
-                  <span style={{ color: '#B08D57' }}>•</span>
+                  <span style={{ color: palette.accent.primary }}>•</span>
                   <span>No leído</span>
                 </div>
               </div>

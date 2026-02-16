@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
-import { BookOpen, ChevronLeft, Check } from 'lucide-react';
+import { BookOpen, ChevronLeft, Check, Moon, Sun } from 'lucide-react';
 import Link from 'next/link';
 import { StudyTabs } from '@/components/Study/StudyTabs';
 import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
@@ -27,10 +27,13 @@ import {
 } from '@/lib/bible/analysis-loader';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import type { BookEntry } from '@/data/bibleCatalog';
+import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 
 type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
 export default function StudyPageDynamic() {
+  const { mode, toggleTheme } = useTheme();
+  const palette = getColors(mode);
   const params = useParams();
   const [activeTab, setActiveTab] = useState<TabId>('context');
   const [version, setVersion] = useState<BibleVersion>('rv1909');
@@ -231,39 +234,49 @@ export default function StudyPageDynamic() {
   }
 
   return (
-    <div style={{ backgroundColor: '#F2E9D4' }} className="min-h-screen">
+    <div style={{ backgroundColor: palette.bg.primary }}>
       {/* Header */}
-      <header className="sticky top-0 z-50 border-b" style={{ backgroundColor: '#3D2644', borderColor: '#B08D57' }}>
+      <header className="sticky top-0 z-50 border-b" style={{ backgroundColor: palette.bg.header, borderColor: palette.accent.primary }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between gap-4">
             <Link
               href="/library"
               className="flex items-center gap-2 transition"
-              style={{ color: '#F2E9D4' }}
+              style={{ color: palette.text.light }}
             >
               <ChevronLeft className="h-5 w-5" />
               <span>Volver</span>
             </Link>
 
             <div className="flex-1 text-center">
-              <h1 className="text-2xl font-bold" style={{ color: '#F2E9D4' }}>
+              <h1 className="text-2xl font-bold" style={{ color: palette.text.light }}>
                 {book.name} {chapterNum}
               </h1>
-              <p className="text-sm opacity-75" style={{ color: '#F2E9D4' }}>{versionLabel}</p>
+              <p className="text-sm opacity-75" style={{ color: palette.text.light }}>{versionLabel}</p>
             </div>
 
-            <button
-              onClick={toggleReadChapter}
-              className="flex items-center gap-2 px-4 py-2 rounded-lg border transition"
-              style={{
-                borderColor: '#B08D57',
-                backgroundColor: isChapterRead ? '#4A908F' : 'transparent',
-                color: isChapterRead ? '#F2E9D4' : '#F2E9D4',
-              }}
-            >
-              {isChapterRead && <Check className="h-4 w-4" />}
-              <span className="text-sm font-medium">{isChapterRead ? 'Leído' : 'Marcar leído'}</span>
-            </button>
+            <div className="flex gap-2 items-center">
+              <button
+                onClick={toggleReadChapter}
+                className="flex items-center gap-2 px-4 py-2 rounded-lg border transition"
+                style={{
+                  borderColor: palette.accent.primary,
+                  backgroundColor: isChapterRead ? palette.accent.secondary : 'transparent',
+                  color: palette.text.light,
+                }}
+              >
+                {isChapterRead && <Check className="h-4 w-4" />}
+                <span className="text-sm font-medium">{isChapterRead ? 'Leído' : 'Marcar leído'}</span>
+              </button>
+              <button
+                onClick={toggleTheme}
+                className="p-2 rounded-lg transition"
+                style={{ backgroundColor: palette.accent.secondary, color: palette.text.light }}
+                title={mode === 'light' ? 'Modo oscuro' : 'Modo claro'}
+              >
+                {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
+              </button>
+            </div>
           </div>
 
           {/* Version Selector */}
@@ -272,9 +285,9 @@ export default function StudyPageDynamic() {
               onClick={() => setVersion('rv1909')}
               className="px-4 py-2 rounded-lg border transition"
               style={{
-                borderColor: '#B08D57',
-                backgroundColor: version === 'rv1909' ? '#4A908F' : 'transparent',
-                color: version === 'rv1909' ? '#F2E9D4' : '#B08D57',
+                borderColor: palette.accent.primary,
+                backgroundColor: version === 'rv1909' ? palette.accent.secondary : 'transparent',
+                color: version === 'rv1909' ? palette.text.light : palette.accent.primary,
               }}
             >
               RV1909
@@ -283,9 +296,9 @@ export default function StudyPageDynamic() {
               onClick={() => setVersion('kjv')}
               className="px-4 py-2 rounded-lg border transition"
               style={{
-                borderColor: '#B08D57',
-                backgroundColor: version === 'kjv' ? '#4A908F' : 'transparent',
-                color: version === 'kjv' ? '#F2E9D4' : '#B08D57',
+                borderColor: palette.accent.primary,
+                backgroundColor: version === 'kjv' ? palette.accent.secondary : 'transparent',
+                color: version === 'kjv' ? palette.text.light : palette.accent.primary,
               }}
             >
               KJV
@@ -296,7 +309,7 @@ export default function StudyPageDynamic() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="rounded-lg shadow-lg overflow-hidden" style={{ backgroundColor: '#FFFFFF', borderTop: `4px solid #B08D57` }}>
+        <div className="rounded-lg shadow-lg overflow-hidden" style={{ backgroundColor: palette.bg.secondary, borderTop: `4px solid ${palette.accent.primary}` }}>
           <StudyTabs activeTab={activeTab} onTabChange={setActiveTab} />
           
           {/* Tab Content - FUERA del StudyTabs */}
@@ -306,12 +319,12 @@ export default function StudyPageDynamic() {
 
           <div className={activeTab === 'text' ? 'p-6' : 'hidden'}>
             {isLoadingText ? (
-              <div className="py-12 text-center" style={{ color: '#3D2644' }}>
+              <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
                 <p className="text-lg font-semibold">Cargando capítulo...</p>
                 <p className="text-sm mt-2">Versión: {version} | Libro: {bookSlug} | Capítulo: {chapterNum}</p>
               </div>
             ) : textVerses.length === 0 ? (
-              <div className="py-12 text-center" style={{ color: '#3D2644' }}>
+              <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
                 <p className="text-lg font-semibold">Sin contenido</p>
                 <p className="text-sm mt-2">No hay versículos disponibles para este capítulo</p>
               </div>
