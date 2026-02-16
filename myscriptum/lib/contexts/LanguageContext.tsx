@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useEffect, useState } from 'react';
+import React, { createContext, useContext, useState } from 'react';
 
 export type Language = 'es' | 'en';
 export type BibleVersion = 'rv1909' | 'kjv';
@@ -92,50 +92,43 @@ const translations = {
     'theme.darkMode': 'Dark Mode',
     'theme.lightMode': 'Light Mode',
   },
-};
+} as const;
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [language, setLanguage] = useState<Language>('es');
-  const [bibleVersion, setBibleVersionState] = useState<BibleVersion>('rv1909');
-  const [mounted, setMounted] = useState(false);
-
-  // Load preferences from localStorage on mount
-  useEffect(() => {
-    const savedLanguage = (localStorage.getItem('language') as Language) || 'es';
-    const savedVersion = (localStorage.getItem('bibleVersion') as BibleVersion) || 'rv1909';
-    
-    setLanguage(savedLanguage);
-    setBibleVersionState(savedVersion);
-    setMounted(true);
-  }, []);
+  const [state, setState] = useState(() => {
+    const savedLanguage = (typeof window !== 'undefined' ? localStorage.getItem('language') : null) as Language | null;
+    const savedVersion = (typeof window !== 'undefined' ? localStorage.getItem('bibleVersion') : null) as BibleVersion | null;
+    return {
+      language: savedLanguage || 'es',
+      bibleVersion: savedVersion || 'rv1909',
+      mounted: true,
+    };
+  });
 
   const setBibleVersion = (version: BibleVersion) => {
-    setBibleVersionState(version);
-    localStorage.setItem('bibleVersion', version);
-    
-    // Auto-switch language based on version
     const newLanguage = version === 'rv1909' ? 'es' : 'en';
-    setLanguage(newLanguage);
+    setState((prev) => ({ ...prev, bibleVersion: version, language: newLanguage }));
+    localStorage.setItem('bibleVersion', version);
     localStorage.setItem('language', newLanguage);
   };
 
   const t = (key: string): string => {
     const keys = key.split('.');
-    let value: any = translations[language];
+    let value: Record<string, string> | string = translations[state.language];
     
     for (const k of keys) {
-      value = value?.[k];
+      if (typeof value === 'object' && k in value) {
+        value = value[k as keyof typeof value] as string;
+      } else {
+        return key;
+      }
     }
     
-    return value || key;
+    return typeof value === 'string' ? value : key;
   };
 
-  if (!mounted) {
-    return <>{children}</>;
-  }
-
   return (
-    <LanguageContext.Provider value={{ language, bibleVersion, setBibleVersion, t }}>
+    <LanguageContext.Provider value={{ language: state.language, bibleVersion: state.bibleVersion, setBibleVersion, t }}>
       {children}
     </LanguageContext.Provider>
   );

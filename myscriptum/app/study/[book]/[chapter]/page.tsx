@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
-import { BookOpen, ChevronLeft, Check, Moon, Sun } from 'lucide-react';
+import { ChevronLeft, Check, Moon, Sun } from 'lucide-react';
 import Link from 'next/link';
 import { StudyTabs } from '@/components/Study/StudyTabs';
 import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
@@ -52,7 +52,6 @@ export default function StudyPageDynamic() {
   const [etymologyWords, setEtymologyWords] = useState<KeyWord[] | null>(null);
   const [connectionsList, setConnectionsList] = useState<Connection[] | null>(null);
   const [questionsList, setQuestionsList] = useState<ReflectionQuestion[] | null>(null);
-  const [isLoadingAnalysis, setIsLoadingAnalysis] = useState(false);
 
   const chapterNum = params?.chapter ? parseInt(params.chapter as string, 10) : 0;
   const bookSlug = params?.book ? (params.book as string) : '';
@@ -135,7 +134,6 @@ export default function StudyPageDynamic() {
   // Load analysis data (context, analysis, etymology, connections, questions)
   useEffect(() => {
     const loadAnalysisData = async () => {
-      setIsLoadingAnalysis(true);
       console.log('📚 Loading analysis data for:', { bookSlug, chapterNum });
       
       const [analysis, context, etymology, connections, questions] = await Promise.all([
@@ -151,7 +149,6 @@ export default function StudyPageDynamic() {
       setEtymologyWords(etymology);
       setConnectionsList(connections);
       setQuestionsList(questions);
-      setIsLoadingAnalysis(false);
       
       console.log('✅ All analysis data loaded:', {
         analysisLoaded: !!analysis,
@@ -190,7 +187,7 @@ export default function StudyPageDynamic() {
       number: verse.number,
       text: verse.text,
       textOriginal: typeof maybeTextOriginal === 'string' ? maybeTextOriginal : undefined,
-      analysis: maybeAnalysis,
+      analysis: typeof maybeAnalysis === 'string' ? maybeAnalysis : '',
     };
   });
 
