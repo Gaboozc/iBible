@@ -17,11 +17,11 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className="antialiased">
-        <LanguageProvider>
-          <ThemeProvider>
+        <ThemeProvider>
+          <LanguageProvider>
             {children}
-          </ThemeProvider>
-        </LanguageProvider>
+          </LanguageProvider>
+        </ThemeProvider>
       </body>
     </html>
   );
