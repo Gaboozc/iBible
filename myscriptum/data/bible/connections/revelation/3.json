@@ -1,0 +1,14 @@
+[
+  {
+    "type": "thematic",
+    "reference": "Referencias temáticas en la Biblia",
+    "title": "Tema Central del Capítulo",
+    "description": "Este capítulo conecta con el tema general del libro de revelation."
+  },
+  {
+    "type": "historical",
+    "reference": "revelation 3",
+    "title": "Conexión Histórica",
+    "description": "Este pasaje se sitúa en un momento clave de la historia bíblica."
+  }
+]

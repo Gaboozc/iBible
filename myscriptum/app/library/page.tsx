@@ -75,18 +75,18 @@ export default function LibraryPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-slate-100">
-      <header className="bg-white/80 backdrop-blur border-b border-slate-200 sticky top-0 z-40">
+    <div className="min-h-screen" style={{ backgroundColor: '#F2E9D4' }}>
+      <header className="sticky top-0 z-40 border-b" style={{ backgroundColor: '#3D2644', borderColor: '#B08D57' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
-              <BookOpen className="h-6 w-6 text-blue-600" />
-              <span className="text-xl font-bold text-slate-900">MyScriptum</span>
+              <BookOpen className="h-6 w-6" style={{ color: '#B08D57' }} />
+              <span className="text-xl font-bold" style={{ color: '#F2E9D4' }}>MyScriptum</span>
             </div>
-            <nav className="flex items-center gap-4 text-sm text-slate-600">
-              <Link href="/progress" className="hover:text-blue-600">Progreso</Link>
-              <Link href="/study" className="hover:text-blue-600">Demo</Link>
-              <Link href="/login" className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">Entrar</Link>
+            <nav className="flex items-center gap-4 text-sm">
+              <Link href="/progress" style={{ color: '#4A908F' }} className="hover:opacity-75 transition">Progreso</Link>
+              <Link href="/study" style={{ color: '#4A908F' }} className="hover:opacity-75 transition">Demo</Link>
+              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: '#B08D57', color: '#F2E9D4' }}>Entrar</Link>
             </nav>
           </div>
         </div>
@@ -95,19 +95,19 @@ export default function LibraryPage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-8">
         <section className="space-y-4">
           <div className="flex items-center gap-3">
-            <Library className="h-6 w-6 text-blue-600" />
-            <h1 className="text-3xl font-bold text-slate-900">Biblioteca Biblica</h1>
+            <Library className="h-6 w-6" style={{ color: '#B08D57' }} />
+            <h1 className="text-3xl font-bold" style={{ color: '#3D2644' }}>Biblioteca Bíblica</h1>
           </div>
-          <p className="text-slate-600 max-w-2xl">
-            Explora testamentos, libros y capitulos. Los capitulos disponibles estan marcados para comenzar el estudio.
+          <p style={{ color: '#1A1A1A' }} className="max-w-2xl">
+            Explora testamentos, libros y capítulos. Los capítulos disponibles están marcados para comenzar el estudio.
           </p>
         </section>
 
-        <section className="bg-white rounded-2xl shadow-lg border border-slate-200 overflow-hidden">
+        <section className="rounded-2xl shadow-lg border overflow-hidden" style={{ backgroundColor: '#FFFFFF', borderColor: '#B08D57' }}>
           <div className="grid lg:grid-cols-12 gap-0">
             {/* Column: Testaments */}
-            <div className="lg:col-span-3 border-b lg:border-b-0 lg:border-r border-slate-200 p-6">
-              <h2 className="text-sm uppercase tracking-wide text-slate-500 font-semibold mb-4">Testamentos</h2>
+            <div className="lg:col-span-3 border-b lg:border-b-0 lg:border-r p-6" style={{ borderColor: '#B08D57' }}>
+              <h2 className="text-sm uppercase tracking-wide font-semibold mb-4" style={{ color: '#3D2644' }}>Testamentos</h2>
               <div className="space-y-3">
                 {bibleCatalog.map((testament) => (
                   <button
@@ -116,30 +116,36 @@ export default function LibraryPage() {
                       setSelectedTestamentId(testament.id);
                       setSelectedBookId(testament.books[0]?.id ?? '');
                     }}
-                    className={`w-full text-left px-4 py-3 rounded-xl border transition-all ${
-                      selectedTestamentId === testament.id
-                        ? 'border-blue-500 bg-blue-50 text-blue-700'
-                        : 'border-slate-200 hover:border-blue-300 hover:bg-slate-50'
-                    }`}
+                    className="w-full text-left px-4 py-3 rounded-xl border transition-all"
+                    style={{
+                      backgroundColor: selectedTestamentId === testament.id ? '#4A908F' : '#F2E9D4',
+                      borderColor: selectedTestamentId === testament.id ? '#B08D57' : '#B08D57',
+                      color: selectedTestamentId === testament.id ? '#F2E9D4' : '#3D2644',
+                    }}
                   >
                     <div className="font-semibold">{testament.name}</div>
-                    <div className="text-xs text-slate-500">{testament.books.length} libros</div>
+                    <div className="text-xs opacity-75">{testament.books.length} libros</div>
                   </button>
                 ))}
               </div>
             </div>
 
             {/* Column: Books */}
-            <div className="lg:col-span-5 border-b lg:border-b-0 lg:border-r border-slate-200 p-6 space-y-4">
+            <div className="lg:col-span-5 border-b lg:border-b-0 lg:border-r p-6 space-y-4" style={{ borderColor: '#B08D57' }}>
               <div className="flex items-center justify-between gap-3">
-                <h2 className="text-sm uppercase tracking-wide text-slate-500 font-semibold">Libros</h2>
+                <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: '#3D2644' }}>Libros</h2>
                 <div className="relative w-full max-w-xs">
-                  <Search className="h-4 w-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                  <Search className="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2" style={{ color: '#4A908F' }} />
                   <input
                     value={query}
                     onChange={(event) => setQuery(event.target.value)}
                     placeholder="Buscar libro..."
-                    className="w-full pl-9 pr-3 py-2 border border-slate-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full pl-9 pr-3 py-2 border rounded-lg text-sm focus:outline-none"
+                    style={{
+                      borderColor: '#B08D57',
+                      color: '#1A1A1A',
+                    }}
+                    onFocus={(e) => e.currentTarget.style.outline = `2px solid #4A908F`}
                   />
                 </div>
               </div>
@@ -149,24 +155,25 @@ export default function LibraryPage() {
                   <button
                     key={book.id}
                     onClick={() => setSelectedBookId(book.id)}
-                    className={`w-full text-left p-4 rounded-xl border transition-all ${
-                      selectedBook?.id === book.id
-                        ? 'border-blue-500 bg-blue-50'
-                        : 'border-slate-200 hover:border-blue-300 hover:bg-slate-50'
-                    }`}
+                    className="w-full text-left p-4 rounded-xl border transition-all"
+                    style={{
+                      backgroundColor: selectedBook?.id === book.id ? '#4A908F' : '#F2E9D4',
+                      borderColor: '#B08D57',
+                      color: selectedBook?.id === book.id ? '#F2E9D4' : '#1A1A1A',
+                    }}
                   >
                     <div className="flex items-center justify-between">
                       <div>
-                        <div className="text-lg font-semibold text-slate-900">{book.name}</div>
-                        <div className="text-xs text-slate-500">{book.abbreviation}</div>
+                        <div className="text-lg font-semibold">{book.name}</div>
+                        <div className="text-xs opacity-75">{book.abbreviation}</div>
                       </div>
-                      <ChevronRight className="h-4 w-4 text-slate-400" />
+                      <ChevronRight className="h-4 w-4 opacity-75" />
                     </div>
-                    <p className="text-sm text-slate-600 mt-2">{book.description}</p>
+                    <p className="text-sm opacity-75 mt-2">{book.description}</p>
                   </button>
                 ))}
                 {filteredBooks.length === 0 && (
-                  <div className="text-sm text-slate-500">No hay libros con ese nombre.</div>
+                  <div className="text-sm" style={{ color: '#3D2644' }}>No hay libros con ese nombre.</div>
                 )}
               </div>
             </div>
@@ -175,16 +182,16 @@ export default function LibraryPage() {
             <div className="lg:col-span-4 p-6">
               <div className="flex items-center justify-between mb-4">
                 <div>
-                  <h2 className="text-sm uppercase tracking-wide text-slate-500 font-semibold">Capitulos</h2>
-                  <p className="text-xs text-slate-500">{selectedBook?.name}</p>
+                  <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: '#3D2644' }}>Capítulos</h2>
+                  <p className="text-xs opacity-75" style={{ color: '#3D2644' }}>{selectedBook?.name}</p>
                 </div>
-                <span className="text-xs text-slate-500">{selectedBook?.chapters.length ?? 0} capitulos</span>
+                <span className="text-xs opacity-75" style={{ color: '#3D2644' }}>{selectedBook?.chapters.length ?? 0} capítulos</span>
               </div>
 
               {!selectedBook ? (
-                <div className="text-sm text-slate-500">Selecciona un libro</div>
+                <div className="text-sm" style={{ color: '#3D2644' }}>Selecciona un libro</div>
               ) : selectedBook.chapters.length === 0 ? (
-                <div className="text-sm text-slate-500">No hay capítulos cargados</div>
+                <div className="text-sm" style={{ color: '#3D2644' }}>No hay capítulos cargados</div>
               ) : (
                 <div className="grid grid-cols-4 sm:grid-cols-6 gap-3">
                 {selectedBook?.chapters.map((chapter) => {
@@ -195,11 +202,12 @@ export default function LibraryPage() {
                     <div key={chapter.number} className="relative group">
                       <Link
                         href={href}
-                        className={`flex items-center justify-center gap-1 px-3 py-2 rounded-lg border text-sm font-semibold transition ${
-                          isRead
-                            ? 'border-blue-300 bg-blue-50 text-blue-700 hover:bg-blue-100'
-                            : 'border-slate-200 bg-white text-slate-700 hover:border-slate-300 hover:bg-slate-50'
-                        }`}
+                        className="flex items-center justify-center gap-1 px-3 py-2 rounded-lg border text-sm font-semibold transition"
+                        style={{
+                          borderColor: '#B08D57',
+                          backgroundColor: isRead ? '#4A908F' : '#F2E9D4',
+                          color: isRead ? '#F2E9D4' : '#1A1A1A',
+                        }}
                         title="Ver capítulo"
                       >
                         <span>{chapter.number}</span>
@@ -210,10 +218,11 @@ export default function LibraryPage() {
                           e.preventDefault();
                           toggleReadChapter(selectedBook, chapter.number);
                         }}
-                        className="absolute -top-2 -right-2 opacity-0 group-hover:opacity-100 transition bg-blue-500 text-white rounded-full p-1 hover:bg-blue-600"
+                        className="absolute -top-2 -right-2 opacity-0 group-hover:opacity-100 transition rounded-full p-1 hover:opacity-100"
+                        style={{ backgroundColor: '#B08D57' }}
                         title={isRead ? 'Marcar no leído' : 'Marcar leído'}
                       >
-                        <Check className="h-3 w-3" />
+                        <Check className="h-3 w-3" style={{ color: '#F2E9D4' }} />
                       </button>
                     </div>
                   );
@@ -221,14 +230,14 @@ export default function LibraryPage() {
                 </div>
               )}
 
-              <div className="mt-6 bg-slate-50 border border-slate-200 rounded-lg p-4 text-sm text-slate-600">
-                <p className="font-semibold text-slate-900 mb-1">Estado de lectura</p>
+              <div className="mt-6 rounded-lg p-4 text-sm border" style={{ backgroundColor: '#F2E9D4', borderColor: '#B08D57', color: '#1A1A1A' }}>
+                <p className="font-semibold mb-1" style={{ color: '#3D2644' }}>Estado de lectura</p>
                 <div className="flex items-center gap-2">
-                  <span className="inline-flex items-center gap-1 text-blue-700">
+                  <span className="inline-flex items-center gap-1" style={{ color: '#4A908F' }}>
                     <Check className="h-4 w-4" /> Leído
                   </span>
-                  <span className="text-slate-400">•</span>
-                  <span className="text-slate-500">No leído</span>
+                  <span style={{ color: '#B08D57' }}>•</span>
+                  <span>No leído</span>
                 </div>
               </div>
             </div>

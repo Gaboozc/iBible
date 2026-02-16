@@ -1,0 +1,27 @@
+[
+  {
+    "stage": "observation",
+    "question": "¿Cuáles son los personajes, lugares y eventos principales en luke 6?",
+    "guidance": "Lee cuidadosamente el texto y anota: ¿Quiénes hablan? ¿Dónde ocurre? ¿Qué acciones suceden? No interpretes aún, solo observa."
+  },
+  {
+    "stage": "observation",
+    "question": "¿Qué palabras o frases se repiten en este capítulo?",
+    "guidance": "Busca patrones lingüísticos que el autor enfatiza. Las repeticiones indican importancia teológica."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Cuál es el mensaje central o propósito de luke 6?",
+    "guidance": "Considera el contexto del libro entero. ¿Cómo se relaciona este capítulo con los capítulos anteriores y posteriores?"
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Qué nos enseña este capítulo sobre la naturaleza de Dios?",
+    "guidance": "Busca atributos divinos revelados: poder, amor, justicia, misericordia, etc."
+  },
+  {
+    "stage": "application",
+    "question": "¿Cómo puedo aplicar las enseñanzas de luke 6 a mi vida hoy?",
+    "guidance": "Busca verdades prácticas que cambien tu forma de pensar, sentir o actuar."
+  }
+]

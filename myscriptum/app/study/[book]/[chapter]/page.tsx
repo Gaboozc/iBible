@@ -231,33 +231,35 @@ export default function StudyPageDynamic() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-slate-900 to-slate-950">
+    <div style={{ backgroundColor: '#F2E9D4' }} className="min-h-screen">
       {/* Header */}
-      <header className="sticky top-0 z-50 bg-slate-900/80 backdrop-blur-md border-b border-slate-700/50">
+      <header className="sticky top-0 z-50 border-b" style={{ backgroundColor: '#3D2644', borderColor: '#B08D57' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between gap-4">
             <Link
               href="/library"
-              className="flex items-center gap-2 text-slate-300 hover:text-white transition"
+              className="flex items-center gap-2 transition"
+              style={{ color: '#F2E9D4' }}
             >
               <ChevronLeft className="h-5 w-5" />
               <span>Volver</span>
             </Link>
 
             <div className="flex-1 text-center">
-              <h1 className="text-2xl font-bold text-white">
+              <h1 className="text-2xl font-bold" style={{ color: '#F2E9D4' }}>
                 {book.name} {chapterNum}
               </h1>
-              <p className="text-sm text-slate-400">{versionLabel}</p>
+              <p className="text-sm opacity-75" style={{ color: '#F2E9D4' }}>{versionLabel}</p>
             </div>
 
             <button
               onClick={toggleReadChapter}
-              className={`flex items-center gap-2 px-4 py-2 rounded-lg border transition ${
-                isChapterRead
-                  ? 'border-blue-400 bg-blue-500/20 text-blue-200 hover:bg-blue-500/30'
-                  : 'border-slate-600 bg-slate-800 text-slate-300 hover:border-slate-500 hover:bg-slate-700'
-              }`}
+              className="flex items-center gap-2 px-4 py-2 rounded-lg border transition"
+              style={{
+                borderColor: '#B08D57',
+                backgroundColor: isChapterRead ? '#4A908F' : 'transparent',
+                color: isChapterRead ? '#F2E9D4' : '#F2E9D4',
+              }}
             >
               {isChapterRead && <Check className="h-4 w-4" />}
               <span className="text-sm font-medium">{isChapterRead ? 'Leído' : 'Marcar leído'}</span>
@@ -268,21 +270,23 @@ export default function StudyPageDynamic() {
           <div className="flex gap-2 mt-4 justify-center">
             <button
               onClick={() => setVersion('rv1909')}
-              className={`px-4 py-2 rounded-lg border transition ${
-                version === 'rv1909'
-                  ? 'border-blue-400 bg-blue-500/20 text-blue-200'
-                  : 'border-slate-600 text-slate-400 hover:border-slate-500'
-              }`}
+              className="px-4 py-2 rounded-lg border transition"
+              style={{
+                borderColor: '#B08D57',
+                backgroundColor: version === 'rv1909' ? '#4A908F' : 'transparent',
+                color: version === 'rv1909' ? '#F2E9D4' : '#B08D57',
+              }}
             >
               RV1909
             </button>
             <button
               onClick={() => setVersion('kjv')}
-              className={`px-4 py-2 rounded-lg border transition ${
-                version === 'kjv'
-                  ? 'border-blue-400 bg-blue-500/20 text-blue-200'
-                  : 'border-slate-600 text-slate-400 hover:border-slate-500'
-              }`}
+              className="px-4 py-2 rounded-lg border transition"
+              style={{
+                borderColor: '#B08D57',
+                backgroundColor: version === 'kjv' ? '#4A908F' : 'transparent',
+                color: version === 'kjv' ? '#F2E9D4' : '#B08D57',
+              }}
             >
               KJV
             </button>
@@ -292,7 +296,7 @@ export default function StudyPageDynamic() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+        <div className="rounded-lg shadow-lg overflow-hidden" style={{ backgroundColor: '#FFFFFF', borderTop: `4px solid #B08D57` }}>
           <StudyTabs activeTab={activeTab} onTabChange={setActiveTab} />
           
           {/* Tab Content - FUERA del StudyTabs */}
@@ -302,12 +306,12 @@ export default function StudyPageDynamic() {
 
           <div className={activeTab === 'text' ? 'p-6' : 'hidden'}>
             {isLoadingText ? (
-              <div className="py-12 text-center text-slate-600">
+              <div className="py-12 text-center" style={{ color: '#3D2644' }}>
                 <p className="text-lg font-semibold">Cargando capítulo...</p>
                 <p className="text-sm mt-2">Versión: {version} | Libro: {bookSlug} | Capítulo: {chapterNum}</p>
               </div>
             ) : textVerses.length === 0 ? (
-              <div className="py-12 text-center text-slate-600">
+              <div className="py-12 text-center" style={{ color: '#3D2644' }}>
                 <p className="text-lg font-semibold">Sin contenido</p>
                 <p className="text-sm mt-2">No hay versículos disponibles para este capítulo</p>
               </div>
