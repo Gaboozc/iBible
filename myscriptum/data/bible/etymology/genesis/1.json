@@ -1,0 +1,67 @@
+[
+  {
+    "hebrew": "בָּרָא (bara)",
+    "english": "to create, to form",
+    "literalMeaning": "to form or shape from nothing",
+    "primaryMeaning": "Crear algo completamente nuevo, generalmente de la nada sin material preexistente",
+    "theologicalMeaning": "Un acto exclusivo de Dios en la Biblia. Solo Dios 'bara'. Es el verbo usado para crear el cielo y la tierra, los animales grandes, y especialmente a la humanidad. Enfatiza la soberanía divina y la creación ex nihilo.",
+    "root": "Raíz desconocida (posiblemente onomatopéyica, relacionada con 'cortar' o 'separar')",
+    "cognates": ["bariah (creatura)", "buriah (creación)"],
+    "semanticEvolution": "En hebreo antiguo, el término enfatiza la creación de lo completamente nuevo y único, en contraste con 'asah (hacer) que puede referirse a moldear cosas ya existentes.",
+    "relatedWords": ["asah (hacer)", "yatsar (formar)", "banah (construir)"],
+    "keyAppearances": ["Génesis 1:1, 1:21, 1:27, 2:3"],
+    "biblicalFrequency": 48
+  },
+  {
+    "hebrew": "שָׁמַיִם (shamayim)",
+    "english": "heavens, sky",
+    "literalMeaning": "lo que está 'alto' o 'elevado'",
+    "primaryMeaning": "Las regiones elevadas del universo; la atmósfera y el espacio más allá",
+    "theologicalMeaning": "En la cosmología bíblica, los 'shamayim' son los cielos donde Dios reside. Representa tanto lo físico (la atmósfera) como lo espiritual (el reino de Dios). Es el dominio de Dios.",
+    "root": "Posiblemente de 'shama' (extender, distender) o 'sham' (allá)",
+    "cognates": ["shamash (servir)", "shemesh (sol)"],
+    "semanticEvolution": "En el pensamiento hebreo, los 'shamayim' pueden referirse a: (1) la atmósfera, (2) el espacio cósmico, (3) el reino espiritual donde Dios mora. El contexto determina el significado.",
+    "relatedWords": ["aretz (tierra)", "raqia (firmamento)", "ruach (espíritu)"],
+    "keyAppearances": ["Génesis 1:1, 1:6-8, 1:14-17, Salmos 19:1"],
+    "biblicalFrequency": 421
+  },
+  {
+    "hebrew": "אֱלֹהִים (Elohim)",
+    "english": "God, gods (plural)",
+    "literalMeaning": "poderes poderosos, autoridades supremas",
+    "primaryMeaning": "La divinidad; en contexto monoteísta, el único Dios verdadero de Israel",
+    "theologicalMeaning": "Aunque es gramaticalmente plural, en el contexto de Génesis 1 (con verbo singular 'bara') representa la plenitud de Dios. Algunos estudiosos ven aquí una alusión a la Doctrina de la Trinidad (aunque eso es una lectura posterior). Emphasiza el poder, autoridad y divinidad de Dios.",
+    "root": "Posiblemente de 'El' (fuerza, poder) o relacionado con 'alah' (ser fuerte)",
+    "cognates": ["El (singular de Dios)", "eloah (variante singular)"],
+    "semanticEvolution": "El hebreo usa la forma plural 'Elohim' para singularidad suprema - la plenitud del poder divino. Esto contrasta con otros dioses (elohim falsos) en textos politeístas.",
+    "relatedWords": ["YHWH (el nombre personal de Dios)", "El Shadday (Dios Todopoderoso)"],
+    "keyAppearances": ["Génesis 1:1, aparece 35 veces en Génesis 1 solamente"],
+    "biblicalFrequency": 2602
+  },
+  {
+    "hebrew": "טוֹב (tov)",
+    "english": "good",
+    "literalMeaning": "conveniente, apropiado, beneficioso",
+    "primaryMeaning": "Lo que es bueno, hermoso, funcional, moralmente correcto",
+    "theologicalMeaning": "En Génesis 1, la evaluación repetida de 'tov' (bueno) enfatiza que la creación es buena - no mala, no accidental, no producto de un demiurgo maligno. Esto es revolucionario contra las cosmovisiones gnósticas que ven la materia como mala.",
+    "root": "Raíz desconocida con certeza, posiblemente onomatopéyica",
+    "cognates": ["tavah (quebrar)", "toviah (bondad)"],
+    "semanticEvolution": "Lo 'tov' puede ser: (1) físicamente bueno (comida, vista), (2) moralmente bueno (justicia), (3) funcionalmente bueno (útil, efectivo). Génesis 1 enfatiza la bondad de la creación material.",
+    "relatedWords": ["ra (malo)", "yashar (recto)", "tzaddik (justo)"],
+    "keyAppearances": ["Génesis 1:4, 1:10, 1:12, 1:18, 1:21, 1:25, 1:31"],
+    "biblicalFrequency": 559
+  },
+  {
+    "hebrew": "דִּמְיוּת / צֶלֶם (tselem, dimyut)",
+    "english": "image, likeness",
+    "literalMeaning": "forma visual, semejanza, representación",
+    "primaryMeaning": "Una representación o semejanza; un reflejo o copia de algo",
+    "theologicalMeaning": "Ser creado 'betselem Elohim' (a imagen de Dios) es un concepto fundamental. Se debate si esto significa: (1) semejanza física, (2) semejanza moral/espiritual, (3) autoridad/dominio delegado. La mayoría de estudiosos cree que es una combinación - capacidad racional, moral y delegación de autoridad.",
+    "root": "Tselem posiblemente de 'tsal' (sombra); dimyut de 'damah' (parecer, ser similar)",
+    "cognates": ["demut (semejanza)", "tzilum (sombra)"],
+    "semanticEvolution": "En textos antiguos del cercano oriente, los ídolos eran llamados 'tselem' - representaciones de dioses. Pero en Génesis, los SERES HUMANOS son el 'tselem' de Dios - una inversión radical. El ser humano IS la representación viva de Dios en la tierra.",
+    "relatedWords": ["dominio (radad - gobernar)", "creación (bara)"],
+    "keyAppearances": ["Génesis 1:26-27, Génesis 9:6, Colosenses 3:10"],
+    "biblicalFrequency": 43
+  }
+]

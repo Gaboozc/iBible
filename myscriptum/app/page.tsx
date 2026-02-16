@@ -1,4 +1,5 @@
-import { BookOpen, Globe, History, Brain, MessageCircle } from "lucide-react";
+import { BookOpen, Globe, History, Brain, MessageCircle, ArrowRight } from "lucide-react";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -12,9 +13,9 @@ export default function Home() {
           </div>
           <nav className="flex items-center gap-6">
             <button className="text-slate-600 hover:text-slate-900">ES</button>
-            <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+            <Link href="/login" className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
               Comenzar
-            </button>
+            </Link>
           </nav>
         </div>
       </header>
@@ -30,12 +31,13 @@ export default function Home() {
           Formación bíblica seria para estudiantes comprometidos.
         </p>
         <div className="flex gap-4 justify-center">
-          <button className="px-8 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors">
+          <Link href="/library" className="px-8 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors inline-flex items-center gap-2">
             Explorar Biblioteca
-          </button>
-          <button className="px-8 py-3 border-2 border-slate-300 text-slate-700 rounded-lg font-medium hover:border-slate-400 hover:bg-white transition-colors">
+            <ArrowRight className="h-4 w-4" />
+          </Link>
+          <Link href="/study" className="px-8 py-3 border-2 border-slate-300 text-slate-700 rounded-lg font-medium hover:border-slate-400 hover:bg-white transition-colors">
             Ver Demo
-          </button>
+          </Link>
         </div>
       </section>
 
@@ -134,9 +136,9 @@ export default function Home() {
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             100% gratis. Acceso completo a Ezequiel, Jonás y más.
           </p>
-          <button className="px-8 py-3 bg-white text-blue-600 rounded-lg font-medium hover:bg-blue-50 transition-colors">
+          <Link href="/login" className="px-8 py-3 bg-white text-blue-600 rounded-lg font-medium hover:bg-blue-50 transition-colors inline-block">
             Crear cuenta gratuita
-          </button>
+          </Link>
         </div>
       </section>
 

@@ -1,0 +1,31 @@
+{
+  "version": "rv1909",
+  "book": "salmos",
+  "chapter": 23,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Salmo de David. JEHOVÁ es mi pastor; nada me faltará."
+    },
+    {
+      "number": 2,
+      "text": "En lugares de delicados pastos me hará yacer: junto á aguas de reposo me pastoreará."
+    },
+    {
+      "number": 3,
+      "text": "Confortará mi alma; guiaráme por sendas de justicia por amor de su nombre."
+    },
+    {
+      "number": 4,
+      "text": "Aunque ande en valle de sombra de muerte, no temeré mal alguno; porque tú estarás conmigo: tu vara y tu cayado me infundirán aliento."
+    },
+    {
+      "number": 5,
+      "text": "Aderezarás mesa delante de mí, en presencia de mis angustiadores: ungiste mi cabeza con aceite: mi copa está rebosando."
+    },
+    {
+      "number": 6,
+      "text": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida: y en la casa de Jehová moraré por largos días."
+    }
+  ]
+}
