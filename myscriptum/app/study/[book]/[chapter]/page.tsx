@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import { ChevronLeft, Check, Moon, Sun } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { StudyTabs } from '@/components/Study/StudyTabs';
 import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
 import { TextTab } from '@/components/Study/TextTab';
@@ -260,6 +261,32 @@ export default function StudyPageDynamic() {
             </div>
 
             <div className="flex gap-2 items-center">
+              {/* Language buttons */}
+              <div className="flex gap-1 border-r pr-3" style={{ borderColor: palette.accent.primary }}>
+                <button
+                  onClick={() => setBibleVersion('rv1909')}
+                  className="px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
+                  style={{
+                    borderColor: palette.accent.primary,
+                    backgroundColor: bibleVersion === 'rv1909' ? palette.accent.secondary : 'transparent',
+                    color: bibleVersion === 'rv1909' ? palette.text.light : palette.accent.primary,
+                  }}
+                >
+                  Español
+                </button>
+                <button
+                  onClick={() => setBibleVersion('kjv')}
+                  className="px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
+                  style={{
+                    borderColor: palette.accent.primary,
+                    backgroundColor: bibleVersion === 'kjv' ? palette.accent.secondary : 'transparent',
+                    color: bibleVersion === 'kjv' ? palette.text.light : palette.accent.primary,
+                  }}
+                >
+                  English
+                </button>
+              </div>
+              
               <button
                 onClick={toggleReadChapter}
                 className="flex items-center gap-2 px-4 py-2 rounded-lg border transition"
@@ -281,32 +308,6 @@ export default function StudyPageDynamic() {
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
             </div>
-          </div>
-
-          {/* Version Selector */}
-          <div className="flex gap-2 mt-4 justify-center">
-            <button
-              onClick={() => setBibleVersion('rv1909')}
-              className="px-4 py-2 rounded-lg border transition"
-              style={{
-                borderColor: palette.accent.primary,
-                backgroundColor: bibleVersion === 'rv1909' ? palette.accent.secondary : 'transparent',
-                color: bibleVersion === 'rv1909' ? palette.text.light : palette.accent.primary,
-              }}
-            >
-              {t('study.version.rv1909')}
-            </button>
-            <button
-              onClick={() => setBibleVersion('kjv')}
-              className="px-4 py-2 rounded-lg border transition"
-              style={{
-                borderColor: palette.accent.primary,
-                backgroundColor: bibleVersion === 'kjv' ? palette.accent.secondary : 'transparent',
-                color: bibleVersion === 'kjv' ? palette.text.light : palette.accent.primary,
-              }}
-            >
-              {t('study.version.kjv')}
-            </button>
           </div>
         </div>
       </header>

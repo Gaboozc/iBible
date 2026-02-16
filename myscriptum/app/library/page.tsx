@@ -1,13 +1,15 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useMemo, useState } from 'react';
-import { BookOpen, ChevronRight, Search, Library, Check, Moon, Sun } from 'lucide-react';
+import { ChevronRight, Search, Library, Check, Moon, Sun } from 'lucide-react';
 import { useEffect } from 'react';
 import type { BookEntry, TestamentEntry } from '@/data/bibleCatalog';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
+import { BibleVersion } from '@/lib/contexts/LanguageContext';
 
 const getChapterHref = (book: BookEntry, chapterNumber: number) => {
   return `/study/${book.slug}/${chapterNumber}`;
@@ -15,7 +17,7 @@ const getChapterHref = (book: BookEntry, chapterNumber: number) => {
 
 export default function LibraryPage() {
   const { mode, toggleTheme } = useTheme();
-  const { t } = useLanguage();
+  const { t, bibleVersion, setBibleVersion } = useLanguage();
   const palette = getColors(mode);
   const [bibleCatalog, setBibleCatalog] = useState<TestamentEntry[]>([]);
   const [selectedTestamentId, setSelectedTestamentId] = useState('ot');
@@ -85,12 +87,41 @@ export default function LibraryPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
-              <BookOpen className="h-6 w-6" style={{ color: palette.accent.primary }} />
+              <Image src="/assets/img/logo.png" alt="MyScriptum" width={32} height={32} className="h-8 w-8" />
               <span className="text-xl font-bold" style={{ color: palette.text.light }}>MyScriptum</span>
             </div>
-            <nav className="flex items-center gap-4 text-sm">
+            <nav className="flex items-center gap-3 text-sm">
               <Link href="/progress" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.progress')}</Link>
               <Link href="/study" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.demo')}</Link>
+              
+              {/* Language/Version selector */}
+              <div className="flex gap-2 border-l pl-3" style={{ borderColor: palette.accent.primary }}>
+                <button
+                  onClick={() => setBibleVersion('rv1909')}
+                  className="px-3 py-1 rounded-lg transition text-xs font-medium"
+                  style={{
+                    backgroundColor: bibleVersion === 'rv1909' ? palette.accent.secondary : 'transparent',
+                    color: bibleVersion === 'rv1909' ? palette.text.light : palette.accent.secondary,
+                    borderColor: palette.accent.primary,
+                    border: '1px solid',
+                  }}
+                >
+                  Español
+                </button>
+                <button
+                  onClick={() => setBibleVersion('kjv')}
+                  className="px-3 py-1 rounded-lg transition text-xs font-medium"
+                  style={{
+                    backgroundColor: bibleVersion === 'kjv' ? palette.accent.secondary : 'transparent',
+                    color: bibleVersion === 'kjv' ? palette.text.light : palette.accent.secondary,
+                    borderColor: palette.accent.primary,
+                    border: '1px solid',
+                  }}
+                >
+                  English
+                </button>
+              </div>
+              
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-lg transition"
