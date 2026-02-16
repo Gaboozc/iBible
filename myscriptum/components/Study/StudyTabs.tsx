@@ -2,6 +2,7 @@
 
 import { BookOpen, Zap, Brain, Link2, MessageSquare, FileText } from 'lucide-react';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
+import { useLanguage } from '@/lib/contexts/LanguageContext';
 
 type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
@@ -13,38 +14,39 @@ interface TabsProps {
 const tabs = [
   {
     id: 'context' as TabId,
-    label: 'Contexto',
+    labelKey: 'tab.context',
     icon: BookOpen,
   },
   {
     id: 'text' as TabId,
-    label: 'Texto',
+    labelKey: 'tab.text',
     icon: FileText,
   },
   {
     id: 'analysis' as TabId,
-    label: 'Análisis',
+    labelKey: 'tab.analysis',
     icon: Brain,
   },
   {
     id: 'etymology' as TabId,
-    label: 'Etimología',
+    labelKey: 'tab.etymology',
     icon: Zap,
   },
   {
     id: 'connections' as TabId,
-    label: 'Conexiones',
+    labelKey: 'tab.connections',
     icon: Link2,
   },
   {
     id: 'questions' as TabId,
-    label: 'Reflexión',
+    labelKey: 'tab.reflection',
     icon: MessageSquare,
   },
 ];
 
 export function StudyTabs({ activeTab, onTabChange }: TabsProps) {
   const { mode } = useTheme();
+  const { t } = useLanguage();
   const palette = getColors(mode);
 
   return (
@@ -66,7 +68,7 @@ export function StudyTabs({ activeTab, onTabChange }: TabsProps) {
                 }}
               >
                 <Icon className="h-4 w-4" />
-                <span className="hidden sm:inline">{tab.label}</span>
+                <span className="hidden sm:inline">{t(tab.labelKey)}</span>
               </button>
             );
           })}
