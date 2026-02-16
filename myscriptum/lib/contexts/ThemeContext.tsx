@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useEffect, useState } from 'react';
+import React, { createContext, useContext, useState } from 'react';
 
 export type ThemeMode = 'light' | 'dark';
 
@@ -12,33 +12,23 @@ interface ThemeContextType {
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  const [mode, setMode] = useState<ThemeMode>('light');
-  const [mounted, setMounted] = useState(false);
-
-  // Load theme from localStorage on mount
-  useEffect(() => {
+  const [mode, setMode] = useState<ThemeMode>(() => {
+    if (typeof window === 'undefined') return 'light';
     const saved = localStorage.getItem('theme') as ThemeMode | null;
-    if (saved) {
-      setMode(saved);
-    } else {
-      // Check system preference
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      setMode(prefersDark ? 'dark' : 'light');
-    }
-    setMounted(true);
-  }, []);
+    if (saved) return saved;
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    return prefersDark ? 'dark' : 'light';
+  });
 
   const toggleTheme = () => {
     setMode((prev) => {
       const newMode = prev === 'light' ? 'dark' : 'light';
-      localStorage.setItem('theme', newMode);
+      if (typeof window !== 'undefined') {
+        localStorage.setItem('theme', newMode);
+      }
       return newMode;
     });
   };
-
-  if (!mounted) {
-    return <>{children}</>;
-  }
 
   return (
     <ThemeContext.Provider value={{ mode, toggleTheme }}>
