@@ -28,11 +28,13 @@ import {
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import type { BookEntry } from '@/data/bibleCatalog';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
+import { useLanguage } from '@/lib/contexts/LanguageContext';
 
 type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
 export default function StudyPageDynamic() {
   const { mode, toggleTheme } = useTheme();
+  const { bibleVersion, setBibleVersion, t } = useLanguage();
   const palette = getColors(mode);
   const params = useParams();
   const [activeTab, setActiveTab] = useState<TabId>('context');
@@ -54,6 +56,11 @@ export default function StudyPageDynamic() {
 
   const chapterNum = params?.chapter ? parseInt(params.chapter as string, 10) : 0;
   const bookSlug = params?.book ? (params.book as string) : '';
+
+  // Sync local version state with bibleVersion from context
+  useEffect(() => {
+    setVersion(bibleVersion);
+  }, [bibleVersion]);
 
   // Load book metadata and read status from localStorage
   useEffect(() => {
@@ -107,8 +114,8 @@ export default function StudyPageDynamic() {
 
     const loadText = async () => {
       setIsLoadingText(true);
-      console.log('🔄 Loading text for:', { version, bookSlug, chapterNum });
-      const data = await loadChapterText(version, bookSlug, chapterNum);
+      console.log('🔄 Loading text for:', { version: bibleVersion, bookSlug, chapterNum });
+      const data = await loadChapterText(bibleVersion, bookSlug, chapterNum);
       console.log('✅ Text loaded:', { data });
       if (isActive) {
         setChapterText(data);
@@ -123,7 +130,7 @@ export default function StudyPageDynamic() {
     return () => {
       isActive = false;
     };
-  }, [version, bookSlug, chapterNum, isLoading]);
+  }, [bibleVersion, bookSlug, chapterNum, isLoading]);
 
   // Load analysis data (context, analysis, etymology, connections, questions)
   useEffect(() => {
@@ -209,7 +216,7 @@ export default function StudyPageDynamic() {
   if (isLoading) {
     return (
       <div className="min-h-screen bg-gradient-to-b from-slate-900 to-slate-950 flex items-center justify-center">
-        <div className="text-slate-300">Cargando capítulo...</div>
+        <div className="text-slate-300">{t('study.loading')}</div>
       </div>
     );
   }
@@ -245,7 +252,7 @@ export default function StudyPageDynamic() {
               style={{ color: palette.text.light }}
             >
               <ChevronLeft className="h-5 w-5" />
-              <span>Volver</span>
+              <span>{t('study.back')}</span>
             </Link>
 
             <div className="flex-1 text-center">
@@ -266,13 +273,13 @@ export default function StudyPageDynamic() {
                 }}
               >
                 {isChapterRead && <Check className="h-4 w-4" />}
-                <span className="text-sm font-medium">{isChapterRead ? 'Leído' : 'Marcar leído'}</span>
+                <span className="text-sm font-medium">{isChapterRead ? t('library.read') : t('study.markRead')}</span>
               </button>
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-lg transition"
                 style={{ backgroundColor: palette.accent.secondary, color: palette.text.light }}
-                title={mode === 'light' ? 'Modo oscuro' : 'Modo claro'}
+                title={mode === 'light' ? t('theme.darkMode') : t('theme.lightMode')}
               >
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
@@ -282,26 +289,26 @@ export default function StudyPageDynamic() {
           {/* Version Selector */}
           <div className="flex gap-2 mt-4 justify-center">
             <button
-              onClick={() => setVersion('rv1909')}
+              onClick={() => setBibleVersion('rv1909')}
               className="px-4 py-2 rounded-lg border transition"
               style={{
                 borderColor: palette.accent.primary,
-                backgroundColor: version === 'rv1909' ? palette.accent.secondary : 'transparent',
-                color: version === 'rv1909' ? palette.text.light : palette.accent.primary,
+                backgroundColor: bibleVersion === 'rv1909' ? palette.accent.secondary : 'transparent',
+                color: bibleVersion === 'rv1909' ? palette.text.light : palette.accent.primary,
               }}
             >
-              RV1909
+              {t('study.version.rv1909')}
             </button>
             <button
-              onClick={() => setVersion('kjv')}
+              onClick={() => setBibleVersion('kjv')}
               className="px-4 py-2 rounded-lg border transition"
               style={{
                 borderColor: palette.accent.primary,
-                backgroundColor: version === 'kjv' ? palette.accent.secondary : 'transparent',
-                color: version === 'kjv' ? palette.text.light : palette.accent.primary,
+                backgroundColor: bibleVersion === 'kjv' ? palette.accent.secondary : 'transparent',
+                color: bibleVersion === 'kjv' ? palette.text.light : palette.accent.primary,
               }}
             >
-              KJV
+              {t('study.version.kjv')}
             </button>
           </div>
         </div>
@@ -320,7 +327,7 @@ export default function StudyPageDynamic() {
           <div className={activeTab === 'text' ? 'p-6' : 'hidden'}>
             {isLoadingText ? (
               <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
-                <p className="text-lg font-semibold">Cargando capítulo...</p>
+                <p className="text-lg font-semibold">{t('study.loading')}</p>
                 <p className="text-sm mt-2">Versión: {version} | Libro: {bookSlug} | Capítulo: {chapterNum}</p>
               </div>
             ) : textVerses.length === 0 ? (

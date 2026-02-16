@@ -7,6 +7,7 @@ import { useEffect } from 'react';
 import type { BookEntry, TestamentEntry } from '@/data/bibleCatalog';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
+import { useLanguage } from '@/lib/contexts/LanguageContext';
 
 const getChapterHref = (book: BookEntry, chapterNumber: number) => {
   return `/study/${book.slug}/${chapterNumber}`;
@@ -14,6 +15,7 @@ const getChapterHref = (book: BookEntry, chapterNumber: number) => {
 
 export default function LibraryPage() {
   const { mode, toggleTheme } = useTheme();
+  const { t } = useLanguage();
   const palette = getColors(mode);
   const [bibleCatalog, setBibleCatalog] = useState<TestamentEntry[]>([]);
   const [selectedTestamentId, setSelectedTestamentId] = useState('ot');
@@ -72,7 +74,7 @@ export default function LibraryPage() {
   if (isLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ backgroundColor: palette.bg.primary }}>
-        <p style={{ color: palette.text.secondary }}>Cargando biblioteca...</p>
+        <p style={{ color: palette.text.secondary }}>{t('library.subtitle')}</p>
       </div>
     );
   }
@@ -87,17 +89,17 @@ export default function LibraryPage() {
               <span className="text-xl font-bold" style={{ color: palette.text.light }}>MyScriptum</span>
             </div>
             <nav className="flex items-center gap-4 text-sm">
-              <Link href="/progress" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">Progreso</Link>
-              <Link href="/study" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">Demo</Link>
+              <Link href="/progress" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.progress')}</Link>
+              <Link href="/study" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.demo')}</Link>
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-lg transition"
                 style={{ backgroundColor: palette.accent.secondary, color: palette.text.light }}
-                title={mode === 'light' ? 'Modo oscuro' : 'Modo claro'}
+                title={mode === 'light' ? t('theme.darkMode') : t('theme.lightMode')}
               >
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
-              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Entrar</Link>
+              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>{t('nav.login')}</Link>
             </nav>
           </div>
         </div>
@@ -107,10 +109,10 @@ export default function LibraryPage() {
         <section className="space-y-4">
           <div className="flex items-center gap-3">
             <Library className="h-6 w-6" style={{ color: palette.accent.primary }} />
-            <h1 className="text-3xl font-bold" style={{ color: palette.text.secondary }}>Biblioteca Bíblica</h1>
+            <h1 className="text-3xl font-bold" style={{ color: palette.text.secondary }}>{t('library.title')}</h1>
           </div>
           <p style={{ color: palette.text.primary }} className="max-w-2xl">
-            Explora testamentos, libros y capítulos. Los capítulos disponibles están marcados para comenzar el estudio.
+            {t('library.subtitle')}
           </p>
         </section>
 
@@ -118,7 +120,7 @@ export default function LibraryPage() {
           <div className="grid lg:grid-cols-12 gap-0">
             {/* Column: Testaments */}
             <div className="lg:col-span-3 border-b lg:border-b-0 lg:border-r p-6" style={{ borderColor: palette.accent.primary, backgroundColor: palette.bg.secondary }}>
-              <h2 className="text-sm uppercase tracking-wide font-semibold mb-4" style={{ color: palette.text.secondary }}>Testamentos</h2>
+              <h2 className="text-sm uppercase tracking-wide font-semibold mb-4" style={{ color: palette.text.secondary }}>{t('library.testaments')}</h2>
               <div className="space-y-3">
                 {bibleCatalog.map((testament) => (
                   <button
@@ -144,13 +146,13 @@ export default function LibraryPage() {
             {/* Column: Books */}
             <div className="lg:col-span-5 border-b lg:border-b-0 lg:border-r p-6 space-y-4" style={{ borderColor: palette.accent.primary, backgroundColor: palette.bg.secondary }}>
               <div className="flex items-center justify-between gap-3">
-                <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>Libros</h2>
+                <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>{t('library.books')}</h2>
                 <div className="relative w-full max-w-xs">
                   <Search className="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2" style={{ color: palette.accent.secondary }} />
                   <input
                     value={query}
                     onChange={(event) => setQuery(event.target.value)}
-                    placeholder="Buscar libro..."
+                    placeholder={t('library.search')}
                     className="w-full pl-9 pr-3 py-2 border rounded-lg text-sm focus:outline-none"
                     style={{
                       borderColor: palette.accent.primary,
@@ -185,7 +187,7 @@ export default function LibraryPage() {
                   </button>
                 ))}
                 {filteredBooks.length === 0 && (
-                  <div className="text-sm" style={{ color: palette.text.secondary }}>No hay libros con ese nombre.</div>
+                  <div className="text-sm" style={{ color: palette.text.secondary }}>{t('library.noResults')}</div>
                 )}
               </div>
             </div>
@@ -194,14 +196,14 @@ export default function LibraryPage() {
             <div className="lg:col-span-4 p-6" style={{ backgroundColor: palette.bg.secondary }}>
               <div className="flex items-center justify-between mb-4">
                 <div>
-                  <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>Capítulos</h2>
+                  <h2 className="text-sm uppercase tracking-wide font-semibold" style={{ color: palette.text.secondary }}>{t('library.chapters')}</h2>
                   <p className="text-xs opacity-75" style={{ color: palette.text.secondary }}>{selectedBook?.name}</p>
                 </div>
                 <span className="text-xs opacity-75" style={{ color: palette.text.secondary }}>{selectedBook?.chapters.length ?? 0} capítulos</span>
               </div>
 
               {!selectedBook ? (
-                <div className="text-sm" style={{ color: palette.text.secondary }}>Selecciona un libro</div>
+                <div className="text-sm" style={{ color: palette.text.secondary }}>{t('library.selectBook')}</div>
               ) : selectedBook.chapters.length === 0 ? (
                 <div className="text-sm" style={{ color: palette.text.secondary }}>No hay capítulos cargados</div>
               ) : (
@@ -243,13 +245,13 @@ export default function LibraryPage() {
               )}
 
               <div className="mt-6 rounded-lg p-4 text-sm border" style={{ backgroundColor: palette.bg.primary, borderColor: palette.accent.primary, color: palette.text.primary }}>
-                <p className="font-semibold mb-1" style={{ color: palette.text.secondary }}>Estado de lectura</p>
+                <p className="font-semibold mb-1" style={{ color: palette.text.secondary }}>{t('library.readingStatus')}</p>
                 <div className="flex items-center gap-2">
                   <span className="inline-flex items-center gap-1" style={{ color: palette.accent.secondary }}>
-                    <Check className="h-4 w-4" /> Leído
+                    <Check className="h-4 w-4" /> {t('library.read')}
                   </span>
                   <span style={{ color: palette.accent.primary }}>•</span>
-                  <span>No leído</span>
+                  <span>{t('library.unread')}</span>
                 </div>
               </div>
             </div>

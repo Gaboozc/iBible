@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { ThemeProvider } from "@/lib/contexts/ThemeContext";
+import { LanguageProvider } from "@/lib/contexts/LanguageContext";
 
 export const metadata: Metadata = {
   title: "MyScriptum — Estudia la Biblia con Contexto Histórico",
@@ -16,9 +17,11 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className="antialiased">
-        <ThemeProvider>
-          {children}
-        </ThemeProvider>
+        <LanguageProvider>
+          <ThemeProvider>
+            {children}
+          </ThemeProvider>
+        </LanguageProvider>
       </body>
     </html>
   );
