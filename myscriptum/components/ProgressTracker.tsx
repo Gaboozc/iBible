@@ -1,118 +1,164 @@
 'use client';
 
-import { CheckCircle2, Circle, Clock } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { BookOpen, Target, TrendingUp, Flame } from 'lucide-react';
 
-interface TaskItem {
-  id: number;
-  title: string;
-  status: 'completed' | 'in-progress' | 'not-started';
+interface ReadingProgress {
+  chaptersRead: number;
+  booksStarted: number;
+  versiclesRead: number;
+  totalProgress: number;
+  oldTestamentProgress: number;
+  newTestamentProgress: number;
 }
 
-const tasks: TaskItem[] = [
-  { id: 1, title: 'Crear pantalla de login/registro', status: 'completed' },
-  { id: 2, title: 'Crear layout de estudio con tabs', status: 'in-progress' },
-  { id: 3, title: 'Implementar dato mock Ezequiel 1', status: 'not-started' },
-  { id: 4, title: 'Tab Contexto Histórico', status: 'not-started' },
-  { id: 5, title: 'Tab Texto Bíblico versículos', status: 'not-started' },
-  { id: 6, title: 'Tab Análisis Estructural', status: 'not-started' },
-  { id: 7, title: 'Tab Etimología palabras clave', status: 'not-started' },
-  { id: 8, title: 'Tab Conexiones Bíblicas', status: 'not-started' },
-  { id: 9, title: 'Tab Preguntas Reflexivas', status: 'not-started' },
-  { id: 10, title: 'Biblioteca navegación Testamentos', status: 'not-started' },
-];
+const totalChapters = {
+  oldTestament: 929,
+  newTestament: 260,
+  total: 1189,
+};
 
 export function ProgressTracker() {
-  const completed = tasks.filter((t) => t.status === 'completed').length;
-  const inProgress = tasks.filter((t) => t.status === 'in-progress').length;
-  const percentage = Math.round((completed / tasks.length) * 100);
+  const [progress, setProgress] = useState<ReadingProgress>({
+    chaptersRead: 0,
+    booksStarted: 0,
+    versiclesRead: 0,
+    totalProgress: 0,
+    oldTestamentProgress: 0,
+    newTestamentProgress: 0,
+  });
+
+  useEffect(() => {
+    // Simulación: Los datos reales vendrían de la lectura del usuario
+    // Por ahora mostramos un progreso inicial
+    const stored = localStorage.getItem('readingProgress');
+    if (stored) {
+      setProgress(JSON.parse(stored));
+    } else {
+      // Progreso inicial para demostración
+      const initialProgress: ReadingProgress = {
+        chaptersRead: 23,
+        booksStarted: 5,
+        versiclesRead: 312,
+        totalProgress: Math.round((23 / totalChapters.total) * 100),
+        oldTestamentProgress: Math.round((18 / totalChapters.oldTestament) * 100),
+        newTestamentProgress: Math.round((5 / totalChapters.newTestament) * 100),
+      };
+      setProgress(initialProgress);
+      localStorage.setItem('readingProgress', JSON.stringify(initialProgress));
+    }
+  }, []);
+
+  const updateProgress = (book: string, chapter: number) => {
+    const newProgress = {
+      ...progress,
+      chaptersRead: progress.chaptersRead + 1,
+      versiclesRead: progress.versiclesRead + Math.random() * 30 | 0,
+      totalProgress: Math.round(((progress.chaptersRead + 1) / totalChapters.total) * 100),
+    };
+    setProgress(newProgress);
+    localStorage.setItem('readingProgress', JSON.stringify(newProgress));
+  };
 
   return (
-    <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6 space-y-6">
-      <div>
-        <h2 className="text-2xl font-bold text-slate-900 mb-2">📊 Progreso del Desarrollo</h2>
-        <p className="text-slate-600">MyScriptum - Tracker de tareas</p>
+    <div className="bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl shadow-sm border border-slate-200 p-6 space-y-6">
+      <div className="space-y-2">
+        <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-2">
+          <BookOpen className="h-8 w-8 text-blue-600" />
+          Mi Progreso de Lectura
+        </h2>
+        <p className="text-slate-600">Biblia Reina Valera 1909 (KJV)</p>
       </div>
 
-      {/* Barra de progreso */}
+      {/* Barra de progreso general */}
       <div className="space-y-2">
         <div className="flex items-center justify-between">
-          <span className="text-sm font-medium text-slate-700">Completado</span>
-          <span className="text-sm font-bold text-blue-600">{percentage}%</span>
+          <span className="text-sm font-medium text-slate-700">Progreso Total</span>
+          <span className="text-lg font-bold text-blue-600">{progress.totalProgress}%</span>
         </div>
-        <div className="w-full bg-slate-200 rounded-full h-3 overflow-hidden">
+        <div className="w-full bg-slate-300 rounded-full h-4 overflow-hidden shadow-inner">
           <div
-            className="bg-gradient-to-r from-blue-500 to-blue-600 h-full transition-all duration-500"
-            style={{ width: `${percentage}%` }}
+            className="bg-gradient-to-r from-blue-500 to-blue-700 h-full transition-all duration-500 shadow-lg"
+            style={{ width: `${progress.totalProgress}%` }}
           ></div>
         </div>
-        <div className="text-xs text-slate-600">
-          {completed} de {tasks.length} tareas completadas
+        <div className="text-sm text-slate-600">
+          <strong>{progress.chaptersRead}</strong> de {totalChapters.total} capítulos leídos
         </div>
       </div>
 
-      {/* Estadísticas */}
-      <div className="grid grid-cols-3 gap-4">
-        <div className="bg-green-50 p-4 rounded-lg border border-green-200">
-          <div className="text-2xl font-bold text-green-600">{completed}</div>
-          <div className="text-xs text-green-700 font-medium">Completadas</div>
-        </div>
-        <div className="bg-amber-50 p-4 rounded-lg border border-amber-200">
-          <div className="text-2xl font-bold text-amber-600">{inProgress}</div>
-          <div className="text-xs text-amber-700 font-medium">En Progreso</div>
-        </div>
-        <div className="bg-slate-50 p-4 rounded-lg border border-slate-200">
-          <div className="text-2xl font-bold text-slate-600">{tasks.length - completed - inProgress}</div>
-          <div className="text-xs text-slate-700 font-medium">Por Hacer</div>
-        </div>
-      </div>
-
-      {/* Lista de tareas */}
-      <div className="space-y-3 max-h-96 overflow-y-auto">
-        <h3 className="font-semibold text-slate-900">Tareas en el Sprint:</h3>
-        {tasks.map((task) => (
-          <div
-            key={task.id}
-            className={`flex items-start gap-3 p-3 rounded-lg border ${
-              task.status === 'completed'
-                ? 'bg-green-50 border-green-200'
-                : task.status === 'in-progress'
-                  ? 'bg-amber-50 border-amber-200'
-                  : 'bg-slate-50 border-slate-200'
-            }`}
-          >
-            {task.status === 'completed' ? (
-              <CheckCircle2 className="h-5 w-5 text-green-600 flex-shrink-0 mt-0.5" />
-            ) : task.status === 'in-progress' ? (
-              <Clock className="h-5 w-5 text-amber-600 flex-shrink-0 mt-0.5 animate-spin" />
-            ) : (
-              <Circle className="h-5 w-5 text-slate-400 flex-shrink-0 mt-0.5" />
-            )}
-            <div className="flex-1">
-              <p
-                className={`text-sm font-medium ${
-                  task.status === 'completed'
-                    ? 'text-green-900 line-through'
-                    : 'text-slate-900'
-                }`}
-              >
-                {task.id}. {task.title}
-              </p>
-              <p className="text-xs text-slate-600 mt-1">
-                {task.status === 'completed'
-                  ? '✅ Completada'
-                  : task.status === 'in-progress'
-                    ? '⏳ En ejecución'
-                    : '⭕ Pendiente'}
-              </p>
-            </div>
+      {/* Estadísticas principales */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
+          <div className="flex items-center gap-2 mb-1">
+            <BookOpen className="h-5 w-5 text-blue-600" />
+            <span className="text-3xl font-bold text-blue-600">{progress.chaptersRead}</span>
           </div>
-        ))}
+          <div className="text-xs font-medium text-slate-600">Capítulos Leídos</div>
+        </div>
+
+        <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
+          <div className="flex items-center gap-2 mb-1">
+            <Target className="h-5 w-5 text-amber-600" />
+            <span className="text-3xl font-bold text-amber-600">{progress.booksStarted}</span>
+          </div>
+          <div className="text-xs font-medium text-slate-600">Libros Iniciados</div>
+        </div>
+
+        <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
+          <div className="flex items-center gap-2 mb-1">
+            <TrendingUp className="h-5 w-5 text-green-600" />
+            <span className="text-3xl font-bold text-green-600">{progress.versiclesRead}</span>
+          </div>
+          <div className="text-xs font-medium text-slate-600">Versículos Leídos</div>
+        </div>
+
+        <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
+          <div className="flex items-center gap-2 mb-1">
+            <Flame className="h-5 w-5 text-red-600" />
+            <span className="text-3xl font-bold text-red-600">12</span>
+          </div>
+          <div className="text-xs font-medium text-slate-600">Días Activo</div>
+        </div>
       </div>
 
-      {/* Footer */}
-      <div className="pt-4 border-t border-slate-200">
-        <p className="text-xs text-slate-600">
-          <strong>Nota:</strong> Todo el desarrollo es frontend por ahora. Backend y Supabase vienen después.
+      {/* Progreso por Testamento */}
+      <div className="space-y-4">
+        <h3 className="font-semibold text-slate-900">Progreso por Testamento</h3>
+
+        <div className="space-y-2">
+          <div className="flex items-center justify-between">
+            <span className="text-sm font-medium text-slate-700">Antiguo Testamento</span>
+            <span className="text-sm font-bold text-purple-600">{progress.oldTestamentProgress}%</span>
+          </div>
+          <div className="w-full bg-slate-300 rounded-full h-3 overflow-hidden">
+            <div
+              className="bg-gradient-to-r from-purple-500 to-purple-600 h-full transition-all duration-500"
+              style={{ width: `${progress.oldTestamentProgress}%` }}
+            ></div>
+          </div>
+          <div className="text-xs text-slate-600">18 de {totalChapters.oldTestament} capítulos</div>
+        </div>
+
+        <div className="space-y-2">
+          <div className="flex items-center justify-between">
+            <span className="text-sm font-medium text-slate-700">Nuevo Testamento</span>
+            <span className="text-sm font-bold text-emerald-600">{progress.newTestamentProgress}%</span>
+          </div>
+          <div className="w-full bg-slate-300 rounded-full h-3 overflow-hidden">
+            <div
+              className="bg-gradient-to-r from-emerald-500 to-emerald-600 h-full transition-all duration-500"
+              style={{ width: `${progress.newTestamentProgress}%` }}
+            ></div>
+          </div>
+          <div className="text-xs text-slate-600">5 de {totalChapters.newTestament} capítulos</div>
+        </div>
+      </div>
+
+      {/* Meta y motivación */}
+      <div className="bg-blue-50 border border-blue-200 p-4 rounded-lg">
+        <p className="text-sm text-blue-900 font-medium">
+          🎯 <strong>¡Felicidades!</strong> Has iniciado tu viaje a través de la Biblia. Supera {totalChapters.total - progress.chaptersRead} capítulos más para completar la lectura completa.
         </p>
       </div>
     </div>
