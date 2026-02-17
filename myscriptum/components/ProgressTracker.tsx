@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { BookOpen, Target, TrendingUp, Flame } from 'lucide-react';
 
 interface ReadingProgress {
@@ -19,46 +19,14 @@ const totalChapters = {
 };
 
 export function ProgressTracker() {
-  const [progress, setProgress] = useState<ReadingProgress>({
-    chaptersRead: 0,
-    booksStarted: 0,
-    versiclesRead: 0,
-    totalProgress: 0,
-    oldTestamentProgress: 0,
-    newTestamentProgress: 0,
+  const [progress] = useState<ReadingProgress>({
+    chaptersRead: 23,
+    booksStarted: 5,
+    versiclesRead: 312,
+    totalProgress: Math.round((23 / totalChapters.total) * 100),
+    oldTestamentProgress: Math.round((18 / totalChapters.oldTestament) * 100),
+    newTestamentProgress: Math.round((5 / totalChapters.newTestament) * 100),
   });
-
-  useEffect(() => {
-    // Simulación: Los datos reales vendrían de la lectura del usuario
-    // Por ahora mostramos un progreso inicial
-    const stored = localStorage.getItem('readingProgress');
-    if (stored) {
-      setProgress(JSON.parse(stored));
-    } else {
-      // Progreso inicial para demostración
-      const initialProgress: ReadingProgress = {
-        chaptersRead: 23,
-        booksStarted: 5,
-        versiclesRead: 312,
-        totalProgress: Math.round((23 / totalChapters.total) * 100),
-        oldTestamentProgress: Math.round((18 / totalChapters.oldTestament) * 100),
-        newTestamentProgress: Math.round((5 / totalChapters.newTestament) * 100),
-      };
-      setProgress(initialProgress);
-      localStorage.setItem('readingProgress', JSON.stringify(initialProgress));
-    }
-  }, []);
-
-  const updateProgress = (book: string, chapter: number) => {
-    const newProgress = {
-      ...progress,
-      chaptersRead: progress.chaptersRead + 1,
-      versiclesRead: progress.versiclesRead + Math.random() * 30 | 0,
-      totalProgress: Math.round(((progress.chaptersRead + 1) / totalChapters.total) * 100),
-    };
-    setProgress(newProgress);
-    localStorage.setItem('readingProgress', JSON.stringify(newProgress));
-  };
 
   return (
     <div className="bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl shadow-sm border border-slate-200 p-6 space-y-6">
