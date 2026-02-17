@@ -78,7 +78,7 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder="Busca una palabra: kavod, logos, ruach..."
-            className="w-full pl-9 pr-3 py-2 border rounded-lg text-sm focus:outline-none"
+            className="w-full pl-9 pr-3 py-2 border border-slate-300 rounded-lg text-sm text-slate-900 placeholder-slate-500 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
           />
         </div>
 
