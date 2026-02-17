@@ -338,6 +338,17 @@ export default function StudyPageDynamic() {
               >
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
+              <Link
+                href="/progress"
+                className="px-4 py-2 rounded-lg border transition font-medium text-sm"
+                style={{
+                  borderColor: palette.accent.primary,
+                  backgroundColor: 'transparent',
+                  color: palette.accent.primary,
+                }}
+              >
+                Progreso
+              </Link>
             </div>
           </div>
         </div>

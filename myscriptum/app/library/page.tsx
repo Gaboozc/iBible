@@ -123,7 +123,8 @@ export default function LibraryPage() {
               >
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
-              <Link href="/home" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Inicio</Link>
+              <Link href="/progress" className="px-4 py-2 rounded-lg transition-colors font-medium" style={{ backgroundColor: palette.accent.secondary, color: palette.bg.primary }}>Progreso</Link>
+              <Link href="/home" className="px-4 py-2 rounded-lg transition-colors font-medium" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Inicio</Link>
             </nav>
           </div>
         </div>

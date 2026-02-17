@@ -144,6 +144,12 @@ export default function HomePage() {
               </button>
             </div>
             <Link
+              href="/progress"
+              className="rounded-full border border-[#7A5B3A]/40 px-4 py-2 text-[#3E2E1F] hover:bg-[#EADFCB] transition"
+            >
+              Progreso
+            </Link>
+            <Link
               href="/library"
               className="rounded-full border border-[#7A5B3A]/40 px-4 py-2 text-[#3E2E1F] hover:bg-[#EADFCB] transition"
             >
