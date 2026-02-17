@@ -3,9 +3,10 @@
 import { Languages, Search, ChevronDown, Zap } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import { lexiconEntries } from '@/data/lexicon';
+import type { KeyWord } from '@/lib/bible/analysis-loader';
 
 interface EtymologyTabProps {
-  keyWords?: Record<string, unknown>[];
+  keyWords?: KeyWord[];
   isActive?: boolean;
 }
 
