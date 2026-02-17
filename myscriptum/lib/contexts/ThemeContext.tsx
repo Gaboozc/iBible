@@ -1,6 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState } from 'react';
+import { getPreferences, hasStoredData, setPreferences } from '@/lib/storage/localStore';
 
 export type ThemeMode = 'light' | 'dark';
 
@@ -14,18 +15,20 @@ const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const [mode, setMode] = useState<ThemeMode>(() => {
     if (typeof window === 'undefined') return 'light';
-    const saved = localStorage.getItem('theme') as ThemeMode | null;
-    if (saved) return saved;
+    const preferences = getPreferences();
+    if (preferences.theme) return preferences.theme;
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    return prefersDark ? 'dark' : 'light';
+    const nextTheme = prefersDark ? 'dark' : 'light';
+    if (!hasStoredData()) {
+      setPreferences({ theme: nextTheme });
+    }
+    return nextTheme;
   });
 
   const toggleTheme = () => {
     setMode((prev) => {
       const newMode = prev === 'light' ? 'dark' : 'light';
-      if (typeof window !== 'undefined') {
-        localStorage.setItem('theme', newMode);
-      }
+      setPreferences({ theme: newMode });
       return newMode;
     });
   };

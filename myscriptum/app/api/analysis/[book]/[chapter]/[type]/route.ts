@@ -8,6 +8,33 @@ interface RouteParams {
   type: string;
 }
 
+const ANALYSIS_BOOK_SLUGS: Record<string, string> = {
+  genesis: 'genesis',
+  exodo: 'exodus',
+  levitico: 'leviticus',
+  numeros: 'numbers',
+  deuteronomio: 'deuteronomy',
+  josue: 'joshua',
+  jueces: 'judges',
+  rut: 'ruth',
+  salmos: 'psalms',
+  proverbios: 'proverbs',
+  eclesiastes: 'ecclesiastes',
+  cantares: 'song-of-songs',
+  isaias: 'isaiah',
+  jeremias: 'jeremiah',
+  lamentaciones: 'lamentations',
+  ezequiel: 'ezekiel',
+  daniel: 'daniel',
+  jonas: 'jonah',
+  mateo: 'matthew',
+  marcos: 'mark',
+  lucas: 'luke',
+  juan: 'john',
+  hechos: 'acts',
+  romanos: 'romans',
+};
+
 export async function GET(request: Request, { params }: { params: Promise<RouteParams> }) {
   const resolvedParams = await params;
   const { book, chapter, type } = resolvedParams;
@@ -19,7 +46,8 @@ export async function GET(request: Request, { params }: { params: Promise<RouteP
       return NextResponse.json({ error: 'Invalid parameters' }, { status: 400 });
     }
 
-    const filePath = path.join(process.cwd(), 'data', 'bible', type, book, `${chapterNum}.json`);
+    const resolvedBook = ANALYSIS_BOOK_SLUGS[book] ?? book;
+    const filePath = path.join(process.cwd(), 'data', 'bible', type, resolvedBook, `${chapterNum}.json`);
 
     console.log(`📁 API: Loading ${type} for ${book} ${chapterNum}`);
 

@@ -2,6 +2,7 @@
 
 import { BookOpen, Highlighter } from 'lucide-react';
 import { useState } from 'react';
+import { useLanguage } from '@/lib/contexts/LanguageContext';
 
 interface Verse {
   number: number;
@@ -15,10 +16,20 @@ interface TextTabProps {
   translationLabel?: string;
   isActive?: boolean;
   isLoading?: boolean;
+  note?: string;
+  onNoteChange?: (value: string) => void;
 }
 
-export function TextTab({ verses, translationLabel = 'Reina-Valera 1909', isActive = true, isLoading = false }: TextTabProps) {
+export function TextTab({
+  verses,
+  translationLabel = 'Reina-Valera 1909',
+  isActive = true,
+  isLoading = false,
+  note = '',
+  onNoteChange,
+}: TextTabProps) {
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+  const { t } = useLanguage();
 
   console.log('🎨 TextTab render:', { isActive, isLoading, versesLength: verses?.length });
 
@@ -129,6 +140,17 @@ export function TextTab({ verses, translationLabel = 'Reina-Valera 1909', isActi
             <p className="text-lg">Sin versículos disponibles</p>
           </div>
         )}
+      </div>
+
+      {/* Notas personales */}
+      <div className="bg-white border border-slate-200 rounded-lg p-4 space-y-2">
+        <div className="text-sm font-semibold text-slate-900">{t('study.notes.title')}</div>
+        <textarea
+          value={note}
+          onChange={(event) => onNoteChange?.(event.target.value)}
+          placeholder={t('study.notes.placeholder')}
+          className="w-full min-h-[120px] p-3 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-y text-sm"
+        />
       </div>
 
       {/* Nota al pie */}

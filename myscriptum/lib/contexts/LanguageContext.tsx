@@ -1,6 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState } from 'react';
+import { getPreferences, hasStoredData, setPreferences } from '@/lib/storage/localStore';
 
 export type Language = 'es' | 'en';
 export type BibleVersion = 'rv1909' | 'kjv';
@@ -17,11 +18,6 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 // Translations dictionary
 const translations = {
   es: {
-    // Navigation
-    'nav.progress': 'Progreso',
-    'nav.demo': 'Demo',
-    'nav.login': 'Entrar',
-
     // Library Page
     'library.title': 'Biblioteca Bíblica',
     'library.subtitle': 'Selecciona un testamento para comenzar',
@@ -49,17 +45,32 @@ const translations = {
     'study.loading': 'Cargando capítulo...',
     'study.version.rv1909': 'RV1909',
     'study.version.kjv': 'KJV',
+    'study.notes.title': 'Notas personales',
+    'study.notes.placeholder': 'Escribe tus notas para este capítulo...',
+    'home.welcomeLabel': 'Bienvenida',
+    'home.title': 'Abre la Biblia y encuentra un refugio diario',
+    'home.subtitle': 'Un espacio sereno para leer, estudiar y guardar lo que Dios te habla hoy.',
+    'home.start': 'Comenzar lectura',
+    'home.demo': 'Ver demo',
+    'home.verseLabel': 'Versiculo del dia',
+    'home.viewMore': 'Ver mas',
+    'home.refresh': 'Otro versiculo',
+    'home.loading': 'Buscando un versiculo para ti...',
+    'home.error': 'No pude cargar el versiculo. Intenta de nuevo.',
+    'home.explore': 'Biblioteca',
+
+    // Recent Section
+    'home.recent.title': 'Continúa donde lo dejaste',
+    'home.recent.lastChapter': 'Último capítulo leído',
+    'home.recent.continue': 'Continuar leyendo',
+    'home.recent.continueReflection': 'Responder reflexiones',
+    'home.recent.noRecent': 'Comienza con un nuevo libro en la biblioteca',
 
     // Theme
     'theme.darkMode': 'Modo Oscuro',
     'theme.lightMode': 'Modo Claro',
   },
   en: {
-    // Navigation
-    'nav.progress': 'Progress',
-    'nav.demo': 'Demo',
-    'nav.login': 'Sign In',
-
     // Library Page
     'library.title': 'Bible Library',
     'library.subtitle': 'Select a testament to begin',
@@ -87,6 +98,26 @@ const translations = {
     'study.loading': 'Loading chapter...',
     'study.version.rv1909': 'RV1909',
     'study.version.kjv': 'KJV',
+    'study.notes.title': 'Personal notes',
+    'study.notes.placeholder': 'Write your notes for this chapter...',
+    'home.welcomeLabel': 'Welcome',
+    'home.title': 'Open the Bible and find a daily refuge',
+    'home.subtitle': 'A calm space to read, study, and keep what God speaks to you today.',
+    'home.start': 'Start reading',
+    'home.demo': 'View demo',
+    'home.verseLabel': 'Verse of the day',
+    'home.viewMore': 'View more',
+    'home.refresh': 'Another verse',
+    'home.loading': 'Finding a verse for you...',
+    'home.error': 'Could not load the verse. Try again.',
+    'home.explore': 'Library',
+
+    // Recent Section
+    'home.recent.title': 'Continue where you left off',
+    'home.recent.lastChapter': 'Last chapter read',
+    'home.recent.continue': 'Continue reading',
+    'home.recent.continueReflection': 'Answer reflections',
+    'home.recent.noRecent': 'Start with a new book in the library',
 
     // Theme
     'theme.darkMode': 'Dark Mode',
@@ -95,12 +126,18 @@ const translations = {
 } as const;
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [state, setState] = useState(() => {
-    const savedLanguage = (typeof window !== 'undefined' ? localStorage.getItem('language') : null) as Language | null;
-    const savedVersion = (typeof window !== 'undefined' ? localStorage.getItem('bibleVersion') : null) as BibleVersion | null;
+  const [state, setState] = useState<{ language: Language; bibleVersion: BibleVersion; mounted: boolean }>(() => {
+    if (typeof window === 'undefined') {
+      return {
+        language: 'es',
+        bibleVersion: 'rv1909',
+        mounted: true,
+      };
+    }
+    const preferences = getPreferences();
     return {
-      language: savedLanguage || 'es',
-      bibleVersion: savedVersion || 'rv1909',
+      language: preferences.language,
+      bibleVersion: preferences.bibleVersion,
       mounted: true,
     };
   });
@@ -108,8 +145,11 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   const setBibleVersion = (version: BibleVersion) => {
     const newLanguage = version === 'rv1909' ? 'es' : 'en';
     setState((prev) => ({ ...prev, bibleVersion: version, language: newLanguage }));
-    localStorage.setItem('bibleVersion', version);
-    localStorage.setItem('language', newLanguage);
+    if (!hasStoredData()) {
+      setPreferences({ bibleVersion: version, language: newLanguage });
+      return;
+    }
+    setPreferences({ bibleVersion: version, language: newLanguage });
   };
 
   const t = (key: string): string => {

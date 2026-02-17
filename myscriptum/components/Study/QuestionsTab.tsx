@@ -12,6 +12,8 @@ interface ReflectionQuestion {
 interface QuestionsTabProps {
   questions?: ReflectionQuestion[];
   isActive?: boolean;
+  answers?: Record<number, string>;
+  onAnswerChange?: (index: number, value: string) => void;
 }
 
 const stageConfig = {
@@ -43,7 +45,7 @@ const stageConfig = {
 
 type StageKey = keyof typeof stageConfig;
 
-export function QuestionsTab({ questions = [], isActive = true }: QuestionsTabProps) {
+export function QuestionsTab({ questions = [], isActive = true, answers = {}, onAnswerChange }: QuestionsTabProps) {
   if (!questions || questions.length === 0) {
     return (
       <div className="py-12 text-center text-slate-600">
@@ -54,7 +56,6 @@ export function QuestionsTab({ questions = [], isActive = true }: QuestionsTabPr
   }
 
   const [expandedQuestion, setExpandedQuestion] = useState<number | null>(null);
-  const [userAnswers, setUserAnswers] = useState<Record<number, string>>({});
 
   const questionsByStage = questions.reduce((acc, q, idx) => {
     if (!acc[q.stage]) acc[q.stage] = [];
@@ -67,7 +68,7 @@ export function QuestionsTab({ questions = [], isActive = true }: QuestionsTabPr
   };
 
   const updateAnswer = (idx: number, value: string) => {
-    setUserAnswers({ ...userAnswers, [idx]: value });
+    onAnswerChange?.(idx, value);
   };
 
   return (
@@ -145,13 +146,13 @@ export function QuestionsTab({ questions = [], isActive = true }: QuestionsTabPr
                             Tu respuesta:
                           </label>
                           <textarea
-                            value={userAnswers[idx] || ''}
+                            value={answers[idx] || ''}
                             onChange={(e) => updateAnswer(idx, e.target.value)}
                             placeholder="Escribe tu reflexión aquí..."
                             className="w-full min-h-[120px] p-3 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-y"
                           />
                           <p className="text-xs text-slate-500 mt-1">
-                            {userAnswers[idx]?.length || 0} caracteres
+                            {answers[idx]?.length || 0} caracteres
                           </p>
                         </div>
 
@@ -213,14 +214,14 @@ export function QuestionsTab({ questions = [], isActive = true }: QuestionsTabPr
         <div className="flex items-center justify-between mb-2">
           <span className="text-sm font-semibold text-slate-700">Progreso de respuestas</span>
           <span className="text-sm text-slate-500">
-            {Object.keys(userAnswers).filter((k) => userAnswers[parseInt(k)].trim().length > 0).length} de {questions.length}
+            {Object.keys(answers).filter((k) => answers[parseInt(k, 10)]?.trim().length > 0).length} de {questions.length}
           </span>
         </div>
         <div className="w-full bg-slate-200 rounded-full h-2.5">
           <div
             className="bg-green-600 h-2.5 rounded-full transition-all"
             style={{
-              width: `${(Object.keys(userAnswers).filter((k) => userAnswers[parseInt(k)].trim().length > 0).length / questions.length) * 100}%`,
+              width: `${(Object.keys(answers).filter((k) => answers[parseInt(k, 10)]?.trim().length > 0).length / questions.length) * 100}%`,
             }}
           ></div>
         </div>

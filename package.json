@@ -1,0 +1,14 @@
+{
+  "name": "ibible-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix myscriptum run dev",
+    "build": "npm --prefix myscriptum run build",
+    "start": "npm --prefix myscriptum run start",
+    "lint": "npm --prefix myscriptum run lint",
+    "db:generate": "npm --prefix myscriptum run db:generate",
+    "db:push": "npm --prefix myscriptum run db:push",
+    "db:seed": "npm --prefix myscriptum run db:seed",
+    "db:studio": "npm --prefix myscriptum run db:studio"
+  }
+}

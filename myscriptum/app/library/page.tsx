@@ -9,7 +9,7 @@ import type { BookEntry, TestamentEntry } from '@/data/bibleCatalog';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
-import { BibleVersion } from '@/lib/contexts/LanguageContext';
+import { getReadChapters, setReadChapters as persistReadChapters } from '@/lib/storage/localStore';
 
 const getChapterHref = (book: BookEntry, chapterNumber: number) => {
   return `/study/${book.slug}/${chapterNumber}`;
@@ -17,7 +17,7 @@ const getChapterHref = (book: BookEntry, chapterNumber: number) => {
 
 export default function LibraryPage() {
   const { mode, toggleTheme } = useTheme();
-  const { t, bibleVersion, setBibleVersion } = useLanguage();
+  const { t, bibleVersion, setBibleVersion, language } = useLanguage();
   const palette = getColors(mode);
   const [bibleCatalog, setBibleCatalog] = useState<TestamentEntry[]>([]);
   const [selectedTestamentId, setSelectedTestamentId] = useState('ot');
@@ -35,11 +35,7 @@ export default function LibraryPage() {
         setSelectedBookId(catalog[0].books[0]?.id ?? '');
       }
 
-      // Load read chapters from localStorage
-      const saved = localStorage.getItem('readChapters');
-      if (saved) {
-        setReadChapters(new Set(JSON.parse(saved)));
-      }
+      setReadChapters(getReadChapters());
       setIsLoading(false);
     };
     loadCatalog();
@@ -66,7 +62,7 @@ export default function LibraryPage() {
       newSet.add(key);
     }
     setReadChapters(newSet);
-    localStorage.setItem('readChapters', JSON.stringify(Array.from(newSet)));
+    persistReadChapters(newSet);
   };
 
   const isChapterRead = (book: BookEntry, chapterNumber: number) => {
@@ -91,9 +87,6 @@ export default function LibraryPage() {
               <span className="text-xl font-bold" style={{ color: palette.text.light }}>MyScriptum</span>
             </div>
             <nav className="flex items-center gap-3 text-sm">
-              <Link href="/progress" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.progress')}</Link>
-              <Link href="/study" style={{ color: palette.accent.secondary }} className="hover:opacity-75 transition">{t('nav.demo')}</Link>
-              
               {/* Language/Version selector */}
               <div className="flex gap-2 border-l pl-3" style={{ borderColor: palette.accent.primary }}>
                 <button
@@ -130,7 +123,7 @@ export default function LibraryPage() {
               >
                 {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
               </button>
-              <Link href="/login" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>{t('nav.login')}</Link>
+              <Link href="/home" className="px-4 py-2 rounded-lg transition-colors" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Inicio</Link>
             </nav>
           </div>
         </div>
@@ -196,7 +189,12 @@ export default function LibraryPage() {
               </div>
 
               <div className="space-y-3 max-h-[420px] overflow-y-auto pr-2">
-                {filteredBooks.map((book) => (
+                {filteredBooks.map((book) => {
+                  const description =
+                    language === 'es'
+                      ? book.descriptionEs ?? book.description
+                      : book.descriptionEn ?? book.description;
+                  return (
                   <button
                     key={book.id}
                     onClick={() => setSelectedBookId(book.id)}
@@ -214,9 +212,10 @@ export default function LibraryPage() {
                       </div>
                       <ChevronRight className="h-4 w-4 opacity-75" />
                     </div>
-                    <p className="text-sm opacity-75 mt-2">{book.description}</p>
+                    <p className="text-sm opacity-75 mt-2">{description}</p>
                   </button>
-                ))}
+                  );
+                })}
                 {filteredBooks.length === 0 && (
                   <div className="text-sm" style={{ color: palette.text.secondary }}>{t('library.noResults')}</div>
                 )}

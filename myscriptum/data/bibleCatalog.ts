@@ -16,6 +16,8 @@ export interface BookEntry {
   abbreviation: string;
   slug: string;
   description: string;
+  descriptionEs?: string;
+  descriptionEn?: string;
   chapters: ChapterLink[];
 }
 

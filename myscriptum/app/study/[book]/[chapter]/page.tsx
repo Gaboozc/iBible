@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import { ChevronLeft, Check, Moon, Sun } from 'lucide-react';
 import Link from 'next/link';
-import Image from 'next/image';
 import { StudyTabs } from '@/components/Study/StudyTabs';
 import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
 import { TextTab } from '@/components/Study/TextTab';
@@ -30,6 +29,15 @@ import { fetchBibleCatalog } from '@/app/actions/catalog';
 import type { BookEntry } from '@/data/bibleCatalog';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
+import {
+  getChapterNote,
+  getReadChapters,
+  getReflectionAnswers,
+  setChapterNote,
+  setReadChapters as persistReadChapters,
+  setReflectionAnswer,
+  setLastViewedChapter,
+} from '@/lib/storage/localStore';
 
 type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
@@ -53,9 +61,12 @@ export default function StudyPageDynamic() {
   const [etymologyWords, setEtymologyWords] = useState<KeyWord[] | null>(null);
   const [connectionsList, setConnectionsList] = useState<Connection[] | null>(null);
   const [questionsList, setQuestionsList] = useState<ReflectionQuestion[] | null>(null);
+  const [reflectionAnswers, setReflectionAnswers] = useState<Record<number, string>>({});
+  const [chapterNote, setChapterNoteState] = useState('');
 
   const chapterNum = params?.chapter ? parseInt(params.chapter as string, 10) : 0;
   const bookSlug = params?.book ? (params.book as string) : '';
+  const chapterKey = `${bookSlug}:${chapterNum}`;
 
   // Sync local version state with bibleVersion from context
   useEffect(() => {
@@ -91,11 +102,7 @@ export default function StudyPageDynamic() {
         setBook(foundBook);
         setDebugInfo(`Looking for: ${bookSlug} ch ${chapterNum}. Found: ${foundBook?.name || 'NOT FOUND'}`);
 
-        // Load read chapters from localStorage
-        const saved = localStorage.getItem('readChapters');
-        if (saved) {
-          setReadChapters(new Set(JSON.parse(saved)));
-        }
+        setReadChapters(getReadChapters());
 
         setIsLoading(false);
       } catch (error) {
@@ -107,6 +114,20 @@ export default function StudyPageDynamic() {
 
     loadBookInfo();
   }, [bookSlug, chapterNum]);
+
+  // Track the last viewed chapter
+  useEffect(() => {
+    if (bookSlug && chapterNum > 0) {
+      setLastViewedChapter(`${bookSlug}:${chapterNum}`);
+    }
+  }, [bookSlug, chapterNum]);
+
+  useEffect(() => {
+    if (!isLoading && bookSlug && chapterNum > 0) {
+      setReflectionAnswers(getReflectionAnswers(chapterKey));
+      setChapterNoteState(getChapterNote(chapterKey));
+    }
+  }, [bookSlug, chapterKey, chapterNum, isLoading]);
 
   // Load chapter text when version changes
   useEffect(() => {
@@ -175,7 +196,7 @@ export default function StudyPageDynamic() {
       newSet.add(key);
     }
     setReadChapters(newSet);
-    localStorage.setItem('readChapters', JSON.stringify(Array.from(newSet)));
+    persistReadChapters(newSet);
   };
 
   const isChapterRead = book ? readChapters.has(`${book.id}:${chapterNum}`) : false;
@@ -210,6 +231,16 @@ export default function StudyPageDynamic() {
 
   const versionLabel =
     version === 'rv1909' ? 'Reina-Valera 1909' : version === 'kjv' ? 'KJV (English)' : 'Unknown';
+
+  const handleReflectionChange = (index: number, value: string) => {
+    setReflectionAnswers((prev) => ({ ...prev, [index]: value }));
+    setReflectionAnswer(chapterKey, index, value);
+  };
+
+  const handleNoteChange = (value: string) => {
+    setChapterNoteState(value);
+    setChapterNote(chapterKey, value);
+  };
 
   if (isLoading) {
     return (
@@ -339,6 +370,8 @@ export default function StudyPageDynamic() {
                 verses={textVerses}
                 translationLabel={versionLabel}
                 isLoading={false}
+                note={chapterNote}
+                onNoteChange={handleNoteChange}
               />
             )}
           </div>
@@ -356,7 +389,12 @@ export default function StudyPageDynamic() {
           </div>
 
           <div className={activeTab === 'questions' ? 'p-6' : 'hidden'}>
-            <QuestionsTab isActive={activeTab === 'questions'} questions={questionsList || undefined} />
+            <QuestionsTab
+              isActive={activeTab === 'questions'}
+              questions={questionsList || undefined}
+              answers={reflectionAnswers}
+              onAnswerChange={handleReflectionChange}
+            />
           </div>
         </div>
       </main>
