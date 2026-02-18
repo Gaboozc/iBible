@@ -1,8 +1,10 @@
 {
   "root": "myscriptum",
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run prebuild && npm run build",
   "installCommand": "npm install",
   "env": {
     "NODE_ENV": "production"
-  }
+  },
+  "outputDirectory": ".next",
+  "framework": "nextjs"
 }
