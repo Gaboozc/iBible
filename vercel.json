@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd myscriptum && npm install && npm run build",
+  "devCommand": "cd myscriptum && npm run dev",
+  "installCommand": "npm install --prefix myscriptum",
+  "outputDirectory": "myscriptum/.next"
+}
