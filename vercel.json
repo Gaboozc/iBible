@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "myscriptum/package.json",
+      "src": "myscriptum/next.config.ts",
       "use": "@vercel/next"
     }
   ]
