@@ -1,6 +1,9 @@
 {
   "version": 2,
-  "buildCommand": "cd myscriptum && npm run build",
-  "outputDirectory": "myscriptum/.next",
-  "installCommand": "npm install"
+  "builds": [
+    {
+      "src": "myscriptum/package.json",
+      "use": "@vercel/next"
+    }
+  ]
 }
