@@ -20,6 +20,10 @@
 # production
 /build
 
+# Static Bible data (generated during build)
+/public/data/bible/
+/public/data/featured-verses.json
+
 # misc
 .DS_Store
 *.pem
