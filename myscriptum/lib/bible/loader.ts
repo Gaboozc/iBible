@@ -1,3 +1,5 @@
+import { resolveBookDir } from './book-dir-map';
+
 export type BibleVersion = 'rv1909' | 'kjv';
 
 export interface VerseText {
@@ -18,15 +20,19 @@ export async function loadChapterText(
   chapterNumber: number
 ): Promise<ChapterText | null> {
   try {
-    const apiUrl = `/api/chapter/${version}/${bookSlug}/${chapterNumber}`;
-    console.log('📡 Loader: Fetching from', apiUrl);
+    // Build direct URL to JSON file in public directory
+    const bookDirectory = resolveBookDir(version, bookSlug);
+    const jsonUrl = `/data/bible/${version}/${bookDirectory}/${chapterNumber}.json`;
     
-    const response = await fetch(apiUrl);
+    console.log('📡 Loader: Fetching from', jsonUrl);
+    
+    const response = await fetch(jsonUrl, { 
+      cache: 'force-cache' // Cache Bible data since it never changes
+    });
     console.log('📡 Loader: Response status:', response.status, response.statusText);
     
     if (!response.ok) {
-      const errorText = await response.text();
-      console.error(`❌ Loader: Failed to load chapter - ${response.status} ${response.statusText}`, errorText);
+      console.error(`❌ Loader: Failed to load chapter - ${response.status} ${response.statusText}`);
       return null;
     }
 

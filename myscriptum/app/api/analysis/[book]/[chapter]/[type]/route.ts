@@ -1,5 +1,3 @@
-import { readFileSync, existsSync } from 'fs';
-import path from 'path';
 import { NextResponse } from 'next/server';
 
 interface RouteParams {
@@ -47,17 +45,23 @@ export async function GET(request: Request, { params }: { params: Promise<RouteP
     }
 
     const resolvedBook = ANALYSIS_BOOK_SLUGS[book] ?? book;
-    const filePath = path.join(process.cwd(), 'data', 'bible', type, resolvedBook, `${chapterNum}.json`);
+    
+    // Fetch from public directory instead of using readFileSync
+    const baseUrl = process.env.VERCEL_URL 
+      ? `https://${process.env.VERCEL_URL}` 
+      : 'http://localhost:3000';
+    const jsonUrl = `${baseUrl}/data/bible/${type}/${resolvedBook}/${chapterNum}.json`;
 
-    console.log(`📁 API: Loading ${type} for ${book} ${chapterNum}`);
+    console.log(`📁 API: Fetching ${type} from ${jsonUrl}`);
 
-    if (!existsSync(filePath)) {
-      console.log(`❌ API: File not found: ${filePath}`);
+    const response = await fetch(jsonUrl, { cache: 'force-cache' });
+    
+    if (!response.ok) {
+      console.log(`❌ API: Not found: ${jsonUrl}`);
       return NextResponse.json({ error: 'Not found' }, { status: 404 });
     }
 
-    const fileContent = readFileSync(filePath, 'utf-8');
-    const data = JSON.parse(fileContent);
+    const data = await response.json();
 
     console.log(`✅ API: ${type} loaded successfully`);
     return NextResponse.json(data);

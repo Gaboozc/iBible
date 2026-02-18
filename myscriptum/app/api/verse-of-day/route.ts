@@ -1,12 +1,6 @@
-import path from 'node:path';
-import { existsSync, readFileSync } from 'node:fs';
 import { NextResponse } from 'next/server';
-import { generateBibleCatalog } from '@/lib/bible/catalog-generator';
-import { resolveBookDir } from '@/lib/bible/book-dir-map';
 
 export const dynamic = 'force-dynamic';
-
-const MAX_ATTEMPTS = 8;
 
 type VerseResponse = {
   bookSlug: string;
@@ -19,64 +13,37 @@ type VerseResponse = {
 
 const randomItem = <T,>(list: T[]): T => list[Math.floor(Math.random() * list.length)];
 
-const sanitizeVerseText = (text: string) => {
-  const withoutWordMarkup = text.replace(
-    /\\\+?w\s+([^\\|]+?)(?:\|[^\\]*)?\\\+?w\*/g,
-    (_, word) => String(word).trim().split(' ')[0]
-  );
-  const withoutAddMarkup = withoutWordMarkup.replace(
-    /\\\+?add\s+([^\\]+?)\\\+?add\*/g,
-    (_, value) => String(value).trim()
-  );
-  return withoutAddMarkup
-    .replace(/\\[a-zA-Z0-9+*]+/g, '')
-    .replace(/[*¶]/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-};
-
 export async function GET(request: Request) {
-  const url = new URL(request.url);
-  const versionParam = url.searchParams.get('version');
-  const version = versionParam === 'kjv' ? 'kjv' : 'rv1909';
+  try {
+    const url = new URL(request.url);
+    const versionParam = url.searchParams.get('version');
+    const version = versionParam === 'kjv' ? 'kjv' : 'rv1909';
 
-  const bibleRoot = path.join(process.cwd(), 'data', 'bible');
-  const catalog = generateBibleCatalog(bibleRoot) as Array<{
-    books: Array<{
-      id: string;
-      name: string;
-      chapters: Array<{ number: number }>;
-    }>;
-  }>;
-
-  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt += 1) {
-    const book = randomItem(catalog.flatMap((entry) => entry.books));
-    const chapter = randomItem(book.chapters).number;
-    const directory = resolveBookDir(version, book.id);
-    const filePath = path.join(bibleRoot, version, directory, `${chapter}.json`);
-
-    if (!existsSync(filePath)) {
-      continue;
+    // Fetch featured verses from static JSON (no dynamic readFileSync)
+    const baseUrl = process.env.VERCEL_URL 
+      ? `https://${process.env.VERCEL_URL}` 
+      : 'http://localhost:3000';
+    const jsonUrl = `${baseUrl}/data/featured-verses.json`;
+    
+    const response = await fetch(jsonUrl, { cache: 'no-store' });
+    if (!response.ok) {
+      throw new Error('Failed to load featured verses');
+    }
+    
+    const allVerses = (await response.json()) as VerseResponse[];
+    const versesForVersion = allVerses.filter(v => v.version === version);
+    
+    if (versesForVersion.length === 0) {
+      throw new Error('No verses found for version');
     }
 
-    const fileContent = readFileSync(filePath, 'utf-8');
-    const data = JSON.parse(fileContent) as { verses?: Array<{ number: number; text: string }> };
-    if (!data.verses || data.verses.length === 0) {
-      continue;
-    }
-
-    const verse = randomItem(data.verses);
-    const payload: VerseResponse = {
-      bookSlug: book.id,
-      bookName: book.name,
-      chapter,
-      verse: verse.number,
-      text: sanitizeVerseText(verse.text),
-      version,
-    };
-
-    return NextResponse.json(payload);
+    const selectedVerse = randomItem(versesForVersion);
+    return NextResponse.json(selectedVerse);
+  } catch (error) {
+    console.error('verse-of-day error:', error);
+    return NextResponse.json(
+      { error: 'Failed to load verse of the day' },
+      { status: 500 }
+    );
   }
-
-  return NextResponse.json({ error: 'Verse not available' }, { status: 503 });
 }

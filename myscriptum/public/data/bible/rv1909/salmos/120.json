@@ -1,0 +1,35 @@
+{
+  "version": "rv1909",
+  "book": "salmos",
+  "chapter": 120,
+  "verses": [
+    {
+      "number": 1,
+      "text": "Cántico gradual. A JEHOVÁ llamé estando en angustia, y él me respondió."
+    },
+    {
+      "number": 2,
+      "text": "Libra mi alma, oh Jehová, de labio mentiroso, de la lengua fraudulenta."
+    },
+    {
+      "number": 3,
+      "text": "¿Qué te dará, ó qué te aprovechará, oh lengua engañosa?"
+    },
+    {
+      "number": 4,
+      "text": "Agudas saetas de valiente, con brasas de enebro."
+    },
+    {
+      "number": 5,
+      "text": "¡Ay de mí, que peregrino en Mesech, y* habito entre las tiendas de Kedar!"
+    },
+    {
+      "number": 6,
+      "text": "Mucho se detiene mi alma con los que aborrecen la paz."
+    },
+    {
+      "number": 7,
+      "text": "Yo soy pacífico: mas ellos, así que hablo, me* hacen guerra."
+    }
+  ]
+}
