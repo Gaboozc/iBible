@@ -2,6 +2,7 @@
   "name": "ibible-root",
   "private": true,
   "scripts": {
+    "postinstall": "npm --prefix myscriptum install",
     "dev": "npm --prefix myscriptum run dev",
     "build": "npm --prefix myscriptum run build",
     "start": "npm --prefix myscriptum run start",
