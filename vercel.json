@@ -1,4 +1,5 @@
 {
+  "root": "myscriptum",
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "env": {
