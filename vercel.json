@@ -1,9 +1,9 @@
 {
-  "buildCommand": "npm run prebuild && npm run build",
-  "installCommand": "npm install",
+  "buildCommand": "bash build.sh",
+  "installCommand": "npm install && npm --prefix myscriptum install",
   "env": {
     "NODE_ENV": "production"
   },
-  "outputDirectory": ".next",
+  "outputDirectory": "myscriptum/.next",
   "framework": "nextjs"
 }
