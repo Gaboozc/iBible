@@ -9,6 +9,7 @@ import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
 import { TextTab } from '@/components/Study/TextTab';
 import { AnalysisTab } from '@/components/Study/AnalysisTab';
 import { EtymologyTab } from '@/components/Study/EtymologyTab';
+import { LexiconTab } from '@/components/Study/LexiconTab';
 import { ConnectionsTab } from '@/components/Study/ConnectionsTab';
 import { QuestionsTab } from '@/components/Study/QuestionsTab';
 import { ezequiel1Data } from '@/data/ezequiel1';
@@ -39,7 +40,7 @@ import {
   setLastViewedChapter,
 } from '@/lib/storage/localStore';
 
-type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
+type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'lexicon' | 'connections' | 'questions';
 
 export default function StudyPageDynamic() {
   const { mode, toggleTheme } = useTheme();
@@ -274,10 +275,10 @@ export default function StudyPageDynamic() {
       {/* Header */}
       <header className="sticky top-0 z-50 border-b" style={{ backgroundColor: palette.bg.header, borderColor: palette.accent.primary }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <div className="flex items-center justify-between gap-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 sm:gap-4">
             <Link
               href="/library"
-              className="flex items-center gap-2 transition"
+              className="flex items-center gap-2 transition text-xs sm:text-sm"
               style={{ color: palette.text.light }}
             >
               <ChevronLeft className="h-5 w-5" />
@@ -285,42 +286,44 @@ export default function StudyPageDynamic() {
             </Link>
 
             <div className="flex-1 text-center">
-              <h1 className="text-2xl font-bold" style={{ color: palette.text.light }}>
+              <h1 className="text-xl sm:text-2xl font-bold" style={{ color: palette.text.light }}>
                 {book.name} {chapterNum}
               </h1>
-              <p className="text-sm opacity-75" style={{ color: palette.text.light }}>{versionLabel}</p>
+              <p className="text-xs sm:text-sm opacity-75" style={{ color: palette.text.light }}>{versionLabel}</p>
             </div>
 
-            <div className="flex gap-2 items-center">
+            <div className="flex flex-wrap justify-center sm:justify-end gap-2 items-center">
               {/* Language buttons */}
-              <div className="flex gap-1 border-r pr-3" style={{ borderColor: palette.accent.primary }}>
+              <div className="flex gap-1 border-r pr-2 sm:pr-3 text-xs" style={{ borderColor: palette.accent.primary }}>
                 <button
                   onClick={() => setBibleVersion('rv1909')}
-                  className="px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
+                  className="px-2 sm:px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
                   style={{
                     borderColor: palette.accent.primary,
                     backgroundColor: bibleVersion === 'rv1909' ? palette.accent.secondary : 'transparent',
                     color: bibleVersion === 'rv1909' ? palette.text.light : palette.accent.primary,
                   }}
                 >
-                  Español
+                  <span className="sm:hidden">ES</span>
+                  <span className="hidden sm:inline">Español</span>
                 </button>
                 <button
                   onClick={() => setBibleVersion('kjv')}
-                  className="px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
+                  className="px-2 sm:px-3 py-1 rounded-lg border transition text-xs font-medium whitespace-nowrap"
                   style={{
                     borderColor: palette.accent.primary,
                     backgroundColor: bibleVersion === 'kjv' ? palette.accent.secondary : 'transparent',
                     color: bibleVersion === 'kjv' ? palette.text.light : palette.accent.primary,
                   }}
                 >
-                  English
+                  <span className="sm:hidden">EN</span>
+                  <span className="hidden sm:inline">English</span>
                 </button>
               </div>
               
               <button
                 onClick={toggleReadChapter}
-                className="flex items-center gap-2 px-4 py-2 rounded-lg border transition"
+                className="flex items-center gap-2 px-3 sm:px-4 py-2 rounded-lg border transition text-xs sm:text-sm"
                 style={{
                   borderColor: palette.accent.primary,
                   backgroundColor: isChapterRead ? palette.accent.secondary : 'transparent',
@@ -328,15 +331,15 @@ export default function StudyPageDynamic() {
                 }}
               >
                 {isChapterRead && <Check className="h-4 w-4" />}
-                <span className="text-sm font-medium">{isChapterRead ? t('library.read') : t('study.markRead')}</span>
+                <span className="font-medium whitespace-nowrap">{isChapterRead ? t('library.read') : t('study.markRead')}</span>
               </button>
               <button
                 onClick={toggleTheme}
-                className="p-2 rounded-lg transition"
+                className="p-1.5 sm:p-2 rounded-lg transition"
                 style={{ backgroundColor: palette.accent.secondary, color: palette.text.light }}
                 title={mode === 'light' ? t('theme.darkMode') : t('theme.lightMode')}
               >
-                {mode === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
+                {mode === 'light' ? <Moon className="h-4 w-4 sm:h-5 sm:w-5" /> : <Sun className="h-4 w-4 sm:h-5 sm:w-5" />}
               </button>
             </div>
           </div>
@@ -344,16 +347,16 @@ export default function StudyPageDynamic() {
       </header>
 
       {/* Main Content */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
         <div className="rounded-lg shadow-lg overflow-hidden" style={{ backgroundColor: palette.bg.secondary, borderTop: `4px solid ${palette.accent.primary}` }}>
           <StudyTabs activeTab={activeTab} onTabChange={setActiveTab} />
           
           {/* Tab Content - FUERA del StudyTabs */}
-          <div className={activeTab === 'context' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'context' ? 'p-4 sm:p-6' : 'hidden'}>
             <HistoricalContextTab isActive={activeTab === 'context'} context={contextData || undefined} />
           </div>
 
-          <div className={activeTab === 'text' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'text' ? 'p-4 sm:p-6' : 'hidden'}>
             {isLoadingText ? (
               <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
                 <p className="text-lg font-semibold">{t('study.loading')}</p>
@@ -376,19 +379,23 @@ export default function StudyPageDynamic() {
             )}
           </div>
 
-          <div className={activeTab === 'analysis' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'analysis' ? 'p-4 sm:p-6' : 'hidden'}>
             <AnalysisTab isActive={activeTab === 'analysis'} structuralAnalysis={structuralAnalysis || undefined} />
           </div>
 
-          <div className={activeTab === 'etymology' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'etymology' ? 'p-4 sm:p-6' : 'hidden'}>
             <EtymologyTab isActive={activeTab === 'etymology'} keyWords={etymologyWords || undefined} />
           </div>
 
-          <div className={activeTab === 'connections' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'lexicon' ? 'p-4 sm:p-6' : 'hidden'}>
+            <LexiconTab isActive={activeTab === 'lexicon'} />
+          </div>
+
+          <div className={activeTab === 'connections' ? 'p-4 sm:p-6' : 'hidden'}>
             <ConnectionsTab isActive={activeTab === 'connections'} connections={connectionsList || undefined} />
           </div>
 
-          <div className={activeTab === 'questions' ? 'p-6' : 'hidden'}>
+          <div className={activeTab === 'questions' ? 'p-4 sm:p-6' : 'hidden'}>
             <QuestionsTab
               isActive={activeTab === 'questions'}
               questions={questionsList || undefined}

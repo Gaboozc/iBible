@@ -1,10 +1,10 @@
 'use client';
 
-import { BookOpen, Zap, Brain, Link2, MessageSquare, FileText } from 'lucide-react';
+import { BookOpen, Zap, Brain, Link2, MessageSquare, FileText, BookMarked } from 'lucide-react';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
 
-type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
+type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'lexicon' | 'connections' | 'questions';
 
 interface TabsProps {
   activeTab: TabId;
@@ -31,6 +31,11 @@ const tabs = [
     id: 'etymology' as TabId,
     labelKey: 'tab.etymology',
     icon: Zap,
+  },
+  {
+    id: 'lexicon' as TabId,
+    labelKey: 'tab.lexicon',
+    icon: BookMarked,
   },
   {
     id: 'connections' as TabId,
@@ -60,7 +65,7 @@ export function StudyTabs({ activeTab, onTabChange }: TabsProps) {
               <button
                 key={tab.id}
                 onClick={() => onTabChange(tab.id)}
-                className="flex items-center gap-2 px-4 py-4 font-medium transition-all whitespace-nowrap border-b-2"
+                className="flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-3 sm:py-4 text-xs sm:text-sm font-medium transition-all whitespace-nowrap border-b-2"
                 style={{
                   borderBottomColor: isActive ? palette.accent.primary : 'transparent',
                   color: isActive ? palette.text.secondary : palette.accent.secondary,

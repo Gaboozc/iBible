@@ -1,15 +1,20 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { BookOpen, Target, TrendingUp, Flame } from 'lucide-react';
+import { fetchBibleCatalog } from '@/app/actions/catalog';
+import { getReadChapters } from '@/lib/storage/localStore';
 
 interface ReadingProgress {
   chaptersRead: number;
   booksStarted: number;
   versiclesRead: number;
+  daysActive: number;
   totalProgress: number;
   oldTestamentProgress: number;
   newTestamentProgress: number;
+  oldTestamentRead: number;
+  newTestamentRead: number;
 }
 
 const totalChapters = {
@@ -19,14 +24,79 @@ const totalChapters = {
 };
 
 export function ProgressTracker() {
-  const [progress] = useState<ReadingProgress>({
-    chaptersRead: 23,
-    booksStarted: 5,
-    versiclesRead: 312,
-    totalProgress: Math.round((23 / totalChapters.total) * 100),
-    oldTestamentProgress: Math.round((18 / totalChapters.oldTestament) * 100),
-    newTestamentProgress: Math.round((5 / totalChapters.newTestament) * 100),
-  });
+  const [progress, setProgress] = useState<ReadingProgress | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    const loadProgress = async () => {
+      const readChapters = getReadChapters();
+      if (readChapters.size === 0) {
+        setProgress(null);
+        setIsLoading(false);
+        return;
+      }
+
+      const catalog = await fetchBibleCatalog();
+      const bookToTestament = new Map<string, 'old' | 'new'>();
+      catalog.forEach((testament) => {
+        const isOld = testament.id === 'ot' || testament.name.toLowerCase().includes('antigu');
+        const label = isOld ? 'old' : 'new';
+        testament.books.forEach((book) => bookToTestament.set(book.id, label));
+      });
+
+      const booksStartedSet = new Set<string>();
+      let oldTestamentRead = 0;
+      let newTestamentRead = 0;
+
+      readChapters.forEach((key) => {
+        const [bookId] = key.split(':');
+        if (bookId) {
+          booksStartedSet.add(bookId);
+          const testament = bookToTestament.get(bookId);
+          if (testament === 'old') oldTestamentRead += 1;
+          if (testament === 'new') newTestamentRead += 1;
+        }
+      });
+
+      const chaptersRead = readChapters.size;
+      setProgress({
+        chaptersRead,
+        booksStarted: booksStartedSet.size,
+        versiclesRead: 0,
+        daysActive: 0,
+        totalProgress: Math.round((chaptersRead / totalChapters.total) * 100),
+        oldTestamentProgress: Math.round((oldTestamentRead / totalChapters.oldTestament) * 100),
+        newTestamentProgress: Math.round((newTestamentRead / totalChapters.newTestament) * 100),
+        oldTestamentRead,
+        newTestamentRead,
+      });
+      setIsLoading(false);
+    };
+
+    loadProgress();
+  }, []);
+
+  if (isLoading) {
+    return (
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6 text-center text-slate-600">
+        Cargando progreso...
+      </div>
+    );
+  }
+
+  if (!progress) {
+    return (
+      <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-6 text-center space-y-3">
+        <div className="mx-auto h-12 w-12 rounded-full bg-blue-50 flex items-center justify-center">
+          <BookOpen className="h-6 w-6 text-blue-600" />
+        </div>
+        <h2 className="text-lg font-semibold text-slate-900">Aún no hay progreso</h2>
+        <p className="text-sm text-slate-600">
+          Empieza a leer y marcar capítulos para ver tus estadísticas aquí.
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div className="bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl shadow-sm border border-slate-200 p-6 space-y-6">
@@ -84,7 +154,7 @@ export function ProgressTracker() {
         <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
           <div className="flex items-center gap-2 mb-1">
             <Flame className="h-5 w-5 text-red-600" />
-            <span className="text-3xl font-bold text-red-600">12</span>
+            <span className="text-3xl font-bold text-red-600">{progress.daysActive}</span>
           </div>
           <div className="text-xs font-medium text-slate-600">Días Activo</div>
         </div>
@@ -105,7 +175,7 @@ export function ProgressTracker() {
               style={{ width: `${progress.oldTestamentProgress}%` }}
             ></div>
           </div>
-          <div className="text-xs text-slate-600">18 de {totalChapters.oldTestament} capítulos</div>
+          <div className="text-xs text-slate-600">{progress.oldTestamentRead} de {totalChapters.oldTestament} capítulos</div>
         </div>
 
         <div className="space-y-2">
@@ -119,7 +189,7 @@ export function ProgressTracker() {
               style={{ width: `${progress.newTestamentProgress}%` }}
             ></div>
           </div>
-          <div className="text-xs text-slate-600">5 de {totalChapters.newTestament} capítulos</div>
+          <div className="text-xs text-slate-600">{progress.newTestamentRead} de {totalChapters.newTestament} capítulos</div>
         </div>
       </div>
 

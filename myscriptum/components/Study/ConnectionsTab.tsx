@@ -34,16 +34,16 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
     );
   }
   return (
-    <div className="space-y-6">
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-        <p className="text-sm text-slate-700">
+    <div className="space-y-4 sm:space-y-6">
+      <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 sm:p-4">
+        <p className="text-xs sm:text-sm text-slate-700">
           <span className="font-semibold text-slate-900">Conexiones Bíblicas:</span> La Biblia es un libro 
           interconectado. Aquí encontramos textos relacionados que enriquecen la comprensión de este capítulo.
         </p>
       </div>
 
       {/* Conexiones agrupadas por tipo */}
-      <div className="space-y-6">
+      <div className="space-y-4 sm:space-y-6">
         {Object.entries(connectionTypeConfig).map(([type, config]) => {
           const Icon = config.icon;
           const filteredConnections = connections.filter((c) => c.type === type);
@@ -53,11 +53,11 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
           return (
             <div key={type}>
               <div className="flex items-center gap-2 mb-3">
-                <Icon className="h-5 w-5" />
-                <h3 className="text-lg font-semibold text-slate-900">
+                <Icon className="h-4 w-4 sm:h-5 sm:w-5" />
+                <h3 className="text-base sm:text-lg font-semibold text-slate-900">
                   Conexiones {config.label}
                 </h3>
-                <span className="ml-auto px-2 py-1 bg-slate-200 text-slate-700 rounded-full text-xs font-medium">
+                <span className="ml-auto px-2 py-1 bg-slate-200 text-slate-700 rounded-full text-[10px] sm:text-xs font-medium">
                   {filteredConnections.length}
                 </span>
               </div>
@@ -66,15 +66,15 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
                 {filteredConnections.map((conn, idx) => (
                   <div
                     key={idx}
-                    className={`border-2 rounded-lg p-4 space-y-2 ${config.color}`}
+                    className={`border-2 rounded-lg p-3 sm:p-4 space-y-2 ${config.color}`}
                   >
                     <div className="flex items-start justify-between">
-                      <h4 className="font-semibold text-sm">{conn.title}</h4>
-                      <code className="text-xs px-2 py-1 bg-white/50 rounded font-mono">
+                      <h4 className="font-semibold text-xs sm:text-sm">{conn.title}</h4>
+                      <code className="text-[10px] sm:text-xs px-2 py-1 bg-white/50 rounded font-mono">
                         {conn.reference}
                       </code>
                     </div>
-                    <p className="text-sm leading-relaxed">{conn.description}</p>
+                    <p className="text-xs sm:text-sm leading-relaxed">{conn.description}</p>
                   </div>
                 ))}
               </div>
@@ -84,11 +84,11 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
       </div>
 
       {/* Mapa conceptual */}
-      <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-300 rounded-lg p-6 space-y-4">
-        <h3 className="text-lg font-semibold text-slate-900">Red de Conexiones</h3>
-        <div className="bg-white rounded p-4 border-2 border-dashed border-slate-300 text-center text-slate-500 py-8">
-          <p className="text-sm font-medium mb-2">Visualización interactiva (próximamente)</p>
-          <p className="text-xs">
+      <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-300 rounded-lg p-4 sm:p-6 space-y-4">
+        <h3 className="text-base sm:text-lg font-semibold text-slate-900">Red de Conexiones</h3>
+        <div className="bg-white rounded p-3 sm:p-4 border-2 border-dashed border-slate-300 text-center text-slate-500 py-6 sm:py-8">
+          <p className="text-xs sm:text-sm font-medium mb-2">Visualización interactiva (próximamente)</p>
+          <p className="text-[11px] sm:text-xs">
             Aquí irá un gráfico interactivo mostrando cómo se conectan todos los textos
           </p>
         </div>

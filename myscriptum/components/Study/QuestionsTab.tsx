@@ -72,11 +72,11 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
   };
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-6 sm:space-y-8">
       {/* Metodología Inductiva Banner */}
-      <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-6 space-y-2">
-        <h2 className="text-2xl font-bold">Método Inductivo de Estudio Bíblico</h2>
-        <p className="text-blue-50">
+      <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-4 sm:p-6 space-y-2">
+        <h2 className="text-xl sm:text-2xl font-bold">Método Inductivo de Estudio Bíblico</h2>
+        <p className="text-xs sm:text-sm text-blue-50">
           La técnica &quot;reina&quot; que permite que el texto hable por sí mismo antes de sacar conclusiones personales.
         </p>
       </div>
@@ -88,22 +88,22 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
         const stageQuestions = questionsByStage[stageKey] || [];
 
         return (
-          <div key={stageKey} className="space-y-4">
+          <div key={stageKey} className="space-y-3 sm:space-y-4">
             {/* Stage Header */}
-            <div className={`border-l-4 ${stage.color} rounded-r-lg p-4`}>
+            <div className={`border-l-4 ${stage.color} rounded-r-lg p-3 sm:p-4`}>
               <div className="flex items-center gap-3 mb-2">
-                <Icon className="h-6 w-6" />
-                <h3 className="text-xl font-bold text-slate-900">{stage.title}</h3>
-                <span className={`ml-auto px-3 py-1 rounded-full text-xs font-semibold ${stage.badgeColor}`}>
+                <Icon className="h-5 w-5 sm:h-6 sm:w-6" />
+                <h3 className="text-lg sm:text-xl font-bold text-slate-900">{stage.title}</h3>
+                <span className={`ml-auto px-2 sm:px-3 py-1 rounded-full text-[10px] sm:text-xs font-semibold ${stage.badgeColor}`}>
                   {stageQuestions.length} preguntas
                 </span>
               </div>
-              <p className="text-lg font-semibold text-slate-800 mb-1">{stage.subtitle}</p>
-              <p className="text-sm text-slate-600">{stage.description}</p>
+              <p className="text-base sm:text-lg font-semibold text-slate-800 mb-1">{stage.subtitle}</p>
+              <p className="text-xs sm:text-sm text-slate-600">{stage.description}</p>
             </div>
 
             {/* Questions List */}
-            <div className="space-y-3 ml-4">
+            <div className="space-y-3 sm:ml-4">
               {stageQuestions.map((q, localIdx) => {
                 const idx = q.originalIndex;
                 const isExpanded = expandedQuestion === idx;
@@ -116,13 +116,13 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
                     {/* Question Header */}
                     <button
                       onClick={() => toggleQuestion(idx)}
-                      className="w-full text-left p-4 bg-white hover:bg-slate-50 transition-colors flex items-start justify-between gap-3"
+                      className="w-full text-left p-3 sm:p-4 bg-white hover:bg-slate-50 transition-colors flex items-start justify-between gap-3"
                     >
                       <div className="flex-1">
-                        <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium ${stage.badgeColor} mr-2`}>
+                        <span className={`inline-block px-2 py-0.5 rounded text-[10px] sm:text-xs font-medium ${stage.badgeColor} mr-2`}>
                           Pregunta {localIdx + 1}
                         </span>
-                        <p className="font-medium text-slate-900 mt-1">{q.question}</p>
+                        <p className="text-sm sm:text-base font-medium text-slate-900 mt-1">{q.question}</p>
                       </div>
                       {isExpanded ? (
                         <ChevronUp className="h-5 w-5 text-slate-400 flex-shrink-0" />
@@ -133,37 +133,37 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
 
                     {/* Expanded Content */}
                     {isExpanded && (
-                      <div className="border-t border-slate-200 bg-slate-50 p-4 space-y-4">
+                      <div className="border-t border-slate-200 bg-slate-50 p-3 sm:p-4 space-y-4">
                         {/* Guidance */}
                         <div className="bg-blue-50 border border-blue-200 rounded p-3">
-                          <p className="text-xs font-semibold text-blue-900 mb-1">💡 Guía para responder:</p>
-                          <p className="text-sm text-blue-800">{q.guidance}</p>
+                          <p className="text-[10px] sm:text-xs font-semibold text-blue-900 mb-1">💡 Guía para responder:</p>
+                          <p className="text-xs sm:text-sm text-blue-800">{q.guidance}</p>
                         </div>
 
                         {/* Answer Textarea */}
                         <div>
-                          <label className="block text-sm font-semibold text-slate-700 mb-2">
+                          <label className="block text-xs sm:text-sm font-semibold text-slate-700 mb-2">
                             Tu respuesta:
                           </label>
                           <textarea
                             value={answers[idx] || ''}
                             onChange={(e) => updateAnswer(idx, e.target.value)}
                             placeholder="Escribe tu reflexión aquí..."
-                            className="w-full min-h-[120px] p-3 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-y"
+                            className="w-full min-h-[100px] sm:min-h-[120px] p-3 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-y text-xs sm:text-sm"
                           />
-                          <p className="text-xs text-slate-500 mt-1">
+                          <p className="text-[10px] sm:text-xs text-slate-500 mt-1">
                             {answers[idx]?.length || 0} caracteres
                           </p>
                         </div>
 
                         {/* Action Buttons */}
-                        <div className="flex gap-2">
-                          <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium">
+                        <div className="flex flex-wrap gap-2">
+                          <button className="w-full sm:w-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-xs sm:text-sm font-medium">
                             Guardar respuesta
                           </button>
                           <button
                             onClick={() => updateAnswer(idx, '')}
-                            className="px-4 py-2 bg-slate-200 text-slate-700 rounded-lg hover:bg-slate-300 transition-colors text-sm font-medium"
+                            className="w-full sm:w-auto px-4 py-2 bg-slate-200 text-slate-700 rounded-lg hover:bg-slate-300 transition-colors text-xs sm:text-sm font-medium"
                           >
                             Limpiar
                           </button>
@@ -179,30 +179,30 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
       })}
 
       {/* Study Methodology Info */}
-      <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-300 rounded-lg p-6 space-y-4">
-        <h3 className="text-lg font-bold text-slate-900">📚 Otras Metodologías de Estudio</h3>
+      <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-300 rounded-lg p-4 sm:p-6 space-y-4">
+        <h3 className="text-base sm:text-lg font-bold text-slate-900">📚 Otras Metodologías de Estudio</h3>
         <div className="grid md:grid-cols-2 gap-4">
-          <div className="bg-white rounded-lg p-4 border border-slate-200">
-            <h4 className="font-semibold text-slate-900 mb-2">Método Sintético</h4>
-            <p className="text-sm text-slate-600">
+          <div className="bg-white rounded-lg p-3 sm:p-4 border border-slate-200">
+            <h4 className="text-sm sm:text-base font-semibold text-slate-900 mb-2">Método Sintético</h4>
+            <p className="text-xs sm:text-sm text-slate-600">
               Estudia el libro completo de una vez para entender el argumento general del autor.
             </p>
           </div>
-          <div className="bg-white rounded-lg p-4 border border-slate-200">
-            <h4 className="font-semibold text-slate-900 mb-2">Método Biográfico</h4>
-            <p className="text-sm text-slate-600">
+          <div className="bg-white rounded-lg p-3 sm:p-4 border border-slate-200">
+            <h4 className="text-sm sm:text-base font-semibold text-slate-900 mb-2">Método Biográfico</h4>
+            <p className="text-xs sm:text-sm text-slate-600">
               Ideal para aprender de las virtudes y errores de personajes específicos.
             </p>
           </div>
-          <div className="bg-white rounded-lg p-4 border border-slate-200">
-            <h4 className="font-semibold text-slate-900 mb-2">Lectio Divina</h4>
-            <p className="text-sm text-slate-600">
+          <div className="bg-white rounded-lg p-3 sm:p-4 border border-slate-200">
+            <h4 className="text-sm sm:text-base font-semibold text-slate-900 mb-2">Lectio Divina</h4>
+            <p className="text-xs sm:text-sm text-slate-600">
               Técnica contemplativa antigua enfocada en la meditación espiritual.
             </p>
           </div>
-          <div className="bg-white rounded-lg p-4 border border-slate-200">
-            <h4 className="font-semibold text-slate-900 mb-2">Herramientas Esenciales</h4>
-            <p className="text-sm text-slate-600">
+          <div className="bg-white rounded-lg p-3 sm:p-4 border border-slate-200">
+            <h4 className="text-sm sm:text-base font-semibold text-slate-900 mb-2">Herramientas Esenciales</h4>
+            <p className="text-xs sm:text-sm text-slate-600">
               Versiones múltiples, comentarios bíblicos y concordancias para profundizar.
             </p>
           </div>
@@ -210,10 +210,10 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
       </div>
 
       {/* Progress Indicator */}
-      <div className="bg-white border border-slate-200 rounded-lg p-4">
+      <div className="bg-white border border-slate-200 rounded-lg p-3 sm:p-4">
         <div className="flex items-center justify-between mb-2">
-          <span className="text-sm font-semibold text-slate-700">Progreso de respuestas</span>
-          <span className="text-sm text-slate-500">
+          <span className="text-xs sm:text-sm font-semibold text-slate-700">Progreso de respuestas</span>
+          <span className="text-xs sm:text-sm text-slate-500">
             {Object.keys(answers).filter((k) => answers[parseInt(k, 10)]?.trim().length > 0).length} de {questions.length}
           </span>
         </div>

@@ -36,6 +36,7 @@ const translations = {
     'tab.text': 'Texto',
     'tab.analysis': 'Análisis',
     'tab.etymology': 'Etimología',
+    'tab.lexicon': 'Lexicón',
     'tab.connections': 'Conexiones',
     'tab.reflection': 'Reflexión',
 
@@ -69,6 +70,11 @@ const translations = {
     // Theme
     'theme.darkMode': 'Modo Oscuro',
     'theme.lightMode': 'Modo Claro',
+
+    // Navigation
+    'nav.home': 'Inicio',
+    'nav.library': 'Biblioteca',
+    'nav.progress': 'Progreso',
   },
   en: {
     // Library Page
@@ -89,6 +95,7 @@ const translations = {
     'tab.text': 'Text',
     'tab.analysis': 'Analysis',
     'tab.etymology': 'Etymology',
+    'tab.lexicon': 'Lexicon',
     'tab.connections': 'Connections',
     'tab.reflection': 'Reflection',
 
@@ -122,6 +129,11 @@ const translations = {
     // Theme
     'theme.darkMode': 'Dark Mode',
     'theme.lightMode': 'Light Mode',
+
+    // Navigation
+    'nav.home': 'Home',
+    'nav.library': 'Library',
+    'nav.progress': 'Progress',
   },
 } as const;
 
