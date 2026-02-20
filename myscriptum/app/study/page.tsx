@@ -8,12 +8,13 @@ import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
 import { TextTab } from '@/components/Study/TextTab';
 import { AnalysisTab } from '@/components/Study/AnalysisTab';
 import { EtymologyTab } from '@/components/Study/EtymologyTab';
+import { LexiconTab } from '@/components/Study/LexiconTab';
 import { ConnectionsTab } from '@/components/Study/ConnectionsTab';
 import { QuestionsTab } from '@/components/Study/QuestionsTab';
 import { ezequiel1Data } from '@/data/ezequiel1';
 import { loadChapterText, BibleVersion, ChapterText } from '@/lib/bible/loader';
 
-type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
+type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'lexicon' | 'connections' | 'questions';
 
 export default function StudyPage() {
   const [activeTab, setActiveTab] = useState<TabId>('context');
@@ -64,6 +65,8 @@ export default function StudyPage() {
         return <AnalysisTab structuralAnalysis={ezequiel1Data.structuralAnalysis} />;
       case 'etymology':
         return <EtymologyTab keyWords={ezequiel1Data.keyWords} />;
+      case 'lexicon':
+        return <LexiconTab />;
       case 'connections':
         return <ConnectionsTab connections={ezequiel1Data.connections} />;
       case 'questions':
