@@ -1,4 +1,4 @@
-// Real Biblical Lexicon from STEPBible.org
+﻿// Real Biblical Lexicon from STEPBible.org
 // License: Creative Commons Attribution 4.0 (CC BY 4.0)
 // Source: https://github.com/STEPBible/STEPBible-Data
 
@@ -17,7 +17,7 @@ export interface SearchIndex {
 }
 
 // 22720 total lexicon entries
-export const realLexicon = [
+export const realLexicon: ReadonlyArray<RealLexiconEntry> = [
   {
     "strong": "H0001",
     "lemma": "H0001G =",
@@ -204498,7 +204498,7 @@ export const realLexicon = [
     "type": "Henia",
     "language": "greek"
   }
-] as const satisfies RealLexiconEntry[];
+] as ReadonlyArray<RealLexiconEntry>;
 
 // COMPREHENSIVE search index - Spanish AND English keywords
 export const searchIndex: SearchIndex = {
@@ -383888,9 +383888,12 @@ export function searchLexicon(keyword: string): RealLexiconEntry[] {
   
   return strongNumbers
     .map(strong => realLexicon.find(e => e.strong === strong))
-    .filter((e): e is RealLexiconEntry => e !== undefined);
+    .filter((e): e is RealLexiconEntry => e != null) as RealLexiconEntry[];
 }
 
 export function getByStrongs(strongNumber: string): RealLexiconEntry | undefined {
   return realLexicon.find(e => e.strong === strongNumber);
 }
+
+
+
