@@ -12,6 +12,7 @@ import { EtymologyTab } from '@/components/Study/EtymologyTab';
 import { LexiconTab } from '@/components/Study/LexiconTab';
 import { ConnectionsTab } from '@/components/Study/ConnectionsTab';
 import { QuestionsTab } from '@/components/Study/QuestionsTab';
+import { ChapterNavDropdown } from '@/components/Study/ChapterNavDropdown';
 import { ezequiel1Data } from '@/data/ezequiel1';
 import { loadChapterText, BibleVersion, ChapterText } from '@/lib/bible/loader';
 import { 
@@ -293,6 +294,9 @@ export default function StudyPageDynamic() {
             </div>
 
             <div className="flex flex-wrap justify-center sm:justify-end gap-2 items-center">
+              {/* Chapter Navigation Dropdown */}
+              <ChapterNavDropdown currentBook={bookSlug} currentChapter={chapterNum} palette={palette} />
+
               {/* Language buttons */}
               <div className="flex gap-1 border-r pr-2 sm:pr-3 text-xs" style={{ borderColor: palette.accent.primary }}>
                 <button

@@ -47,9 +47,10 @@ export async function GET(request: Request, { params }: { params: Promise<RouteP
     const resolvedBook = ANALYSIS_BOOK_SLUGS[book] ?? book;
     
     // Fetch from public directory instead of using readFileSync
+    const origin = new URL(request.url).origin;
     const baseUrl = process.env.VERCEL_URL 
       ? `https://${process.env.VERCEL_URL}` 
-      : 'http://localhost:3000';
+      : origin;
     const jsonUrl = `${baseUrl}/data/bible/${type}/${resolvedBook}/${chapterNum}.json`;
 
     console.log(`📁 API: Fetching ${type} from ${jsonUrl}`);

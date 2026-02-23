@@ -17,7 +17,7 @@ export interface SearchIndex {
 }
 
 // 22720 total lexicon entries
-export const realLexicon: RealLexiconEntry[] = [
+export const realLexicon = [
   {
     "strong": "H0001",
     "lemma": "H0001G =",
@@ -204498,7 +204498,7 @@ export const realLexicon: RealLexiconEntry[] = [
     "type": "Henia",
     "language": "greek"
   }
-];
+] as const satisfies RealLexiconEntry[];
 
 // COMPREHENSIVE search index - Spanish AND English keywords
 export const searchIndex: SearchIndex = {
