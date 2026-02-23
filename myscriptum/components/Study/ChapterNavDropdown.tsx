@@ -4,12 +4,30 @@ import { useState, useEffect, useMemo, useCallback, memo } from 'react';
 import { ChevronDown } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
-import type { TestamentEntry, BookEntry } from '@/data/bibleCatalog';
+import type { TestamentEntry } from '@/data/bibleCatalog';
+
+interface Palette {
+  bg: {
+    primary: string;
+    secondary: string;
+    header: string;
+  };
+  text: {
+    primary: string;
+    secondary: string;
+    light: string;
+  };
+  accent: {
+    primary: string;
+    secondary: string;
+  };
+  border: string;
+}
 
 interface Props {
   currentBook: string;
   currentChapter: number;
-  palette: any;
+  palette: Palette;
 }
 
 function ChapterNavDropdownInner({ currentBook, currentChapter, palette }: Props) {
