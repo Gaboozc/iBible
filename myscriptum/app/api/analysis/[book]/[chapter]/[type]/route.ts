@@ -1,4 +1,6 @@
 import { NextResponse } from 'next/server';
+import fs from 'fs';
+import path from 'path';
 
 interface RouteParams {
   book: string;
@@ -33,6 +35,21 @@ const ANALYSIS_BOOK_SLUGS: Record<string, string> = {
   romanos: 'romans',
 };
 
+function resolveDataRoot(): string | null {
+  const candidates = [
+    path.join(process.cwd(), 'data', 'bible'),
+    path.join(process.cwd(), 'myscriptum', 'data', 'bible'),
+  ];
+
+  for (const candidate of candidates) {
+    if (fs.existsSync(candidate)) {
+      return candidate;
+    }
+  }
+
+  return null;
+}
+
 export async function GET(request: Request, { params }: { params: Promise<RouteParams> }) {
   const resolvedParams = await params;
   const { book, chapter, type } = resolvedParams;
@@ -46,27 +63,25 @@ export async function GET(request: Request, { params }: { params: Promise<RouteP
 
     const resolvedBook = ANALYSIS_BOOK_SLUGS[book] ?? book;
     
-    // Fetch from public directory instead of using readFileSync
-    const origin = new URL(request.url).origin;
-    const baseUrl = process.env.VERCEL_URL 
-      ? `https://${process.env.VERCEL_URL}` 
-      : origin;
-    const jsonUrl = `${baseUrl}/data/bible/${type}/${resolvedBook}/${chapterNum}.json`;
-
-    console.log(`📁 API: Fetching ${type} from ${jsonUrl}`);
-
-    const response = await fetch(jsonUrl, { cache: 'force-cache' });
-    
-    if (!response.ok) {
-      console.log(`❌ API: Not found: ${jsonUrl}`);
-      return NextResponse.json({ error: 'Not found' }, { status: 404 });
+    const dataRoot = resolveDataRoot();
+    if (!dataRoot) {
+      console.error('❌ API: data/bible directory not found');
+      return NextResponse.json({ error: 'Data directory not found' }, { status: 500 });
     }
 
-    const data = await response.json();
+    const filePath = path.join(dataRoot, type, resolvedBook, `${chapterNum}.json`);
+    console.log(`📁 API: Reading ${type} from ${filePath}`);
+
+    const fileContents = await fs.promises.readFile(filePath, 'utf8');
+    const data = JSON.parse(fileContents);
 
     console.log(`✅ API: ${type} loaded successfully`);
     return NextResponse.json(data);
   } catch (error) {
+    const err = error as NodeJS.ErrnoException;
+    if (err.code === 'ENOENT') {
+      return NextResponse.json({ error: 'Not found' }, { status: 404 });
+    }
     console.error(`❌ API Error loading ${type}:`, error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
