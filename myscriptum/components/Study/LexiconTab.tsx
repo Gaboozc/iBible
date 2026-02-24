@@ -1,9 +1,10 @@
 'use client';
 
 import { Search, BookOpen, ExternalLink } from 'lucide-react';
-import { useState, useMemo } from 'react';
-import { searchLexicon, type RealLexiconEntry } from '@/data/real-lexicon';
+import { useState, useEffect, useTransition } from 'react';
+import { searchLexiconAction } from '@/lib/actions/lexicon';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
+import type { RealLexiconEntry } from '@/data/real-lexicon';
 
 interface LexiconTabProps {
   isActive?: boolean;
@@ -13,13 +14,27 @@ export function LexiconTab({}: LexiconTabProps) {
   const { language } = useLanguage();
   const [query, setQuery] = useState('');
   const [selectedEntry, setSelectedEntry] = useState<RealLexiconEntry | null>(null);
+  const [results, setResults] = useState<RealLexiconEntry[]>([]);
+  const [isPending, startTransition] = useTransition();
 
-  const results = useMemo(() => {
+  useEffect(() => {
     const trimmed = query.trim().toLowerCase();
-    if (!trimmed || trimmed.length < 2) return [];
-    
-    return searchLexicon(trimmed).slice(0, 50); // Limit to 50 results
+    if (!trimmed || trimmed.length < 2) {
+      return;
+    }
+
+    startTransition(async () => {
+      try {
+        const data = await searchLexiconAction(trimmed);
+        setResults(data);
+      } catch (err) {
+        console.error('Lexicon search error:', err);
+      }
+    });
   }, [query]);
+
+  // Clear results when query is too short
+  const displayResults = query.trim().length >= 2 ? results : [];
 
   const isSpanish = language === 'es';
   
@@ -83,9 +98,9 @@ export function LexiconTab({}: LexiconTabProps) {
         {/* Results */}
         {query.trim().length > 0 && (
           <div className="space-y-2">
-            {results.length === 0 ? (
+            {displayResults.length === 0 ? (
               <div className="text-xs sm:text-sm text-slate-500 py-4 text-center">
-                {getText(
+                {isPending ? getText('Buscando...', 'Searching...') : getText(
                   'No se encontraron resultados. Intenta con otra palabra.',
                   'No results found. Try another word.'
                 )}
@@ -94,12 +109,12 @@ export function LexiconTab({}: LexiconTabProps) {
               <>
                 <p className="text-xs sm:text-sm font-medium text-slate-600">
                   {getText(
-                    `${results.length} ${results.length === 1 ? 'resultado' : 'resultados'} encontrados:`,
-                    `${results.length} ${results.length === 1 ? 'result' : 'results'} found:`
+                    `${displayResults.length} ${displayResults.length === 1 ? 'resultado' : 'resultados'} encontrados:`,
+                    `${displayResults.length} ${displayResults.length === 1 ? 'result' : 'results'} found:`
                   )}
                 </p>
                 <div className="space-y-2 max-h-[400px] sm:max-h-[500px] overflow-y-auto pr-1">
-                  {results.map((entry) => (
+                  {displayResults.map((entry) => (
                     <button
                       key={entry.strong}
                       onClick={() => setSelectedEntry(selectedEntry?.strong === entry.strong ? null : entry)}
