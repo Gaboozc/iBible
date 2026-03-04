@@ -432,12 +432,14 @@ function buildSectionRanges(totalVerses: number): Array<[number, number]> {
   const second = Math.ceil(totalVerses * 0.5);
   const third = Math.ceil(totalVerses * 0.75);
 
-  return [
+  const ranges: Array<[number, number]> = [
     [1, first],
     [first + 1, second],
     [second + 1, third],
     [third + 1, totalVerses],
-  ].filter(([from, to]) => from <= to);
+  ];
+
+  return ranges.filter(([from, to]) => from <= to);
 }
 
 function sectionTitleByIndex(index: number, total: number): string {
