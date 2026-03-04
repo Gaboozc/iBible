@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 1",
+  "title": "Análisis Estructural de Eclesiastés 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en vanidad y predicador. Inicia con “PALABRAS del Predicador, hijo de David, rey en Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en nuevo y viento. Inicia con “El viento tira hacia el mediodía, y rodea al norte; va girando de continuo, y á sus giros torna el viento de nuevo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en aqui y memoria. Inicia con “¿Hay algo de que se pueda decir: He aquí esto es nuevo? Ya fué en los siglos que nos han precedido.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en sabiduria y corazon. Inicia con “Lo torcido no se puede enderezar; y lo falto no puede contarse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sabiduria",
+      "count": 5,
+      "significance": "La recurrencia de “sabiduria” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vanidad",
+      "count": 4,
+      "significance": "La recurrencia de “vanidad” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 1."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 1."
+    },
+    {
+      "word": "debajo",
+      "count": 4,
+      "significance": "La recurrencia de “debajo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 1."
     }
   ]
 }

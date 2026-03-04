@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 101",
+  "title": "Análisis Estructural de Salmos 101",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 101.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en cantare y corazon. Inicia con “Salmo de David. MISERICORDIA y juicio cantaré: á ti cantaré yo, oh Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 101, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-8",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en ojos y cortare. Inicia con “Al que solapadamente infama á su prójimo, yo le cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 101, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ojos",
+      "count": 4,
+      "significance": "La recurrencia de “ojos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 101."
     },
     {
-      "word": "Motivo literario",
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 101."
+    },
+    {
+      "word": "cantare",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “cantare” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 101."
+    },
+    {
+      "word": "camino",
+      "count": 2,
+      "significance": "La recurrencia de “camino” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 101."
     }
   ]
 }

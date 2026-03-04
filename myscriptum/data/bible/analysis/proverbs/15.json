@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 15",
+  "title": "Análisis Estructural de Proverbios 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en lengua y sabios. Inicia con “LA blanda respuesta quita la ira: mas la palabra áspera hace subir el furor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en corazon y mejor. Inicia con “La reconvención es molesta al que deja el camino: y el que aborreciere la corrección, morirá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en hombre y camino. Inicia con “El hombre iracundo mueve contiendas: mas el que tarde se enoja, apaciguará la rencilla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en corazon y impios. Inicia con “Abominación son á Jehová los pensamientos del malo: mas las expresiones de los limpios son* limpias.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "corazon",
+      "count": 7,
+      "significance": "La recurrencia de “corazon” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sabios",
+      "count": 4,
+      "significance": "La recurrencia de “sabios” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 15."
+    },
+    {
+      "word": "sabiduria",
+      "count": 4,
+      "significance": "La recurrencia de “sabiduria” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 15."
+    },
+    {
+      "word": "boca",
+      "count": 4,
+      "significance": "La recurrencia de “boca” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 15."
     }
   ]
 }

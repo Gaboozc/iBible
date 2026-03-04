@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades herodianas y romanas",
+  "kingRegion": "Galilea y Judea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Mark capítulo 9 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie durante los eventos",
+  "location": "Principalmente Galilea, camino a Jerusalén",
+  "summary": "Marcos enfatiza acción, autoridad y sufrimiento del Siervo-Mesías. En Marcos 9, el capítulo contiene 50 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesus, fuego, elias. Señales textuales: “TAMBIÉN les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan vi…” | “Entonces el espíritu* clamando y desgarrándole mucho, salió; y él* quedó como muerto, de modo que muchos decían: Está m…” | “Buena es la sal; mas si la sal fuere desabrida, ¿con qué la adobaréis? Tened en vosotros mismos sal; y tened paz los un…”.",
+  "spiritualContext": "Llama a seguir a Cristo en fe, humildad y entrega de la cruz. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan jesus, fuego, elias. El núcleo del capítulo se percibe en “Entonces el espíritu* clamando y desgarrándole mucho, salió; y él* quedó como muerto, de modo que muchos decían: Está m…”."
 }

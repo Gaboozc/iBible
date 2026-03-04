@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Hosea 14",
+  "title": "Análisis Estructural de Oseas 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en israel y nuestros. Inicia con “CONVIÉRTETE, oh Israel, á Jehová tu Dios: porque por tu pecado has caído.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-9",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en libano y extenderse. Inicia con “Extenderse han sus ramos, y será su gloria como la de la oliva, y olerá como el Líbano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "libano",
+      "count": 3,
+      "significance": "La recurrencia de “libano” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 14."
     },
     {
-      "word": "Motivo literario",
+      "word": "israel",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “israel” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 14."
+    },
+    {
+      "word": "nuestros",
+      "count": 2,
+      "significance": "La recurrencia de “nuestros” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 14."
+    },
+    {
+      "word": "sere",
+      "count": 2,
+      "significance": "La recurrencia de “sere” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 14."
     }
   ]
 }

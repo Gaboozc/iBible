@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "2-kings capítulo 20 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "2 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Reyes 20, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ezechias, isaias, casa. Señales textuales: “EN aquellos días cayó Ezechîas enfermo de muerte, y vino á él Isaías profeta hijo de Amós, y díjole: Jehová dice así: D…” | “Entonces el profeta Isaías clamó á Jehová; é hizo volver la sombra por los grados que había descendido en el reloj de A…” | “Y durmió Ezechîas con sus padres, y reinó en su lugar Manasés su hijo.”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ezechias, isaias, casa. El núcleo del capítulo se percibe en “Entonces el profeta Isaías clamó á Jehová; é hizo volver la sombra por los grados que había descendido en el reloj de A…”."
 }

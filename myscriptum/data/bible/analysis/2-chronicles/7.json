@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 7",
+  "title": "Análisis Estructural de 2 Crónicas 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y gloria. Inicia con “Y COMO Salomón acabó de orar, el fuego descendió de los cielos, y consumió el holocausto y las víctimas; y la gloria de Jehová hinchió la c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en salomon y casa. Inicia con “También santificó Salomón el medio del atrio que estaba delante de la casa de Jehová, por cuanto había ofrecido allí los holocaustos, y los…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en oracion y elegido. Inicia con “Y apareció Jehová á Salomón de noche, y díjole: Yo he oído tu oración, y he elegido para mí este lugar por casa de sacrificio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 7, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en tierra y casa. Inicia con “Yo confirmaré el trono de tu reino, como concerté con David tu padre, diciendo: No faltará varón de ti que domine en Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 15,
+      "significance": "La recurrencia de “casa” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "salomon",
+      "count": 9,
+      "significance": "La recurrencia de “salomon” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 7."
+    },
+    {
+      "word": "todo",
+      "count": 7,
+      "significance": "La recurrencia de “todo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 7."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 7."
     }
   ]
 }

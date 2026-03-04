@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 33",
+  "title": "Análisis Estructural de Génesis 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en ninos y ojos. Inicia con “Y ALZANDO Jacob sus ojos miró, y he aquí venía Esaú, y los cuatrocientos hombres con él: entonces repartió él los niños entre Lea y Rachêl…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en ninos y inclinaronse. Inicia con “Y se llegaron las siervas, ellas y sus niños, é inclináronse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en senor y delante. Inicia con “Toma, te ruego, mi dádiva que te es traída; porque Dios me ha hecho merced, y todo lo que hay aquí* es mío. Y porfió con él, y tomóla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en jacob y succoth. Inicia con “Así se volvió Esaú aquel día por su camino á Seir.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ninos",
+      "count": 9,
+      "significance": "La recurrencia de “ninos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "delante",
+      "count": 6,
+      "significance": "La recurrencia de “delante” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 33."
+    },
+    {
+      "word": "ojos",
+      "count": 5,
+      "significance": "La recurrencia de “ojos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 33."
+    },
+    {
+      "word": "esau",
+      "count": 5,
+      "significance": "La recurrencia de “esau” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 33."
     }
   ]
 }

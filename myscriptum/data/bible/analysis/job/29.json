@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 29",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en dias y hacia. Inicia con “Y VOLVIÓ Job á tomar su propósito, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en veian y mozos. Inicia con “Los mozos me veían, y se escondían; y los viejos se levantaban, y estaban en pie;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en vestiame y justicia. Inicia con “Vestíame de justicia, y ella me vestía como un manto; y mi toca era juicio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en lluvia y honra. Inicia con “Mi honra se renovaba en mí, y mi arco se corroboraba en mi mano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dias",
+      "count": 3,
+      "significance": "La recurrencia de “dias” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 29."
     },
     {
-      "word": "Motivo literario",
+      "word": "hacia",
+      "count": 3,
+      "significance": "La recurrencia de “hacia” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 29."
+    },
+    {
+      "word": "juicio",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “juicio” (2) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Job 29."
+    },
+    {
+      "word": "veian",
+      "count": 2,
+      "significance": "La recurrencia de “veian” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 29."
     }
   ]
 }

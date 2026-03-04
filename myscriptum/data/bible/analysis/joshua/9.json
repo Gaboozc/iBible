@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 9",
+  "title": "Análisis Estructural de Josué 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en viejos y nosotros. Inicia con “Y ACONTECIÓ que como oyeron estas cosas* todos los reyes que estaban de esta parte del Jordán, así en las montañas como en los llanos, y en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en camino y nosotros. Inicia con “Y ellos respondieron á Josué: Nosotros somos tus siervos. Y Josué les dijo: ¿Quién sois vosotros y de dónde venís?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en principes y congregacion. Inicia con “Y Josué hizo paz con ellos, y concertó con ellos que les dejaría la vida: también los príncipes de la congregación les juraron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en josue y habia. Inicia con “Y llamándolos Josué, les habló diciendo: ¿Por qué nos habéis engañado, diciendo, Habitamos muy lejos de vosotros; una vez que moráis en med…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nosotros",
+      "count": 11,
+      "significance": "La recurrencia de “nosotros” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "josue",
+      "count": 9,
+      "significance": "La recurrencia de “josue” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 9."
+    },
+    {
+      "word": "israel",
+      "count": 9,
+      "significance": "La recurrencia de “israel” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 9."
+    },
+    {
+      "word": "ahora",
+      "count": 6,
+      "significance": "La recurrencia de “ahora” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 9."
     }
   ]
 }

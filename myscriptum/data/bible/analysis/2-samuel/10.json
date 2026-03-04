@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 10",
+  "title": "Análisis Estructural de 2 Samuel 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en david y hanun. Inicia con “DESPUÉS de esto aconteció, que murió el rey de los hijos de Ammón: y reinó en lugar suyo Hanún su hijo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en siros y hijos. Inicia con “Y viendo los hijos de Ammón que se habían hecho odiosos á David, enviaron los hijos de Ammón y tomaron á sueldo á los Siros de la casa de R…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en siros y hijos. Inicia con “Y dijo: Si los Siros me fueren superiores, tú me ayudarás; y si los hijos de Ammón pudieren más que tú, yo te daré ayuda.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en siros y israel. Inicia con “Y envió Hadad-ezer, y sacó los Siros que estaban de la otra parte del río, los cuales vinieron á Helam, llevando por jefe á Sobach general…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "siros",
+      "count": 13,
+      "significance": "La recurrencia de “siros” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 12,
+      "significance": "La recurrencia de “david” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 10."
+    },
+    {
+      "word": "hijos",
+      "count": 10,
+      "significance": "La recurrencia de “hijos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 10."
+    },
+    {
+      "word": "ammon",
+      "count": 10,
+      "significance": "La recurrencia de “ammon” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 10."
     }
   ]
 }

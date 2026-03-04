@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 40",
+  "title": "Análisis Estructural de Éxodo 40",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en pondras y tabernaculo. Inicia con “Y JEHOVÁ habló á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en tabernaculo y hizo. Inicia con “Asimismo ungirás la fuente y su basa, y la santificarás.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en puso y tabernaculo. Inicia con “Y tomó y puso el testimonio dentro del arca, y colocó las varas en el arca, y encima la cubierta sobre el arca:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en tabernaculo y nube. Inicia con “Y puso la fuente entre el tabernáculo del testimonio y el altar; y puso en ella agua para lavar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tabernaculo",
+      "count": 26,
+      "significance": "La recurrencia de “tabernaculo” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 40."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "testimonio",
+      "count": 16,
+      "significance": "La recurrencia de “testimonio” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 40."
+    },
+    {
+      "word": "moises",
+      "count": 13,
+      "significance": "La recurrencia de “moises” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 40."
+    },
+    {
+      "word": "puso",
+      "count": 12,
+      "significance": "La recurrencia de “puso” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 40."
     }
   ]
 }

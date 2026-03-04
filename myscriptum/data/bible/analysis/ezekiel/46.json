@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 46",
+  "title": "Análisis Estructural de Ezequiel 46",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 46.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en puerta y seis. Inicia con “ASÍ ha dicho el Señor Jehová: La puerta del atrio de adentro que mira al oriente, estará cerrada los seis días de trabajo, y el día del sáb…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en puerta y epha. Inicia con “Y hará presente de un epha con el becerro, y un epha con cada carnero: mas con los corderos, conforme á su facultad; y un hin de aceite por…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en herencia y cada. Inicia con “Y sacrificarás á Jehová cada día en holocausto un cordero de un año sin defecto, cada mañana lo sacrificarás.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en habia y atrio. Inicia con “Metióme después por la entrada que estaba hacia la puerta, á las cámaras santas de los sacerdotes, las cuales miraban al norte, y había all…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "puerta",
+      "count": 15,
+      "significance": "La recurrencia de “puerta” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 46."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cada",
+      "count": 11,
+      "significance": "La recurrencia de “cada” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 46."
+    },
+    {
+      "word": "epha",
+      "count": 9,
+      "significance": "La recurrencia de “epha” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 46."
+    },
+    {
+      "word": "principe",
+      "count": 8,
+      "significance": "La recurrencia de “principe” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 46."
     }
   ]
 }

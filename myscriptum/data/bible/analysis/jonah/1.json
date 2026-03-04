@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jonah 1",
+  "title": "Análisis Estructural de Jonás 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en jonas y tarsis. Inicia con “Y FUÉ palabra de Jehová á Jonás, hijo de Amittai, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en tienes y dijeron. Inicia con “Y el maestre de la nave se llegó á él, y le dijo: ¿Qué tienes, dormilón? Levántate, y clama á tu Dios; quizá él tendrá compasión de nosotro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en hombres y dijeronle. Inicia con “Y aquellos hombres temieron sobremanera, y dijéronle: ¿Por qué has hecho esto? Porque ellos entendieron que huía de delante de Jehová, porq…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en nosotros y entonces. Inicia con “Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre n…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jonas",
+      "count": 5,
+      "significance": "La recurrencia de “jonas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nave",
+      "count": 4,
+      "significance": "La recurrencia de “nave” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 1."
+    },
+    {
+      "word": "habia",
+      "count": 4,
+      "significance": "La recurrencia de “habia” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 1."
+    },
+    {
+      "word": "delante",
+      "count": 3,
+      "significance": "La recurrencia de “delante” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 1."
     }
   ]
 }

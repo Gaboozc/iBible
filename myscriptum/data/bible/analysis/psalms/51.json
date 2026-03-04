@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 51",
+  "title": "Análisis Estructural de Salmos 51",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 51.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pecado y conforme. Inicia con “Al Músico principal: Salmo de David, cuando después que entró á Bathsebah, vino á él Nathán el profeta. TEN piedad de mí, oh Dios, conforme…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 51, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en sere y limpio. Inicia con “He aquí, tú amas la verdad en lo íntimo: y en lo secreto me has hecho comprender sabiduría.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 51, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en espiritu y salud. Inicia con “No me eches de delante de ti; y no quites de mí tu santo espíritu.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 51, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en quieres y holocausto. Inicia con “Porque no quieres tú sacrificio, que yo daría; no quieres holocausto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 51, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pecado",
+      "count": 4,
+      "significance": "La recurrencia de “pecado” (4) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 51."
     },
     {
-      "word": "Motivo literario",
+      "word": "espiritu",
+      "count": 4,
+      "significance": "La recurrencia de “espiritu” (4) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Salmos 51."
+    },
+    {
+      "word": "delante",
+      "count": 3,
+      "significance": "La recurrencia de “delante” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 51."
+    },
+    {
+      "word": "conforme",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “conforme” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 51."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hosea 9",
+  "title": "Análisis Estructural de Oseas 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pues y seran. Inicia con “NO te alegres, oh Israel, hasta saltar de gozo como los pueblos, pues has fornicado apartándote* de tu Dios: amaste salario por todas las e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en dias y causa. Inicia con “Porque, he aquí se fueron ellos á causa de la destrucción: Egipto los recogerá, Memphis los enterrará: espino poseerá por heredad lo deseab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en ephraim y hijos. Inicia con “Como uvas en el desierto hallé á Israel: como la fruta temprana de la higuera en su principio vi á vuestros padres. Ellos entraron á Baal-p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en dales y matriz. Inicia con “Dales, oh Jehová, lo que les has de dar: dales matriz expeliente, y enjutos pechos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ephraim",
+      "count": 6,
+      "significance": "La recurrencia de “ephraim” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 3,
+      "significance": "La recurrencia de “israel” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 9."
+    },
+    {
+      "word": "pues",
+      "count": 3,
+      "significance": "La recurrencia de “pues” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 9."
+    },
+    {
+      "word": "todos",
+      "count": 3,
+      "significance": "La recurrencia de “todos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 9."
     }
   ]
 }

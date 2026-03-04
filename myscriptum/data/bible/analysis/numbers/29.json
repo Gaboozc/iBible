@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 29",
+  "title": "Análisis Estructural de Números 29",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en cada y holocausto. Inicia con “Y EL séptimo mes, al primero del mes tendréis santa convocación: ninguna obra servil haréis; os será día de sonar las trompetas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en becerros y carneros. Inicia con “Un macho cabrío por expiación: además de la ofrenda de las expiaciones por el pecado, y del holocausto continuo, y de sus presentes, y de s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en becerros y carneros. Inicia con “Y sus presentes y sus libaciones con los becerros, con los carneros, y con los corderos, según el número de ellos, conforme á la ley;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en ademas y holocausto. Inicia con “Y un macho cabrío por expiación: además del holocausto continuo, su presente y sus libaciones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "corderos",
+      "count": 20,
+      "significance": "La recurrencia de “corderos” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 29."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "holocausto",
+      "count": 15,
+      "significance": "La recurrencia de “holocausto” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 29."
+    },
+    {
+      "word": "becerros",
+      "count": 14,
+      "significance": "La recurrencia de “becerros” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 29."
+    },
+    {
+      "word": "carneros",
+      "count": 14,
+      "significance": "La recurrencia de “carneros” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 29."
     }
   ]
 }

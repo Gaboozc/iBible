@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 25",
+  "title": "Análisis Estructural de 2 Reyes 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en babilonia y ciudad. Inicia con “Y ACONTECIÓ á los nueve años de su reinado, en el mes décimo, á los diez del mes, que Nabucodonosor rey de Babilonia vino con todo su ejérc…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en casa y capitan. Inicia con “Y quemó la casa de Jehová, y la casa del rey, y todas las casas de Jerusalem; y todas las casas de los príncipes quemó á fuego.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en hijo y habia. Inicia con “Las dos columnas, un mar, y las basas que Salomón había hecho para la casa de Jehová: no había peso de todos estos vasos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en caldeos y babilonia. Inicia con “Entonces Gedalías les hizo juramento, á ellos y á los suyos, y díjoles: No temáis de ser* siervos de los Caldeos; habitad en la tierra, y s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "babilonia",
+      "count": 14,
+      "significance": "La recurrencia de “babilonia” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciudad",
+      "count": 8,
+      "significance": "La recurrencia de “ciudad” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 25."
+    },
+    {
+      "word": "hijo",
+      "count": 8,
+      "significance": "La recurrencia de “hijo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 25."
+    },
+    {
+      "word": "ejercito",
+      "count": 7,
+      "significance": "La recurrencia de “ejercito” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 25."
     }
   ]
 }

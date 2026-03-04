@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 11",
+  "title": "Análisis Estructural de Génesis 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en tierra y toda. Inicia con “ERA entonces toda la tierra de una lengua y unas mismas palabras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en engendro y anos. Inicia con “Por esto fué llamado el nombre de ella Babel, porque allí confundió Jehová el lenguaje de toda la tierra, y desde allí los esparció sobre l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en engendro y vivio. Inicia con “Y vivió Heber, después que engendró á Peleg, cuatrocientos y treinta años, y engendró hijos é hijas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en thare y haran. Inicia con “Y vivió Nachôr, después que engendró á Thare, ciento diecinueve años, y engendró hijos é hijas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "engendro",
+      "count": 27,
+      "significance": "La recurrencia de “engendro” (27) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "anos",
+      "count": 19,
+      "significance": "La recurrencia de “anos” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 11."
+    },
+    {
+      "word": "vivio",
+      "count": 16,
+      "significance": "La recurrencia de “vivio” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 11."
+    },
+    {
+      "word": "hijos",
+      "count": 9,
+      "significance": "La recurrencia de “hijos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 11."
     }
   ]
 }

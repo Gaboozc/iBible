@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Composición multiépoca (monarquía, exilio y postexilio)",
+  "dominantEmpire": "Varía según salmo y época",
+  "kingName": "Principalmente periodo davídico y posterior",
+  "kingRegion": "Israel/Judá y comunidades en dispersión",
   "activeProphets": [
-    "Profetas según el período"
+    "David y autores litúrgicos de Israel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Psalms capítulo 146 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Adoración centrada en templo/tabernáculo según época",
+  "location": "Sion y contexto de peregrinación/exilio",
+  "summary": "Salmos es el himnario teológico de Israel: lamento, alabanza, sabiduría y confianza mesiánica. En Salmos 146, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: aleluya, tierra, cuya. Señales textuales: “Aleluya. ALABA, oh alma mía, á Jehová.” | “El cual hizo los cielos y la tierra, la mar, y todo lo que en ellos hay; que guarda verdad para siempre;” | “Reinará Jehová para siempre; tu Dios, oh Sión, por generación y generación. Aleluya.”.",
+  "spiritualContext": "Modela oración honesta delante de Dios en sufrimiento, arrepentimiento, guerra y esperanza. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan aleluya, tierra, cuya. El núcleo del capítulo se percibe en “El cual hizo los cielos y la tierra, la mar, y todo lo que en ellos hay; que guarda verdad para siempre;”."
 }

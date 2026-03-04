@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 18",
+  "title": "Análisis Estructural de Lucas 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en hombre y justicia. Inicia con “Y PROPÚSOLES también una parábola sobre que es necesario orar siempre, y no desmayar,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-22",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 22 con foco léxico en jesus y bueno. Inicia con “Ayuno dos veces á la semana, doy diezmos de todo lo que poseo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 18, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "23-33",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 23 al 33 con foco léxico en reino y entonces. Inicia con “Entonces él, oídas estas cosas, se puso muy triste, porque era muy rico.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 18, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "34-43",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 34 al 43 con foco léxico en jesus y entendian. Inicia con “Pero ellos nada de estas cosas entendían, y esta palabra les era encubierta, y no entendían lo que se decía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 18, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 9,
+      "significance": "La recurrencia de “jesus” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "diciendo",
+      "count": 6,
+      "significance": "La recurrencia de “diciendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 18."
+    },
+    {
+      "word": "reino",
+      "count": 5,
+      "significance": "La recurrencia de “reino” (5) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Lucas 18."
+    },
+    {
+      "word": "hombre",
+      "count": 4,
+      "significance": "La recurrencia de “hombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 18."
     }
   ]
 }

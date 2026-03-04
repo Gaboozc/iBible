@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 149",
+  "title": "Análisis Estructural de Salmos 149",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 149.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en aleluya y cantad. Inicia con “Aleluya. CANTAD á Jehová canción nueva: su alabanza sea* en la congregación de los santos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 149, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-9",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en ensalzamientos y modularan. Inicia con “Ensalzamientos de Dios modularán* en sus gargantas, y espadas de dos filos habrá* en sus manos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 149, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "aleluya",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “aleluya” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 149."
     },
     {
-      "word": "Motivo literario",
+      "word": "santos",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “santos” (2) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Salmos 149."
+    },
+    {
+      "word": "gloria",
+      "count": 2,
+      "significance": "La recurrencia de “gloria” (2) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Salmos 149."
+    },
+    {
+      "word": "cantad",
+      "count": 1,
+      "significance": "La recurrencia de “cantad” (1) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 149."
     }
   ]
 }

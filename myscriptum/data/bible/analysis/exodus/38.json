@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 38",
+  "title": "Análisis Estructural de Éxodo 38",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 38.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hizo y metal. Inicia con “IGUALMENTE hizo el altar del holocausto de madera de Sittim: su longitud de cinco codos, y su anchura de otros cinco codos, cuadrado, y de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en columnas y cortinas. Inicia con “Hizo asimismo el atrio; á la parte austral del mediodía las cortinas del atrio eran de cien codos, de lino torcido:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en plata y columnas. Inicia con “Y las basas de las columnas eran de metal; los capiteles de las columnas y sus molduras, de plata; asimismo las cubiertas de las cabezas de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en basas y cien. Inicia con “Y la plata de los contados de la congregación fué cien talentos, y mil setecientos setenta y cinco siclos, según el siclo del santuario:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "metal",
+      "count": 15,
+      "significance": "La recurrencia de “metal” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 38."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "columnas",
+      "count": 13,
+      "significance": "La recurrencia de “columnas” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 38."
+    },
+    {
+      "word": "basas",
+      "count": 13,
+      "significance": "La recurrencia de “basas” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 38."
+    },
+    {
+      "word": "hizo",
+      "count": 12,
+      "significance": "La recurrencia de “hizo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 38."
     }
   ]
 }

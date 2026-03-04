@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Malachi 3",
+  "title": "Análisis Estructural de Malaquías 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en aqui y ejercitos. Inicia con “HE aquí, yo envío mi mensajero, el cual preparará el camino delante de mí: y luego vendrá á su templo el Señor á quien vosotros buscáis, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en habeis y robado. Inicia con “Porque yo Jehová, no me mudo; y así vosotros, hijos de Jacob, no habéis sido consumidos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en dice y ejercitos. Inicia con “Traed todos los diezmos al alfolí, y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en sirve y entonces. Inicia con “Decimos pues ahora, que bienaventurados los soberbios, y también que los que hacen impiedad son los prosperados: bien que tentaron á Dios,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ejercitos",
+      "count": 8,
+      "significance": "La recurrencia de “ejercitos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dice",
+      "count": 5,
+      "significance": "La recurrencia de “dice” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 3."
+    },
+    {
+      "word": "habeis",
+      "count": 5,
+      "significance": "La recurrencia de “habeis” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 3."
+    },
+    {
+      "word": "dicho",
+      "count": 4,
+      "significance": "La recurrencia de “dicho” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 3."
     }
   ]
 }

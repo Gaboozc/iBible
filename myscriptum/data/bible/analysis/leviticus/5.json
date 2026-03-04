@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 5",
+  "title": "Análisis Estructural de Levítico 5",
   "sections": [
     {
       "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en inmundo y persona. Inicia con “Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en expiacion y pecado. Inicia con “Y para su expiación traerá á Jehová por su pecado que ha cometido, una hembra de los rebaños, una cordera ó una cabra como ofrenda de expia…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en expiacion y sacerdote. Inicia con “Mas si su posibilidad no alcanzare para dos tórtolas, ó dos palominos, el que pecó traerá por su ofrenda la décima parte de un epha de flor…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en sacerdote y pecado. Inicia con “Y pagará aquello de las cosas santas en que hubiere pecado, y añadirá á ello el quinto, y lo dará al sacerdote: y el sacerdote hará expiaci…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "expiacion",
+      "count": 17,
+      "significance": "La recurrencia de “expiacion” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sacerdote",
+      "count": 11,
+      "significance": "La recurrencia de “sacerdote” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 5."
+    },
+    {
+      "word": "pecado",
+      "count": 10,
+      "significance": "La recurrencia de “pecado” (10) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Levítico 5."
+    },
+    {
+      "word": "cosas",
+      "count": 7,
+      "significance": "La recurrencia de “cosas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 5."
     }
   ]
 }

@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Joel 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijos y hare. Inicia con “PORQUE he aquí que en aquellos días, y en aquel tiempo en que haré tornar la cautividad de Judá y de Jerusalem,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en vuestros y hijos. Inicia con “He aquí los levantaré yo del lugar donde los vendisteis, y volveré vuestra paga sobre vuestra cabeza:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en valle y gentes. Inicia con “Las gentes se despierten, y suban al valle de Josaphat: porque allí me sentaré para juzgar todas las gentes de alrededor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en juda y sion. Inicia con “Y conoceréis que yo soy Jehová vuestro Dios, que habito en Sión, monte de mi santidad: y será Jerusalem santa, y extraños no pasarán más po…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 7,
+      "significance": "La recurrencia de “hijos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juda",
+      "count": 6,
+      "significance": "La recurrencia de “juda” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 3."
+    },
+    {
+      "word": "jerusalem",
+      "count": 5,
+      "significance": "La recurrencia de “jerusalem” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 3."
+    },
+    {
+      "word": "gentes",
+      "count": 5,
+      "significance": "La recurrencia de “gentes” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 3."
     }
   ]
 }

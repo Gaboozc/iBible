@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 19",
+  "title": "Análisis Estructural de Deuteronomio 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y ciudades. Inicia con “CUANDO Jehová tu Dios talare las gentes, cuya tierra Jehová tu Dios te da á ti, y tú las heredares, y habitares en sus ciudades, y en sus c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en tres y ciudades. Inicia con “Por tanto yo te mando, diciendo: Tres ciudades te apartarás.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en contra y cualquier. Inicia con “Entonces los ancianos de su ciudad enviarán y lo sacarán de allí, y entregarlo han en mano del pariente del muerto, y morirá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en delante y jueces. Inicia con “Entonces los dos hombres litigantes se presentarán delante de Jehová, delante de los sacerdotes y jueces que fueren en aquellos días:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciudades",
+      "count": 6,
+      "significance": "La recurrencia de “ciudades” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 19."
+    },
+    {
+      "word": "tres",
+      "count": 6,
+      "significance": "La recurrencia de “tres” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 19."
+    },
+    {
+      "word": "projimo",
+      "count": 5,
+      "significance": "La recurrencia de “projimo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 19."
     }
   ]
 }

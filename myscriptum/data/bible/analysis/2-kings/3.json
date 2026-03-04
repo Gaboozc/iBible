@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 3",
+  "title": "Análisis Estructural de 2 Reyes 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y moab. Inicia con “Y JORAM hijo de Achâb comenzó á reinar en Samaria sobre Israel el año dieciocho de Josaphat rey de Judá; y reinó doce años.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en israel y josaphat. Inicia con “Y dijo: ¿Por qué camino iremos? Y él respondió: Por el camino del desierto de Idumea.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en toda y aguas. Inicia con “Mas ahora traedme un tañedor. Y mientras el tañedor tocaba, la mano de Jehová fué sobre Eliseo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en moab y aguas. Inicia con “Y como se levantaron por la mañana, y lució el sol sobre las aguas, vieron los de Moab desde lejos las aguas rojas como sangre;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 13,
+      "significance": "La recurrencia de “israel” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "moab",
+      "count": 10,
+      "significance": "La recurrencia de “moab” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 3."
+    },
+    {
+      "word": "josaphat",
+      "count": 6,
+      "significance": "La recurrencia de “josaphat” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 3."
+    },
+    {
+      "word": "aguas",
+      "count": 6,
+      "significance": "La recurrencia de “aguas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 3."
     }
   ]
 }

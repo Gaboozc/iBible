@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en sabiduria y boca. Inicia con “Y RESPONDIÓ Eliphaz Temanita, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en tienes y cosa. Inicia con “Entre nosotros también hay cano, también hay viejo mucho mayor en días que tu padre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en contra y tinieblas. Inicia con “A los cuales solos fué dada la tierra, y no pasó extraño por medio de ellos:)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en habito y ciudades. Inicia con “Y habitó las ciudades asoladas, las casas inhabitadas, que estaban puestas en montones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "boca",
+      "count": 4,
+      "significance": "La recurrencia de “boca” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 4,
+      "significance": "La recurrencia de “contra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 15."
+    },
+    {
+      "word": "iniquidad",
+      "count": 3,
+      "significance": "La recurrencia de “iniquidad” (3) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Job 15."
+    },
+    {
+      "word": "tinieblas",
+      "count": 3,
+      "significance": "La recurrencia de “tinieblas” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 15."
     }
   ]
 }

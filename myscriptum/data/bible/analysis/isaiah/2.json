@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 2",
+  "title": "Análisis Estructural de Isaías 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y jacob. Inicia con “LO que vió Isaías, hijo de Amoz, tocante á Judá y á Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en tierra y llena. Inicia con “Su tierra está llena de plata y oro, sus tesoros no tienen fin. También está su tierra llena de caballos; ni sus carros tienen número.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en todos y todo. Inicia con “Porque día de Jehová de los ejércitos vendrá sobre todo soberbio y altivo, y sobre todo ensalzado; y será abatido:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en idolos y tierra. Inicia con “Y quitará totalmente los ídolos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hombre",
+      "count": 5,
+      "significance": "La recurrencia de “hombre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 2."
+    },
+    {
+      "word": "casa",
+      "count": 4,
+      "significance": "La recurrencia de “casa” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 2."
+    },
+    {
+      "word": "ensalzado",
+      "count": 4,
+      "significance": "La recurrencia de “ensalzado” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 2."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 85",
+  "title": "Análisis Estructural de Salmos 85",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 85.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en volviste y pueblo. Inicia con “Al Músico principal: Salmo para los hijos de Coré. FUISTE propicio á tu tierra, oh Jehová: volviste la cautividad de Jacob.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 85, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en tierra y justicia. Inicia con “Escucharé lo que hablará el Dios Jehová: porque hablará paz á su pueblo y á sus santos, para que no se conviertan á la locura.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 85, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 85."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 3,
+      "significance": "La recurrencia de “pueblo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 85."
+    },
+    {
+      "word": "salud",
+      "count": 3,
+      "significance": "La recurrencia de “salud” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 85."
+    },
+    {
+      "word": "nuestra",
+      "count": 3,
+      "significance": "La recurrencia de “nuestra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 85."
     }
   ]
 }

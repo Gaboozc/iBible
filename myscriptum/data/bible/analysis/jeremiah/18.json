@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 18",
+  "title": "Análisis Estructural de Jeremías 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en alfarero y casa. Inicia con “LA palabra que fué á Jeremías de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en contra y instante. Inicia con “En un instante hablaré contra gentes y contra reinos, para arrancar, y disipar, y destruir.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en faltara y sendas. Inicia con “Por tanto, así dijo Jehová: Preguntad ahora á las gentes, quién tal haya oído. Gran fealdad ha hecho la virgen de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en delante y bien. Inicia con “Oh Jehová, mira por mí, y oye la voz de los que contienden conmigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "alfarero",
+      "count": 6,
+      "significance": "La recurrencia de “alfarero” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 6,
+      "significance": "La recurrencia de “contra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 18."
+    },
+    {
+      "word": "delante",
+      "count": 5,
+      "significance": "La recurrencia de “delante” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 18."
+    },
+    {
+      "word": "casa",
+      "count": 4,
+      "significance": "La recurrencia de “casa” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 18."
     }
   ]
 }

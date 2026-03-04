@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 27",
+  "title": "Análisis Estructural de Éxodo 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en haras y altar. Inicia con “HARÁS también altar de madera de Sittim de cinco codos de longitud, y de cinco codos de anchura: será cuadrado el altar, y su altura de tre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en veinte y columnas. Inicia con “Y sus varas se meterán por los anillos: y estarán aquellas varas á ambos lados del altar, cuando hubiere de ser llevado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en codos y columnas. Inicia con “Y el ancho del atrio del lado occidental tendrá cortinas de cincuenta codos; sus columnas diez, con sus diez basas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en atrio y metal. Inicia con “Todas las columnas del atrio en derredor serán ceñidas de plata; sus capiteles de plata, y sus basas de metal.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "codos",
+      "count": 12,
+      "significance": "La recurrencia de “codos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "haras",
+      "count": 10,
+      "significance": "La recurrencia de “haras” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 27."
+    },
+    {
+      "word": "metal",
+      "count": 10,
+      "significance": "La recurrencia de “metal” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 27."
+    },
+    {
+      "word": "columnas",
+      "count": 9,
+      "significance": "La recurrencia de “columnas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 27."
     }
   ]
 }

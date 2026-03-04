@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 13",
+  "title": "Análisis Estructural de Apocalipsis 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en bestia y cabezas. Inicia con “Y YO me paré sobre la arena del mar, y vi una bestia subir del mar, que tenía siete cabezas y diez cuernos; y sobre sus cuernos diez diadem…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en contra y moran. Inicia con “Y abrió su boca en blasfemias contra Dios, para blasfemar su nombre, y su tabernáculo, y á los que moran en el cielo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en bestia y tierra. Inicia con “El que lleva en cautividad, va en cautividad: el que á cuchillo matare, es necesario que á cuchillo sea muerto. Aquí está la paciencia y la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en bestia y numero. Inicia con “Y le fué dado que diese espíritu á la imagen de la bestia, para que la imagen de la bestia hable; y hará que cualesquiera que no adoraren l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "bestia",
+      "count": 16,
+      "significance": "La recurrencia de “bestia” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 13."
+    },
+    {
+      "word": "ella",
+      "count": 5,
+      "significance": "La recurrencia de “ella” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 13."
+    },
+    {
+      "word": "nombre",
+      "count": 4,
+      "significance": "La recurrencia de “nombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 13."
     }
   ]
 }

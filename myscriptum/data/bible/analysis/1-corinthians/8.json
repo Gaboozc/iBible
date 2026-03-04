@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 1-corinthians 8",
+  "title": "Análisis Estructural de 1 Corintios 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en idolos y ciencia. Inicia con “Y POR lo que hace á lo sacrificado á los ídolos, sabemos que todos tenemos ciencia. La ciencia hincha, mas la caridad edifica.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en hermano y comamos. Inicia con “Si bien la vianda no nos hace más aceptos á Dios: porque ni que comamos, seremos más ricos; ni que no comamos, seremos más pobres.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "idolos",
+      "count": 5,
+      "significance": "La recurrencia de “idolos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciencia",
+      "count": 5,
+      "significance": "La recurrencia de “ciencia” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 8."
+    },
+    {
+      "word": "conciencia",
+      "count": 4,
+      "significance": "La recurrencia de “conciencia” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 8."
+    },
+    {
+      "word": "sacrificado",
+      "count": 3,
+      "significance": "La recurrencia de “sacrificado” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 8."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 107",
+  "title": "Análisis Estructural de Salmos 107",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 107.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en alma y misericordia. Inicia con “ALABAD á Jehová, porque es bueno; porque para siempre es* su misericordia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 107, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-22",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 22 con foco léxico en quebranto y clamaron. Inicia con “Por lo que quebrantó él con trabajo sus corazones, cayeron y no hubo quien les* ayudase;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 107, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "23-33",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 23 al 33 con foco léxico en descienden y aguas. Inicia con “Los que descienden á la mar en navíos, y hacen negocio en las muchas aguas,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 107, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "34-43",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 34 al 43 con foco léxico en tierra y maldad. Inicia con “La tierra fructífera en salados, por la maldad de los que la habitan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 107, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "misericordia",
+      "count": 5,
+      "significance": "La recurrencia de “misericordia” (5) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 107."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "alaben",
+      "count": 5,
+      "significance": "La recurrencia de “alaben” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 107."
+    },
+    {
+      "word": "maravillas",
+      "count": 5,
+      "significance": "La recurrencia de “maravillas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 107."
+    },
+    {
+      "word": "camino",
+      "count": 4,
+      "significance": "La recurrencia de “camino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 107."
     }
   ]
 }

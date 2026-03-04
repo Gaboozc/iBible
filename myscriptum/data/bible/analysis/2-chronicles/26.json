@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 26",
+  "title": "Análisis Estructural de 2 Crónicas 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en anos y muro. Inicia con “ENTONCES todo el pueblo de Judá tomó á Uzzías, el cual era de diez y seis años, y pusiéronlo por rey en lugar de Amasías su padre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en contra y uzzias. Inicia con “Y dióle Dios ayuda contra los Filisteos, y contra los Arabes que habitaban en Gur-baal, y contra los Ammonitas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en contra y uzzias. Inicia con “Y bajo la mano de éstos estaba el ejército de guerra, de trescientos siete mil y quinientos guerreros poderosos y fuertes para ayudar al re…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en uzzias y casa. Inicia con “Y airóse Uzzías, que tenía el perfume en la mano para quemarlo; y en esta su ira contra los sacerdotes, la lepra le salió en la frente dela…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "uzzias",
+      "count": 12,
+      "significance": "La recurrencia de “uzzias” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 8,
+      "significance": "La recurrencia de “contra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 26."
+    },
+    {
+      "word": "sacerdotes",
+      "count": 5,
+      "significance": "La recurrencia de “sacerdotes” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 26."
+    },
+    {
+      "word": "edifico",
+      "count": 4,
+      "significance": "La recurrencia de “edifico” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 26."
     }
   ]
 }

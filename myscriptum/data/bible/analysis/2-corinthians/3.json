@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 3",
+  "title": "Análisis Estructural de 2 Corintios 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en nosotros y mismos. Inicia con “¿COMENZAMOS otra vez á alabarnos á nosotros mismos? ¿ó tenemos necesidad, como algunos, de letras de recomendación para vosotros, ó de reco…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en gloria y ministerio. Inicia con “El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 3, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en gloria y glorioso. Inicia con “Porque aun lo que fué glorioso, no es glorioso en esta parte, en comparación de la excelente gloria.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 3, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en senor y espiritu. Inicia con “Y aun hasta el día de hoy, cuando Moisés es leído, el velo está puesto sobre el corazón de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gloria",
+      "count": 11,
+      "significance": "La recurrencia de “gloria” (11) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de 2 Corintios 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "espiritu",
+      "count": 7,
+      "significance": "La recurrencia de “espiritu” (7) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de 2 Corintios 3."
+    },
+    {
+      "word": "nosotros",
+      "count": 5,
+      "significance": "La recurrencia de “nosotros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 3."
+    },
+    {
+      "word": "senor",
+      "count": 5,
+      "significance": "La recurrencia de “senor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 3."
     }
   ]
 }

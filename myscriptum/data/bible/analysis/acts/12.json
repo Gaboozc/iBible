@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 12",
+  "title": "Análisis Estructural de Hechos 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pedro y carcel. Inicia con “Y EN el mismo tiempo el rey Herodes echó mano á maltratar algunos de la iglesia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en angel y pasaron. Inicia con “Y le dijo el ángel: Cíñete, y átate tus sandalias. Y lo hizo así. Y le dijo: Rodéate tu ropa, y sígueme.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en pedro y postigo. Inicia con “La cual como conoció la voz de Pedro, de gozo no abrió el postigo, sino corriendo adentro, dió nueva de que Pedro estaba al postigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en herodes y senor. Inicia con “Y Herodes estaba enojado contra los de Tiro y los de Sidón: mas ellos vinieron concordes á él, y sobornado Blasto, que era el camarero del…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pedro",
+      "count": 10,
+      "significance": "La recurrencia de “pedro” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "angel",
+      "count": 7,
+      "significance": "La recurrencia de “angel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 12."
+    },
+    {
+      "word": "herodes",
+      "count": 6,
+      "significance": "La recurrencia de “herodes” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 12."
+    },
+    {
+      "word": "carcel",
+      "count": 5,
+      "significance": "La recurrencia de “carcel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 12."
     }
   ]
 }

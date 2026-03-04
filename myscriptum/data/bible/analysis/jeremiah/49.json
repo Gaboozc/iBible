@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 49",
+  "title": "Análisis Estructural de Jeremías 49",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 49.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en hijos y dicho. Inicia con “DE los hijos de Ammón. Así ha dicho Jehová: ¿No tiene hijos Israel? ¿No tiene heredero? ¿Por qué tomó como por heredad el rey de ellos á Ga…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en aqui y dice. Inicia con “Deja tus huérfanos, yo los criaré; y en mí se confiarán tus viudas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en contra y damasco. Inicia con “Del estruendo de la caída de ellos la tierra tembló, y el grito de su voz se oyó en el mar Bermejo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en elam y dice. Inicia con “Levantaos, subid á gente pacífica, que vive confiadamente, dice Jehová, que ni tienen puertas ni cerrojos, que viven solitarios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 12,
+      "significance": "La recurrencia de “dice” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 49."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dicho",
+      "count": 8,
+      "significance": "La recurrencia de “dicho” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 49."
+    },
+    {
+      "word": "contra",
+      "count": 8,
+      "significance": "La recurrencia de “contra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 49."
+    },
+    {
+      "word": "aqui",
+      "count": 7,
+      "significance": "La recurrencia de “aqui” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 49."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 17",
+  "title": "Análisis Estructural de 1 Crónicas 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en david y casa. Inicia con “Y ACONTECIÓ que morando David en su casa, dijo David al profeta Nathán: He aquí yo habito en casa de cedro, y el arca del pacto de Jehová d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en casa y todos. Inicia con “Y he sido contigo en todo cuanto has andado, y he talado á todos tus enemigos de delante de ti, y hete hecho grande nombre, como el nombre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en siervo y todas. Inicia con “Conforme á todas estas palabras, y conforme á toda esta visión, así habló Nathán á David.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en siervo y siempre. Inicia con “Tú has constituído á tu pueblo Israel por pueblo tuyo para siempre; y tú, Jehová, has venido á ser su Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 14,
+      "significance": "La recurrencia de “casa” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siervo",
+      "count": 12,
+      "significance": "La recurrencia de “siervo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 17."
+    },
+    {
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 17."
+    },
+    {
+      "word": "david",
+      "count": 9,
+      "significance": "La recurrencia de “david” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 17."
     }
   ]
 }

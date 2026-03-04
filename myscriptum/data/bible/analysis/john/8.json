@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 8",
+  "title": "Análisis Estructural de Juan 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en jesus y mujer. Inicia con “Y JESÚS se fué al monte de las Olivas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 8, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-30",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 30 con foco léxico en padre y jesus. Inicia con “Y si yo juzgo, mi juicio es verdadero; porque no soy solo, sino yo y el que me envió, el Padre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "31-45",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 31 al 45 con foco léxico en padre y verdad. Inicia con “Y decía Jesús á los Judíos que le habían creído: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "46-59",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 46 al 59 con foco léxico en abraham y entonces. Inicia con “¿Quién de vosotros me redarguye de pecado? Pues si digo verdad, ¿por qué vosotros no me creéis?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 21,
+      "significance": "La recurrencia de “padre” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 20,
+      "significance": "La recurrencia de “jesus” (20) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 8."
+    },
+    {
+      "word": "entonces",
+      "count": 12,
+      "significance": "La recurrencia de “entonces” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 8."
+    },
+    {
+      "word": "abraham",
+      "count": 11,
+      "significance": "La recurrencia de “abraham” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 8."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 19",
+  "title": "Análisis Estructural de Isaías 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en egipto y contra. Inicia con “CARGA de Egipto. He aquí que Jehová monta sobre una ligera nube, y entrará en Egipto; y los ídolos de Egipto se moverán delante de él, y de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en principes y entristeceran. Inicia con “Los pescadores también se entristecerán; y harán duelo todos los que echan anzuelo en el río, y desfallecerán los que extienden red sobre l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en egipto y ejercitos. Inicia con “Jehová mezcló espíritu de vahido en medio de él; é hicieron errar á Egipto en toda su obra, como desatina el borracho en su vómito.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en egipto y asiria. Inicia con “Y será por señal y por testimonio á Jehová de los ejércitos en la tierra de Egipto: porque á Jehová clamarán á causa de sus opresores, y él…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 20,
+      "significance": "La recurrencia de “egipto” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ejercitos",
+      "count": 7,
+      "significance": "La recurrencia de “ejercitos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 19."
+    },
+    {
+      "word": "egipcios",
+      "count": 6,
+      "significance": "La recurrencia de “egipcios” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 19."
+    },
+    {
+      "word": "medio",
+      "count": 5,
+      "significance": "La recurrencia de “medio” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 19."
     }
   ]
 }

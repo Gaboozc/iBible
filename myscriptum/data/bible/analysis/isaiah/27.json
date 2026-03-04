@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 27",
+  "title": "Análisis Estructural de Isaías 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en leviathan y serpiente. Inicia con “EN aquel día Jehová visitará con su espada dura, grande y fuerte, sobre leviathán, serpiente rolliza, y sobre leviathán serpiente retuerta;…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en piedras y alli. Inicia con “Con medida la castigarás en sus vástagos. El reprime su recio viento en el día del aire solano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sido",
+      "count": 4,
+      "significance": "La recurrencia de “sido” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 27."
     },
     {
-      "word": "Motivo literario",
+      "word": "vendran",
+      "count": 3,
+      "significance": "La recurrencia de “vendran” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 27."
+    },
+    {
+      "word": "leviathan",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “leviathan” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 27."
+    },
+    {
+      "word": "serpiente",
+      "count": 2,
+      "significance": "La recurrencia de “serpiente” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 27."
     }
   ]
 }

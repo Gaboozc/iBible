@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 3",
+  "title": "Análisis Estructural de Ezequiel 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en casa y israel. Inicia con “Y DÍJOME: Hijo del hombre, come lo que hallares; come este rollo, y ve y habla á la casa de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en fuerte y frente. Inicia con “He aquí he hecho yo tu rostro fuerte contra los rostros de ellos, y tu frente fuerte contra su frente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en impio y morira. Inicia con “Y vine á los trasportados en Telabib, que moraban junto al río de Chebar, y asenté donde ellos estaban asentados, y allí permanecí siete dí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en alli y casa. Inicia con “Y fué allí la mano de Jehová sobre mí, y díjome: Levántate, y sal al campo, y allí hablaré contigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 10,
+      "significance": "La recurrencia de “casa” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dijome",
+      "count": 6,
+      "significance": "La recurrencia de “dijome” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 3."
+    },
+    {
+      "word": "hijo",
+      "count": 6,
+      "significance": "La recurrencia de “hijo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 3."
+    },
+    {
+      "word": "hombre",
+      "count": 6,
+      "significance": "La recurrencia de “hombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 3."
     }
   ]
 }

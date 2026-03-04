@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 15",
+  "title": "Análisis Estructural de 2 Reyes 15",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en hijo y azarias. Inicia con “EN el año veintisiete de Jeroboam, rey de Israel, comenzó á reinar Azarías hijo de Amasías rey de Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en israel y hijo. Inicia con “Lo demás de los hechos de Zachârías, he aquí está escrito en el libro de las crónicas de los reyes de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en israel y hizo. Inicia con “E impuso Manahem este dinero sobre Israel, sobre todos los poderosos y opulentos: de cada uno cincuenta siclos de plata, para dar al rey de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en hijo y hizo. Inicia con “Y Oseas hijo de Ela hizo conjuración contra Peka hijo de Remalías, é hiriólo, y matólo, y reinó en su lugar, á los veinte años de Jotham hi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 24,
+      "significance": "La recurrencia de “hijo” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 18,
+      "significance": "La recurrencia de “israel” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 15."
+    },
+    {
+      "word": "hizo",
+      "count": 17,
+      "significance": "La recurrencia de “hizo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 15."
+    },
+    {
+      "word": "reino",
+      "count": 16,
+      "significance": "La recurrencia de “reino” (16) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de 2 Reyes 15."
     }
   ]
 }

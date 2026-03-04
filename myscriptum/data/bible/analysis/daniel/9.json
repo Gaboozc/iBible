@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Daniel 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en hemos y senor. Inicia con “EN el año primero de Darío hijo de Assuero, de la nación de los Medos, el cual fué puesto por rey sobre el reino de los Caldeos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en nosotros y nuestros. Inicia con “Oh Jehová, nuestra es la confusión de rostro, de nuestros reyes, de nuestros príncipes, y de nuestros padres; porque contra ti pecamos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en senor y pueblo. Inicia con “Ahora pues, Señor Dios nuestro, que sacaste tu pueblo de la tierra de Egipto con mano poderosa, y te hiciste nombre cual en este día; hemos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en semanas y palabra. Inicia con “E hízome entender, y habló conmigo, y dijo: Daniel, ahora he salido para hacerte entender la declaración.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuestros",
+      "count": 11,
+      "significance": "La recurrencia de “nuestros” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hemos",
+      "count": 10,
+      "significance": "La recurrencia de “hemos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 9."
+    },
+    {
+      "word": "senor",
+      "count": 9,
+      "significance": "La recurrencia de “senor” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 9."
+    },
+    {
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 9."
     }
   ]
 }

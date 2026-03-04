@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 27",
+  "title": "Análisis Estructural de Ezequiel 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en tiro y islas. Inicia con “Y FUÉ á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en dieron y mercadera. Inicia con “Persas y Lidios, y los de Phut, fueron en tu ejército tus hombres de guerra: escudos y capacetes colgaron en ti; ellos te dieron tu honra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en mercaderes y medio. Inicia con “Asimismo Dan y el errante Javán dieron en tus ferias, para negociar* en tu mercado de hierro labrado, mirra destilada, y caña aromática.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en todos y temblaran. Inicia con “Al estrépito de las voces de tus marineros temblarán los arrabales.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mercaderes",
+      "count": 9,
+      "significance": "La recurrencia de “mercaderes” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dieron",
+      "count": 7,
+      "significance": "La recurrencia de “dieron” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 27."
+    },
+    {
+      "word": "medio",
+      "count": 6,
+      "significance": "La recurrencia de “medio” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 27."
+    },
+    {
+      "word": "tiro",
+      "count": 5,
+      "significance": "La recurrencia de “tiro” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 27."
     }
   ]
 }

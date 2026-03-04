@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 5",
+  "title": "Análisis Estructural de Lucas 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en simon y barcos. Inicia con “Y ACONTECIÓ, que estando él junto al lago de Genezaret, las gentes se agolpaban sobre él para oir la palabra de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-20",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en hombre y acontecio. Inicia con “Y como llegaron á tierra los barcos, dejándolo todo, le siguieron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en diciendo y pecados. Inicia con “Entonces los escribas y los Fariseos comenzaron á pensar, diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en nuevo y vino. Inicia con “Y respondiendo Jesús, les dijo: Los que están sanos no necesitan médico, sino los que están enfermos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuevo",
+      "count": 7,
+      "significance": "La recurrencia de “nuevo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "simon",
+      "count": 6,
+      "significance": "La recurrencia de “simon” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 5."
+    },
+    {
+      "word": "jesus",
+      "count": 6,
+      "significance": "La recurrencia de “jesus” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 5."
+    },
+    {
+      "word": "diciendo",
+      "count": 6,
+      "significance": "La recurrencia de “diciendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 5."
     }
   ]
 }

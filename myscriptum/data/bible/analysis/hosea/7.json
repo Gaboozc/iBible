@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hosea 7",
+  "title": "Análisis Estructural de Oseas 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en maldad y estando. Inicia con “ESTANDO yo curando á Israel, descubrióse la iniquidad de Ephraim, y las maldades de Samaria; porque obraron engaño: y viene el ladrón, y el…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en horno y todos. Inicia con “El día de nuestro rey los príncipes lo hicieron enfermar con vasos de vino: extendió su mano con los escarnecedores.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en comieron y extranos. Inicia con “Comieron extraños su sustancia, y él no lo supo; y aun vejez se ha esparcido por él, y él no lo entendió.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en contra y apartaron. Inicia con “¡Ay de ellos! porque se apartaron de mí: destrucción sobre ellos, porque contra mí se rebelaron; yo los redimí, y ellos hablaron contra mí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 5,
+      "significance": "La recurrencia de “contra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ephraim",
+      "count": 4,
+      "significance": "La recurrencia de “ephraim” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 7."
+    },
+    {
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 7."
+    },
+    {
+      "word": "principes",
+      "count": 3,
+      "significance": "La recurrencia de “principes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 7."
     }
   ]
 }

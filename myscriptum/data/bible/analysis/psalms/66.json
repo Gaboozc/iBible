@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 66",
+  "title": "Análisis Estructural de Salmos 66",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 66.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en toda y tierra. Inicia con “Al Músico principal: Cántico: Salmo. ACLAMAD á Dios con alegría, toda la tierra:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 66, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en volvio y seco. Inicia con “Volvió la mar en seco; por el río pasaron á pie; allí en él nos alegramos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 66, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en holocaustos y metiste. Inicia con “Nos metiste en la red; pusiste apretura en nuestros lomos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 66, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en venid y todos. Inicia con “Venid, oid todos los que teméis á Dios, y contaré lo que ha hecho á mi alma.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 66, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "selah",
+      "count": 3,
+      "significance": "La recurrencia de “selah” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 66."
     },
     {
-      "word": "Motivo literario",
+      "word": "toda",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “toda” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 66."
+    },
+    {
+      "word": "tierra",
+      "count": 2,
+      "significance": "La recurrencia de “tierra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 66."
+    },
+    {
+      "word": "gloria",
+      "count": 2,
+      "significance": "La recurrencia de “gloria” (2) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Salmos 66."
     }
   ]
 }

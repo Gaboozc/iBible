@@ -1,13 +1,15 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Iglesia primitiva (ca. 30–62 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas (Herodes, procuradores, César)",
+  "kingRegion": "Jerusalén, Judea, Samaria y mundo mediterráneo",
   "activeProphets": [
-    "Profetas según el período"
+    "Pedro",
+    "Pablo",
+    "Santiago y líderes apostólicos"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Acts capítulo 21 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie al inicio de Hechos",
+  "location": "Desde Jerusalén hasta Roma",
+  "summary": "Hechos narra expansión del evangelio por el poder del Espíritu Santo. En Hechos 21, el capítulo contiene 40 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pablo, nosotros, dias. Señales textuales: “Y HABIENDO partido de ellos, navegamos y vinimos camino derecho á Coos, y al día siguiente á Rhodas, y de allí á Pátara.” | “Mas fueron informados acerca de ti, que enseñas á apartarse de Moisés á todos los Judíos que están entre los Gentiles,…” | “Y como él se lo permitió, Pablo, estando en pie en las gradas, hizo señal con la mano al pueblo. Y hecho grande silenci…”.",
+  "spiritualContext": "Misión, persecución, comunión y apertura del pueblo de Dios a los gentiles. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pablo, nosotros, dias. El núcleo del capítulo se percibe en “Mas fueron informados acerca de ti, que enseñas á apartarse de Moisés á todos los Judíos que están entre los Gentiles,…”."
 }

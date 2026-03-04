@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 18",
+  "title": "Análisis Estructural de 1 Reyes 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en achab y elias. Inicia con “PASADOS muchos días, fué palabra de Jehová á Elías en el tercer año, diciendo: Ve, muéstrate á Achâb, y yo daré lluvia sobre la haz de la t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en profetas y elias. Inicia con “¿No ha sido dicho á mi señor lo que hice, cuando Jezabel mataba á los profetas de Jehová: que escondí cien varones de los profetas de Jehov…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en nombre y altar. Inicia con “Invocad luego vosotros en el nombre de vuestros dioses, y yo invocaré en el nombre de Jehová: y el Dios que respondiere por fuego, ése sea…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en elias y achab. Inicia con “Y como llegó la hora de ofrecerse el holocausto, llegóse el profeta Elías, y dijo: Jehová Dios de Abraham, de Isaac, y de Israel, sea hoy m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "elias",
+      "count": 22,
+      "significance": "La recurrencia de “elias” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "achab",
+      "count": 17,
+      "significance": "La recurrencia de “achab” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 18."
+    },
+    {
+      "word": "profetas",
+      "count": 10,
+      "significance": "La recurrencia de “profetas” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 18."
+    },
+    {
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 18."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Romans 7",
+  "title": "Análisis Estructural de Romanos 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en marido y otro. Inicia con “¿IGNORÁIS, hermanos, (porque hablo con los que saben la ley) que la ley se enseñorea del hombre entre tanto que vive?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en pecado y mandamiento. Inicia con “Mas el pecado, tomando ocasión, obró en mí por el mandamiento toda concupiscencia: porque sin la ley el pecado está* muerto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 7, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en hago y quiero. Inicia con “Porque sabemos que la ley es espiritual; mas yo soy carnal, vendido á sujeción del pecado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en pecado y hombre. Inicia con “Y si hago lo que no quiero, ya no lo obro yo, sino el pecado que mora en mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 7, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pecado",
+      "count": 14,
+      "significance": "La recurrencia de “pecado” (14) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Romanos 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "marido",
+      "count": 7,
+      "significance": "La recurrencia de “marido” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 7."
+    },
+    {
+      "word": "hago",
+      "count": 7,
+      "significance": "La recurrencia de “hago” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 7."
+    },
+    {
+      "word": "mandamiento",
+      "count": 6,
+      "significance": "La recurrencia de “mandamiento” (6) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Romanos 7."
     }
   ]
 }

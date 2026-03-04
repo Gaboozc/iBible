@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 25",
+  "title": "Análisis Estructural de Números 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pueblo y israel. Inicia con “Y REPOSÓ Israel en Sittim, y el pueblo empezó á fornicar con las hijas de Moab:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en israel y varon. Inicia con “Y he aquí un varón de los hijos de Israel vino y trajo una Madianita á sus hermanos, á ojos de Moisés y de toda la congregación de los hijo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en hijo y hijos. Inicia con “Entonces Jehová habló á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en muerta y cozbi. Inicia con “Y el nombre de la mujer Madianita muerta, era Cozbi, hija de Zur, príncipe de pueblos, padre de familia en Madián.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 12,
+      "significance": "La recurrencia de “israel” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 25."
+    },
+    {
+      "word": "pueblo",
+      "count": 5,
+      "significance": "La recurrencia de “pueblo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 25."
+    },
+    {
+      "word": "moises",
+      "count": 5,
+      "significance": "La recurrencia de “moises” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 25."
     }
   ]
 }

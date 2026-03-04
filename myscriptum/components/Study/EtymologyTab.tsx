@@ -1,8 +1,10 @@
 'use client';
 
 import { Languages, Search, ChevronDown, Zap } from 'lucide-react';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useTransition } from 'react';
 import { lexiconEntries } from '@/data/lexicon';
+import { searchLexiconAction } from '@/lib/actions/lexicon';
+import type { RealLexiconEntry } from '@/data/real-lexicon';
 import type { KeyWord } from '@/lib/bible/analysis-loader';
 
 interface EtymologyTabProps {
@@ -14,6 +16,8 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
   const [expandedEntry, setExpandedEntry] = useState<string | null>(null);
   const [expandedWord, setExpandedWord] = useState<number | null>(null);
   const [query, setQuery] = useState('');
+  const [realResults, setRealResults] = useState<RealLexiconEntry[]>([]);
+  const [isPending, startTransition] = useTransition();
 
   const hasChapterWords = Boolean(keyWords && keyWords.length > 0);
 
@@ -23,11 +27,54 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
       .replace(/[\u0300-\u036f]/g, '')
       .toLowerCase();
 
+  const handleQueryChange = (value: string) => {
+    setQuery(value);
+    const trimmed = value.trim().toLowerCase();
+
+    if (!trimmed || trimmed.length < 2) {
+      setRealResults([]);
+      return;
+    }
+
+    startTransition(async () => {
+      try {
+        const data = await searchLexiconAction(trimmed);
+        setRealResults(data);
+      } catch (error) {
+        console.error('Etymology search error:', error);
+        setRealResults([]);
+      }
+    });
+  };
+
+  const mapRealToEtymologyEntry = (entry: RealLexiconEntry) => ({
+    id: `${entry.strong}-${entry.transliteration}`,
+    lemma: entry.lemma,
+    transliteration: entry.transliteration,
+    language: entry.language,
+    strong: entry.strong,
+    primary_meaning: entry.gloss_es || entry.gloss_en,
+    theological_meaning: `Término bíblico (${entry.strong}) con uso en ${entry.language === 'hebrew' ? 'hebreo' : 'griego'} koiné.`,
+    semantic_root: entry.transliteration,
+    biblical_frequency: 'Frecuencia variable en el texto bíblico',
+    semantic_evolution: 'Consultar usos por contexto y concordancias bíblicas.',
+    related_words: [],
+    key_appearances: [],
+    gloss_es: entry.gloss_es || entry.gloss_en,
+    gloss_en: entry.gloss_en,
+    origin_es: entry.language === 'hebrew' ? 'Hebreo bíblico' : 'Griego koiné',
+    origin_en: entry.language === 'hebrew' ? 'Biblical Hebrew' : 'Koine Greek',
+    usage_es: `Uso léxico: ${entry.gloss_es || entry.gloss_en}`,
+    usage_en: `Lexical usage: ${entry.gloss_en}`,
+    related: [],
+  });
+
   const filteredLexicon = useMemo(() => {
     const trimmed = query.trim();
     if (!trimmed) return [];
     const needle = normalize(trimmed);
-    return lexiconEntries.filter((entry) => {
+
+    const curated = lexiconEntries.filter((entry) => {
       const haystack = [
         entry.lemma,
         entry.transliteration,
@@ -42,7 +89,36 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
       ].join(' ');
       return normalize(haystack).includes(needle);
     });
-  }, [query]);
+
+    const massive = realResults
+      .map(mapRealToEtymologyEntry)
+      .filter((entry) => {
+        const haystack = [
+          entry.lemma,
+          entry.transliteration,
+          entry.gloss_es,
+          entry.gloss_en,
+          entry.origin_es,
+          entry.origin_en,
+          entry.usage_es,
+          entry.usage_en,
+          entry.strong ?? '',
+          entry.language,
+        ].join(' ');
+        return normalize(haystack).includes(needle);
+      });
+
+    const merged = [...curated, ...massive];
+    const unique = new Map<string, (typeof merged)[number]>();
+    merged.forEach((entry) => {
+      const key = entry.strong ? `${entry.strong}-${entry.transliteration}` : entry.id;
+      if (!unique.has(key)) {
+        unique.set(key, entry);
+      }
+    });
+
+    return Array.from(unique.values());
+  }, [query, realResults]);
 
   return (
     <div className="space-y-4 md:space-y-6">
@@ -57,13 +133,13 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
       <div className="bg-white border border-slate-200 rounded-lg p-3 md:p-4 space-y-3 md:space-y-4">
         <div className="flex items-center gap-2 text-xs md:text-sm font-semibold text-slate-700">
           <Search className="h-4 w-4 text-slate-500 flex-shrink-0" />
-          <span>Diccionario etimologico (ES/EN)</span>
+          <span>Diccionario etimologico (ES/EN) - cobertura ampliada</span>
         </div>
         <div className="relative">
           <Search className="h-4 w-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
           <input
             value={query}
-            onChange={(event) => setQuery(event.target.value)}
+            onChange={(event) => handleQueryChange(event.target.value)}
             placeholder="Busca una palabra: bara, logos, ruach..."
             className="w-full pl-9 pr-3 py-2 border border-slate-300 rounded-lg text-xs md:text-sm text-slate-900 placeholder-slate-500 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
           />
@@ -71,6 +147,8 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
 
         {query.trim() === '' ? (
           <div className="text-xs md:text-sm text-slate-500">Escribe para buscar en el diccionario.</div>
+        ) : isPending ? (
+          <div className="text-xs md:text-sm text-slate-500">Buscando en el vocabulario ampliado...</div>
         ) : filteredLexicon.length === 0 ? (
           <div className="text-xs md:text-sm text-slate-500">Sin resultados para esa busqueda.</div>
         ) : (

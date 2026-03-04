@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 1-samuel 27",
+  "title": "Análisis Estructural de 1 Samuel 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en david y achis. Inicia con “Y DIJO David en su corazón: Al fin seré muerto algún día por la mano de Saúl: nada por tanto me será mejor que fugarme á la tierra de los F…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en david y tierra. Inicia con “Y fué el número de los días que David habitó en la tierra de los Filisteos, cuatro meses y algunos días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 13,
+      "significance": "La recurrencia de “david” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "achis",
+      "count": 7,
+      "significance": "La recurrencia de “achis” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 27."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 27."
+    },
+    {
+      "word": "gath",
+      "count": 4,
+      "significance": "La recurrencia de “gath” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 27."
     }
   ]
 }

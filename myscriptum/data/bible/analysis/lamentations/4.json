@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Lamentations 4",
+  "title": "Análisis Estructural de Lamentaciones 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en calles y teta. Inicia con “¡CÓMO se ha oscurecido el oro! ¡Cómo* el buen oro se ha demudado! Las piedras del santuario están esparcidas por las encrucijadas de todas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en muertos y poco. Inicia con “Sus Nazareos fueron blancos más que la nieve, más lustrosos que la leche, su compostura más rubicunda que los rubíes, más bellos que el zaf…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en apartaos y nunca. Inicia con “Nunca los reyes de la tierra, ni todos los que habitan en el mundo, creyeron que el enemigo y el adversario entrara por las puertas de Jeru…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en nuestros y hija. Inicia con “Cazaron nuestros pasos, que no anduviésemos por nuestras calles: acercóse nuestro fin, cumpliéronse nuestros días; porque nuestro fin vino.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hija",
+      "count": 6,
+      "significance": "La recurrencia de “hija” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "calles",
+      "count": 5,
+      "significance": "La recurrencia de “calles” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 4."
+    },
+    {
+      "word": "nuestros",
+      "count": 4,
+      "significance": "La recurrencia de “nuestros” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 4."
+    },
+    {
+      "word": "sion",
+      "count": 3,
+      "significance": "La recurrencia de “sion” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 4."
     }
   ]
 }

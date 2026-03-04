@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 19",
+  "title": "Análisis Estructural de 2 Reyes 19",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en ezechias y isaias. Inicia con “Y COMO el rey Ezechîas lo oyó, rasgó sus vestidos, y cubrióse de saco, y entróse en la casa de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en dioses y ezechias. Inicia con “He aquí tú has oído lo que han hecho los reyes de Asiria á todas las tierras, destruyéndolas; ¿y has tú de escapar?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en contra y dicho. Inicia con “Entonces Isaías hijo de Amós envió á decir á Ezechîas: Así ha dicho Jehová, Dios de Israel: Lo que me rogaste acerca de Sennachêrib rey de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en ciudad y ella. Inicia con “Y esto te será por señal Ezechîas*: Este año comerás lo que nacerá de suyo, y el segundo año lo que nacerá de suyo; y el tercer año haréis…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ezechias",
+      "count": 10,
+      "significance": "La recurrencia de “ezechias” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "asiria",
+      "count": 8,
+      "significance": "La recurrencia de “asiria” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 19."
+    },
+    {
+      "word": "oido",
+      "count": 7,
+      "significance": "La recurrencia de “oido” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 19."
+    },
+    {
+      "word": "contra",
+      "count": 7,
+      "significance": "La recurrencia de “contra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 19."
     }
   ]
 }

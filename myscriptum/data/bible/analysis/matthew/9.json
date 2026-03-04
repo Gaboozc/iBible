@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 9",
+  "title": "Análisis Estructural de Mateo 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en jesus y entonces. Inicia con “ENTONCES entrando en el barco, pasó á la otra parte, y vino á su ciudad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 9, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en discipulos y vino. Inicia con “Y viendo esto los Fariseos, dijeron á sus discípulos: ¿Por qué come vuestro Maestro con los publicanos y pecadores?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en jesus y mujer. Inicia con “Y he aquí una mujer enferma de flujo de sangre doce años había, llegándose por detrás, tocó la franja de su vestido:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 9, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en mies y jesus. Inicia con “Y los ojos de ellos fueron abiertos. Y Jesús les encargó rigurosamente, diciendo: Mirad que nadie lo sepa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 13,
+      "significance": "La recurrencia de “jesus” (13) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 7,
+      "significance": "La recurrencia de “entonces” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 9."
+    },
+    {
+      "word": "aqui",
+      "count": 6,
+      "significance": "La recurrencia de “aqui” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 9."
+    },
+    {
+      "word": "discipulos",
+      "count": 6,
+      "significance": "La recurrencia de “discipulos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 9."
     }
   ]
 }

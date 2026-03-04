@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 25",
+  "title": "Análisis Estructural de Jeremías 25",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en juda y todos. Inicia con “PALABRA que fué á Jeremías acerca de todo el pueblo de Judá en el año cuarto de Joacim hijo de Josías, rey de Judá, el cual es el año prime…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en gentes y todas. Inicia con “Y toda esta tierra será puesta en soledad, en espanto; y servirán estas gentes al rey de Babilonia setenta años.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en todos y reyes. Inicia con “Y á toda la mezcla de gente, y á todos los reyes de tierra de Hus, y á todos los reyes de tierra de Palestina, y á Ascalón, y Gaza, y Ecrón…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en tierra y seran. Inicia con “Tú pues, profetizarás á ellos todas estas palabras, y les dirás: Jehová bramará desde lo alto, y desde la morada de su santidad dará su voz…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 17,
+      "significance": "La recurrencia de “todos” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 16,
+      "significance": "La recurrencia de “tierra” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 25."
+    },
+    {
+      "word": "reyes",
+      "count": 13,
+      "significance": "La recurrencia de “reyes” (13) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Jeremías 25."
+    },
+    {
+      "word": "contra",
+      "count": 6,
+      "significance": "La recurrencia de “contra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 25."
     }
   ]
 }

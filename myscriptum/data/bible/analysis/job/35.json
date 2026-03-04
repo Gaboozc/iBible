@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 35",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 35.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en dijiste y procediendo. Inicia con “Y PROCEDIENDO Eliú en su razonamiento, dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en hombre y mira. Inicia con “Mira á los cielos, y ve, y considera que las nubes son más altas que tú.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en clamaran y causa. Inicia con “A causa de la multitud de las violencias clamarán, y se lamentarán por el poderío de los grandes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 35, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en mirara y ciertamente. Inicia con “Ciertamente Dios no oirá la vanidad, ni la mirará el Omnipotente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "dijiste",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “dijiste” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 35."
     },
     {
-      "word": "Motivo literario",
+      "word": "justo",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “justo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 35."
+    },
+    {
+      "word": "hombre",
+      "count": 2,
+      "significance": "La recurrencia de “hombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 35."
+    },
+    {
+      "word": "clamaran",
+      "count": 2,
+      "significance": "La recurrencia de “clamaran” (2) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Job 35."
     }
   ]
 }

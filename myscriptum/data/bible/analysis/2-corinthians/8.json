@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 8",
+  "title": "Análisis Estructural de 2 Corintios 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en gracia y fuerzas. Inicia con “ASIMISMO, hermanos, os hacemos saber la gracia de Dios que ha sido dada á las iglesias de Macedonia:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 8, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en amor y gracia. Inicia con “Por tanto, como en todo abundáis, en fe, y en palabra, y en ciencia, y en toda solicitud, y en vuestro amor para con nosotros, que también…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 8, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en haya y igualdad. Inicia con “Porque no digo esto* para que haya para otros desahogo, y para vosotros apretura;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en iglesias y gloria. Inicia con “Y no sólo esto, mas también fué ordenado por las iglesias el compañero de nuestra peregrinación para llevar* esta gracia, que es administra…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gracia",
+      "count": 6,
+      "significance": "La recurrencia de “gracia” (6) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de 2 Corintios 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "iglesias",
+      "count": 5,
+      "significance": "La recurrencia de “iglesias” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 8."
+    },
+    {
+      "word": "abundancia",
+      "count": 4,
+      "significance": "La recurrencia de “abundancia” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 8."
+    },
+    {
+      "word": "pues",
+      "count": 4,
+      "significance": "La recurrencia de “pues” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 8."
     }
   ]
 }

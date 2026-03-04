@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 9",
+  "title": "Análisis Estructural de Números 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en moises y pascua. Inicia con “Y HABLÓ Jehová á Moisés en el desierto de Sinaí, en el segundo año de su salida de la tierra de Egipto, en el mes primero, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en causa y muerto. Inicia con “Y dijéronle aquellos hombres: Nosotros somos inmundos por causa de muerto; ¿por qué seremos impedidos de ofrecer ofrenda á Jehová á su tiem…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en tabernaculo y nube. Inicia con “Mas el que estuviere limpio, y no estuviere de viaje, si dejare de hacer la pascua, la tal persona será cortada de sus pueblos: por cuanto…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en nube y partian. Inicia con “Y cuando la nube se detenía sobre el tabernáculo muchos días, entonces los hijos de Israel guardaban la ordenanza de Jehová y no partían.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nube",
+      "count": 11,
+      "significance": "La recurrencia de “nube” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 10,
+      "significance": "La recurrencia de “hijos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 9."
+    },
+    {
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 9."
+    },
+    {
+      "word": "pascua",
+      "count": 9,
+      "significance": "La recurrencia de “pascua” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 9."
     }
   ]
 }

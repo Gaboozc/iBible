@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Conquista y asentamiento inicial en Canaán",
+  "dominantEmpire": "Ciudades-estado cananeas",
+  "kingName": "No hay rey israelita; Josué como sucesor",
+  "kingRegion": "Canaán",
   "activeProphets": [
-    "Profetas según el período"
+    "Josué"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Joshua capítulo 5 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo en transición hacia centros de culto en la tierra",
+  "location": "Canaán",
+  "summary": "Josué relata entrada, conquista y repartición de la tierra prometida. En Josué 5, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: josue, hijos, israel. Señales textuales: “Y CUANDO todos los reyes de los Amorrheos, que estaban de la otra parte del Jordán al occidente, y todos los reyes de l…” | “Y cuando hubieron acabado de circuncidar toda la gente, quedáronse en el mismo lugar en el campo, hasta que sanaron.” | “Y el Príncipe del ejército de Jehová respondió á Josué: Quita tus zapatos de tus pies; porque el lugar donde estás es s…”.",
+  "spiritualContext": "Subraya fidelidad del pacto, obediencia a la palabra y memoria de las obras de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan josue, hijos, israel. El núcleo del capítulo se percibe en “Y cuando hubieron acabado de circuncidar toda la gente, quedáronse en el mismo lugar en el campo, hasta que sanaron.”."
 }

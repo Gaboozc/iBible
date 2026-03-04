@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Hosea 11",
+  "title": "Análisis Estructural de Oseas 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en egipto y mismo. Inicia con “CUANDO Israel era muchacho, yo lo amé, y de Egipto llamé á mi hijo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en leon y moveran. Inicia con “Entre tanto, está mi pueblo adherido á la rebelión contra mí: aunque lo llaman al Altísimo, ninguno absolutamente quiere ensalzarle*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 3,
+      "significance": "La recurrencia de “egipto” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 11."
     },
     {
-      "word": "Motivo literario",
+      "word": "israel",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “israel” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 11."
+    },
+    {
+      "word": "mismo",
+      "count": 2,
+      "significance": "La recurrencia de “mismo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 11."
+    },
+    {
+      "word": "ephraim",
+      "count": 2,
+      "significance": "La recurrencia de “ephraim” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 11."
     }
   ]
 }

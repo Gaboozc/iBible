@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 2",
+  "title": "Análisis Estructural de Jueces 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en habeis y angel. Inicia con “Y El ángel de Jehová subió de Gilgal á Bochîm, y dijo: Yo os saqué de Egipto, y os introduje en la tierra de la cual había jurado á vuestro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en habia y josue. Inicia con “Y el pueblo había servido á Jehová todo el tiempo de Josué, y todo el tiempo de los ancianos que vivieron largos días después de Josué, los…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en enemigos y mano. Inicia con “Y dejaron á Jehová, y adoraron á Baal y á Astaroth.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en padres y delante. Inicia con “Mas en muriendo el juez, ellos se tornaban, y se corrompían más que sus padres, siguiendo dioses ajenos para servirles, é inclinándose dela…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "habia",
+      "count": 8,
+      "significance": "La recurrencia de “habia” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 2."
+    },
+    {
+      "word": "padres",
+      "count": 7,
+      "significance": "La recurrencia de “padres” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 2."
+    },
+    {
+      "word": "josue",
+      "count": 6,
+      "significance": "La recurrencia de “josue” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 2."
     }
   ]
 }

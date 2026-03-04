@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 14",
+  "title": "Análisis Estructural de 2 Samuel 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en mujer y joab. Inicia con “Y CONOCIENDO Joab hijo de Sarvia, que el corazón del rey estaba por Absalom,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en senor y pues. Inicia con “Y el rey dijo: Al que hablare contra ti, tráelo á mí, que no te tocará más.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en joab y senor. Inicia con “Entonces él respondió, y dijo á la mujer: Yo te ruego que no me encubras nada de lo que yo te preguntare. Y la mujer dijo: Hable mi señor e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en absalom y joab. Inicia con “Y cuando se cortaba el cabello, (lo cual hacía al fin de cada año, pues le causaba molestia, y por eso se lo cortaba), pesaba el cabello de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "joab",
+      "count": 14,
+      "significance": "La recurrencia de “joab” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "absalom",
+      "count": 13,
+      "significance": "La recurrencia de “absalom” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 14."
+    },
+    {
+      "word": "mujer",
+      "count": 11,
+      "significance": "La recurrencia de “mujer” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 14."
+    },
+    {
+      "word": "senor",
+      "count": 10,
+      "significance": "La recurrencia de “senor” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 14."
     }
   ]
 }

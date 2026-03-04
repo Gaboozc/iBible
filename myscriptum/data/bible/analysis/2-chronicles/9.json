@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 9",
+  "title": "Análisis Estructural de 2 Crónicas 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en salomon y sabiduria. Inicia con “Y OYENDO la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de aroma, y oro en abundanc…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en salomon y siervos. Inicia con “Y dió al rey ciento y veinte talentos de oro, y gran copia de aromas, y piedras preciosas: nunca hubo tales aromas como los que dió la rein…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en salomon y habia. Inicia con “Hizo además el rey un gran trono de marfil, y cubriólo de oro puro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en salomon y jerusalem. Inicia con “Tuvo también Salomón cuatro mil caballerizas para los caballos y carros, y doce mil jinetes, los cuales puso en las ciudades de los carros,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "salomon",
+      "count": 21,
+      "significance": "La recurrencia de “salomon” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "habia",
+      "count": 9,
+      "significance": "La recurrencia de “habia” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 9."
+    },
+    {
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 9."
+    },
+    {
+      "word": "sabiduria",
+      "count": 6,
+      "significance": "La recurrencia de “sabiduria” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 9."
     }
   ]
 }

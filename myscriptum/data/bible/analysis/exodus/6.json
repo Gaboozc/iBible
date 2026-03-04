@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 6",
+  "title": "Análisis Estructural de Éxodo 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en tierra y mano. Inicia con “JEHOVÁ respondió á Moisés: Ahora verás lo que yo haré á Faraón; porque con mano fuerte los ha de dejar ir; y con mano fuerte los ha de echa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en hijos y israel. Inicia con “De esta manera habló Moisés á los hijos de Israel: mas ellos no escuchaban á Moisés á causa de la congoja de espíritu, y de la dura servidu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en hijos y anos. Inicia con “Y estos son los nombres de los hijos de Leví por sus linajes: Gersón, y Coath, y Merari. Y los años de la vida de Leví fueron ciento treint…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en moises y egipto. Inicia con “Y los hijos de Cora: Assir, y Elcana, y Abiasaph: estas son las familias de los Coritas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 18,
+      "significance": "La recurrencia de “hijos” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "moises",
+      "count": 13,
+      "significance": "La recurrencia de “moises” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 6."
+    },
+    {
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 6."
+    },
+    {
+      "word": "egipto",
+      "count": 10,
+      "significance": "La recurrencia de “egipto” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 6."
     }
   ]
 }

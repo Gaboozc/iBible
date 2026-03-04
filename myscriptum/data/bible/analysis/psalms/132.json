@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 132",
+  "title": "Análisis Estructural de Salmos 132",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 132.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en fuerte y jacob. Inicia con “Cántico gradual. ACUÉRDATE, oh Jehová, de David, y* de toda su aflicción;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 132, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en aqui y ephrata. Inicia con “He aquí, en Ephrata oímos de ella: hallámosla en los campos del bosque.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 132, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en david y trono. Inicia con “Por amor de David tu siervo no vuelvas de tu ungido el rostro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 132, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en vestire y mantenimiento. Inicia con “A su mantenimiento daré bendición: sus pobres saciaré de pan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 132, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 4,
+      "significance": "La recurrencia de “david” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 132."
     },
     {
-      "word": "Motivo literario",
+      "word": "juro",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “juro” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 132."
+    },
+    {
+      "word": "fuerte",
+      "count": 2,
+      "significance": "La recurrencia de “fuerte” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 132."
+    },
+    {
+      "word": "jacob",
+      "count": 2,
+      "significance": "La recurrencia de “jacob” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 132."
     }
   ]
 }

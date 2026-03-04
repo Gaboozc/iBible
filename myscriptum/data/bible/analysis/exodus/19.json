@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 19",
+  "title": "Análisis Estructural de Éxodo 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y hijos. Inicia con “AL mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en aquel día vinieron al desierto de Sinaí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en pueblo y moises. Inicia con “Y todo el pueblo respondió á una, y dijeron: Todo lo que Jehová ha dicho haremos. Y Moisés refirió las palabras del pueblo á Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en monte y pueblo. Inicia con “Y descendió Moisés del monte al pueblo, y santificó al pueblo; y lavaron sus vestidos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en monte y moises. Inicia con “Y descendió Jehová sobre el monte de Sinaí, sobre la cumbre del monte: y llamó Jehová á Moisés á la cumbre del monte, y Moisés subió.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 17,
+      "significance": "La recurrencia de “pueblo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "monte",
+      "count": 16,
+      "significance": "La recurrencia de “monte” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 19."
+    },
+    {
+      "word": "moises",
+      "count": 14,
+      "significance": "La recurrencia de “moises” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 19."
+    },
+    {
+      "word": "sinai",
+      "count": 6,
+      "significance": "La recurrencia de “sinai” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 19."
     }
   ]
 }

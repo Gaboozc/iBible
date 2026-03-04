@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 5",
+  "title": "Análisis Estructural de Hechos 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en ananias y mujer. Inicia con “MAS un varón llamado Ananías, con Safira su mujer, vendió una posesión,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en todos y eran. Inicia con “Y por las manos de los apóstoles eran hechos muchos milagros y prodigios en el pueblo; y estaban todos unánimes en el pórtico de Salomón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-32",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 32 con foco léxico en carcel y ministros. Inicia con “Mas como llegaron los ministros, y no los hallaron en la cárcel, volvieron, y dieron aviso,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "33-42",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 33 al 42 con foco léxico en hombres y dias. Inicia con “Ellos, oyendo esto, regañaban, y consultaban matarlos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 9,
+      "significance": "La recurrencia de “todos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hombres",
+      "count": 7,
+      "significance": "La recurrencia de “hombres” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 5."
+    },
+    {
+      "word": "pueblo",
+      "count": 7,
+      "significance": "La recurrencia de “pueblo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 5."
+    },
+    {
+      "word": "apostoles",
+      "count": 6,
+      "significance": "La recurrencia de “apostoles” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 5."
     }
   ]
 }

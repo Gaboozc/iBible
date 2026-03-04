@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Tiberio / autoridades locales en Judea",
+  "kingRegion": "Mundo judeo-romano",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Luke capítulo 20 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo activo",
+  "location": "Galilea, Samaria, Judea y Jerusalén",
+  "summary": "Lucas destaca a Jesús como Salvador universal, con atención a marginados y oración. En Lucas 20, el capítulo contiene 47 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pues, pueblo, vina. Señales textuales: “Y ACONTECIÓ un día, que enseñando él al pueblo en el templo, y anunciando el evangelio, llegáronse los príncipes de los…” | “Mostradme la moneda. ¿De quién tiene la imagen y la inscripción? Y respondiendo dijeron: De César.” | “Que devoran las casas de las viudas, poniendo por pretexto la larga oración: éstos recibirán mayor condenación.”.",
+  "spiritualContext": "Misericordia, gozo, Espíritu Santo y misión para todas las naciones. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pues, pueblo, vina. El núcleo del capítulo se percibe en “Mostradme la moneda. ¿De quién tiene la imagen y la inscripción? Y respondiendo dijeron: De César.”."
 }

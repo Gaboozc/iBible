@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Galatians 4",
+  "title": "Análisis Estructural de Gálatas 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hijo y tiempo. Inicia con “TAMBIÉN digo: Entre tanto que el heredero es niño, en nada difiere del siervo, aunque es señor de todo;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hecho y carne. Inicia con “Mas ahora, habiendo conocido á Dios, ó más bien, siendo conocidos de Dios, ¿cómo os volvéis de nuevo á los flacos y pobres rudimentos, en l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en estar y bien. Inicia con “Tienen celos de vosotros, pero* no bien: antes os quieren echar fuera para que vosotros los celéis á ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en hijos y libre. Inicia con “Porque Agar ó Sinaí es un monte de Arabia, el cual es conjunto á la que ahora es Jerusalem, la cual sirve con sus hijos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 7,
+      "significance": "La recurrencia de “hijos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 4."
+    },
+    {
+      "word": "sierva",
+      "count": 5,
+      "significance": "La recurrencia de “sierva” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 4."
+    },
+    {
+      "word": "libre",
+      "count": 5,
+      "significance": "La recurrencia de “libre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 4."
     }
   ]
 }

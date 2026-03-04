@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Lamentations 1",
+  "title": "Análisis Estructural de Lamentaciones 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en todos y tiene. Inicia con “¡CÓMO está sentada sola la ciudad populosa! La grande entre las naciones se ha vuelto como viuda, la señora de provincias es hecha tributar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en ella y enemigo. Inicia con “Jerusalem, cuando cayó su pueblo en mano del enemigo y no hubo quien le ayudase, se acordó de los días de su aflicción, y de sus rebeliones…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en dolor y senor. Inicia con “¿No os conmueve á cuantos pasáis por el camino? Mirad, y ved si hay dolor como mi dolor que me ha venido; porque Jehová me ha angustiado en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en rebele y todos. Inicia con “Jehová es justo; que yo contra su boca me rebelé. Oid ahora, pueblos todos, y ved mi dolor: mis vírgenes y mis mancebos fueron en cautiveri…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 7,
+      "significance": "La recurrencia de “todos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ella",
+      "count": 6,
+      "significance": "La recurrencia de “ella” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 1."
+    },
+    {
+      "word": "enemigos",
+      "count": 5,
+      "significance": "La recurrencia de “enemigos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 1."
+    },
+    {
+      "word": "todas",
+      "count": 5,
+      "significance": "La recurrencia de “todas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 1."
     }
   ]
 }

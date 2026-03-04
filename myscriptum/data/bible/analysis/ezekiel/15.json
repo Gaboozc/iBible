@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ezekiel 15",
+  "title": "Análisis Estructural de Ezequiel 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en palo y tomaran. Inicia con “Y FUÉ á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-8",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en fuego y obra. Inicia con “He aquí que cuando estaba entero no era para obra alguna: ¿cuánto menos después que el fuego lo hubiere consumido, y fuere quemado? ¿será m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "fuego",
+      "count": 6,
+      "significance": "La recurrencia de “fuego” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "alguna",
+      "count": 4,
+      "significance": "La recurrencia de “alguna” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 15."
+    },
+    {
+      "word": "obra",
+      "count": 4,
+      "significance": "La recurrencia de “obra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 15."
+    },
+    {
+      "word": "palo",
+      "count": 3,
+      "significance": "La recurrencia de “palo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 15."
     }
   ]
 }

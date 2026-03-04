@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 18",
+  "title": "Análisis Estructural de Génesis 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en tienda y debajo. Inicia con “Y APARECIÓLE Jehová en el valle de Mamre, estando él sentado á la puerta de su tienda en el calor del día.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en sara y abraham. Inicia con “Entonces dijo: De cierto volveré á ti según el tiempo de la vida, y he aquí, tendrá un hijo Sara tu mujer. Y Sara escuchaba á la puerta de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en abraham y justo. Inicia con “Habiendo de ser Abraham en una nación grande y fuerte, y habiendo de ser benditas en él todas las gentes de la tierra?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en alli y respondio. Inicia con “Entonces respondió Jehová: Si hallare en Sodoma cincuenta justos dentro de la ciudad, perdonaré á todo este lugar por amor de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abraham",
+      "count": 13,
+      "significance": "La recurrencia de “abraham” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sara",
+      "count": 10,
+      "significance": "La recurrencia de “sara” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 18."
+    },
+    {
+      "word": "alli",
+      "count": 8,
+      "significance": "La recurrencia de “alli” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 18."
+    },
+    {
+      "word": "ahora",
+      "count": 7,
+      "significance": "La recurrencia de “ahora” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 18."
     }
   ]
 }

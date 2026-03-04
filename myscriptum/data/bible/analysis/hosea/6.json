@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Hosea 6",
+  "title": "Análisis Estructural de Oseas 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en lluvia y hare. Inicia con “VENID y volvámonos á Jehová: que él arrebató, y nos curará; hirió, y nos vendará.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en alli y israel. Inicia con “Mas ellos, cual Adam, traspasaron el pacto: allí prevaricaron contra mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "lluvia",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “lluvia” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 6."
     },
     {
-      "word": "Motivo literario",
+      "word": "hare",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hare” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 6."
+    },
+    {
+      "word": "ephraim",
+      "count": 2,
+      "significance": "La recurrencia de “ephraim” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 6."
+    },
+    {
+      "word": "juda",
+      "count": 2,
+      "significance": "La recurrencia de “juda” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 6."
     }
   ]
 }

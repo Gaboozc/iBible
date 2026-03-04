@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Galatians 6",
+  "title": "Análisis Estructural de Gálatas 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en mismo y cada. Inicia con “HERMANOS, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal con el espíritu de mansedumbre; consider…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en segara y siembra. Inicia con “Y el que es enseñado en la palabra, comunique en todos los bienes al que lo* instruye.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en todos y quieren. Inicia con “Así que, entre tanto que tenemos tiempo, hagamos bien á todos, y mayormente á los domésticos de la fe.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en jesus y senor. Inicia con “Porque en Cristo Jesús, ni la circuncisión vale nada, ni la incircuncisión, sino la nueva criatura.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 6, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "espiritu",
+      "count": 4,
+      "significance": "La recurrencia de “espiritu” (4) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Gálatas 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 6."
+    },
+    {
+      "word": "carne",
+      "count": 4,
+      "significance": "La recurrencia de “carne” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 6."
+    },
+    {
+      "word": "mismo",
+      "count": 3,
+      "significance": "La recurrencia de “mismo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 6."
     }
   ]
 }

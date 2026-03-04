@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 9",
+  "title": "Análisis Estructural de 2 Reyes 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en casa y hijo. Inicia con “ENTONCES el profeta Eliseo llamó á uno de los hijos de los profetas, y díjole: Ciñe tus lomos, y toma esta alcuza de aceite en tu mano, y v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en jehu y joram. Inicia con “Después salió Jehú á los siervos de su señor, y dijéronle: ¿Hay paz? ¿para qué entró á ti aquel loco? Y él les dijo: Vosotros conocéis al h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en jehu y joram. Inicia con “El atalaya volvió á decir: También éste llegó á ellos y no vuelve: mas el marchar del que viene* es como el marchar de Jehú hijo de Nimsi,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en jezabel y jezreel. Inicia con “En el undécimo año de Joram hijo de Achâb, comenzó á reinar Ochôzías sobre Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jehu",
+      "count": 19,
+      "significance": "La recurrencia de “jehu” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "joram",
+      "count": 12,
+      "significance": "La recurrencia de “joram” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 9."
+    },
+    {
+      "word": "jezreel",
+      "count": 10,
+      "significance": "La recurrencia de “jezreel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 9."
+    },
+    {
+      "word": "hijo",
+      "count": 8,
+      "significance": "La recurrencia de “hijo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 9."
     }
   ]
 }

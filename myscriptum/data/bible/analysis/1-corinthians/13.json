@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 1-corinthians 13",
+  "title": "Análisis Estructural de 1 Corintios 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en caridad y todo. Inicia con “SI yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como* metal que resuena, ó címbalo que retiñe.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en nino y parte. Inicia con “La caridad nunca deja de ser: mas las profecías se han de acabar, y cesarán las lenguas, y la ciencia ha de ser quitada;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "caridad",
+      "count": 9,
+      "significance": "La recurrencia de “caridad” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nino",
+      "count": 5,
+      "significance": "La recurrencia de “nino” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 13."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 13."
+    },
+    {
+      "word": "parte",
+      "count": 4,
+      "significance": "La recurrencia de “parte” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 13."
     }
   ]
 }

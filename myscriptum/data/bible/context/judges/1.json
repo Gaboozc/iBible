@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo de los jueces (ca. 1200–1050 a.C.)",
+  "dominantEmpire": "Presión de pueblos vecinos (filisteos, madianitas, etc.)",
+  "kingName": "Sin monarquía estable",
+  "kingRegion": "Tribus de Israel en Canaán",
   "activeProphets": [
-    "Profetas según el período"
+    "Débora y otros libertadores carismáticos"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Judges capítulo 1 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Culto fragmentado y frecuentemente sincretista",
+  "location": "Canaán tribal",
+  "summary": "Jueces presenta ciclos de pecado, opresión, clamor y liberación. En Jueces 1, el capítulo contiene 36 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, cananeo, habitaban. Señales textuales: “Y ACONTECIÓ después de la muerte de Josué, que los hijos de Israel consultaron á Jehová, diciendo: ¿Quién subirá por no…” | “Y fué Jehová con Judá, y echó á los de las montañas; mas no pudo echar á los que habitaban en los llanos, los cuales te…” | “Y el término del Amorrheo fué desde la subida de Acrabim, desde la piedra, y arriba.”.",
+  "spiritualContext": "Muestra decadencia espiritual cuando “cada uno hacía lo recto en sus propios ojos”. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan juda, cananeo, habitaban. El núcleo del capítulo se percibe en “Y fué Jehová con Judá, y echó á los de las montañas; mas no pudo echar á los que habitaban en los llanos, los cuales te…”."
 }

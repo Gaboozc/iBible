@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en hacen y desierto. Inicia con “PUESTO que no son ocultos los tiempos al Todopoderoso, ¿por qué los que le conocen no ven sus días?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en quitan y avenidas. Inicia con “Con las avenidas de los montes se mojan, y abrazan las peñas sin tener abrigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en noche y sombra. Inicia con “A la luz se levanta el matador, mata al pobre y al necesitado, y de noche es como ladrón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en nunca y seran. Inicia con “Olvidaráse de ellos el seno materno; de ellos sentirán los gusanos dulzura; nunca más habrá de ellos memoria, y como un árbol serán los imp…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hacen",
+      "count": 3,
+      "significance": "La recurrencia de “hacen” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 24."
     },
     {
-      "word": "Motivo literario",
+      "word": "muerte",
+      "count": 3,
+      "significance": "La recurrencia de “muerte” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 24."
+    },
+    {
+      "word": "nunca",
+      "count": 3,
+      "significance": "La recurrencia de “nunca” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 24."
+    },
+    {
+      "word": "conocen",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “conocen” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 24."
     }
   ]
 }

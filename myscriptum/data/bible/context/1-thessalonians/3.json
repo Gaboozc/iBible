@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y locales según el contexto",
+  "kingRegion": "Mediterráneo oriental",
   "activeProphets": [
-    "Profetas según el período"
+    "Jesús, apóstoles y líderes de la iglesia primitiva"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-thessalonians capítulo 3 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
+  "location": "Judea, Asia Menor y mundo grecorromano",
+  "summary": "1 Tesalonicenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Tesalonicenses 3, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nosotros, senor, timoteo. Señales textuales: “POR lo cual, no pudiendo esperar más, acordamos quedarnos solos en Atenas,” | “En ello, hermanos, recibimos consolación de vosotros en toda nuestra necesidad y aflicción por causa de vuestra fe:” | “Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venid…”.",
+  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nosotros, senor, timoteo. El núcleo del capítulo se percibe en “En ello, hermanos, recibimos consolación de vosotros en toda nuestra necesidad y aflicción por causa de vuestra fe:”."
 }

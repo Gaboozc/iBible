@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 19",
+  "title": "Análisis Estructural de Génesis 19",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en casa y varones. Inicia con “LLEGARON, pues, los dos ángeles á Sodoma á la caída de la tarde: y Lot estaba sentado á la puerta de Sodoma. Y viéndolos Lot, levantóse á r…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en hijas y ciudad. Inicia con “Y á los hombres que estaban á la puerta de la casa desde el menor hasta el mayor, hirieron con ceguera; mas ellos se fatigaban por hallar l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en tierra y ciudades. Inicia con “He aquí ahora esta ciudad está cerca para huir allá, la cual es pequeña; escaparé ahora allá, (¿no es ella pequeña?) y vivirá mi alma.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en padre y mayor. Inicia con “Empero Lot subió de Zoar, y asentó en el monte, y sus dos hijas con él; porque tuvo miedo de quedar en Zoar, y se alojó en una cueva él y s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 11,
+      "significance": "La recurrencia de “padre” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 9,
+      "significance": "La recurrencia de “aqui” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 19."
+    },
+    {
+      "word": "ciudad",
+      "count": 8,
+      "significance": "La recurrencia de “ciudad” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 19."
+    },
+    {
+      "word": "hijas",
+      "count": 8,
+      "significance": "La recurrencia de “hijas” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 19."
     }
   ]
 }

@@ -3,33 +3,49 @@
   "sections": [
     {
       "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en respondio y ciertamente. Inicia con “Y RESPONDIÓ Job, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en aqui y pasara. Inicia con “El que hace cosas grandes é incomprensibles, y maravillosas, sin número.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en perfecto y bien. Inicia con “Si habláremos* de su* potencia, fuerte por cierto es; si de juicio, ¿quién me emplazará?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en nosotros y conturbanme. Inicia con “Contúrbanme todos mis trabajos; sé que no me darás por libre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "conozco",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “conozco” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 9."
     },
     {
-      "word": "Motivo literario",
+      "word": "hombre",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 9."
+    },
+    {
+      "word": "cosa",
+      "count": 2,
+      "significance": "La recurrencia de “cosa” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 9."
+    },
+    {
+      "word": "tierra",
+      "count": 2,
+      "significance": "La recurrencia de “tierra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 9."
     }
   ]
 }

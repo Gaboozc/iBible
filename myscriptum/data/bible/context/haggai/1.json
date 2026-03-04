@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Haggai capítulo 1 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "Hageo desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Hageo 1, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, hijo, ejercitos. Señales textuales: “EN el año segundo del rey Darío en el mes sexto, en el primer día del mes, fué palabra de Jehová, por mano del profeta…” | “Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré honrado, ha dicho Jehová.” | “En el día veinte y cuatro del mes sexto, en el segundo año del rey Darío.”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, hijo, ejercitos. El núcleo del capítulo se percibe en “Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré honrado, ha dicho Jehová.”."
 }

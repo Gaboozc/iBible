@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Esther 9",
+  "title": "Análisis Estructural de Ester 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en judios y enemigos. Inicia con “Y EN el mes duodécimo, que es el mes de Adar, á trece del mismo, en el que tocaba se ejecutase el mandamiento del rey y su ley, el mismo dí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en susan y judios. Inicia con “Y á Pharmastha, y á Arisai, y á Aridai, y á Vaizatha,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en judios y mismo. Inicia con “En el día trece del mes de Adar fué esto*; y reposaron en el día catorce del mismo, é hiciéronlo día de banquete y de alegría.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en dias y purim. Inicia con “Mas como Esther vino á la presencia del rey, él intimó por carta: El perverso designio que aquél trazó contra los Judíos, recaiga sobre su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "judios",
+      "count": 22,
+      "significance": "La recurrencia de “judios” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "provincias",
+      "count": 8,
+      "significance": "La recurrencia de “provincias” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 9."
+    },
+    {
+      "word": "mardocheo",
+      "count": 8,
+      "significance": "La recurrencia de “mardocheo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 9."
+    },
+    {
+      "word": "susan",
+      "count": 8,
+      "significance": "La recurrencia de “susan” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 9."
     }
   ]
 }

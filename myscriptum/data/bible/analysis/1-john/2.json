@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-john 2",
+  "title": "Análisis Estructural de 1 Juan 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en mandamiento y escribo. Inicia con “HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el j…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 2, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en habeis y tinieblas. Inicia con “El que dice que está en luz, y aborrece á su hermano, el tal aun está en tinieblas todavía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en nosotros y mundo. Inicia con “Porque todo lo que hay en el mundo, la concupiscencia de la carne, y la concupiscencia de los ojos, y la soberbia de la vida, no es del Pad…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en cualquiera y hijo. Inicia con “Cualquiera que niega al Hijo, este tal tampoco tiene al Padre. Cualquiera que confiese al Hijo tiene también al Padre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "habeis",
+      "count": 11,
+      "significance": "La recurrencia de “habeis” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "padre",
+      "count": 8,
+      "significance": "La recurrencia de “padre” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 2."
+    },
+    {
+      "word": "escribo",
+      "count": 7,
+      "significance": "La recurrencia de “escribo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 2."
+    },
+    {
+      "word": "mundo",
+      "count": 7,
+      "significance": "La recurrencia de “mundo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 2."
     }
   ]
 }

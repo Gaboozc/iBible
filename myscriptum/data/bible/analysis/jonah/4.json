@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Jonah 4",
+  "title": "Análisis Estructural de Jonás 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en jonas y ciudad. Inicia con “PERO Jonás se apesadumbró en extremo, y enojóse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en calabacera y muerte. Inicia con “Mas Dios preparó un gusano al venir la mañana del día siguiente, el cual hirió á la calabacera, y secóse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jonás 4, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jonas",
+      "count": 6,
+      "significance": "La recurrencia de “jonas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "calabacera",
+      "count": 5,
+      "significance": "La recurrencia de “calabacera” (5) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Jonás 4."
+    },
+    {
+      "word": "muerte",
+      "count": 4,
+      "significance": "La recurrencia de “muerte” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 4."
+    },
+    {
+      "word": "ciudad",
+      "count": 4,
+      "significance": "La recurrencia de “ciudad” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 4."
     }
   ]
 }

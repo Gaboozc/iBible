@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-peter 2",
+  "title": "Análisis Estructural de 2 Pedro 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en perdicion y falsos. Inicia con “PERO hubo también falsos profetas en el pueblo, como habrá entre vosotros falsos doctores, que introducirán encubiertamente herejías de per…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en justo y injustos. Inicia con “Y libró al justo Lot, acosado por la nefanda conducta de los malvados;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en teniendo y camino. Inicia con “Mas éstos, diciendo mal de las cosas que no entienden, como bestias brutas, que naturalmente son hechas para presa y destrucción, perecerán…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en conocido y hablando. Inicia con “Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "perdicion",
+      "count": 4,
+      "significance": "La recurrencia de “perdicion” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 4,
+      "significance": "La recurrencia de “senor” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 2."
+    },
+    {
+      "word": "camino",
+      "count": 4,
+      "significance": "La recurrencia de “camino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 2."
+    },
+    {
+      "word": "mismos",
+      "count": 3,
+      "significance": "La recurrencia de “mismos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de James 2",
+  "title": "Análisis Estructural de Santiago 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pobre y hermanos. Inicia con “HERMANOS míos, no tengáis la fe de nuestro Señor Jesucristo glorioso en acepción de personas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Santiago 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en hecho y misericordia. Inicia con “Si en verdad cumplís vosotros la ley real, conforme á la Escritura: Amarás á tu prójimo como á ti mismo, bien hacéis:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Santiago 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en obras y alguno. Inicia con “Hermanos míos, ¿qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Santiago 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en obras y justificado. Inicia con “¿No fué justificado por las obras Abraham nuestro padre, cuando ofreció á su hijo Isaac sobre el altar?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Santiago 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "obras",
+      "count": 12,
+      "significance": "La recurrencia de “obras” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Santiago 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hermanos",
+      "count": 3,
+      "significance": "La recurrencia de “hermanos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Santiago 2."
+    },
+    {
+      "word": "mios",
+      "count": 3,
+      "significance": "La recurrencia de “mios” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Santiago 2."
+    },
+    {
+      "word": "hombre",
+      "count": 3,
+      "significance": "La recurrencia de “hombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Santiago 2."
     }
   ]
 }

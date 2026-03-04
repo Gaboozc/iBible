@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Composición multiépoca (monarquía, exilio y postexilio)",
+  "dominantEmpire": "Varía según salmo y época",
+  "kingName": "Principalmente periodo davídico y posterior",
+  "kingRegion": "Israel/Judá y comunidades en dispersión",
   "activeProphets": [
-    "Profetas según el período"
+    "David y autores litúrgicos de Israel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Psalms capítulo 68 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Adoración centrada en templo/tabernáculo según época",
+  "location": "Sion y contexto de peregrinación/exilio",
+  "summary": "Salmos es el himnario teológico de Israel: lamento, alabanza, sabiduría y confianza mesiánica. En Salmos 68, el capítulo contiene 35 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: delante, senor, cielos. Señales textuales: “Al Músico principal: Salmo de David: Canción. LEVÁNTESE Dios, sean esparcidos sus enemigos, y huyan de su presencia los…” | “Subiste á lo alto, cautivaste la cautividad, tomaste dones para los hombres, y también para* los rebeldes, para que hab…” | “Terrible eres*, oh Dios, desde tus santuarios: el Dios de Israel, él da fortaleza y vigor á su* pueblo. Bendito Dios.”.",
+  "spiritualContext": "Modela oración honesta delante de Dios en sufrimiento, arrepentimiento, guerra y esperanza. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan delante, senor, cielos. El núcleo del capítulo se percibe en “Subiste á lo alto, cautivaste la cautividad, tomaste dones para los hombres, y también para* los rebeldes, para que hab…”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Zephaniah 1",
+  "title": "Análisis Estructural de Sofonías 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y destruire. Inicia con “PALABRA de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Josías hijo de Amón, re…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en sacrificio y hare. Inicia con “Y á los que tornan atrás de en pos de Jehová; y á los que no buscaron á Jehová, ni preguntaron por él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en grande y casas. Inicia con “Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande quebrantamiento desde lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en tierra y angustia. Inicia con “Día de ira aquel día, día de angustia y de aprieto, día de alboroto y de asolamiento, día de tiniebla y de oscuridad, día de nublado y de e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 1."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 1."
+    },
+    {
+      "word": "hombres",
+      "count": 4,
+      "significance": "La recurrencia de “hombres” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 1."
     }
   ]
 }

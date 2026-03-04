@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 2",
+  "title": "Análisis Estructural de Josué 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hombres y tierra. Inicia con “Y JOSUÉ, hijo de Nun, envió desde Sittim dos espías secretamente, diciéndoles: Andad, reconoced la tierra, y á Jericó. Los cuales fueron, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en tras y jordan. Inicia con “Y los hombres fueron tras ellos por el camino del Jordán, hasta los vados: y la puerta fué cerrada después que salieron los que tras ellos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en padre y nosotros. Inicia con “Y que salvaréis la vida á mi padre y á mi madre, y á mis hermanos y hermanas, y á todo lo que es suyo; y que libraréis nuestras vidas de la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en nosotros y cualquiera. Inicia con “Cualquiera que saliere fuera de las puertas de tu casa, su sangre será sobre su cabeza, y nosotros sin culpa. Mas cualquiera que se estuvie…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 7,
+      "significance": "La recurrencia de “casa” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 2."
+    },
+    {
+      "word": "nosotros",
+      "count": 7,
+      "significance": "La recurrencia de “nosotros” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 2."
+    },
+    {
+      "word": "hombres",
+      "count": 6,
+      "significance": "La recurrencia de “hombres” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 2."
     }
   ]
 }

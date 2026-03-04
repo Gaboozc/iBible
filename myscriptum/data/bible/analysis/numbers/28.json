@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 28",
+  "title": "Análisis Estructural de Números 28",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 28.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en ofrenda y cordero. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en cada y holocausto. Inicia con “Mas el día del sábado dos corderos de un año sin defecto, y dos décimas de flor de harina amasada con aceite, por presente, con su libación:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en ofrecereis y siete. Inicia con “Y á los quince días de aqueste mes, la solemnidad: por siete días se comerán ázimos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en cada y tendreis. Inicia con “Y el séptimo día tendréis santa convocación: ninguna obra servil haréis.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cada",
+      "count": 17,
+      "significance": "La recurrencia de “cada” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 28."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "holocausto",
+      "count": 14,
+      "significance": "La recurrencia de “holocausto” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 28."
+    },
+    {
+      "word": "ofrenda",
+      "count": 9,
+      "significance": "La recurrencia de “ofrenda” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 28."
+    },
+    {
+      "word": "ofrecereis",
+      "count": 9,
+      "significance": "La recurrencia de “ofrecereis” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 28."
     }
   ]
 }

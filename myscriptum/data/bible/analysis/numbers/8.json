@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 8",
+  "title": "Análisis Estructural de Números 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en moises y candelero. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en levitas y delante. Inicia con “Luego tomarán un novillo, con su presente de flor de harina amasada con aceite; y tomarás otro novillo para expiación.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en hijos y israel. Inicia con “Así apartarás los Levitas de entre los hijos de Israel; y serán míos los Levitas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en levitas y aaron. Inicia con “Y los Levitas se purificaron, y lavaron sus vestidos; y Aarón los ofreció en ofrenda delante de Jehová, é hizo Aarón expiación por ellos pa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "levitas",
+      "count": 21,
+      "significance": "La recurrencia de “levitas” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 19,
+      "significance": "La recurrencia de “hijos” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 8."
+    },
+    {
+      "word": "israel",
+      "count": 16,
+      "significance": "La recurrencia de “israel” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 8."
+    },
+    {
+      "word": "aaron",
+      "count": 9,
+      "significance": "La recurrencia de “aaron” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 8."
     }
   ]
 }

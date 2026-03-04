@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 11",
+  "title": "Análisis Estructural de Apocalipsis 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en templo y fuera. Inicia con “Y ME fué dada una caña semejante á una vara, y se me dijo: Levántate, y mide el templo de Dios, y el altar, y á los que adoran en él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en tierra y cuerpos. Inicia con “Estos tienen potestad de cerrar el cielo, que no llueva en los días de su profecía, y tienen poder sobre las aguas para convertirlas en san…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en cielo y gran. Inicia con “Y después de tres días y medio el espíritu de vida enviado* de Dios, entró en ellos, y se alzaron sobre sus pies, y vino gran temor sobre l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en grande y templo. Inicia con “Y los veinticuatro ancianos que estaban sentados delante de Dios en sus sillas, se postraron sobre sus rostros, y adoraron á Dios,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cielo",
+      "count": 6,
+      "significance": "La recurrencia de “cielo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 11."
+    },
+    {
+      "word": "templo",
+      "count": 4,
+      "significance": "La recurrencia de “templo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 11."
+    },
+    {
+      "word": "dias",
+      "count": 4,
+      "significance": "La recurrencia de “dias” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 11."
     }
   ]
 }

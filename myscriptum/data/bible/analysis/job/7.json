@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en dias y jornalero. Inicia con “CIERTAMENTE tiempo limitado* tiene el hombre sobre la tierra, y sus días son como los días del jornalero.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en ojos y acuerdate. Inicia con “Acuérdate que mi vida es viento, y que mis ojos no volverán á ver el bien.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en cama y ballena. Inicia con “¿Soy yo la mar, ó ballena, que me pongas guarda?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en hombre y engrandezcas. Inicia con “¿Qué es el hombre, para que lo engrandezcas, y que pongas sobre él tu corazón,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dias",
+      "count": 4,
+      "significance": "La recurrencia de “dias” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 7."
     },
     {
-      "word": "Motivo literario",
+      "word": "ojos",
+      "count": 3,
+      "significance": "La recurrencia de “ojos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 7."
+    },
+    {
+      "word": "hombre",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 7."
+    },
+    {
+      "word": "jornalero",
+      "count": 2,
+      "significance": "La recurrencia de “jornalero” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 7."
     }
   ]
 }

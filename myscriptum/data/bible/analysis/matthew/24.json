@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 24",
+  "title": "Análisis Estructural de Mateo 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en muchos y jesus. Inicia con “Y SALIDO Jesús, íbase del templo; y se llegaron sus discípulos, para mostrarle los edificios del templo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en entonces y aqui. Inicia con “Y será predicado este evangelio del reino en todo el mundo, por testimonio á todos los Gentiles; y entonces vendrá el fin.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en hijo y hombre. Inicia con “Porque como el relámpago que sale del oriente y se muestra hasta el occidente, así será también la venida del Hijo del hombre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-51",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 51 con foco léxico en senor y venir. Inicia con “Entonces estarán dos en el campo; el uno será tomado, y el otro será dejado:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "entonces",
+      "count": 9,
+      "significance": "La recurrencia de “entonces” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "muchos",
+      "count": 6,
+      "significance": "La recurrencia de “muchos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 24."
+    },
+    {
+      "word": "dias",
+      "count": 6,
+      "significance": "La recurrencia de “dias” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 24."
+    },
+    {
+      "word": "hijo",
+      "count": 6,
+      "significance": "La recurrencia de “hijo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 24."
     }
   ]
 }

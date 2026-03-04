@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 38",
+  "title": "Análisis Estructural de Salmos 38",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 38.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en causa y estoy. Inicia con “Salmo de David, para recordar. JEHOVÁ, no me reprendas en tu furor, ni me castigues en tu ira.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en estan y corazon. Inicia con “Porque mis lomos están llenos de irritación, y no hay sanidad en mi carne.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en boca y buscaban. Inicia con “Y los que buscaban mi alma armaron lazos; y los que procuraban mi mal hablaban iniquidades, y meditaban fraudes todo el día.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en tanto y denunciare. Inicia con “Por tanto denunciaré mi maldad; congojaréme por mi pecado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "causa",
+      "count": 5,
+      "significance": "La recurrencia de “causa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 38."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "estoy",
+      "count": 4,
+      "significance": "La recurrencia de “estoy” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 38."
+    },
+    {
+      "word": "estan",
+      "count": 3,
+      "significance": "La recurrencia de “estan” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 38."
+    },
+    {
+      "word": "delante",
+      "count": 3,
+      "significance": "La recurrencia de “delante” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 38."
     }
   ]
 }

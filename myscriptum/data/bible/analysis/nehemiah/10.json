@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 10",
+  "title": "Análisis Estructural de Nehemías 10",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en hijo y sebanias. Inicia con “Y LOS que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-20",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en odaia y bani. Inicia con “Michâ, Rehob, Hasabías,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en hijas y hanan. Inicia con “Mesezabeel, Sadoc, Jadua,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en casa y levitas. Inicia con “Asimismo, que si los pueblos de la tierra trajesen á vender mercaderías y comestibles en día de sábado, nada tomaríamos de ellos en sábado,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 10,
+      "significance": "La recurrencia de “casa” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "levitas",
+      "count": 8,
+      "significance": "La recurrencia de “levitas” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 10."
+    },
+    {
+      "word": "nuestras",
+      "count": 7,
+      "significance": "La recurrencia de “nuestras” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 10."
+    },
+    {
+      "word": "sacerdotes",
+      "count": 6,
+      "significance": "La recurrencia de “sacerdotes” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 10."
     }
   ]
 }

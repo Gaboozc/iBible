@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 33",
+  "title": "Análisis Estructural de Ezequiel 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en espada y impio. Inicia con “Y FUÉ á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en impio y justicia. Inicia con “Tú pues, hijo del hombre, di á la casa de Israel: Vosotros habéis hablado así, diciendo: Nuestras rebeliones y nuestros pecados están sobre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en tierra y apartare. Inicia con “Cuando el justo se apartare de su justicia, é hiciere iniquidad, morirá por ello.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en tierra y pueblo. Inicia con “Estuvisteis sobre vuestras espadas, hicisteis abominación, y contaminasteis cada cual la mujer de su prójimo: ¿y habréis de poseer la tierr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "impio",
+      "count": 11,
+      "significance": "La recurrencia de “impio” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 10,
+      "significance": "La recurrencia de “tierra” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 33."
+    },
+    {
+      "word": "pueblo",
+      "count": 9,
+      "significance": "La recurrencia de “pueblo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 33."
+    },
+    {
+      "word": "diciendo",
+      "count": 8,
+      "significance": "La recurrencia de “diciendo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 33."
     }
   ]
 }

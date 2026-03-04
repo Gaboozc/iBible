@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 20",
+  "title": "Análisis Estructural de Jeremías 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pashur y jeremias. Inicia con “Y PASHUR sacerdote, hijo de Immer, que presidía por príncipe en la casa de Jehová, oyó á Jeremías que profetizaba estas palabras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en cada y todos. Inicia con “Y tú, Pashur, y todos los moradores de tu casa iréis cautivos, y entrarás en Babilonia, y allí morirás, y serás allá enterrado, tú, y todos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en venganza y murmuracion. Inicia con “Porque oí la murmuración de muchos, temor de todas partes: Denunciad, y denunciaremos. Todos mis amigos miraban si claudicaría. Quizá se en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en vientre y hombre. Inicia con “Maldito el hombre que dió nuevas á mi padre, diciendo, Hijo varón te ha nacido, haciéndole alegrarse así mucho.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pashur",
+      "count": 5,
+      "significance": "La recurrencia de “pashur” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 20."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 20."
+    },
+    {
+      "word": "jeremias",
+      "count": 4,
+      "significance": "La recurrencia de “jeremias” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 20."
+    },
+    {
+      "word": "babilonia",
+      "count": 4,
+      "significance": "La recurrencia de “babilonia” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 20."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 21",
+  "title": "Análisis Estructural de Proverbios 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en todo y corazon. Inicia con “COMO los repartimientos de las aguas, así está el corazón del rey en la mano de Jehová: á todo lo que quiere lo inclina.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en casa y impio. Inicia con “Mejor es vivir en un rincón de zaquizamí, que con la mujer rencillosa en espaciosa casa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en hombre y sabio. Inicia con “Hombre necesitado será el que ama el deleite: y el que ama el vino y ungüentos no enriquecerá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en hombre y deseo. Inicia con “El deseo del perezoso le mata, porque sus manos no quieren trabajar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 7,
+      "significance": "La recurrencia de “hombre” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 21."
+    },
+    {
+      "word": "impios",
+      "count": 4,
+      "significance": "La recurrencia de “impios” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 21."
+    },
+    {
+      "word": "impio",
+      "count": 4,
+      "significance": "La recurrencia de “impio” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 21."
     }
   ]
 }

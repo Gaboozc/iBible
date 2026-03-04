@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 142",
+  "title": "Análisis Estructural de Salmos 142",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 142.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en delante y habia. Inicia con “Masquil de David: Oración que hizo cuando estaba en la cueva. CON mi voz clamaré á Jehová, con mi voz pediré á Jehová misericordia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 142, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-7",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 7 con foco léxico en clame y dije. Inicia con “Clamé á ti, oh Jehová, dije: Tú eres mi esperanza, y mi porción en la tierra de los vivientes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 142, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "delante",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “delante” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 142."
     },
     {
-      "word": "Motivo literario",
+      "word": "habia",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “habia” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 142."
+    },
+    {
+      "word": "masquil",
+      "count": 1,
+      "significance": "La recurrencia de “masquil” (1) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 142."
+    },
+    {
+      "word": "david",
+      "count": 1,
+      "significance": "La recurrencia de “david” (1) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 142."
     }
   ]
 }

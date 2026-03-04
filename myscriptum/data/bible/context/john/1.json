@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y religiosas judías",
+  "kingRegion": "Judea y Galilea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "John capítulo 1 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo activo durante la narrativa",
+  "location": "Jerusalén y Galilea",
+  "summary": "Juan presenta señales y discursos para afirmar que Jesús es el Hijo de Dios. En Juan 1, el capítulo contiene 51 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesus, juan, eres. Señales textuales: “EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.” | “Y Juan les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado á quien vosotros no conocéis.” | “Y dícele: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y des…”.",
+  "spiritualContext": "Vida eterna, nuevo nacimiento, amor y unidad con Cristo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jesus, juan, eres. El núcleo del capítulo se percibe en “Y Juan les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado á quien vosotros no conocéis.”."
 }

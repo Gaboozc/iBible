@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 3",
+  "title": "Análisis Estructural de Mateo 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en juan y desierto. Inicia con “Y EN aquellos días vino Juan el Bautista predicando en el desierto de Judea,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en abraham y eran. Inicia con “Y eran bautizados de él en el Jordán, confesando sus pecados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en fuego y ahora. Inicia con “Ahora, ya también la segur está puesta á la raíz de los árboles; y todo árbol que no hace buen fruto, es cortado y echado en el fuego.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en bautizado y jesus. Inicia con “Mas Juan lo resistía mucho, diciendo: Yo he menester ser bautizado de ti, ¿y tú vienes á mí?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juan",
+      "count": 4,
+      "significance": "La recurrencia de “juan” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cielos",
+      "count": 3,
+      "significance": "La recurrencia de “cielos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 3."
+    },
+    {
+      "word": "entonces",
+      "count": 3,
+      "significance": "La recurrencia de “entonces” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 3."
+    },
+    {
+      "word": "toda",
+      "count": 3,
+      "significance": "La recurrencia de “toda” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 3."
     }
   ]
 }

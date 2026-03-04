@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 13",
+  "title": "Análisis Estructural de 2 Reyes 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y hijo. Inicia con “EN el año veintitrés de Joas hijo de Ochôzías, rey de Judá, comenzó á reinar Joachâz hijo de Jehú sobre Israel en Samaria; y reinó* diecisi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en joas y israel. Inicia con “Lo demás de los hechos de Joachâz, y todo lo que hizo, y sus valentías, ¿no está escrito en el libro de las crónicas de los reyes de Israel?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en eliseo y israel. Inicia con “Estaba Eliseo enfermo de aquella su enfermedad de que murió. Y descendió á él Joas rey de Israel, y llorando delante de él, dijo: ¡Padre mí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en eliseo y hazael. Inicia con “Y murió Eliseo, y sepultáronlo. Entrado el año vinieron partidas de Moabitas á la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 18,
+      "significance": "La recurrencia de “israel” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "joas",
+      "count": 10,
+      "significance": "La recurrencia de “joas” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 13."
+    },
+    {
+      "word": "hijo",
+      "count": 10,
+      "significance": "La recurrencia de “hijo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 13."
+    },
+    {
+      "word": "joachaz",
+      "count": 9,
+      "significance": "La recurrencia de “joachaz” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 13."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 13",
+  "title": "Análisis Estructural de Ezequiel 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en palabra y profetas. Inicia con “Y FUÉ á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en habeis y mentira. Inicia con “¿No habéis visto visión vana, y no habéis dicho adivinación de mentira, por cuanto decís, Dijo Jehová; no habiendo yo hablado?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en senor y pared. Inicia con “Por tanto, así ha dicho el Señor Jehová: Y haré que la rompa viento tempestuoso con mi ira, y lluvia inundante vendrá con mi furor, y piedr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en almas y pueblo. Inicia con “¿Y habéis de profanarme entre mi pueblo por puñados de cebada y por pedazos de pan, matando las almas que no mueren, y dando vida á las alm…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 8,
+      "significance": "La recurrencia de “senor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 13."
+    },
+    {
+      "word": "dicho",
+      "count": 7,
+      "significance": "La recurrencia de “dicho” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 13."
+    },
+    {
+      "word": "habeis",
+      "count": 7,
+      "significance": "La recurrencia de “habeis” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 13."
     }
   ]
 }

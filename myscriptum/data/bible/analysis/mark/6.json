@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 6",
+  "title": "Análisis Estructural de Marcos 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en alli y muchos. Inicia con “Y SALIÓ de allí, y vino á su tierra, y le siguieron sus discípulos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-28",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 28 con foco léxico en herodes y juan. Inicia con “Otros decían: Elías es. Y otros decían: Profeta es, ó alguno de los profetas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "29-42",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 29 al 42 con foco léxico en lugar y comer. Inicia con “Y oyéndolo* sus discípulos, vinieron y tomaron su cuerpo, y le pusieron en un sepulcro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "43-56",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 43 al 56 con foco léxico en barco y luego. Inicia con “Y alzaron de los pedazos doce cofines llenos, y de los peces.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "herodes",
+      "count": 7,
+      "significance": "La recurrencia de “herodes” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juan",
+      "count": 7,
+      "significance": "La recurrencia de “juan” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 6."
+    },
+    {
+      "word": "muchos",
+      "count": 6,
+      "significance": "La recurrencia de “muchos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 6."
+    },
+    {
+      "word": "todos",
+      "count": 6,
+      "significance": "La recurrencia de “todos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 6."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 56",
+  "title": "Análisis Estructural de Isaías 56",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 56.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en nombre y justicia. Inicia con “ASÍ dijo Jehová: Guardad derecho, y haced justicia: porque cercana está mi salud para venir, y mi justicia para manifestarse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 56, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en todos y casa. Inicia con “Yo los llevaré al monte de mi santidad, y los recrearé en mi casa de oración; sus holocaustos y sus sacrificios serán aceptos sobre mi alta…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 56, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 56."
     },
     {
-      "word": "Motivo literario",
+      "word": "casa",
+      "count": 4,
+      "significance": "La recurrencia de “casa” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 56."
+    },
+    {
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 56."
+    },
+    {
+      "word": "justicia",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “justicia” (2) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 56."
     }
   ]
 }

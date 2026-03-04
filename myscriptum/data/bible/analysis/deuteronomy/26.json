@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 26",
+  "title": "Análisis Estructural de Deuteronomio 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en tierra y entrado. Inicia con “Y SERÁ que, cuando hubieres entrado en la tierra que Jehová tu Dios te da por heredad, y la poseyeres, y habitares en ella;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en nuestra y tierra. Inicia con “Y los Egipcios nos maltrataron, y nos afligieron, y pusieron sobre nosotros dura servidumbre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en dado y todo. Inicia con “Y te alegrarás con todo el bien que Jehová tu Dios te hubiere dado á ti* y á tu casa, tú y el Levita, y el extranjero que está en medio de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en estatutos y derechos. Inicia con “Jehová tu Dios te manda hoy que cumplas estos estatutos y derechos; cuida, pues, de ponerlos por obra con todo tu corazón, y con toda tu al…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 9,
+      "significance": "La recurrencia de “tierra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "delante",
+      "count": 5,
+      "significance": "La recurrencia de “delante” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 26."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 26."
+    },
+    {
+      "word": "dado",
+      "count": 4,
+      "significance": "La recurrencia de “dado” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 26."
     }
   ]
 }

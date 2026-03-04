@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 11",
+  "title": "Análisis Estructural de Levítico 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en comereis y pezuna. Inicia con “Y HABLÓ Jehová á Moisés y á Aarón, diciéndoles:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en segun y especie. Inicia con “Y de las aves, éstas tendréis en abominación; no se comerán, serán abominación: el águila, el quebrantahuesos, el esmerejón,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en inmundo y muertos. Inicia con “Y cualquiera que llevare de sus cuerpos muertos, lavará sus vestidos, y será inmundo hasta la tarde.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-47",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 47 con foco léxico en todo y arrastrando. Inicia con “Y si cayere de sus cuerpos muertos sobre alguna simiente que se haya de sembrar, será limpia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "inmundo",
+      "count": 20,
+      "significance": "La recurrencia de “inmundo” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 18,
+      "significance": "La recurrencia de “todo” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 11."
+    },
+    {
+      "word": "comereis",
+      "count": 10,
+      "significance": "La recurrencia de “comereis” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 11."
+    },
+    {
+      "word": "muertos",
+      "count": 10,
+      "significance": "La recurrencia de “muertos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 11."
     }
   ]
 }

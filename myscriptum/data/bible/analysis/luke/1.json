@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 1",
+  "title": "Análisis Estructural de Lucas 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-20",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 20 con foco léxico en zacarias y delante. Inicia con “HABIENDO muchos tentado á poner en orden la historia de las cosas que entre nosotros han sido ciertísimas,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "21-40",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 21 al 40 con foco léxico en angel y maria. Inicia con “Y el pueblo estaba esperando á Zacarías, y se maravillaban de que él se detuviese en el templo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "41-60",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 41 al 60 con foco léxico en elisabet y maria. Inicia con “Y aconteció, que como oyó Elisabet la salutación de María, la criatura saltó en su vientre; y Elisabet fué llena del Espíritu Santo,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "61-80",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 61 al 80 con foco léxico en todos y nuestros. Inicia con “Y le dijeron: ¿Por qué? nadie hay en tu parentela que se llame de este nombre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 15,
+      "significance": "La recurrencia de “senor” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "angel",
+      "count": 10,
+      "significance": "La recurrencia de “angel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 1."
+    },
+    {
+      "word": "zacarias",
+      "count": 9,
+      "significance": "La recurrencia de “zacarias” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 1."
+    },
+    {
+      "word": "elisabet",
+      "count": 9,
+      "significance": "La recurrencia de “elisabet” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 1."
     }
   ]
 }

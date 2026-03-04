@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 6",
+  "title": "Análisis Estructural de Deuteronomio 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en mando y hijo. Inicia con “ESTOS pues son los mandamientos, estatutos, y derechos que Jehová vuestro Dios mandó que os enseñase, para que los pongáis por obra en la t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en casa y tierra. Inicia con “Y has de atarlas por señal en tu mano, y estarán por frontales entre tus ojos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en dioses y tierra. Inicia con “No andaréis en pos de dioses ajenos, de los dioses de los pueblos que están en vuestros contornos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en egipto y todos. Inicia con “Cuando mañana te preguntare tu hijo, diciendo: ¿Qué significan los testimonios, y estatutos, y derechos, que Jehová nuestro Dios os mandó?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 6,
+      "significance": "La recurrencia de “todos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 6."
+    },
+    {
+      "word": "estatutos",
+      "count": 5,
+      "significance": "La recurrencia de “estatutos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 6."
+    },
+    {
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 6."
     }
   ]
 }

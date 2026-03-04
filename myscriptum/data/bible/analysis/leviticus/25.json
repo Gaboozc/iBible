@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 25",
+  "title": "Análisis Estructural de Levítico 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en tierra y anos. Inicia con “Y JEHOVÁ habló á Moisés en el monte de Sinaí, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-28",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 28 con foco léxico en anos y tierra. Inicia con “Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él á ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "29-42",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 29 al 42 con foco léxico en tierra y contigo. Inicia con “Y el varón que vendiere casa de morada en ciudad cercada, tendrá facultad de redimirla hasta acabarse el año de su venta: un año será el té…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "43-55",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 43 al 55 con foco léxico en hijos y conforme. Inicia con “No te enseñorearás de él con dureza, mas tendrás temor de tu Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 26,
+      "significance": "La recurrencia de “tierra” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "anos",
+      "count": 17,
+      "significance": "La recurrencia de “anos” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 25."
+    },
+    {
+      "word": "jubileo",
+      "count": 14,
+      "significance": "La recurrencia de “jubileo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 25."
+    },
+    {
+      "word": "posesion",
+      "count": 12,
+      "significance": "La recurrencia de “posesion” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 25."
     }
   ]
 }

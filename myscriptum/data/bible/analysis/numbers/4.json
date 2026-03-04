@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 4",
+  "title": "Análisis Estructural de Números 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en pondran y pano. Inicia con “Y HABLÓ Jehová á Moisés y á Aarón, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en tabernaculo y hijos. Inicia con “Y pondrán sobre él todos sus instrumentos de que se sirve: las paletas, los garfios, los braseros, y los tazones, todos los vasos del altar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-37",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 37 con foco léxico en tabernaculo y todos. Inicia con “Y las cortinas del atrio, y el pabellón de la puerta del atrio, que está cerca del tabernáculo y cerca del altar alrededor, y sus cuerdas,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "38-49",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 38 al 49 con foco léxico en contados y familias. Inicia con “Y los contados de los hijos de Gersón, por sus familias, y por las casas de sus padres,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 21,
+      "significance": "La recurrencia de “todos” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tabernaculo",
+      "count": 20,
+      "significance": "La recurrencia de “tabernaculo” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 4."
+    },
+    {
+      "word": "hijos",
+      "count": 19,
+      "significance": "La recurrencia de “hijos” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 4."
+    },
+    {
+      "word": "familias",
+      "count": 18,
+      "significance": "La recurrencia de “familias” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 4."
     }
   ]
 }

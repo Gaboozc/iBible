@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 20",
+  "title": "Análisis Estructural de Proverbios 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hombre y todo. Inicia con “EL vino es escarnecedor, la cerveza alborotadora; y cualquiera que por ello errare, no será sabio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en doble y ambas. Inicia con “¿Quién podrá decir: Yo he limpiado mi corazón, limpio estoy de mi pecado?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en quitale y ropa. Inicia con “Quítale su ropa al que salió por fiador del extraño; y tómale prenda al que fía* la extraña.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en hombre y secreto. Inicia con “De Jehová son los pasos del hombre: ¿cómo pues entenderá el hombre su camino?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 9,
+      "significance": "La recurrencia de “hombre” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 20."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hace",
+      "count": 3,
+      "significance": "La recurrencia de “hace” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 20."
+    },
+    {
+      "word": "pues",
+      "count": 3,
+      "significance": "La recurrencia de “pues” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 20."
+    },
+    {
+      "word": "despues",
+      "count": 3,
+      "significance": "La recurrencia de “despues” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 20."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 5",
+  "title": "Análisis Estructural de 1 Crónicas 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en hijo y hijos. Inicia con “Y LOS hijos de Rubén, primogénito de Israel, (porque él era el primogénito, mas como violó el lecho de su padre, sus derechos de primogenit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en hijo y joel. Inicia con “Y Bela hijo de Azaz, hijo de Sema, hijo de Joel, habitó en Aroer hasta Nebo y Baal-meón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en hijo y todos. Inicia con “Estos fueron los hijos de Abihail hijo de Huri, hijo de Jaroa, hijo de Galaad, hijo de Michâel, hijo de Jesiaí, hijo de Jaddo, hijo de Buz.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en padres y cincuenta. Inicia con “Y tomaron sus ganados, cincuenta mil camellos, y doscientas cincuenta mil ovejas, dos mil asnos, y cien mil personas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 20,
+      "significance": "La recurrencia de “hijo” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 8,
+      "significance": "La recurrencia de “hijos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 5."
+    },
+    {
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 5."
+    },
+    {
+      "word": "guerra",
+      "count": 5,
+      "significance": "La recurrencia de “guerra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 5."
     }
   ]
 }

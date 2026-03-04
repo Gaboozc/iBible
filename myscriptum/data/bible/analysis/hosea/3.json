@@ -1,35 +1,33 @@
 {
-  "title": "Análisis Estructural de Hosea 3",
+  "title": "Análisis Estructural de Oseas 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
-    },
-    {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "1-5",
+      "title": "Unidad literaria principal",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijos y israel. Inicia con “Y DÍJOME otra vez Jehová: Ve, ama una mujer amada de su* compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel; l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 3,
+      "significance": "La recurrencia de “hijos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 3."
     },
     {
-      "word": "Motivo literario",
+      "word": "israel",
+      "count": 3,
+      "significance": "La recurrencia de “israel” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 3."
+    },
+    {
+      "word": "dias",
+      "count": 3,
+      "significance": "La recurrencia de “dias” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 3."
+    },
+    {
+      "word": "muchos",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “muchos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 3."
     }
   ]
 }

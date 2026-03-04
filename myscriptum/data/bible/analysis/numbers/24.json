@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 24",
+  "title": "Análisis Estructural de Números 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y ojos. Inicia con “Y COMO vió Balaam que parecía bien á Jehová que él bendijese á Israel, no fué, como la primera y segunda vez, á encuentro de agüeros, sino…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en balac y balaam. Inicia con “Dios lo sacó de Egipto; tiene fuerzas como de unicornio: comerá á las gentes sus enemigas, y desmenuzará sus huesos, y asaeteará con sus sa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en pueblo y ahora. Inicia con “He aquí yo me voy ahora á mi pueblo: por tanto, ven, te indicaré lo que este pueblo ha de hacer á tu pueblo en los postrimeros días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en tomo y parabola. Inicia con “Y viendo á Amalec, tomó su parábola, y dijo: Amalec, cabeza de gentes; mas su postrimería perecerá para siempre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "balaam",
+      "count": 6,
+      "significance": "La recurrencia de “balaam” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 24."
+    },
+    {
+      "word": "ojos",
+      "count": 5,
+      "significance": "La recurrencia de “ojos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 24."
+    },
+    {
+      "word": "tomo",
+      "count": 5,
+      "significance": "La recurrencia de “tomo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 24."
     }
   ]
 }

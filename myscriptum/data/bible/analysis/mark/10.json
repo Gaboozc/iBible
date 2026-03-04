@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 10",
+  "title": "Análisis Estructural de Marcos 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en mujer y marido. Inicia con “Y PARTIÉNDOSE de allí, vino á los términos de Judea y tras el Jordán: y volvió el pueblo á juntarse á él; y de nuevo les enseñaba como solí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en jesus y reino. Inicia con “Y viéndolo Jesús, se enojó, y les dijo: Dejad los niños venir, y no se lo estorbéis; porque de los tales es el reino de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 10, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en entonces y jesus. Inicia con “Entonces Jesús mirándolos, dice: Para los hombres es imposible; mas para Dios, no; porque todas las cosas son posibles para Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-52",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 52 con foco léxico en jesus y hijo. Inicia con “Mas que os sentéis á mi diestra y á mi siniestra, no es mío darlo, sino á quienes está aparejado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 10, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 19,
+      "significance": "La recurrencia de “jesus” (19) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Marcos 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 11,
+      "significance": "La recurrencia de “entonces” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 10."
+    },
+    {
+      "word": "respondiendo",
+      "count": 6,
+      "significance": "La recurrencia de “respondiendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 10."
+    },
+    {
+      "word": "dice",
+      "count": 6,
+      "significance": "La recurrencia de “dice” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 10."
     }
   ]
 }

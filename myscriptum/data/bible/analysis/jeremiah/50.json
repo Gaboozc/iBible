@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 50",
+  "title": "Análisis Estructural de Jeremías 50",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 50.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en contra y babilonia. Inicia con “PALABRA que habló Jehová contra Babilonia, contra la tierra de los Caldeos, por mano de Jeremías profeta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en ella y contra. Inicia con “Por la ira de Jehová no será habitada, sino que asolada será toda ella; todo hombre que pasare por Babilonia se asombrará, y silbará sobre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en babilonia y ella. Inicia con “Púsete lazos, y aun fuiste tomada, oh Babilonia, y tú no lo supiste: fuiste hallada, y aun presa, porque provocaste á Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en cuchillo y seran. Inicia con “Cuchillo sobre los adivinos, y se atontarán; cuchillo sobre sus valientes, y serán quebrantados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "babilonia",
+      "count": 19,
+      "significance": "La recurrencia de “babilonia” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 50."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ella",
+      "count": 18,
+      "significance": "La recurrencia de “ella” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 50."
+    },
+    {
+      "word": "contra",
+      "count": 17,
+      "significance": "La recurrencia de “contra” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 50."
+    },
+    {
+      "word": "tierra",
+      "count": 17,
+      "significance": "La recurrencia de “tierra” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 50."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 24",
+  "title": "Análisis Estructural de Lucas 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en sepulcro y aqui. Inicia con “Y EL primer día* de la semana, muy de mañana, vinieron al sepulcro, trayendo las drogas* aromáticas que habían aparejado, y algunas otras m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-27",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 27 con foco léxico en cosas y todo. Inicia con “Y aconteció que yendo hablando entre sí, y preguntándose el uno al otro, el mismo Jesús se llegó, é iba con ellos juntamente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "28-40",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 28 al 40 con foco léxico en entonces y diciendo. Inicia con “Y llegaron á la aldea á donde iban: y él hizo como que iba más lejos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "41-53",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 41 al 53 con foco léxico en jerusalem y gozo. Inicia con “Y no creyéndolo aún ellos de gozo, y maravillados, díjoles: ¿Tenéis aquí algo de comer?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cosas",
+      "count": 10,
+      "significance": "La recurrencia de “cosas” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 8,
+      "significance": "La recurrencia de “entonces” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 24."
+    },
+    {
+      "word": "sepulcro",
+      "count": 6,
+      "significance": "La recurrencia de “sepulcro” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 24."
+    },
+    {
+      "word": "jerusalem",
+      "count": 6,
+      "significance": "La recurrencia de “jerusalem” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 24."
     }
   ]
 }

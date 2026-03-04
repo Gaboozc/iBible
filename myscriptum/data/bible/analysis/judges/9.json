@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 9",
+  "title": "Análisis Estructural de Jueces 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en arboles y sichem. Inicia con “Y FUÉSE Abimelech hijo de Jerobaal á Sichêm, á los hermanos de su madre, y habló con ellos, y con toda la familia de la casa del padre de s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-29",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 29 con foco léxico en abimelech y sichem. Inicia con “Ahora pues, si con verdad y con integridad habéis procedido en hacer rey á Abimelech, y si lo habéis hecho bien con Jerobaal y con su casa,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "30-43",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 30 al 43 con foco léxico en pueblo y abimelech. Inicia con “Y Zebul asistente de la ciudad, oyendo las palabras de Gaal hijo de Ebed, encendióse su ira;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "44-57",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 44 al 57 con foco léxico en abimelech y torre. Inicia con “Pues Abimelech y el escuadrón que estaba con él, acometieron con ímpetu, y pararon á la entrada de la puerta de la ciudad; y las dos compañ…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abimelech",
+      "count": 38,
+      "significance": "La recurrencia de “abimelech” (38) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sichem",
+      "count": 25,
+      "significance": "La recurrencia de “sichem” (25) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 9."
+    },
+    {
+      "word": "pueblo",
+      "count": 14,
+      "significance": "La recurrencia de “pueblo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 9."
+    },
+    {
+      "word": "todos",
+      "count": 12,
+      "significance": "La recurrencia de “todos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 9."
     }
   ]
 }

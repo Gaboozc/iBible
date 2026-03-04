@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 28",
+  "title": "Análisis Estructural de Deuteronomio 28",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 28.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-17",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 17 con foco léxico en bendito y tierra. Inicia con “Y SERÁ que, si oyeres diligente la voz de Jehová tu Dios, para guardar, para poner por obra todos sus mandamientos que yo te prescribo hoy,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "18-34",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 18 al 34 con foco léxico en tierra y seras. Inicia con “Maldito el fruto de tu vientre, y el fruto de tu tierra, y la cría de tus vacas, y los rebaños de tus ovejas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "35-51",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 35 al 51 con foco léxico en gente y seras. Inicia con “Herirte ha Jehová con maligna pústula en las rodillas y en las piernas, sin que puedas ser curado: aun* desde la planta de tu pie hasta tu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "52-68",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 52 al 68 con foco léxico en tierra y cerco. Inicia con “Y te pondrá cerco en todas tus ciudades, hasta que caigan tus muros altos y encastillados en que tú confías, en toda tu tierra: te cercará,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 20,
+      "significance": "La recurrencia de “tierra” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 28."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "fruto",
+      "count": 12,
+      "significance": "La recurrencia de “fruto” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 28."
+    },
+    {
+      "word": "todas",
+      "count": 11,
+      "significance": "La recurrencia de “todas” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 28."
+    },
+    {
+      "word": "seras",
+      "count": 11,
+      "significance": "La recurrencia de “seras” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 28."
     }
   ]
 }

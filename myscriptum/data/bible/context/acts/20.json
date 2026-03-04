@@ -1,13 +1,15 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Iglesia primitiva (ca. 30–62 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas (Herodes, procuradores, César)",
+  "kingRegion": "Jerusalén, Judea, Samaria y mundo mediterráneo",
   "activeProphets": [
-    "Profetas según el período"
+    "Pedro",
+    "Pablo",
+    "Santiago y líderes apostólicos"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Acts capítulo 20 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie al inicio de Hechos",
+  "location": "Desde Jerusalén hasta Roma",
+  "summary": "Hechos narra expansión del evangelio por el poder del Espíritu Santo. En Hechos 20, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pablo, senor, todos. Señales textuales: “Y DESPUÉS que cesó el alboroto, llamando Pablo á los discípulos habiéndoles exhortado y abrazado, se despidió, y partió…” | “Cómo nada que fuese útil he rehuído de anunciaros y enseñaros, públicamente y por las casas,” | “Doliéndose en gran manera por la palabra que dijo, que no habían de ver más su rostro. Y le acompañaron al navío.”.",
+  "spiritualContext": "Misión, persecución, comunión y apertura del pueblo de Dios a los gentiles. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pablo, senor, todos. El núcleo del capítulo se percibe en “Cómo nada que fuese útil he rehuído de anunciaros y enseñaros, públicamente y por las casas,”."
 }

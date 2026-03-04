@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Esther 8",
+  "title": "Análisis Estructural de Ester 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en esther y aman. Inicia con “EL MISMO día dió el rey Assuero á la reina Esther la casa de Amán enemigo de los Judíos; y Mardochêo vino delante del rey, porque Esther le…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en judios y conforme. Inicia con “Porque ¿cómo podré yo ver el mal que alcanzará á mi pueblo? ¿cómo podré yo ver la destrucción de mi nación?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en assuero y judios. Inicia con “Y escribió en nombre del rey Assuero, y selló con el anillo del rey, y envió letras por correos de á caballo, montados en dromedarios, y* e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en judios y mandamiento. Inicia con “Los correos pues, cabalgando en dromedarios y* en mulos, salieron apresurados y constreñidos por el mandamiento del rey: y la ley fué dada…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "judios",
+      "count": 13,
+      "significance": "La recurrencia de “judios” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "esther",
+      "count": 8,
+      "significance": "La recurrencia de “esther” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 8."
+    },
+    {
+      "word": "aman",
+      "count": 6,
+      "significance": "La recurrencia de “aman” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 8."
+    },
+    {
+      "word": "mardocheo",
+      "count": 6,
+      "significance": "La recurrencia de “mardocheo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 8."
     }
   ]
 }

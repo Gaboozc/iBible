@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 14",
+  "title": "Análisis Estructural de Juan 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en padre y camino. Inicia con “NO se turbe vuestro corazón: creéis en Dios, creed también en mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en padre y obras. Inicia con “Jesús le dice: ¿Tanto tiempo ha que estoy con vosotros, y no me has conocido, Felipe? El que me ha visto, ha visto al Padre; ¿cómo, pues, d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en padre y mundo. Inicia con “Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en padre y dicho. Inicia con “Estas cosas os he hablado estando con vosotros.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 24,
+      "significance": "La recurrencia de “padre” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mundo",
+      "count": 6,
+      "significance": "La recurrencia de “mundo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 14."
+    },
+    {
+      "word": "dicho",
+      "count": 5,
+      "significance": "La recurrencia de “dicho” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 14."
+    },
+    {
+      "word": "otra",
+      "count": 3,
+      "significance": "La recurrencia de “otra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 14."
     }
   ]
 }

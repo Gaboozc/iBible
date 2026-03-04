@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 42",
+  "title": "Análisis Estructural de Salmos 42",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 42.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en alma y acordareme. Inicia con “Al Músico principal: Masquil á los hijos de Coré. COMO el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en abismo y llama. Inicia con “Un abismo llama á otro á la voz de tus canales: todas tus ondas y tus olas han pasado sobre mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "alma",
+      "count": 6,
+      "significance": "La recurrencia de “alma” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 42."
     },
     {
-      "word": "Motivo literario",
+      "word": "delante",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “delante” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 42."
+    },
+    {
+      "word": "noche",
+      "count": 2,
+      "significance": "La recurrencia de “noche” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 42."
+    },
+    {
+      "word": "mientras",
+      "count": 2,
+      "significance": "La recurrencia de “mientras” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 42."
     }
   ]
 }

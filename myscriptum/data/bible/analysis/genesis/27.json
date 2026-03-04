@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 27",
+  "title": "Análisis Estructural de Génesis 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en esau y hijo. Inicia con “Y ACONTECIÓ que cuando hubo Isaac envejecido, y sus ojos se ofuscaron quedando sin vista, llamó á Esaú, su hijo el mayor, y díjole: Mi hijo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en hijo y jacob. Inicia con “Y su madre respondió: Hijo mío, sobre mí tu maldición: solamente obedece á mi voz, y ve y tráemelos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en padre y hijo. Inicia con “Y dijo: ¿Eres tú mi hijo Esaú? Y él respondió: Yo soy.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en esau y hermano. Inicia con “Y él respondió: Bien llamaron su nombre Jacob, que ya me ha engañado dos veces; alzóse con mi primogenitura, y he aquí ahora ha tomado mi b…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 24,
+      "significance": "La recurrencia de “hijo” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "padre",
+      "count": 21,
+      "significance": "La recurrencia de “padre” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 27."
+    },
+    {
+      "word": "esau",
+      "count": 20,
+      "significance": "La recurrencia de “esau” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 27."
+    },
+    {
+      "word": "jacob",
+      "count": 15,
+      "significance": "La recurrencia de “jacob” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 27."
     }
   ]
 }

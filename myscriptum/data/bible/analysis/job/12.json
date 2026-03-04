@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en respondio y ciertamente. Inicia con “Y RESPONDIÓ Job, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en mano y inteligencia. Inicia con “O habla á la tierra, que ella te enseñará; los peces de la mar te lo* declararán también.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en hace y aqui. Inicia con “He aquí, él derribará, y no será edificado: encerrará al hombre, y no habrá quien le abra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en quita y tinieblas. Inicia con “El impide el labio á los que dicen verdad, y quita á los ancianos el consejo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hace",
+      "count": 4,
+      "significance": "La recurrencia de “hace” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 12."
     },
     {
-      "word": "Motivo literario",
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 12."
+    },
+    {
+      "word": "consejo",
+      "count": 3,
+      "significance": "La recurrencia de “consejo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 12."
+    },
+    {
+      "word": "ciertamente",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “ciertamente” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 12."
     }
   ]
 }

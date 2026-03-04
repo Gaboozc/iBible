@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 42",
+  "title": "Análisis Estructural de Ezequiel 42",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 42.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en norte y codos. Inicia con “SACÓME luego al atrio de afuera hacia el norte, y llevóme á la cámara que estaba delante del espacio que quedaba enfrente del edificio de h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en camaras y atrio. Inicia con “Porque estaban en tres pisos, y no tenían columnas como las columnas de los atrios: por tanto, eran más estrechas que las de abajo y las de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en camaras y hacia. Inicia con “Y el corredor que había delante de ellas era semejante al de las cámaras que estaban hacia el norte, conforme á su longitud, asimismo su an…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en quinientas y canas. Inicia con “Midió el lado oriental con la caña de medir, quinientas cañas de la caña de medir en derredor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "camaras",
+      "count": 12,
+      "significance": "La recurrencia de “camaras” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 42."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hacia",
+      "count": 9,
+      "significance": "La recurrencia de “hacia” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 42."
+    },
+    {
+      "word": "delante",
+      "count": 9,
+      "significance": "La recurrencia de “delante” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 42."
+    },
+    {
+      "word": "atrio",
+      "count": 8,
+      "significance": "La recurrencia de “atrio” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 42."
     }
   ]
 }

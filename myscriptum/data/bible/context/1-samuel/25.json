@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-samuel capítulo 25 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "1 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Samuel 25, el capítulo contiene 44 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, nabal, senor. Señales textuales: “Y MURIÓ Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué a…” | “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…” | “Porque Saúl había dado su hija Michâl mujer de David, á Palti hijo de Lais, que era de Gallim.”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, nabal, senor. El núcleo del capítulo se percibe en “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…”."
 }

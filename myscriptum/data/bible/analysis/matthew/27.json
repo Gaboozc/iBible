@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 27",
+  "title": "Análisis Estructural de Mateo 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-17",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 17 con foco léxico en presidente y principes. Inicia con “Y VENIDA la mañana, entraron en consejo todos los príncipes de los sacerdotes, y los ancianos del pueblo, contra Jesús, para entregarle á m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "18-33",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 18 al 33 con foco léxico en diciendo y jesus. Inicia con “Porque sabía que por envidia le habían entregado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "34-50",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 34 al 50 con foco léxico en decian y jesus. Inicia con “Le dieron á beber vinagre mezclado con hiel; y gustando, no quiso beberlo*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "51-66",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 51 al 66 con foco léxico en sepulcro y jesus. Inicia con “Y he aquí, el velo del templo se rompió en dos, de alto á bajo: y la tierra tembló, y las piedras se hendieron;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 15,
+      "significance": "La recurrencia de “jesus” (15) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "diciendo",
+      "count": 10,
+      "significance": "La recurrencia de “diciendo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 27."
+    },
+    {
+      "word": "pilato",
+      "count": 9,
+      "significance": "La recurrencia de “pilato” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 27."
+    },
+    {
+      "word": "presidente",
+      "count": 8,
+      "significance": "La recurrencia de “presidente” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 27."
     }
   ]
 }

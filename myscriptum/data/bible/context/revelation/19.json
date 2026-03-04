@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final del siglo I d.C. (época de persecución)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Provincia de Asia Menor",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan (vidente/apóstol)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Revelation capítulo 19 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo de Jerusalén ya destruido; foco en templo celestial",
+  "location": "Isla de Patmos y cartas a siete iglesias",
+  "summary": "Apocalipsis revela la victoria final de Dios y del Cordero sobre todo poder rebelde. En Apocalipsis 19, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: carnes, gran, cielo. Señales textuales: “DESPUÉS de estas cosas oí una gran voz de gran compañía en el cielo, que decía: Aleluya: Salvación y honra y gloria y p…” | “Y vi el cielo abierto; y he aquí un caballo blanco, y el que estaba sentado sobre él, era llamado Fiel y Verdadero, el…” | “Y los otros fueron muertos con la espada que salía de la boca del que estaba sentado sobre el caballo, y todas las aves…”.",
+  "spiritualContext": "Llama a perseverancia fiel, adoración verdadera y esperanza escatológica. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan carnes, gran, cielo. El núcleo del capítulo se percibe en “Y vi el cielo abierto; y he aquí un caballo blanco, y el que estaba sentado sobre él, era llamado Fiel y Verdadero, el…”."
 }

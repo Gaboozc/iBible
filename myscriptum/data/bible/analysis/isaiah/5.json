@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 5",
+  "title": "Análisis Estructural de Isaías 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en vina y ahora. Inicia con “AHORA cantaré por mi amado el cantar de mi amado á su viña. Tenía mi amado una viña en un recuesto, lugar fértil.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en modios y vino. Inicia con “Ha llegado* á mis oídos de parte de Jehová de los ejércitos, que las muchas casas han de quedar asoladas, sin morador las grandes y hermosa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en santo y justicia. Inicia con “Mas Jehová de los ejércitos será ensalzado en juicio, y el Dios Santo será santificado con justicia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 5, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en furor y contra. Inicia con “Por tanto, como la lengua del fuego consume las aristas, y la llama devora la paja, así será su raíz como pudrimiento, y su flor se desvane…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "vina",
+      "count": 7,
+      "significance": "La recurrencia de “vina” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ahora",
+      "count": 4,
+      "significance": "La recurrencia de “ahora” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 5."
+    },
+    {
+      "word": "ella",
+      "count": 4,
+      "significance": "La recurrencia de “ella” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 5."
+    },
+    {
+      "word": "uvas",
+      "count": 4,
+      "significance": "La recurrencia de “uvas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 5."
     }
   ]
 }

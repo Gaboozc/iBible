@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 8",
+  "title": "Análisis Estructural de Ezequiel 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hacia y aquilon. Inicia con “Y ACONTECIÓ en el sexto año, en el mes* sexto, á los cinco del mes, que estaba yo sentado en mi casa, y los ancianos de Judá estaban sentad…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en dijome y abominaciones. Inicia con “Díjome entonces: Hijo del hombre, ¿no ves lo que éstos hacen, las grandes abominaciones que la casa de Israel hace aquí, para alejarme de m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en casa y israel. Inicia con “Entré pues, y miré, y he aquí imágenes de todas serpientes, y animales de abominación, y todos los ídolos de la casa de Israel, que estaban…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en aqui y hijo. Inicia con “Luego me dijo: ¿No ves, hijo del hombre? Vuélvete aún, verás abominaciones mayores que éstas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 11,
+      "significance": "La recurrencia de “aqui” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 8,
+      "significance": "La recurrencia de “casa” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 8."
+    },
+    {
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 8."
+    },
+    {
+      "word": "entrada",
+      "count": 6,
+      "significance": "La recurrencia de “entrada” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 8."
     }
   ]
 }

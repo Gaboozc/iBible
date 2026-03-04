@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 33",
+  "title": "Análisis Estructural de Deuteronomio 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en bendicion y moises. Inicia con “Y ESTA es la bendición con la cual bendijo Moisés varón de Dios á los hijos de Israel, antes que muriese.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en regalos y nunca. Inicia con “El que dijo á su padre y á su madre: Nunca los vi: ni conoció á sus hermanos, ni conoció á sus hijos: por lo cual ellos guardarán tus palab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en tierra y cuernos. Inicia con “Y por los regalos de la tierra y su plenitud; y la gracia del que habitó en la zarza venga sobre la cabeza de José, y sobre la mollera del…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en nephtali y aser. Inicia con “Y á Nephtalí dijo: Nephtalí, saciado de benevolencia, y lleno de la bendición de Jehová, posee el occidente y el mediodía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vino",
+      "count": 4,
+      "significance": "La recurrencia de “vino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 33."
+    },
+    {
+      "word": "pueblo",
+      "count": 4,
+      "significance": "La recurrencia de “pueblo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 33."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 33."
     }
   ]
 }

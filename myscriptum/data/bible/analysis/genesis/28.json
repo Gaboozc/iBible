@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 28",
+  "title": "Análisis Estructural de Génesis 28",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 28.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en jacob y mujer. Inicia con “ENTONCES Isaac llamó á Jacob, y bendíjolo, y mandóle diciendo: No tomes mujer de las hijas de Canaán.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en habia y jacob. Inicia con “Y que Jacob había obedecido á su padre y á su madre, y se había ido á Padan-aram.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en tierra y aqui. Inicia con “Y soñó, y he aquí una escala que estaba apoyada* en tierra, y su cabeza tocaba en el cielo: y he aquí ángeles de Dios que subían y descendí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en jacob y piedra. Inicia con “Y levantóse Jacob de mañana, y tomó la piedra que había puesto de cabecera, y alzóla por título, y derramó aceite encima de ella.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jacob",
+      "count": 9,
+      "significance": "La recurrencia de “jacob” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 28."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "habia",
+      "count": 7,
+      "significance": "La recurrencia de “habia” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 28."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 28."
+    },
+    {
+      "word": "isaac",
+      "count": 5,
+      "significance": "La recurrencia de “isaac” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 28."
     }
   ]
 }

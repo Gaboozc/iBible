@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 119",
+  "title": "Análisis Estructural de Salmos 119",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 119.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-44",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 44 con foco léxico en mandamientos y camino. Inicia con “ALEPH. BIENAVENTURADOS los perfectos de camino; los que andan en la ley de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 119, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "45-88",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 45 al 88 con foco léxico en mandamientos y estatutos. Inicia con “Y andaré en anchura, porque busqué tus mandamientos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 119, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "89-132",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 89 al 132 con foco léxico en mandamientos y palabra. Inicia con “LAMED. Para siempre, oh Jehová, permanece tu palabra en los cielos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 119, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "133-176",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 133 al 176 con foco léxico en mandamientos y palabra. Inicia con “Ordena mis pasos con tu palabra; y ninguna iniquidad se enseñoree de mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 119, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mandamientos",
+      "count": 43,
+      "significance": "La recurrencia de “mandamientos” (43) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 119."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabra",
+      "count": 26,
+      "significance": "La recurrencia de “palabra” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 119."
+    },
+    {
+      "word": "testimonios",
+      "count": 22,
+      "significance": "La recurrencia de “testimonios” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 119."
+    },
+    {
+      "word": "estatutos",
+      "count": 22,
+      "significance": "La recurrencia de “estatutos” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 119."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 23",
+  "title": "Análisis Estructural de 2 Samuel 23",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en david y israel. Inicia con “ESTAS son las postreras palabras de David. Dijo David hijo de Isaí, dijo aquel varón que fué levantado alto, el ungido del Dios de Jacob, e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en tres y filisteos. Inicia con “Después de éste fué Samma, hijo de Age Araita: que habiéndose juntado los Filisteos en una aldea, había allí una suerte de tierra llena de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en hijo y egipcio. Inicia con “También hirió él á un Egipcio, hombre de grande* estatura: y tenía el Egipcio una lanza en su mano; mas descendió á él con un palo, y arreb…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en hijo y arar. Inicia con “Abi-albon de Arbath, Asmaveth de Barhum;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 17,
+      "significance": "La recurrencia de “hijo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tres",
+      "count": 10,
+      "significance": "La recurrencia de “tres” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 23."
+    },
+    {
+      "word": "david",
+      "count": 9,
+      "significance": "La recurrencia de “david” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 23."
+    },
+    {
+      "word": "filisteos",
+      "count": 8,
+      "significance": "La recurrencia de “filisteos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 23."
     }
   ]
 }

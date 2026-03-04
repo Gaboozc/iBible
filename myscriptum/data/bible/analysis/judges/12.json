@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Judges 12",
+  "title": "Análisis Estructural de Jueces 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en ephraim y jephte. Inicia con “Y JUNTÁNDOSE los varones de Ephraim, pasaron hacia el aquilón, y dijeron á Jephté: ¿Por qué fuiste á hacer guerra contra los hijos de Ammón…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en juzgo y israel. Inicia con “El cual tuvo treinta hijos y treinta hijas, las cuales casó fuera, y tomó de fuera treinta hijas para sus hijos: y juzgó á Israel siete año…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ephraim",
+      "count": 9,
+      "significance": "La recurrencia de “ephraim” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juzgo",
+      "count": 7,
+      "significance": "La recurrencia de “juzgo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 12."
+    },
+    {
+      "word": "israel",
+      "count": 7,
+      "significance": "La recurrencia de “israel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 12."
+    },
+    {
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 12."
     }
   ]
 }

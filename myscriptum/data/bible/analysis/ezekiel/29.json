@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 29",
+  "title": "Análisis Estructural de Ezequiel 29",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en rios y contra. Inicia con “EN el año décimo, en el mes* décimo, á los doce del mes, fué á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en contra y quebraste. Inicia con “Cuando te tomaron con la mano, te quebraste, y les rompiste todo el hombro: y cuando se recostaron sobre ti, te quebraste, y los deslomaste…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en egipto y tierra. Inicia con “Y pondré á la tierra de Egipto en soledad entre las tierras asoladas, y sus ciudades entre las ciudades destruídas estarán asoladas por cua…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en ejercito y contra. Inicia con “Y aconteció en el año veinte y siete, en el mes* primero, al primero del mes, que fué á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 12,
+      "significance": "La recurrencia de “egipto” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 29."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 10,
+      "significance": "La recurrencia de “contra” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 29."
+    },
+    {
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 29."
+    },
+    {
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 29."
     }
   ]
 }

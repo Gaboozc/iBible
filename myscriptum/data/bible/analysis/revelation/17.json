@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 17",
+  "title": "Análisis Estructural de Apocalipsis 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en siete y tierra. Inicia con “Y VINO uno de los siete ángeles que tenían las siete copas, y habló conmigo, diciéndome: Ven acá, y te mostraré la condenación de la grande…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en mujer y bestia. Inicia con “Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande a…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en reyes y bestia. Inicia con “Y son siete reyes. Los cinco son caídos; el uno es, el otro aun no es venido; y cuando viniere, es necesario que dure breve tiempo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 17, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en visto y ramera. Inicia con “Y él me dice: Las aguas que has visto donde la ramera se sienta, son pueblos y muchedumbres y naciones y lenguas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "bestia",
+      "count": 9,
+      "significance": "La recurrencia de “bestia” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siete",
+      "count": 8,
+      "significance": "La recurrencia de “siete” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 17."
+    },
+    {
+      "word": "reyes",
+      "count": 6,
+      "significance": "La recurrencia de “reyes” (6) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Apocalipsis 17."
+    },
+    {
+      "word": "mujer",
+      "count": 6,
+      "significance": "La recurrencia de “mujer” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 17."
     }
   ]
 }

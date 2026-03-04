@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 104",
+  "title": "Análisis Estructural de Salmos 104",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 104.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en vestido y aguas. Inicia con “BENDICE, alma mía, á Jehová. Jehová, Dios mío, mucho te has engrandecido; haste vestido de gloria y de magnificencia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 104, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en montes y hace. Inicia con “Tú eres* el que envías las fuentes por los arroyos; van entre los montes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 104, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en ella y todas. Inicia con “Hizo la luna para los tiempos: el sol conoce su ocaso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 104, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en tierra y espiritu. Inicia con “Les das, recogen; abres tu mano, hártanse de bien.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 104, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 104."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "montes",
+      "count": 6,
+      "significance": "La recurrencia de “montes” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 104."
+    },
+    {
+      "word": "hace",
+      "count": 4,
+      "significance": "La recurrencia de “hace” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 104."
+    },
+    {
+      "word": "hombre",
+      "count": 4,
+      "significance": "La recurrencia de “hombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 104."
     }
   ]
 }

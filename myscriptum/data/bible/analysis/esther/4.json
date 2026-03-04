@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Esther 4",
+  "title": "Análisis Estructural de Ester 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en saco y mardocheo. Inicia con “LUEGO que supo Mardochêo todo lo que se había hecho, rasgó sus vestidos, y vistióse de saco y de ceniza, y fuése por medio de la ciudad cla…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en mardocheo y habia. Inicia con “Salió pues Atach á Mardochêo, á la plaza de la ciudad que estaba delante de la puerta del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en esther y mardocheo. Inicia con “Entonces Esther dijo á Atach, y mandóle decir* á Mardochêo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en judios y esther. Inicia con “Porque si absolutamente callares en este tiempo, respiro y libertación tendrán los Judíos de otra parte; mas tú y la casa de tu padre perec…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mardocheo",
+      "count": 11,
+      "significance": "La recurrencia de “mardocheo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "esther",
+      "count": 9,
+      "significance": "La recurrencia de “esther” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 4."
+    },
+    {
+      "word": "habia",
+      "count": 5,
+      "significance": "La recurrencia de “habia” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 4."
+    },
+    {
+      "word": "judios",
+      "count": 5,
+      "significance": "La recurrencia de “judios” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 4."
     }
   ]
 }

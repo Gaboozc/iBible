@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 41",
+  "title": "Análisis Estructural de Jeremías 41",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 41.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y hombres. Inicia con “Y ACONTECIÓ en el mes séptimo, que vino Ismael hijo de Nethanías, hijo de Elisama, de la simiente real, y algunos* príncipes del rey, y die…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en ismael y hijo. Inicia con “Y de Mizpa salióles al encuentro, llorando, Ismael hijo de Nethanías: y aconteció que como los encontró, díjoles: Venid á Gedalías, hijo de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en hijo y ismael. Inicia con “Después llevó Ismael cautivo á todo el resto del pueblo que estaba en Mizpa; á las hijas del rey, y á todo el pueblo que en Mizpa había que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en hijo y ismael. Inicia con “Mas Ismael hijo de Nethanías se escapó delante de Johanán con ocho hombres, y se fué á los hijos de Ammón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 23,
+      "significance": "La recurrencia de “hijo” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 41."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ismael",
+      "count": 17,
+      "significance": "La recurrencia de “ismael” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 41."
+    },
+    {
+      "word": "nethanias",
+      "count": 11,
+      "significance": "La recurrencia de “nethanias” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 41."
+    },
+    {
+      "word": "hombres",
+      "count": 10,
+      "significance": "La recurrencia de “hombres” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 41."
     }
   ]
 }

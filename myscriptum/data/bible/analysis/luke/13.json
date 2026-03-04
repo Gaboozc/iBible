@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 13",
+  "title": "Análisis Estructural de Lucas 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en todos y galileos. Inicia con “Y EN este mismo tiempo estaban allí unos que le contaban acerca de los Galileos, cuya sangre Pilato había mezclado con sus sacrificios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en sabado y sinagoga. Inicia con “Y enseñaba en una sinagoga en sábado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en senor y puerta. Inicia con “Semejante es al grano de la mostaza, que tomándolo* un hombre lo metió en su huerto; y creció, y fué hecho árbol grande, y las aves del cie…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en aqui y manana. Inicia con “Allí será el llanto y el crujir de dientes, cuando viereis á Abraham, y á Isaac, y á Jacob, y á todos los profetas en el reino de Dios, y v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 7,
+      "significance": "La recurrencia de “todos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 7,
+      "significance": "La recurrencia de “aqui” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 13."
+    },
+    {
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 13."
+    },
+    {
+      "word": "jerusalem",
+      "count": 5,
+      "significance": "La recurrencia de “jerusalem” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 13."
     }
   ]
 }

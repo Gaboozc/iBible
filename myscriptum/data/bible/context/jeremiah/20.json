@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final del reino de Judá y caída de Jerusalén (siglo VII–VI a.C.)",
+  "dominantEmpire": "Babilonia (tras declive asirio)",
+  "kingName": "Josías, Joacaz, Joacim, Joaquín, Sedequías",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Jeremías",
+    "Habacuc (cercano en época)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Jeremiah capítulo 20 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo activo hasta su destrucción en 586 a.C.",
+  "location": "Jerusalén y exilio",
+  "summary": "Jeremías proclama juicio inminente y nuevo pacto en medio de resistencia nacional. En Jeremías 20, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pashur, todos, jeremias. Señales textuales: “Y PASHUR sacerdote, hijo de Immer, que presidía por príncipe en la casa de Jehová, oyó á Jeremías que profetizaba estas…” | “Porque oí la murmuración de muchos, temor de todas partes: Denunciad, y denunciaremos. Todos mis amigos miraban si clau…” | “¿Para qué salí del vientre? ¿para ver trabajo y dolor, y que mis días se gastasen en afrenta?”.",
+  "spiritualContext": "Confronta idolatría, falsa seguridad religiosa y endurecimiento del corazón. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pashur, todos, jeremias. El núcleo del capítulo se percibe en “Porque oí la murmuración de muchos, temor de todas partes: Denunciad, y denunciaremos. Todos mis amigos miraban si clau…”."
 }

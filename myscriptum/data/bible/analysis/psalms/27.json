@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 27",
+  "title": "Análisis Estructural de Salmos 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en contra y vida. Inicia con “Salmo de David. JEHOVÁ es mi luz y mi salvación: ¿de quién temeré? Jehová es la fortaleza de mi vida: ¿de quién he de atemorizarme?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-14",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en rostro y corazon. Inicia con “Mi corazón ha dicho de ti: Buscad mi rostro. Tu rostro buscaré, oh Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 4,
+      "significance": "La recurrencia de “contra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "enemigos",
+      "count": 4,
+      "significance": "La recurrencia de “enemigos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 27."
+    },
+    {
+      "word": "aunque",
+      "count": 3,
+      "significance": "La recurrencia de “aunque” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 27."
+    },
+    {
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 27."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Esther 1",
+  "title": "Análisis Estructural de Ester 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en dias y reino. Inicia con “Y ACONTECIÓ en los días de Assuero, (el Assuero que reinó desde la India hasta la Etiopía sobre ciento veinte y siete provincias,)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en vasos y vino. Inicia con “Y daban á beber en vasos de oro, y vasos diferentes unos de otros, y mucho vino real, conforme á la facultad del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en reina y vasthi. Inicia con “Mas la reina Vasthi no quiso comparecer á la orden del rey, enviada* por mano de los eunucos; y enojóse el rey muy mucho, y encendióse en é…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en conforme y esto. Inicia con “Y entonces dirán esto* las señoras de Persia y de Media que oyeren el hecho de la reina, á todos los príncipes del rey: y habrá* mucho meno…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "assuero",
+      "count": 9,
+      "significance": "La recurrencia de “assuero” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "reino",
+      "count": 8,
+      "significance": "La recurrencia de “reino” (8) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Ester 1."
+    },
+    {
+      "word": "principes",
+      "count": 8,
+      "significance": "La recurrencia de “principes” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 1."
+    },
+    {
+      "word": "reina",
+      "count": 8,
+      "significance": "La recurrencia de “reina” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 1."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 3",
+  "title": "Análisis Estructural de Eclesiastés 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tiempo y piedras. Inicia con “PARA todas las cosas hay sazón, y todo lo que se quiere debajo del cielo, tiene su* tiempo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en tiempo y trabaja. Inicia con “Tiempo de romper, y tiempo de coser; tiempo de callar, y tiempo de hablar;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en todo y alli. Inicia con “Yo he conocido que no hay mejor para ellos, que alegrarse, y hacer bien en su vida:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en todo y hijos. Inicia con “Dije en mi corazón, en orden á la condición de los hijos de los hombres, que Dios los probaría, para que así echaran de ver ellos mismos qu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tiempo",
+      "count": 31,
+      "significance": "La recurrencia de “tiempo” (31) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 10,
+      "significance": "La recurrencia de “todo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 3."
+    },
+    {
+      "word": "hombres",
+      "count": 5,
+      "significance": "La recurrencia de “hombres” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 3."
+    },
+    {
+      "word": "hijos",
+      "count": 4,
+      "significance": "La recurrencia de “hijos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 3."
     }
   ]
 }

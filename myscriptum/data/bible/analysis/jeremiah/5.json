@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 5",
+  "title": "Análisis Estructural de Jeremías 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en juicio y plazas. Inicia con “DISCURRID por las plazas de Jerusalem, y mirad ahora, y sabed, y buscad en sus plazas si halláis hombre, si hay alguno que haga juicio, que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 5, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en gente y casa. Inicia con “¿No había de hacer visitación sobre esto? dijo Jehová. De una gente como ésta ¿no se había de vengar mi alma?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en comera y esto. Inicia con “Y comerá tu mies y tu pan, que* habían de comer tus hijos y tus hijas; comerá tus ovejas y tus vacas, comerá tus viñas y tus higueras; y tu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en causa y pueblo. Inicia con “Vuestras iniquidades han estorbado estas cosas; y vuestros pecados apartaron de vosotros el bien.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "esto",
+      "count": 6,
+      "significance": "La recurrencia de “esto” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gente",
+      "count": 6,
+      "significance": "La recurrencia de “gente” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 5."
+    },
+    {
+      "word": "casa",
+      "count": 5,
+      "significance": "La recurrencia de “casa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 5."
+    },
+    {
+      "word": "dice",
+      "count": 5,
+      "significance": "La recurrencia de “dice” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 5."
     }
   ]
 }

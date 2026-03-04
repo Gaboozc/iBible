@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 23",
+  "title": "Análisis Estructural de Mateo 23",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en vuestro y hombres. Inicia con “ENTONCES habló Jesús á las gentes y á sus discípulos,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en jurare y cualquiera. Inicia con “El que es el mayor de vosotros, sea vuestro siervo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en escribas y fariseos. Inicia con “Y el que jurare por el templo, jura por él, y por Aquél que habita en él;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en profetas y sangre. Inicia con “Así que, testimonio dais á vosotros mismos, que sois hijos de aquellos que mataron á los profetas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "escribas",
+      "count": 9,
+      "significance": "La recurrencia de “escribas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "fariseos",
+      "count": 8,
+      "significance": "La recurrencia de “fariseos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 23."
+    },
+    {
+      "word": "hipocritas",
+      "count": 7,
+      "significance": "La recurrencia de “hipocritas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 23."
+    },
+    {
+      "word": "jurare",
+      "count": 6,
+      "significance": "La recurrencia de “jurare” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 23."
     }
   ]
 }

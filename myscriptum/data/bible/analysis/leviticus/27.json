@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 27",
+  "title": "Análisis Estructural de Levítico 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en estimacion y siclos. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en sacerdote y bueno. Inicia con “No será mudado ni trocado, bueno por malo, ni malo por bueno: y si se permutare un animal por otro, él y el dado por él en cambio serán sag…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en tierra y jubileo. Inicia con “Mas si después del jubileo santificare su tierra, entonces el sacerdote hará la cuenta del dinero conforme á los años que quedaren hasta el…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en cosa y consagrada. Inicia con “Mas si fuere de los animales inmundos, lo redimirán conforme á tu estimación, y añadirán sobre ella su quinto: y si no lo redimieren, se ve…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "estimacion",
+      "count": 17,
+      "significance": "La recurrencia de “estimacion” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 14,
+      "significance": "La recurrencia de “tierra” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 27."
+    },
+    {
+      "word": "sacerdote",
+      "count": 11,
+      "significance": "La recurrencia de “sacerdote” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 27."
+    },
+    {
+      "word": "siclos",
+      "count": 9,
+      "significance": "La recurrencia de “siclos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 27."
     }
   ]
 }

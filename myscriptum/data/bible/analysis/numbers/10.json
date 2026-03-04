@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 10",
+  "title": "Análisis Estructural de Números 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en alarma y tocareis. Inicia con “Y JEHOVÁ habló á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en hijos y hijo. Inicia con “Y en el día de vuestra alegría, y en vuestras solemnidades, y en los principios de vuestros meses, tocaréis las trompetas sobre vuestros ho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en ejercito y hijos. Inicia con “Y sobre el ejército de la tribu de los hijos de Simeón, Selumiel hijo de Zurisaddai.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en nosotros y bien. Inicia con “Estas son las partidas de los hijos de Israel por sus ejércitos, cuando se movían.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 16,
+      "significance": "La recurrencia de “hijos” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 13,
+      "significance": "La recurrencia de “hijo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 10."
+    },
+    {
+      "word": "ejercito",
+      "count": 12,
+      "significance": "La recurrencia de “ejercito” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 10."
+    },
+    {
+      "word": "campo",
+      "count": 8,
+      "significance": "La recurrencia de “campo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 10."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Nehemiah 1",
+  "title": "Análisis Estructural de Nehemías 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en palabras y habian. Inicia con “PALABRAS de Nehemías, hijo de Hachâlías. Y acaeció en el mes de Chisleu, en el año veinte, estando yo en Susán, capital del reino,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en siervo y ahora. Inicia con “En extremo nos hemos corrompido contra ti, y no hemos guardado los mandamientos, y estatutos y juicios, que mandaste á Moisés tu siervo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ahora",
+      "count": 5,
+      "significance": "La recurrencia de “ahora” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siervo",
+      "count": 5,
+      "significance": "La recurrencia de “siervo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 1."
+    },
+    {
+      "word": "hemos",
+      "count": 4,
+      "significance": "La recurrencia de “hemos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 1."
+    },
+    {
+      "word": "alli",
+      "count": 3,
+      "significance": "La recurrencia de “alli” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 1."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 1-john 1",
+  "title": "Análisis Estructural de 1 Juan 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hemos y vida. Inicia con “LO que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos toca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-10",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en nosotros y dijeremos. Inicia con “Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Juan 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nosotros",
+      "count": 6,
+      "significance": "La recurrencia de “nosotros” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hemos",
+      "count": 5,
+      "significance": "La recurrencia de “hemos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 1."
+    },
+    {
+      "word": "comunion",
+      "count": 4,
+      "significance": "La recurrencia de “comunion” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 1."
+    },
+    {
+      "word": "nuestros",
+      "count": 3,
+      "significance": "La recurrencia de “nuestros” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Juan 1."
     }
   ]
 }

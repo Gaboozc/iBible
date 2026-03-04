@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Amos 7",
+  "title": "Análisis Estructural de Amós 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en senor y aqui. Inicia con “ASÍ me ha mostrado el Señor Jehová: y he aquí, él criaba langostas al principio que comenzaba á crecer el heno tardío; y he aquí, era el he…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en senor y plomada. Inicia con “Arrepintióse Jehová de esto: No será esto tampoco, dijo el Señor Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en israel y amos. Inicia con “Entonces Amasías sacerdote de Beth-el envió á decir á Jeroboam, rey de Israel: Amós se ha conjurado contra ti en medio de la casa de Israel…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en israel y tierra. Inicia con “Entonces respondió Amós, y dijo á Amasías: No soy profeta, ni soy hijo de profeta, sino que soy boyero, y cogedor de cabrahigos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 8,
+      "significance": "La recurrencia de “senor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 7."
+    },
+    {
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 7."
+    },
+    {
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 7."
     }
   ]
 }

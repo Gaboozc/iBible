@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y locales según el contexto",
+  "kingRegion": "Mediterráneo oriental",
   "activeProphets": [
-    "Profetas según el período"
+    "Jesús, apóstoles y líderes de la iglesia primitiva"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-corinthians capítulo 7 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
+  "location": "Judea, Asia Menor y mundo grecorromano",
+  "summary": "1 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Corintios 7, el capítulo contiene 40 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: mujer, marido, senor. Señales textuales: “CUANTO á las cosas de que me escribisteis, bien es al hombre no tocar mujer.” | “¿Eres llamado siendo siervo? no se te dé cuidado: mas también si puedes hacerte libre, procúralo más.” | “Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios.”.",
+  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan mujer, marido, senor. El núcleo del capítulo se percibe en “¿Eres llamado siendo siervo? no se te dé cuidado: mas también si puedes hacerte libre, procúralo más.”."
 }

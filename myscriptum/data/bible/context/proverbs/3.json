@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Tradición sapiencial (principalmente periodo salomónico y compilaciones posteriores)",
+  "dominantEmpire": "Contexto de corte y vida cotidiana israelita",
+  "kingName": "Asociado a Salomón y sabios de Israel",
+  "kingRegion": "Israel/Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Sabios y maestros de instrucción"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Proverbs capítulo 3 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "No es foco central del libro",
+  "location": "Entorno familiar, social y cortesano",
+  "summary": "Proverbios concentra sabiduría práctica para vivir bajo el temor de Yahvé. En Proverbios 3, el capítulo contiene 35 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, caminos, corazon. Señales textuales: “HIJO mío, no te olvides de mi ley; y tu corazón guarde mis mandamientos:” | “Ella es árbol de vida á los que de ella asen: y bienaventurados son los que la mantienen.” | “Los sabios heredarán honra: mas los necios sostendrán ignominia.”.",
+  "spiritualContext": "Contrasta camino del sabio y del necio, con ética relacional y reverencia a Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu; misericordia, gracia y restauración. En su lenguaje central destacan hijo, caminos, corazon. El núcleo del capítulo se percibe en “Ella es árbol de vida á los que de ella asen: y bienaventurados son los que la mantienen.”."
 }

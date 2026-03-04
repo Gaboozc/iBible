@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 1",
+  "title": "Análisis Estructural de 2 Corintios 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en consolacion y nosotros. Inicia con “PABLO, apóstol de Jesucristo por la voluntad de Dios, y Timoteo el hermano, á la iglesia de Dios que está en Corinto, juntamente con todos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en nosotros y nuestra. Inicia con “Y nuestra esperanza de vosotros es firme; estando ciertos que como sois compañeros de las aflicciones, así también lo sois de la consolació…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en nuestra y macedonia. Inicia con “Porque no os escribimos otras cosas de las que leéis, ó también conocéis: y espero que aun hasta el fin las* conoceréis:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en sido y nosotros. Inicia con “Porque el Hijo de Dios, Jesucristo, que por nosotros ha sido entre vosotros predicado, por mí y Silvano y Timoteo, no ha sido Sí y No; mas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nosotros",
+      "count": 11,
+      "significance": "La recurrencia de “nosotros” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nuestra",
+      "count": 7,
+      "significance": "La recurrencia de “nuestra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 1."
+    },
+    {
+      "word": "consolacion",
+      "count": 6,
+      "significance": "La recurrencia de “consolacion” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 1."
+    },
+    {
+      "word": "somos",
+      "count": 5,
+      "significance": "La recurrencia de “somos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 1."
     }
   ]
 }

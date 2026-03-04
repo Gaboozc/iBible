@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 2",
+  "title": "Análisis Estructural de Hechos 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en todos y hablar. Inicia con “Y COMO se cumplieron los días de Pentecostés, estaban todos unánimes juntos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en vuestros y estan. Inicia con “Mas otros burlándose, decían: Que están llenos de mosto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en senor y david. Inicia con “Porque David dice de él: Veía al Señor siempre delante de mí: porque está á mi diestra, no seré conmovido.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-47",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 47 con foco léxico en cada y apostoles. Inicia con “Entonces oído esto*, fueron compungidos de corazón, y dijeron á Pedro y á los otros apóstoles: Varones hermanos, ¿qué haremos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 9,
+      "significance": "La recurrencia de “todos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 8,
+      "significance": "La recurrencia de “senor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 2."
+    },
+    {
+      "word": "cada",
+      "count": 7,
+      "significance": "La recurrencia de “cada” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 2."
+    },
+    {
+      "word": "espiritu",
+      "count": 6,
+      "significance": "La recurrencia de “espiritu” (6) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Hechos 2."
     }
   ]
 }

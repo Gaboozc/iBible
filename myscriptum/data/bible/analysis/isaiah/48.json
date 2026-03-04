@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 48",
+  "title": "Análisis Estructural de Isaías 48",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 48.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en nombre y israel. Inicia con “OID esto, casa de Jacob, que os llamáis del nombre de Israel, los que salieron de las aguas de Judá, los que juran en el nombre de Jehová,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en habias y antes. Inicia con “Ahora han sido criadas, no en días pasados; ni antes de este día las habías oído, porque no digas: He aquí que yo lo sabía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en israel y mano. Inicia con “Oyeme, Jacob, y tú*, Israel, llamado de mí: Yo mismo, yo el primero, yo también el postrero.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en fuera y ojala. Inicia con “¡Ojalá miraras tú á mis mandamientos! fuera entonces tu paz como un río, y tu justicia como las ondas de la mar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nombre",
+      "count": 6,
+      "significance": "La recurrencia de “nombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 48."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 48."
+    },
+    {
+      "word": "antes",
+      "count": 4,
+      "significance": "La recurrencia de “antes” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 48."
+    },
+    {
+      "word": "habias",
+      "count": 4,
+      "significance": "La recurrencia de “habias” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 48."
     }
   ]
 }

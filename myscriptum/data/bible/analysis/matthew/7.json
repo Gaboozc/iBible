@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 7",
+  "title": "Análisis Estructural de Mateo 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en mota y hermano. Inicia con “NO juzguéis, para que no seáis juzgados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en dara y puerta. Inicia con “¿Qué hombre hay de vosotros, á quien si su hijo pidiere pan, le dará una piedra?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en frutos y arbol. Inicia con “Por sus frutos los conoceréis. ¿Cógense uvas de los espinos, ó higos de los abrojos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en casa y palabras. Inicia con “Y entonces les protestaré: Nunca os conocí; apartaos de mí, obradores de maldad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "frutos",
+      "count": 6,
+      "significance": "La recurrencia de “frutos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "lleva",
+      "count": 5,
+      "significance": "La recurrencia de “lleva” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 7."
+    },
+    {
+      "word": "arbol",
+      "count": 5,
+      "significance": "La recurrencia de “arbol” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 7."
+    },
+    {
+      "word": "dara",
+      "count": 4,
+      "significance": "La recurrencia de “dara” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 7."
     }
   ]
 }

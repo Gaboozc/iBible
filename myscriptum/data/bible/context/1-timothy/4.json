@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y locales según el contexto",
+  "kingRegion": "Mediterráneo oriental",
   "activeProphets": [
-    "Profetas según el período"
+    "Jesús, apóstoles y líderes de la iglesia primitiva"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-timothy capítulo 4 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
+  "location": "Judea, Asia Menor y mundo grecorromano",
+  "summary": "1 Timoteo aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Timoteo 4, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esto, palabra, todos. Señales textuales: “EMPERO el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíri…” | “Palabra fiel es esta, y digna de ser recibida de todos.” | “Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyer…”.",
+  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan esto, palabra, todos. El núcleo del capítulo se percibe en “Palabra fiel es esta, y digna de ser recibida de todos.”."
 }

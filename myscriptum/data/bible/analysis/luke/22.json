@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 22",
+  "title": "Análisis Estructural de Lucas 22",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 22.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-18",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 18 con foco léxico en pascua y azimos. Inicia con “Y ESTABA cerca el día de la fiesta de los ázimos, que se llama la Pascua.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "19-36",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 19 al 36 con foco léxico en mesa y esto. Inicia con “Y tomando el pan, habiendo dado gracias, partió, y les dió, diciendo: Esto es mi cuerpo, que por vosotros es dado: haced esto en memoria de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "37-54",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 37 al 54 con foco léxico en jesus y entonces. Inicia con “Porque os digo, que es necesario que se cumpla todavía en mí aquello que está escrito: Y con los malos fué contado: porque lo que está escr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 22, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "55-71",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 55 al 71 con foco léxico en pedro y diciendo. Inicia con “Y habiendo encendido fuego en medio de la sala, y sentándose todos alrededor, se sentó también Pedro entre ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pedro",
+      "count": 9,
+      "significance": "La recurrencia de “pedro” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 22."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 9,
+      "significance": "La recurrencia de “entonces” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 22."
+    },
+    {
+      "word": "diciendo",
+      "count": 8,
+      "significance": "La recurrencia de “diciendo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 22."
+    },
+    {
+      "word": "hombre",
+      "count": 7,
+      "significance": "La recurrencia de “hombre” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 22."
     }
   ]
 }

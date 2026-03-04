@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "2-chronicles capítulo 21 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 21, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, hijos, habia. Señales textuales: “Y DURMIÓ Josaphat con sus padres, y sepultáronlo con sus padres en la ciudad de David. Y reinó en su lugar Joram su hij…” | “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…” | “Cuando comenzó á reinar era de treinta y dos años, y reinó en Jerusalem ocho años; y fuése sin ser deseado. Y sepultáro…”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan juda, hijos, habia. El núcleo del capítulo se percibe en “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…”."
 }

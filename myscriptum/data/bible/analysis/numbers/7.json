@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 7",
+  "title": "Análisis Estructural de Números 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-23",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 23 con foco léxico en ofrenda y bueyes. Inicia con “Y ACONTECIÓ, que cuando Moisés hubo acabado de levantar el tabernáculo, y ungídolo y santificádolo, con todos sus vasos; y asimismo ungido…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "24-45",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 24 al 45 con foco léxico en siclos y cinco. Inicia con “El tercer día, Eliab hijo de Helón, príncipe de los hijos de Zabulón:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "46-67",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 46 al 67 con foco léxico en cinco y siclos. Inicia con “Un macho cabrío para expiación;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "68-89",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 68 al 89 con foco léxico en siclos y cinco. Inicia con “Una cuchara de oro de diez siclos*, llena de perfume;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "siclos",
+      "count": 40,
+      "significance": "La recurrencia de “siclos” (40) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cinco",
+      "count": 36,
+      "significance": "La recurrencia de “cinco” (36) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 7."
+    },
+    {
+      "word": "ofrenda",
+      "count": 27,
+      "significance": "La recurrencia de “ofrenda” (27) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 7."
+    },
+    {
+      "word": "plata",
+      "count": 27,
+      "significance": "La recurrencia de “plata” (27) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 7."
     }
   ]
 }

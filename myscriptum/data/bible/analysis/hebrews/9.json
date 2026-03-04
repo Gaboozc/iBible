@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hebrews 9",
+  "title": "Análisis Estructural de Hebreos 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pacto y tabernaculo. Inicia con “TENÍA empero también el primer pacto* reglamentos del culto, y santuario mundano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 9, esta sección refuerza fidelidad del pacto y promesas divinas, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en sangre y espiritu. Inicia con “Dando en esto á entender el Espíritu Santo, que aun no estaba descubierto el camino para el santuario, entre tanto que el primer tabernácul…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en testamento y sangre. Inicia con “Así que, por eso es mediador del nuevo testamento, para que interviniendo muerte para la remisión de las rebeliones que había bajo del prim…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-28",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 28 con foco léxico en sangre y cosas. Inicia con “Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sangre",
+      "count": 12,
+      "significance": "La recurrencia de “sangre” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "santuario",
+      "count": 6,
+      "significance": "La recurrencia de “santuario” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 9."
+    },
+    {
+      "word": "tabernaculo",
+      "count": 6,
+      "significance": "La recurrencia de “tabernaculo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 9."
+    },
+    {
+      "word": "mismo",
+      "count": 6,
+      "significance": "La recurrencia de “mismo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 9."
     }
   ]
 }

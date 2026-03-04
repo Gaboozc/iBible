@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 6",
+  "title": "Análisis Estructural de Isaías 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en santo y labios. Inicia con “EN el año que murió el rey Uzzías vi yo al Señor sentado sobre un trono alto y sublime, y sus faldas henchían el templo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 6, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en senor y pueblo. Inicia con “Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién nos irá? Entonces respondí yo: Heme aquí, envíame á mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 3,
+      "significance": "La recurrencia de “senor” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "santo",
+      "count": 3,
+      "significance": "La recurrencia de “santo” (3) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Isaías 6."
+    },
+    {
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 6."
+    },
+    {
+      "word": "labios",
+      "count": 3,
+      "significance": "La recurrencia de “labios” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 6."
     }
   ]
 }

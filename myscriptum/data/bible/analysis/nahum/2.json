@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Nahum 2",
+  "title": "Análisis Estructural de Nahúm 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en gloria y valientes. Inicia con “SUBIÓ destruidor contra ti: guarda la fortaleza, mira el camino, fortifica los lomos, fortalece mucho la fuerza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 2, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en cachorros y leon. Inicia con “Y fué Nínive de tiempo antiguo como estanque de aguas; mas ellos huyen: Parad, parad; y ninguno mira.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cachorros",
+      "count": 3,
+      "significance": "La recurrencia de “cachorros” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 2."
     },
     {
-      "word": "Motivo literario",
+      "word": "leon",
+      "count": 3,
+      "significance": "La recurrencia de “leon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 2."
+    },
+    {
+      "word": "contra",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “contra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 2."
+    },
+    {
+      "word": "mira",
+      "count": 2,
+      "significance": "La recurrencia de “mira” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 2."
     }
   ]
 }

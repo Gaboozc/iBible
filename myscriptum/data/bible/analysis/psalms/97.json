@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 97",
+  "title": "Análisis Estructural de Salmos 97",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 97.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y delante. Inicia con “JEHOVÁ reinó: regocíjese la tierra: alégrense las muchas islas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 97, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en todos y dioses. Inicia con “Avergüéncense todos los que sirven á las imágenes de talla, los que se alaban de los ídolos: los dioses todos á él se encorven.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 97, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 97."
     },
     {
-      "word": "Motivo literario",
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 97."
+    },
+    {
+      "word": "delante",
+      "count": 3,
+      "significance": "La recurrencia de “delante” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 97."
+    },
+    {
+      "word": "justicia",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “justicia” (2) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 97."
     }
   ]
 }

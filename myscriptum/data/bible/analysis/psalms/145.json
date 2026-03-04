@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 145",
+  "title": "Análisis Estructural de Salmos 145",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 145.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en alabanza y bendecire. Inicia con “Salmo de alabanza: de David. ENSALZARTE he, mi Dios, mi Rey; y bendeciré tu nombre por siglo y para siempre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 145, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en todas y obras. Inicia con “Reproducirán la memoria de la muchedumbre de tu bondad, y cantarán tu justicia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 145, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en todos y reino. Inicia con “Para notificar á los hijos de los hombres sus valentías, y la gloria de la magnificencia de su reino.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 145, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en todos y invocan. Inicia con “Justo es Jehová en todos sus caminos, y misericordioso en todas sus obras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 145, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 10,
+      "significance": "La recurrencia de “todos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 145."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "generacion",
+      "count": 4,
+      "significance": "La recurrencia de “generacion” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 145."
+    },
+    {
+      "word": "obras",
+      "count": 4,
+      "significance": "La recurrencia de “obras” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 145."
+    },
+    {
+      "word": "reino",
+      "count": 4,
+      "significance": "La recurrencia de “reino” (4) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Salmos 145."
     }
   ]
 }

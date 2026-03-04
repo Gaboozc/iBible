@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 15",
+  "title": "Análisis Estructural de Jueces 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en samson y ella. Inicia con “Y ACONTECIÓ después de días, que en el tiempo de la siega del trigo, Samsón visitó á su mujer con un cabrito, diciendo: Entraré á mi mujer…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en filisteos y samson. Inicia con “Y dijeron los Filisteos: ¿Quién hizo esto? Y fuéles dicho: Samsón, el yerno del Timnateo, porque le quitó su mujer y la dió á su compañero.…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en filisteos y hombres. Inicia con “Y vinieron tres mil hombres de Judá á la cueva de la peña de Etam, y dijeron á Samsón: ¿No sabes tú que los Filisteos dominan sobre nosotro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en quijada y mano. Inicia con “Entonces Samsón dijo: con la quijada de un asno, un montón, dos montones; con la quijada de un asno herí mil hombres.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "samson",
+      "count": 9,
+      "significance": "La recurrencia de “samson” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "filisteos",
+      "count": 9,
+      "significance": "La recurrencia de “filisteos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 15."
+    },
+    {
+      "word": "ella",
+      "count": 5,
+      "significance": "La recurrencia de “ella” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 15."
+    },
+    {
+      "word": "entonces",
+      "count": 5,
+      "significance": "La recurrencia de “entonces” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 15."
     }
   ]
 }

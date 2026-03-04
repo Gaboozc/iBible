@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-samuel 7",
+  "title": "Análisis Estructural de 1 Samuel 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en israel y arca. Inicia con “Y VINIERON los de Chîriath-jearim, y llevaron el arca de Jehová, y metiéronla en casa de Abinadab, situada* en el collado; y santificaron á…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en israel y samuel. Inicia con “Y juntándose en Mizpa, sacaron agua, y derramáronla delante de Jehová, y ayunaron aquel día, y dijeron allí: Contra Jehová hemos pecado. Y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en filisteos y israel. Inicia con “Y aconteció que estando Samuel sacrificando el holocausto, los Filisteos llegaron para pelear con los hijos de Israel. Mas Jehová tronó aqu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en israel y alli. Inicia con “Y fueron restituídas á los hijos de Israel las ciudades que los Filisteos habían tomado á los Israelitas, desde Ecrón hasta Gath, con sus t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 20,
+      "significance": "La recurrencia de “israel” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "filisteos",
+      "count": 12,
+      "significance": "La recurrencia de “filisteos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 7."
+    },
+    {
+      "word": "samuel",
+      "count": 10,
+      "significance": "La recurrencia de “samuel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 7."
+    },
+    {
+      "word": "hijos",
+      "count": 8,
+      "significance": "La recurrencia de “hijos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 7."
     }
   ]
 }

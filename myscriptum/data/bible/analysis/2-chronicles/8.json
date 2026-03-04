@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 8",
+  "title": "Análisis Estructural de 2 Crónicas 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en salomon y ciudades. Inicia con “Y ACONTECIÓ que al cabo de veinte años que Salomón había edificado la casa de Jehová y su casa,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en salomon y todo. Inicia con “Y á Baalath, y á todas las villas de munición que Salomón tenía; también todas las ciudades de los carros y las de la gente de á caballo; y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en david y salomon. Inicia con “Y tenía Salomón doscientos y cincuenta principales de los gobernadores, los cuales mandaban en aquella gente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en salomon y todo. Inicia con “Y no salieron del mandamiento del rey, cuanto á los sacerdotes y Levitas, y los tesoros, y todo negocio:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "salomon",
+      "count": 14,
+      "significance": "La recurrencia de “salomon” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "habia",
+      "count": 7,
+      "significance": "La recurrencia de “habia” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 8."
+    },
+    {
+      "word": "casa",
+      "count": 6,
+      "significance": "La recurrencia de “casa” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 8."
+    },
+    {
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 8."
     }
   ]
 }

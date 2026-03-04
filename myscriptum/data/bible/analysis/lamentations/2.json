@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Lamentations 2",
+  "title": "Análisis Estructural de Lamentaciones 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en destruyo y furor. Inicia con “¡CÓMO oscureció el Señor en su furor á la hija de Sión! Derribó del cielo á la tierra la hermosura de Israel, y no se acordó del estrado de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en tierra y hija. Inicia con “Desechó el Señor su altar, menospreció su santuario, ha entregado en mano del enemigo los muros de sus palacios: dieron grita en la casa de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en hija y decian. Inicia con “Decían á sus madres: ¿Dónde está el trigo y el vino? Desfallecían como heridos en las calles de la ciudad, derramando sus almas en el regaz…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en senor y corazon. Inicia con “El corazón de ellos clamaba al Señor: Oh muro de la hija de Sión, echa lágrimas como un arroyo día y noche; no descanses, ni cesen las niña…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lamentaciones 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hija",
+      "count": 11,
+      "significance": "La recurrencia de “hija” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 2."
+    },
+    {
+      "word": "senor",
+      "count": 7,
+      "significance": "La recurrencia de “senor” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 2."
+    },
+    {
+      "word": "sion",
+      "count": 7,
+      "significance": "La recurrencia de “sion” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lamentaciones 2."
     }
   ]
 }

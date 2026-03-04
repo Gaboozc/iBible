@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en tierra y ahora. Inicia con “MAS ahora los más mozos de días que yo, se ríen de mí; cuyos padres yo desdeñara ponerlos con los perros de mi ganado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en ahora y rostro. Inicia con “Y ahora yo soy su canción, y he sido hecho su refrán.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en mano y noche. Inicia con “De noche taladra sobre mí mis huesos, y mis pulsos no reposan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en esperaba y vino. Inicia con “¿No lloré yo al afligido? Y mi alma ¿no se entristeció sobre el menesteroso?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ahora",
+      "count": 3,
+      "significance": "La recurrencia de “ahora” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 30."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dias",
+      "count": 3,
+      "significance": "La recurrencia de “dias” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 30."
+    },
+    {
+      "word": "mano",
+      "count": 3,
+      "significance": "La recurrencia de “mano” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 30."
+    },
+    {
+      "word": "contra",
+      "count": 3,
+      "significance": "La recurrencia de “contra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 30."
     }
   ]
 }

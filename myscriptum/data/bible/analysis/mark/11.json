@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 11",
+  "title": "Análisis Estructural de Marcos 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en pollino y delante. Inicia con “Y COMO fueron cerca de Jerusalem, de Bethphagé, y de Bethania, al monte de las Olivas, envía dos de sus discípulos,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en templo y jesus. Inicia con “Bendito el reino de nuestro padre David que viene: ¡Hosanna en las alturas!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en dice y todo. Inicia con “Y lo oyeron los escribas y los príncipes de los sacerdotes, y procuraban cómo le matarían; porque le tenían miedo, por cuanto todo el puebl…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en facultad y cosas. Inicia con “Porque si vosotros no perdonareis, tampoco vuestro Padre que está en los cielos os perdonará vuestras ofensas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 10,
+      "significance": "La recurrencia de “jesus” (10) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Marcos 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dice",
+      "count": 6,
+      "significance": "La recurrencia de “dice” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 11."
+    },
+    {
+      "word": "entonces",
+      "count": 6,
+      "significance": "La recurrencia de “entonces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 11."
+    },
+    {
+      "word": "templo",
+      "count": 5,
+      "significance": "La recurrencia de “templo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 11."
     }
   ]
 }

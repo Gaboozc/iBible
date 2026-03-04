@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "2-samuel capítulo 18 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "2 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Samuel 18, el capítulo contiene 33 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: joab, absalom, hijo. Señales textuales: “DAVID pues revistó el pueblo que tenía consigo, y puso sobre ellos tribunos y centuriones.” | “Tomando después á Absalom, echáronle en un gran hoyo en el bosque, y levantaron sobre él un muy grande montón de piedra…” | “Entonces el rey se turbó, y subióse á la sala de la puerta, y lloró; y yendo, decía así: ¡Hijo mío Absalom, hijo mío, h…”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan joab, absalom, hijo. El núcleo del capítulo se percibe en “Tomando después á Absalom, echáronle en un gran hoyo en el bosque, y levantaron sobre él un muy grande montón de piedra…”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 12",
+  "title": "Análisis Estructural de 2 Reyes 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en joas y todo. Inicia con “EN el séptimo año de Jehú comenzó á reinar Joas, y reinó cuarenta años en Jerusalem. El nombre de su madre fué Sibia, de Beer-seba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en dinero y templo. Inicia con “Llamando entonces el rey Joas al pontífice Joiada y á los sacerdotes, díjoles: ¿Por qué no reparáis las aberturas del templo? Ahora pues, n…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en casa y dinero. Inicia con “Y los albañiles y canteros; y en comprar la madera y piedra de cantería para reparar las aberturas de la casa de Jehová; y en todo lo que s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en hazael y joas. Inicia con “Entonces subió Hazael rey de Siria, y peleó contra Gath, y tomóla: y puso Hazael su rostro para subir contra Jerusalem;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dinero",
+      "count": 14,
+      "significance": "La recurrencia de “dinero” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 13,
+      "significance": "La recurrencia de “casa” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 12."
+    },
+    {
+      "word": "joas",
+      "count": 8,
+      "significance": "La recurrencia de “joas” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 12."
+    },
+    {
+      "word": "templo",
+      "count": 8,
+      "significance": "La recurrencia de “templo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 12."
     }
   ]
 }

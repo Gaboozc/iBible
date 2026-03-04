@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Joel 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en delante y todos. Inicia con “TOCAD trompeta en Sión, y pregonad en mi santo monte: tiemblen todos los moradores de la tierra; porque viene el día de Jehová, porque está…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en vuestro y delante. Inicia con “Irán por la ciudad, correrán por el muro, subirán por las casas, entrarán por las ventanas á manera de ladrones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en pueblo y tierra. Inicia con “Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no pongas en oprobio t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en vuestros y grande. Inicia con “Y os restituiré los años que comió la oruga, la langosta, el pulgón, y el revoltón; mi grande ejército que envié contra vosotros.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 2."
+    },
+    {
+      "word": "vuestro",
+      "count": 7,
+      "significance": "La recurrencia de “vuestro” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 2."
+    },
+    {
+      "word": "grande",
+      "count": 5,
+      "significance": "La recurrencia de “grande” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 4",
+  "title": "Análisis Estructural de Nehemías 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en muro y judios. Inicia con “Y FUÉ que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio de los Judíos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en jerusalem y mucho. Inicia con “Mas acaeció que oyendo Sanballat y Tobías, y los Arabes, y los Ammonitas, y los de Asdod, que los muros de Jerusalem eran reparados, porque…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en muro y vuestras. Inicia con “Entonces puse por los bajos del lugar, detrás del muro, en las alturas de los peñascos, puse el pueblo por familias con sus espadas, con su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en nosotros y obra. Inicia con “Y dije á los principales, y á los magistrados y al resto del pueblo: La obra es grande y larga, y nosotros estamos apartados en el muro, le…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "muro",
+      "count": 8,
+      "significance": "La recurrencia de “muro” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "obra",
+      "count": 7,
+      "significance": "La recurrencia de “obra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 4."
+    },
+    {
+      "word": "nosotros",
+      "count": 6,
+      "significance": "La recurrencia de “nosotros” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 4."
+    },
+    {
+      "word": "pueblo",
+      "count": 5,
+      "significance": "La recurrencia de “pueblo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 4."
     }
   ]
 }

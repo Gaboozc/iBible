@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 7",
+  "title": "Análisis Estructural de 2 Corintios 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en nadie y hemos. Inicia con “ASÍ que, amados, pues tenemos tales promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santificación en tem…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en vuestro y venida. Inicia con “Porque aun cuando vinimos á Macedonia, ningún reposo tuvo nuestra carne; antes, en todo fuimos atribulados: de fuera, cuestiones; de dentro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en contristados y segun. Inicia con “Ahora me gozo, no porque hayáis sido contristados, sino porque fuisteis contristados para arrepentimiento; porque habéis sido contristados…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en consolacion y gozo. Inicia con “Por tanto, tomamos consolación de vuestra consolación: empero mucho más nos gozamos por el gozo de Tito, que haya sido recreado su espíritu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "consolacion",
+      "count": 4,
+      "significance": "La recurrencia de “consolacion” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gozo",
+      "count": 4,
+      "significance": "La recurrencia de “gozo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 7."
+    },
+    {
+      "word": "nuestra",
+      "count": 4,
+      "significance": "La recurrencia de “nuestra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 7."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 7."
     }
   ]
 }

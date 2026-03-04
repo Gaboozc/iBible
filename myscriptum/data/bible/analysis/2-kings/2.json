@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 2",
+  "title": "Análisis Estructural de 2 Reyes 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en eliseo y vive. Inicia con “Y ACONTECIÓ que, cuando quiso Jehová alzar á Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en elias y eliseo. Inicia con “Tomando entonces Elías su manto, doblólo, é hirió las aguas, las cuales se apartaron á uno y á otro lado, y pasaron ambos en seco.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en elias y aguas. Inicia con “Y tomando el manto de Elías que se le había caído, hirió las aguas, y dijo: ¿Dónde está Jehová, el Dios de Elías? Y así que hubo del mismo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en aguas y alli. Inicia con “Entonces él dijo: Traedme una botija nueva, y poned en ella sal. Y trajéronsela.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "eliseo",
+      "count": 13,
+      "significance": "La recurrencia de “eliseo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "elias",
+      "count": 12,
+      "significance": "La recurrencia de “elias” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 2."
+    },
+    {
+      "word": "aguas",
+      "count": 7,
+      "significance": "La recurrencia de “aguas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 2."
+    },
+    {
+      "word": "aqui",
+      "count": 6,
+      "significance": "La recurrencia de “aqui” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 2."
     }
   ]
 }

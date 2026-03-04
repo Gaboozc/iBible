@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 1",
+  "title": "Análisis Estructural de Marcos 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en desierto y juan. Inicia con “PRINCIPIO del evangelio de Jesucristo, Hijo de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en luego y alli. Inicia con “Y estuvo allí en el desierto cuarenta días, y era tentado de Satanás; y estaba con las fieras; y los ángeles le servían.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-34",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 34 con foco léxico en luego y diciendo. Inicia con “Diciendo: ¡Ah! ¿qué tienes con nosotros, Jesús Nazareno? ¿Has venido á destruirnos? Sé quién eres, el Santo de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "35-45",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 35 al 45 con foco léxico en dice y alli. Inicia con “Y levantándose muy de mañana, aun muy de noche, salió y se fué á un lugar desierto, y allí oraba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "luego",
+      "count": 12,
+      "significance": "La recurrencia de “luego” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 7,
+      "significance": "La recurrencia de “jesus” (7) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Marcos 1."
+    },
+    {
+      "word": "juan",
+      "count": 6,
+      "significance": "La recurrencia de “juan” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 1."
+    },
+    {
+      "word": "desierto",
+      "count": 5,
+      "significance": "La recurrencia de “desierto” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 1."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Colossians 3",
+  "title": "Análisis Estructural de Colosenses 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en cristo y cosas. Inicia con “SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 3, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en unos y otros. Inicia con “Mas ahora, dejad también vosotros todas estas cosas: ira, enojo, malicia, maledicencia, torpes palabras de vuestra boca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en vuestros y senor. Inicia con “Y sobre todas estas cosas vestíos de* caridad, la cual es el vínculo de la perfección.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en senor y vuestros. Inicia con “Hijos, obedeced á vuestros padres en todo; porque esto agrada al Señor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 8,
+      "significance": "La recurrencia de “cristo” (8) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Colosenses 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vuestros",
+      "count": 7,
+      "significance": "La recurrencia de “vuestros” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 3."
+    },
+    {
+      "word": "senor",
+      "count": 7,
+      "significance": "La recurrencia de “senor” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 3."
+    },
+    {
+      "word": "todo",
+      "count": 6,
+      "significance": "La recurrencia de “todo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 3."
     }
   ]
 }

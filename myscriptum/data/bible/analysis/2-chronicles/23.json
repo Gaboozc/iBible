@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 23",
+  "title": "Análisis Estructural de 2 Crónicas 23",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijo y casa. Inicia con “MAS el séptimo año se animó Joiada, y tomó consigo en alianza á los centuriones, Azarías hijo de Jeroam, y á Ismael hijo de Johanán, y á Az…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en joiada y cada. Inicia con “Y los Levitas rodearán al rey por todas partes, y cada uno tendrá sus armas en la mano; y cualquiera que entrare en la casa, muera: y estar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en pueblo y casa. Inicia con “Y como Athalía oyó el estruendo de la gente que corría, y de los que bendecían al rey, vino al pueblo á la casa de Jehová;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en casa y pueblo. Inicia con “Después de esto entró todo el pueblo en el templo de Baal, y derribáronlo, y también sus altares; é hicieron pedazos sus imágenes, y mataro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 15,
+      "significance": "La recurrencia de “casa” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 11,
+      "significance": "La recurrencia de “pueblo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 23."
+    },
+    {
+      "word": "todo",
+      "count": 10,
+      "significance": "La recurrencia de “todo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 23."
+    },
+    {
+      "word": "joiada",
+      "count": 8,
+      "significance": "La recurrencia de “joiada” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 23."
     }
   ]
 }

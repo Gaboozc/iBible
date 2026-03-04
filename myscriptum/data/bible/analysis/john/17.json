@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 17",
+  "title": "Análisis Estructural de Juan 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en diste y cosas. Inicia con “ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que también tu Hijo te…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en mundo y cosas. Inicia con “Porque las palabras que me diste, les he dado; y ellos las* recibieron, y han conocido verdaderamente que salí de ti, y han creído que tú m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en mundo y palabra. Inicia con “Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en cosa y sean. Inicia con “Para que todos sean una cosa; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros una cosa: para que el mundo crea que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mundo",
+      "count": 19,
+      "significance": "La recurrencia de “mundo” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "diste",
+      "count": 9,
+      "significance": "La recurrencia de “diste” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 17."
+    },
+    {
+      "word": "dado",
+      "count": 7,
+      "significance": "La recurrencia de “dado” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 17."
+    },
+    {
+      "word": "cosas",
+      "count": 6,
+      "significance": "La recurrencia de “cosas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 17."
     }
   ]
 }

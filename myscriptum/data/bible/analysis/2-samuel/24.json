@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 24",
+  "title": "Análisis Estructural de 2 Samuel 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y joab. Inicia con “Y VOLVIÓ el furor de Jehová á encenderse contra Israel, é incitó á David contra ellos á que dijese: Ve, cuenta á Israel y á Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en david y tierra. Inicia con “Y después que hubieron andado toda la tierra, volvieron á Jerusalem al cabo de nueve meses y veinte días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en david y mano. Inicia con “Entonces David dijo á Gad: En grande angustia estoy: ruego que caiga en la mano de Jehová, porque sus miseraciones son muchas, y que no cai…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en arauna y david. Inicia con “Y mirando Arauna, vió al rey y á sus siervos que pasaban á él. Saliendo entonces Arauna, inclinóse delante del rey hacia tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 15,
+      "significance": "La recurrencia de “david” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 9,
+      "significance": "La recurrencia de “pueblo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 24."
+    },
+    {
+      "word": "arauna",
+      "count": 9,
+      "significance": "La recurrencia de “arauna” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 24."
+    },
+    {
+      "word": "israel",
+      "count": 7,
+      "significance": "La recurrencia de “israel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 24."
     }
   ]
 }

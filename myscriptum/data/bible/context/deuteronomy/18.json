@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final de la era mosaica (antes de entrar a Canaán)",
+  "dominantEmpire": "Sin imperio dominante inmediato sobre Israel en campamento",
+  "kingName": "No hay rey; Moisés como líder del pacto",
+  "kingRegion": "Llanuras de Moab",
   "activeProphets": [
-    "Profetas según el período"
+    "Moisés"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Deuteronomy capítulo 18 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo vigente; anticipa centralización del culto",
+  "location": "Moab, frente al Jordán",
+  "summary": "Deuteronomio recapitula la Ley y renueva el pacto para la nueva generación. En Deuteronomio 18, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nombre, profeta, heredad. Señales textuales: “LOS sacerdotes Levitas, toda la tribu de Leví, no tendrán parte ni heredad con Israel; de las ofrendas encendidas á Jeh…” | “Porque es abominación á Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios las echó de de…” | “Cuando el profeta hablare en nombre de Jehová, y no fuere la tal cosa, ni viniere, es palabra que Jehová no ha hablado:…”.",
+  "spiritualContext": "Insiste en amar a Dios con todo el corazón y vivir la obediencia como respuesta al pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; fidelidad del pacto y promesas divinas. En su lenguaje central destacan nombre, profeta, heredad. El núcleo del capítulo se percibe en “Porque es abominación á Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios las echó de de…”."
 }

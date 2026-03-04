@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 18",
+  "title": "Análisis Estructural de 2 Samuel 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en pueblo y nosotros. Inicia con “DAVID pues revistó el pueblo que tenía consigo, y puso sobre ellos tribunos y centuriones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en joab y absalom. Inicia con “Y viéndolo uno, avisó á Joab, diciendo: He aquí que he visto á Absalom colgado de un alcornoque.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en hijo y joab. Inicia con “Y había Absalom en su vida tomado y levantádose una columna, la cual está en el valle del rey; porque había dicho: Yo no tengo hijo que con…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en hijo y absalom. Inicia con “Vió el atalaya otro que corría; y dió voces el atalaya al portero, diciendo: He aquí otro* hombre que corre solo. Y el rey dijo: Éste tambi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "joab",
+      "count": 16,
+      "significance": "La recurrencia de “joab” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "absalom",
+      "count": 16,
+      "significance": "La recurrencia de “absalom” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 18."
+    },
+    {
+      "word": "hijo",
+      "count": 13,
+      "significance": "La recurrencia de “hijo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 18."
+    },
+    {
+      "word": "pueblo",
+      "count": 11,
+      "significance": "La recurrencia de “pueblo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 18."
     }
   ]
 }

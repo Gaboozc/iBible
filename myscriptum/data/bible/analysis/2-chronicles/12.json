@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 12",
+  "title": "Análisis Estructural de 2 Crónicas 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en roboam y egipto. Inicia con “Y COMO Roboam hubo confirmado el reino, dejó la ley de Jehová, y con él todo Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en sisac y semeias. Inicia con “Entonces vino Semeías profeta á Roboam y á los príncipes de Judá, que estaban reunidos en Jerusalem por causa de Sisac, y díjoles: Así ha d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en casa y guardia. Inicia con “Subió pues Sisac rey de Egipto á Jerusalem, y tomó los tesoros de la casa de Jehová, y los tesoros de la casa del rey; todo lo llevó: y tom…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en roboam y reino. Inicia con “Fortificado pues Roboam, reinó en Jerusalem: y era Roboam de cuarenta y un años cuando comenzó á reinar, y diecisiete años reinó en Jerusal…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "roboam",
+      "count": 9,
+      "significance": "La recurrencia de “roboam” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 7,
+      "significance": "La recurrencia de “jerusalem” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 12."
+    },
+    {
+      "word": "sisac",
+      "count": 5,
+      "significance": "La recurrencia de “sisac” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 12."
+    },
+    {
+      "word": "reino",
+      "count": 4,
+      "significance": "La recurrencia de “reino” (4) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de 2 Crónicas 12."
     }
   ]
 }

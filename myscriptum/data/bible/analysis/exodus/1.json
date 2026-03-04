@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 1",
+  "title": "Análisis Estructural de Éxodo 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en egipto y jacob. Inicia con “ESTOS son los nombres de los hijos de Israel, que entraron en Egipto con Jacob; cada uno entró con su familia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en hijos y israel. Inicia con “Y los hijos de Israel crecieron, y multiplicaron, y fueron aumentados y corroborados en extremo; y llenóse la tierra de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en hijos y israel. Inicia con “Empero cuanto más los oprimían, tanto más se multiplicaban y crecían: así que estaban ellos fastidiados de los hijos de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en parteras y hizo. Inicia con “Y el rey de Egipto hizo llamar á las parteras, y díjoles: Por qué habéis hecho esto, que habéis reservado la vida á los niños?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 6,
+      "significance": "La recurrencia de “egipto” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "parteras",
+      "count": 6,
+      "significance": "La recurrencia de “parteras” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 1."
+    },
+    {
+      "word": "hijos",
+      "count": 5,
+      "significance": "La recurrencia de “hijos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 1."
+    },
+    {
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 1."
     }
   ]
 }

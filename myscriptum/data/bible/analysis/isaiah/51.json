@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 51",
+  "title": "Análisis Estructural de Isaías 51",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 51.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en justicia y mirad. Inicia con “OIDME, los que seguís justicia, los que buscáis á Jehová: mirad á la piedra de donde fuisteis cortados, y á la caverna de la fosa de donde…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 51, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hombre y siglos. Inicia con “Oidme, los que conocéis justicia, pueblo en cuyo corazón está mi ley. No temáis afrenta de hombre, ni desmayéis por sus denuestos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 51, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en furor y mano. Inicia con “Y haste ya olvidado de Jehová tu Hacedor, que extendió los cielos y fundó la tierra; y todo el día temiste continuamente del furor del que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 51, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en furor y mano. Inicia con “Estas dos cosas te han acaecido; ¿quién se dolerá de ti? asolamiento y quebrantamiento, hambre y espada. ¿Quién te consolará?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 51, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "justicia",
+      "count": 5,
+      "significance": "La recurrencia de “justicia” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 51."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 51."
+    },
+    {
+      "word": "furor",
+      "count": 5,
+      "significance": "La recurrencia de “furor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 51."
+    },
+    {
+      "word": "mano",
+      "count": 5,
+      "significance": "La recurrencia de “mano” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 51."
     }
   ]
 }

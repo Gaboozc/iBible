@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Hosea 10",
+  "title": "Análisis Estructural de Oseas 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en altares y israel. Inicia con “ES Israel una frondosa viña, haciendo fruto para sí: conforme á la multiplicación de su fruto multiplicó altares, conforme á la bondad de s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en gabaa y israel. Inicia con “Desde los días de Gabaa has pecado, oh Israel: allí estuvieron: no los tomó la batalla en Gabaa contra los inicuos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "seran",
+      "count": 5,
+      "significance": "La recurrencia de “seran” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 10."
+    },
+    {
+      "word": "altares",
+      "count": 4,
+      "significance": "La recurrencia de “altares” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 10."
+    },
+    {
+      "word": "fruto",
+      "count": 3,
+      "significance": "La recurrencia de “fruto” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 10."
     }
   ]
 }

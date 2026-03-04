@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 8",
+  "title": "Análisis Estructural de Levítico 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en moises y puso. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en moises y altar. Inicia con “Y tomó Moisés el aceite de la unción, y ungió el tabernáculo, y todas las cosas que estaban en él, y santificólas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en moises y carnero. Inicia con “Y degollólo; y roció Moisés la sangre sobre el altar en derredor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en moises y hijos. Inicia con “Después tomó aquellas cosas Moisés de las manos de ellos, é hízolas arder en el altar sobre el holocausto: las consagraciones en olor de su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "moises",
+      "count": 25,
+      "significance": "La recurrencia de “moises” (25) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aaron",
+      "count": 15,
+      "significance": "La recurrencia de “aaron” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 8."
+    },
+    {
+      "word": "hijos",
+      "count": 15,
+      "significance": "La recurrencia de “hijos” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 8."
+    },
+    {
+      "word": "altar",
+      "count": 11,
+      "significance": "La recurrencia de “altar” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 8."
     }
   ]
 }

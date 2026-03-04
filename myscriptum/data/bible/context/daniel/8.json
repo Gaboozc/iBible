@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Exilio y dominio gentil (siglo VI a.C.)",
+  "dominantEmpire": "Babilonia y Medo-Persia",
+  "kingName": "Nabucodonosor, Belsasar, Darío, Ciro",
+  "kingRegion": "Corte imperial en Babilonia",
   "activeProphets": [
-    "Profetas según el período"
+    "Daniel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Daniel capítulo 8 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Ausencia del templo en el exilio; expectativa de restauración",
+  "location": "Babilonia",
+  "summary": "Daniel muestra fidelidad en exilio y panoramas apocalípticos del reino de Dios. En Daniel 8, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: vision, tierra, carnero. Señales textuales: “EN el año tercero del reinado del rey Belsasar, me apareció una visión á mí, Daniel, después de aquella que me había ap…” | “Y él me dijo: Hasta dos mil y trescientos días de* tarde y mañana; y el santuario será purificado.” | “Y yo Daniel fuí quebrantado, y estuve enfermo algunos días: y cuando convalecí, hice el negocio del rey; mas estaba esp…”.",
+  "spiritualContext": "Afirma soberanía divina sobre imperios humanos y perseverancia del remanente fiel. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan vision, tierra, carnero. El núcleo del capítulo se percibe en “Y él me dijo: Hasta dos mil y trescientos días de* tarde y mañana; y el santuario será purificado.”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 36",
+  "title": "Análisis Estructural de Isaías 36",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ezechias y asiria. Inicia con “ACONTECIÓ en el año catorce del rey Ezechîas, que Sennachêrib rey de Asiria subió contra todas las ciudades fuertes de Judá, y tomólas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en cuyos y ahora. Inicia con “Y si me dijeres, En Jehová nuestro Dios confiamos; ¿no es éste aquel cuyos altos y cuyos altares hizo quitar Ezechîas, y dijo á Judá y á Je…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en asiria y ezechias. Inicia con “Y dijo Rabsaces: ¿Envióme mi señor á ti y á tu señor, á que dijese estas palabras, y* no á los hombres que están sobre el muro, para comer…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en mano y ezechias. Inicia con “Mirad no os engañe Ezechîas diciendo: Jehová nos librará. ¿Libraron los dioses de las gentes cada uno á su tierra de la mano del rey de Asi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ezechias",
+      "count": 9,
+      "significance": "La recurrencia de “ezechias” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "asiria",
+      "count": 8,
+      "significance": "La recurrencia de “asiria” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 36."
+    },
+    {
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 36."
+    },
+    {
+      "word": "rabsaces",
+      "count": 6,
+      "significance": "La recurrencia de “rabsaces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 36."
     }
   ]
 }

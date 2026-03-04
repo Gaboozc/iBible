@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 39",
+  "title": "Análisis Estructural de Génesis 39",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 39.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en jose y casa. Inicia con “Y LLEVADO José á Egipto, comprólo Potiphar, eunuco de Faraón, capitán de los de la guardia, varón Egipcio, de mano de los Ismaelitas que lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 39, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en casa y ella. Inicia con “Y aconteció después de esto, que la mujer de su señor puso sus ojos en José, y dijo: Duerme conmigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 39, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en ropa y ella. Inicia con “Y acaeció que cuando vió ella que le había dejado su ropa en sus manos, y había huído fuera,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 39, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en carcel y casa. Inicia con “Y sucedió que como oyó su señor las palabras que su mujer le hablara, diciendo: Así me ha tratado tu siervo; encendióse su furor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 39, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 16,
+      "significance": "La recurrencia de “casa” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 39."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jose",
+      "count": 11,
+      "significance": "La recurrencia de “jose” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 39."
+    },
+    {
+      "word": "senor",
+      "count": 8,
+      "significance": "La recurrencia de “senor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 39."
+    },
+    {
+      "word": "todo",
+      "count": 7,
+      "significance": "La recurrencia de “todo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 39."
     }
   ]
 }

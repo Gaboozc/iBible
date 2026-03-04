@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 110",
+  "title": "Análisis Estructural de Salmos 110",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 110.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en enemigos y salmo. Inicia con “Salmo de David. JEHOVÁ dijo á mi Señor: Siéntate á mi diestra, en tanto que pongo tus enemigos por estrado de tus pies.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 110, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-7",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 7 con foco léxico en herira y senor. Inicia con “El Señor á tu diestra herirá á los reyes en el día de su furor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 110, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "senor",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “senor” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 110."
     },
     {
-      "word": "Motivo literario",
+      "word": "diestra",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “diestra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 110."
+    },
+    {
+      "word": "enemigos",
+      "count": 2,
+      "significance": "La recurrencia de “enemigos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 110."
+    },
+    {
+      "word": "herira",
+      "count": 2,
+      "significance": "La recurrencia de “herira” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 110."
     }
   ]
 }

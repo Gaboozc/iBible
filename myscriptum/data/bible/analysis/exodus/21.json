@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 21",
+  "title": "Análisis Estructural de Éxodo 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en saldra y mujer. Inicia con “Y ESTOS son los derechos que les propondrás.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en morira y hiriere. Inicia con “Si le tomare otra, no disminuirá su alimento, ni su vestido, ni el débito conyugal.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en diente y siervo. Inicia con “Si se levantare y anduviere fuera sobre su báculo, entonces será el que le hirió absuelto: solamente le satisfará lo que estuvo parado, y h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en buey y dueno. Inicia con “Si un buey acorneare hombre ó mujer, y de resultas muriere, el buey será apedreado, y no se comerá su carne; mas el dueño del buey será abs…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "buey",
+      "count": 14,
+      "significance": "La recurrencia de “buey” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mujer",
+      "count": 9,
+      "significance": "La recurrencia de “mujer” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 21."
+    },
+    {
+      "word": "alguno",
+      "count": 8,
+      "significance": "La recurrencia de “alguno” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 21."
+    },
+    {
+      "word": "siervo",
+      "count": 7,
+      "significance": "La recurrencia de “siervo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 21."
     }
   ]
 }

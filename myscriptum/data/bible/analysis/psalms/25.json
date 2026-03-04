@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 25",
+  "title": "Análisis Estructural de Salmos 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ensename y salmo. Inicia con “Salmo de David. A TI, oh Jehová, levantaré mi alma.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en misericordia y ensenara. Inicia con “De los pecados de mi mocedad, y de mis rebeliones, no te acuerdes; conforme á tu misericordia acuérdate de mí, por tu bondad, oh Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 25, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en hombre y teme. Inicia con “¿Quién es el hombre que teme á Jehová? El le enseñará el camino que ha de escoger.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en mira y afliccion. Inicia con “Mira mi aflicción y mi trabajo: y perdona todos mis pecados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "alma",
+      "count": 3,
+      "significance": "La recurrencia de “alma” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 25."
     },
     {
-      "word": "Motivo literario",
+      "word": "misericordia",
+      "count": 3,
+      "significance": "La recurrencia de “misericordia” (3) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 25."
+    },
+    {
+      "word": "ensenara",
+      "count": 3,
+      "significance": "La recurrencia de “ensenara” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 25."
+    },
+    {
+      "word": "avergonzado",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “avergonzado” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 25."
     }
   ]
 }

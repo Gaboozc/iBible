@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Micah 2",
+  "title": "Análisis Estructural de Miqueas 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en hombre y casa. Inicia con “¡AY de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, porque tienen en su m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en pueblo y quitasteis. Inicia con “El que ayer era mi pueblo, se ha levantado como enemigo: tras las vestiduras quitasteis las capas atrevidamente á los que pasaban, como* lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 4,
+      "significance": "La recurrencia de “pueblo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 2."
     },
     {
-      "word": "Motivo literario",
+      "word": "casas",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “casas” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 2."
+    },
+    {
+      "word": "hombre",
+      "count": 2,
+      "significance": "La recurrencia de “hombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 2."
+    },
+    {
+      "word": "casa",
+      "count": 2,
+      "significance": "La recurrencia de “casa” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 2."
     }
   ]
 }

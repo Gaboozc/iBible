@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ephesians 6",
+  "title": "Análisis Estructural de Efesios 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en vuestros y hijos. Inicia con “HIJOS, obedeced en el Señor á vuestros padres; porque esto es justo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en contra y senor. Inicia con “Sirviendo con buena voluntad, como al Señor, y no á los hombres;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en toda y todo. Inicia con “Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y estar firmes, habiendo acabado todo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en senor y tichico. Inicia con “Y por mí, para que me sea dada palabra en el abrir de mi boca con confianza, para hacer notorio el misterio del evangelio,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 9,
+      "significance": "La recurrencia de “senor” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 6,
+      "significance": "La recurrencia de “contra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 6."
+    },
+    {
+      "word": "vuestros",
+      "count": 5,
+      "significance": "La recurrencia de “vuestros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 6."
+    },
+    {
+      "word": "toda",
+      "count": 4,
+      "significance": "La recurrencia de “toda” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 6."
     }
   ]
 }

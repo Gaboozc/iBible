@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Micah 7",
+  "title": "Análisis Estructural de Miqueas 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en frutos y alma. Inicia con “¡AY de mí! que he venido á ser como cuando han cogido los frutos del verano, como cuando han rebuscado después de la vendimia, que* no qued…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en contra y esperare. Inicia con “Porque el hijo deshonra al padre, la hija se levanta contra la madre, la nuera contra su suegra: y los enemigos del hombre son los de su ca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en ciudades y fuertes. Inicia con “El día en que se edificarán tus muros, aquel día será alejado el mandamiento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en misericordia y nuestros. Inicia con “Las gentes verán, y se avergonzarán de todas sus valentías; pondrán la mano sobre su boca, ensordecerán sus oídos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 7, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 7."
     },
     {
-      "word": "Motivo literario",
+      "word": "contra",
+      "count": 3,
+      "significance": "La recurrencia de “contra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 7."
+    },
+    {
+      "word": "misericordia",
+      "count": 3,
+      "significance": "La recurrencia de “misericordia” (3) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Miqueas 7."
+    },
+    {
+      "word": "frutos",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “frutos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 7."
     }
   ]
 }

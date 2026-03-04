@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 19",
+  "title": "Análisis Estructural de 2 Crónicas 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en josaphat y juda. Inicia con “Y JOSAPHAT rey de Judá se volvió en paz á su casa en Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en pues y temor. Inicia con “Sea pues con vosotros el temor de Jehová; guardad y haced: porque en Jehová nuestro Dios no hay iniquidad, ni acepción de personas, ni reci…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "josaphat",
+      "count": 4,
+      "significance": "La recurrencia de “josaphat” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 4,
+      "significance": "La recurrencia de “jerusalem” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 19."
+    },
+    {
+      "word": "pues",
+      "count": 4,
+      "significance": "La recurrencia de “pues” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 19."
+    },
+    {
+      "word": "juda",
+      "count": 3,
+      "significance": "La recurrencia de “juda” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 19."
     }
   ]
 }

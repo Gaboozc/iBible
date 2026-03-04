@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 99",
+  "title": "Análisis Estructural de Salmos 99",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 99.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pueblos y grande. Inicia con “JEHOVÁ reinó, temblarán los pueblos: él está sentado sobre los querubines, conmoveráse la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 99, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-9",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en moises y aaron. Inicia con “Moisés y Aarón entre sus sacerdotes, y Samuel entre los que invocaron su nombre; invocaban á Jehová, y él les respondía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 99, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "santo",
+      "count": 3,
+      "significance": "La recurrencia de “santo” (3) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Salmos 99."
     },
     {
-      "word": "Motivo literario",
+      "word": "pueblos",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “pueblos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 99."
+    },
+    {
+      "word": "grande",
+      "count": 2,
+      "significance": "La recurrencia de “grande” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 99."
+    },
+    {
+      "word": "nombre",
+      "count": 2,
+      "significance": "La recurrencia de “nombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 99."
     }
   ]
 }

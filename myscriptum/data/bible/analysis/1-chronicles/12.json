@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 12",
+  "title": "Análisis Estructural de 1 Crónicas 12",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en hijos y david. Inicia con “ESTOS son los que vinieron á David á Siclag, estando él aún encerrado por causa de Saúl hijo de Cis, y eran de los valientes ayudadores de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en david y pasaron. Inicia con “Attai el sexto, Eliel el séptimo,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en hijos y david. Inicia con “Estos ayudaron á David contra aquella compañía; porque todos ellos eran hombres valientes, y fueron capitanes en el ejército.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en guerra y david. Inicia con “De la media tribu de Manasés, diez y ocho mil, los cuales fueron tomados por lista para venir á poner á David por rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 14,
+      "significance": "La recurrencia de “david” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 11,
+      "significance": "La recurrencia de “hijos” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 12."
+    },
+    {
+      "word": "guerra",
+      "count": 10,
+      "significance": "La recurrencia de “guerra” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 12."
+    },
+    {
+      "word": "saul",
+      "count": 7,
+      "significance": "La recurrencia de “saul” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 12."
     }
   ]
 }

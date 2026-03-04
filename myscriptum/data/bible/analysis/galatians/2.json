@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Galatians 2",
+  "title": "Análisis Estructural de Gálatas 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en parecian y algo. Inicia con “DESPUÉS, pasados catorce años, fuí otra vez á Jerusalem juntamente con Bernabé, tomando también conmigo á Tito.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en pedro y circuncision. Inicia con “Antes por el contrario, como vieron que el evangelio de la incircuncisión me era encargado, como á Pedro el de la circuncisión,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en gentiles y obras. Inicia con “Porque antes que viniesen unos de parte* de Jacobo, comía con los Gentiles; mas después que vinieron, se retraía y apartaba, teniendo miedo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en cristo y vivo. Inicia con “Y si buscando nosotros ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En nin…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 2, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gentiles",
+      "count": 7,
+      "significance": "La recurrencia de “gentiles” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cristo",
+      "count": 7,
+      "significance": "La recurrencia de “cristo” (7) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Gálatas 2."
+    },
+    {
+      "word": "nosotros",
+      "count": 5,
+      "significance": "La recurrencia de “nosotros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 2."
+    },
+    {
+      "word": "evangelio",
+      "count": 4,
+      "significance": "La recurrencia de “evangelio” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Gálatas 2."
     }
   ]
 }

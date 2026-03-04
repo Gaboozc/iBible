@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-timothy 6",
+  "title": "Análisis Estructural de 1 Timoteo 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en piedad y tengan. Inicia con “TODOS los que están debajo del yugo de servidumbre, tengan á sus señores por dignos de toda honra, porque no sea blasfemado el nombre del S…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 6, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en nada y hemos. Inicia con “Porque nada hemos traído á este mundo, y sin duda nada podremos sacar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en buena y delante. Inicia con “Pelea la buena batalla de la fe, echa mano de la vida eterna, á la cual asimismo eres llamado, habiendo hecho buena profesión delante de mu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en ricos y sean. Inicia con “A los ricos de este siglo manda que no sean altivos, ni pongan la esperanza en la incertidumbre de las riquezas, sino en el Dios vivo, que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 4,
+      "significance": "La recurrencia de “senor” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "piedad",
+      "count": 4,
+      "significance": "La recurrencia de “piedad” (4) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de 1 Timoteo 6."
+    },
+    {
+      "word": "cosas",
+      "count": 4,
+      "significance": "La recurrencia de “cosas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 6."
+    },
+    {
+      "word": "jesucristo",
+      "count": 3,
+      "significance": "La recurrencia de “jesucristo” (3) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 1 Timoteo 6."
     }
   ]
 }

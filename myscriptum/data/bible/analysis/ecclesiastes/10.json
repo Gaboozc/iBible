@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 10",
+  "title": "Análisis Estructural de Eclesiastés 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en necio y corazon. Inicia con “LAS moscas muertas hacen heder y* dar mal olor el perfume del perfumista: así* una pequeña locura, al estimado por sabiduría y honra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en siervos y necedad. Inicia con “La necedad está colocada en grandes alturas, y los ricos están sentados en lugar bajo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en palabras y boca. Inicia con “Muerde la serpiente cuando no está encantada, y el lenguaraz no es mejor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tierra y principes. Inicia con “¡Ay de ti, tierra, cuando tu rey es muchacho, y tus príncipes comen de mañana!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "necio",
+      "count": 5,
+      "significance": "La recurrencia de “necio” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "principes",
+      "count": 3,
+      "significance": "La recurrencia de “principes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 10."
+    },
+    {
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 10."
+    },
+    {
+      "word": "palabras",
+      "count": 3,
+      "significance": "La recurrencia de “palabras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 10."
     }
   ]
 }

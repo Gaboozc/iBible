@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 62",
+  "title": "Análisis Estructural de Isaías 62",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 62.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en amor y tierra. Inicia con “POR amor de Sión no callaré, y por amor de Jerusalem no he de parar, hasta que salga como resplandor su justicia, y su salud se encienda co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 62, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en aqui y tierra. Inicia con “Ni le deis tregua, hasta que confirme, y hasta que ponga á Jerusalem en alabanza en la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 62, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 62."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "amor",
+      "count": 3,
+      "significance": "La recurrencia de “amor” (3) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Isaías 62."
+    },
+    {
+      "word": "jerusalem",
+      "count": 3,
+      "significance": "La recurrencia de “jerusalem” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 62."
+    },
+    {
+      "word": "mano",
+      "count": 3,
+      "significance": "La recurrencia de “mano” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 62."
     }
   ]
 }

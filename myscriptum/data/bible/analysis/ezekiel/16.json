@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 16",
+  "title": "Análisis Estructural de Ezequiel 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-16",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 16 con foco léxico en fuiste y sangres. Inicia con “Y FUÉ á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "17-32",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 17 al 32 con foco léxico en fornicaste y hijos. Inicia con “Tomaste asimismo los vasos de tu hermosura de mi oro y de mi plata, que yo te había dado, é hicístete imágenes de hombre, y fornicaste con…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "33-48",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 33 al 48 con foco léxico en todos y dones. Inicia con “A todas las rameras dan dones; mas tú diste tus dones á todos tus enamorados; y les diste presentes, porque entrasen á ti de todas partes p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "49-63",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 49 al 63 con foco léxico en hijas y hermanas. Inicia con “He aquí que esta fué la maldad de Sodoma tu hermana: soberbia, hartura de pan, y abundancia de ociosidad tuvo ella y sus hijas; y no corrob…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijas",
+      "count": 15,
+      "significance": "La recurrencia de “hijas” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 11,
+      "significance": "La recurrencia de “senor” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 16."
+    },
+    {
+      "word": "dice",
+      "count": 9,
+      "significance": "La recurrencia de “dice” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 16."
+    },
+    {
+      "word": "todas",
+      "count": 9,
+      "significance": "La recurrencia de “todas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 16."
     }
   ]
 }

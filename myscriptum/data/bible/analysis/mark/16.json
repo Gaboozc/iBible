@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 16",
+  "title": "Análisis Estructural de Marcos 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en sepulcro y maria. Inicia con “Y COMO pasó el sábado, María Magdalena, y María madre* de Jacobo, y Salomé, compraron drogas* aromáticas, para venir á ungirle.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en jesus y aqui. Inicia con “Mas él les dice: No os asustéis: buscáis á Jesús Nazareno, el que fué crucificado; resucitado há, no está aquí; he aquí el lugar en donde l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 16, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en visto y creyeron. Inicia con “Y ellos como oyeron que vivía, y que había sido visto de ella, no lo* creyeron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en creyere y senales. Inicia con “El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 16, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sepulcro",
+      "count": 4,
+      "significance": "La recurrencia de “sepulcro” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "maria",
+      "count": 3,
+      "significance": "La recurrencia de “maria” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 16."
+    },
+    {
+      "word": "habia",
+      "count": 3,
+      "significance": "La recurrencia de “habia” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 16."
+    },
+    {
+      "word": "aparecio",
+      "count": 3,
+      "significance": "La recurrencia de “aparecio” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 16."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 9",
+  "title": "Análisis Estructural de Juan 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en ciego y jesus. Inicia con “Y PASANDO Jesús*, vió un hombre ciego desde su nacimiento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en habia y ciego. Inicia con “Entonces le dijeron: ¿Dónde está aquél? El dijo: No sé.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-31",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 31 con foco léxico en sabemos y dijeron. Inicia con “Esto dijeron sus padres, porque tenían miedo de los Judíos: porque ya los Judíos habían resuelto que si alguno confesase ser él el Mesías,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "32-41",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 32 al 41 con foco léxico en jesus y fuera. Inicia con “Desde el siglo no fué oído, que abriese alguno los ojos de uno que nació ciego.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 9, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ciego",
+      "count": 12,
+      "significance": "La recurrencia de “ciego” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ojos",
+      "count": 10,
+      "significance": "La recurrencia de “ojos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 9."
+    },
+    {
+      "word": "jesus",
+      "count": 8,
+      "significance": "La recurrencia de “jesus” (8) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 9."
+    },
+    {
+      "word": "habia",
+      "count": 8,
+      "significance": "La recurrencia de “habia” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 9."
     }
   ]
 }

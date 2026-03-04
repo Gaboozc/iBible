@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final del siglo I d.C. (época de persecución)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Provincia de Asia Menor",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan (vidente/apóstol)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Revelation capítulo 1 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo de Jerusalén ya destruido; foco en templo celestial",
+  "location": "Isla de Patmos y cartas a siete iglesias",
+  "summary": "Apocalipsis revela la victoria final de Dios y del Cordero sobre todo poder rebelde. En Apocalipsis 1, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: siete, jesucristo, cosas. Señales textuales: “LA revelación de Jesucristo, que Dios le dió, para manifestar á sus siervos las cosas que deben suceder presto; y la* d…” | “Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envíalo* á las siete igle…” | “El misterio de las siete estrellas que has visto en mi diestra, y los siete candeleros de oro. Las siete estrellas son…”.",
+  "spiritualContext": "Llama a perseverancia fiel, adoración verdadera y esperanza escatológica. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan siete, jesucristo, cosas. El núcleo del capítulo se percibe en “Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envíalo* á las siete igle…”."
 }

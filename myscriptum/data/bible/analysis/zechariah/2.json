@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Zechariah 2",
+  "title": "Análisis Estructural de Zacarías 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en ella y dice. Inicia con “ALCÉ después mis ojos, y miré y he aquí un varón que tenía en su mano un cordel de medir.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en ejercitos y dicho. Inicia con “Porque así ha dicho Jehová de los ejércitos: Después de la gloria me enviará él á las gentes que os despojaron: porque el que os toca, toca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 4,
+      "significance": "La recurrencia de “aqui” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "medio",
+      "count": 4,
+      "significance": "La recurrencia de “medio” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 2."
+    },
+    {
+      "word": "jerusalem",
+      "count": 3,
+      "significance": "La recurrencia de “jerusalem” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 2."
+    },
+    {
+      "word": "ella",
+      "count": 3,
+      "significance": "La recurrencia de “ella” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 2."
     }
   ]
 }

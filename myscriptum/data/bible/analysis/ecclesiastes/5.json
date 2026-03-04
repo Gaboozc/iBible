@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 5",
+  "title": "Análisis Estructural de Eclesiastés 5",
   "sections": [
     {
       "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en palabras y prometas. Inicia con “CUANDO fueres á la casa de Dios, guarda tu pie; y acércate más para oir que para dar el sacrificio de los necios: porque no saben que hacen…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en alto y dinero. Inicia con “No sueltes tu boca para hacer pecar á tu carne; ni digas delante del ángel, que fué ignorancia. ¿Por qué harás que* Dios se aire á causa de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en aumentan y nada. Inicia con “Cuando los bienes se aumentan, también se aumentan sus comedores. ¿Qué bien, pues, tendrá su dueño, sino verlos* con sus ojos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en dias y vida. Inicia con “Este también es un gran mal, que como vino, así haya de volver. ¿Y de qué le aprovechó trabajar al viento?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mucho",
+      "count": 4,
+      "significance": "La recurrencia de “mucho” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabras",
+      "count": 3,
+      "significance": "La recurrencia de “palabras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 5."
+    },
+    {
+      "word": "alto",
+      "count": 3,
+      "significance": "La recurrencia de “alto” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 5."
+    },
+    {
+      "word": "todos",
+      "count": 3,
+      "significance": "La recurrencia de “todos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 5."
     }
   ]
 }

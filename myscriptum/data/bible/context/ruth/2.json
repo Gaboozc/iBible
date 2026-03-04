@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Época de los jueces",
+  "dominantEmpire": "Contexto local israelita/moabita",
+  "kingName": "Sin monarquía estable",
+  "kingRegion": "Belén y Moab",
   "activeProphets": [
-    "Profetas según el período"
+    "No enfocado en actividad profética"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Ruth capítulo 2 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Vida piadosa en marco de la ley y costumbres del pueblo",
+  "location": "Moab y Judá",
+  "summary": "Rut narra redención familiar, lealtad de pacto y providencia que conduce al linaje davídico. En Rut 2, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: booz, campo, noemi. Señales textuales: “Y TENÍA Noemi un pariente de su marido, varón poderoso y de hecho, de la familia de Elimelech, el cual se llamaba Booz.” | “Jehová galardone tu obra, y tu remuneración sea llena por Jehová Dios de Israel, que has venido para cubrirte debajo de…” | “Estuvo pues junta con las mozas de Booz espigando, hasta que la siega de las cebadas y la de los trigos fué acabada; ma…”.",
+  "spiritualContext": "Destaca fidelidad, misericordia y la inclusión de la extranjera en el plan redentor. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; adoración, oración y respuesta de fe. En su lenguaje central destacan booz, campo, noemi. El núcleo del capítulo se percibe en “Jehová galardone tu obra, y tu remuneración sea llena por Jehová Dios de Israel, que has venido para cubrirte debajo de…”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 12",
+  "title": "Análisis Estructural de Mateo 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en sabado y licito. Inicia con “EN aquel tiempo iba Jesús por los sembrados en sábado; y sus discípulos tenían hambre, y comenzaron á coger espigas, y á comer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en contra y fariseos. Inicia con “Y salidos los Fariseos, consultaron contra él para destruirle.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-38",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 38 con foco léxico en contra y fuera. Inicia con “Y si Satanás echa fuera á Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "39-50",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 39 al 50 con foco léxico en aqui y madre. Inicia con “Y él respondió, y les dijo: La generación mala y adulterina demanda señal; mas señal no le será dada, sino la señal de Jonás profeta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 10,
+      "significance": "La recurrencia de “hombre” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 9,
+      "significance": "La recurrencia de “aqui” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 12."
+    },
+    {
+      "word": "contra",
+      "count": 8,
+      "significance": "La recurrencia de “contra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 12."
+    },
+    {
+      "word": "sabado",
+      "count": 6,
+      "significance": "La recurrencia de “sabado” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 12."
     }
   ]
 }

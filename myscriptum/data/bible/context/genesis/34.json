@@ -1,13 +1,16 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Edad Patriarcal (ca. 2100–1800 a.C.)",
+  "dominantEmpire": "Contexto mesopotámico y cananeo preimperial",
+  "kingName": "No aplica (estructura patriarcal)",
+  "kingRegion": "Canaán y regiones de Mesopotamia/Egipto",
   "activeProphets": [
-    "Profetas según el período"
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "José (líder providencial)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Genesis capítulo 34 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "No existe aún templo; culto en altares patriarcales",
+  "location": "Mesopotamia, Canaán y Egipto",
+  "summary": "Génesis presenta los orígenes: creación, caída, diluvio, naciones y llamado de Abraham. Establece el pacto abrahámico y la línea de promesa que desembocará en Israel. En Génesis 34, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: sichem, jacob, hamor. Señales textuales: “Y SALIÓ Dina la hija de Lea, la cual había ésta parido á Jacob, á ver las hijas del país.” | “Entonces os daremos nuestras hijas, y tomaremos nosotros las vuestras; y habitaremos con vosotros, y seremos un pueblo.” | “Y ellos respondieron: ¿Había él de tratar á nuestra hermana como á una ramera?”.",
+  "spiritualContext": "El libro confronta pecado humano y gracia divina, mostrando elección, pacto, providencia y fidelidad de Dios en medio de familias imperfectas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; misericordia, gracia y restauración. En su lenguaje central destacan sichem, jacob, hamor. El núcleo del capítulo se percibe en “Entonces os daremos nuestras hijas, y tomaremos nosotros las vuestras; y habitaremos con vosotros, y seremos un pueblo.”."
 }

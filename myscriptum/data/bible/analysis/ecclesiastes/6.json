@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 6",
+  "title": "Análisis Estructural de Eclesiastés 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en visto y hombre. Inicia con “HAY un mal que he visto debajo del cielo, y muy común entre los hombres:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hombre y tiene. Inicia con “Todo el trabajo del hombre es para su boca, y con todo eso su alma no se harta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 7,
+      "significance": "La recurrencia de “hombre” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vanidad",
+      "count": 4,
+      "significance": "La recurrencia de “vanidad” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 6."
+    },
+    {
+      "word": "tiene",
+      "count": 4,
+      "significance": "La recurrencia de “tiene” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 6."
+    },
+    {
+      "word": "todo",
+      "count": 3,
+      "significance": "La recurrencia de “todo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 6."
     }
   ]
 }

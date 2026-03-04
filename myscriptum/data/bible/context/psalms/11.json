@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Composición multiépoca (monarquía, exilio y postexilio)",
+  "dominantEmpire": "Varía según salmo y época",
+  "kingName": "Principalmente periodo davídico y posterior",
+  "kingRegion": "Israel/Judá y comunidades en dispersión",
   "activeProphets": [
-    "Profetas según el período"
+    "David y autores litúrgicos de Israel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Psalms capítulo 11 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Adoración centrada en templo/tabernáculo según época",
+  "location": "Sion y contexto de peregrinación/exilio",
+  "summary": "Salmos es el himnario teológico de Israel: lamento, alabanza, sabiduría y confianza mesiánica. En Salmos 11, el capítulo contiene 7 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: justo, alma, malos. Señales textuales: “Al Músico principal: Salmo de David. EN Jehová he confiado; ¿cómo decís á mi alma: Escapa al monte cual* ave?” | “Jehová en el templo de su santidad: la silla de Jehová está en el cielo: sus ojos ven, sus párpados examinan á los hijo…” | “Porque el justo Jehová ama la justicia: al recto mirará su rostro.”.",
+  "spiritualContext": "Modela oración honesta delante de Dios en sufrimiento, arrepentimiento, guerra y esperanza. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan justo, alma, malos. El núcleo del capítulo se percibe en “Jehová en el templo de su santidad: la silla de Jehová está en el cielo: sus ojos ven, sus párpados examinan á los hijo…”."
 }

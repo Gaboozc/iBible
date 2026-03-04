@@ -1,13 +1,16 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Edad Patriarcal (ca. 2100–1800 a.C.)",
+  "dominantEmpire": "Contexto mesopotámico y cananeo preimperial",
+  "kingName": "No aplica (estructura patriarcal)",
+  "kingRegion": "Canaán y regiones de Mesopotamia/Egipto",
   "activeProphets": [
-    "Profetas según el período"
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "José (líder providencial)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Genesis capítulo 50 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "No existe aún templo; culto en altares patriarcales",
+  "location": "Mesopotamia, Canaán y Egipto",
+  "summary": "Génesis presenta los orígenes: creación, caída, diluvio, naciones y llamado de Abraham. Establece el pacto abrahámico y la línea de promesa que desembocará en Israel. En Génesis 50, el capítulo contiene 26 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jose, padre, tierra. Señales textuales: “ENTONCES se echó José sobre el rostro de su padre, y lloró sobre él, y besólo.” | “Y tornóse José á Egipto, él y sus hermanos, y todos los que subieron con él á sepultar á su padre, después que le hubo…” | “Y murió José de edad de ciento diez años; y embalsamáronlo, y fué puesto en un ataúd en Egipto.”.",
+  "spiritualContext": "El libro confronta pecado humano y gracia divina, mostrando elección, pacto, providencia y fidelidad de Dios en medio de familias imperfectas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jose, padre, tierra. El núcleo del capítulo se percibe en “Y tornóse José á Egipto, él y sus hermanos, y todos los que subieron con él á sepultar á su padre, después que le hubo…”."
 }

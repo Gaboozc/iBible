@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 7",
+  "title": "Análisis Estructural de Marcos 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en tradicion y fariseos. Inicia con “Y SE juntaron á él los Fariseos, y algunos de los escribas, que habían venido de Jerusalem;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en hombre y padre. Inicia con “Y vosotros decís: Basta* si dijere un hombre al padre ó la madre: Es* Corbán (quiere decir, don mío á Dios*) todo aquello con que pudiera v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en hombre y hijos. Inicia con “Mas decía, que lo que del hombre sale, aquello contamina al hombre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en demonio y salido. Inicia con “Entonces le dice: Por esta palabra, ve; el demonio ha salido de tu hija.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 7,
+      "significance": "La recurrencia de “hombre” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tradicion",
+      "count": 5,
+      "significance": "La recurrencia de “tradicion” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 7."
+    },
+    {
+      "word": "bien",
+      "count": 5,
+      "significance": "La recurrencia de “bien” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 7."
+    },
+    {
+      "word": "muchas",
+      "count": 4,
+      "significance": "La recurrencia de “muchas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 7."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 118",
+  "title": "Análisis Estructural de Salmos 118",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 118.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en siempre y misericordia. Inicia con “ALABAD á Jehová, porque es bueno; porque para siempre es* su misericordia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 118, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en nombre y rompere. Inicia con “Mejor es esperar en Jehová que esperar en príncipes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 118, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en diestra y alabare. Inicia con “La diestra de Jehová sublime: la diestra de Jehová hace valentías.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 118, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en ahora y parte. Inicia con “De parte de Jehová es esto: es maravilla en nuestros ojos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 118, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "siempre",
+      "count": 5,
+      "significance": "La recurrencia de “siempre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 118."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "misericordia",
+      "count": 5,
+      "significance": "La recurrencia de “misericordia” (5) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 118."
+    },
+    {
+      "word": "ahora",
+      "count": 5,
+      "significance": "La recurrencia de “ahora” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 118."
+    },
+    {
+      "word": "esperar",
+      "count": 4,
+      "significance": "La recurrencia de “esperar” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 118."
     }
   ]
 }

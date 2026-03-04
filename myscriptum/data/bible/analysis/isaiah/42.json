@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 42",
+  "title": "Análisis Estructural de Isaías 42",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 42.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en juicio y espiritu. Inicia con “HE aquí mi siervo, yo le sostendré; mi escogido, en quien mi alma toma contentamiento: he puesto sobre él mi espíritu, dará juicio á las ge…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 42, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en gloria y alabanza. Inicia con “Yo Jehová: este es mi nombre; y á otro no daré mi gloria, ni mi alabanza á esculturas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 42, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en tornare y ciego. Inicia con “Desde el siglo he callado, tenido he silencio, y heme detenido: daré voces como la que está de parto; asolaré y devoraré juntamente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en muchas y cosas. Inicia con “Que ve muchas cosas y no advierte, que abre los oídos y no oye?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 42, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "islas",
+      "count": 4,
+      "significance": "La recurrencia de “islas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 42."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosas",
+      "count": 4,
+      "significance": "La recurrencia de “cosas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 42."
+    },
+    {
+      "word": "siervo",
+      "count": 3,
+      "significance": "La recurrencia de “siervo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 42."
+    },
+    {
+      "word": "juicio",
+      "count": 3,
+      "significance": "La recurrencia de “juicio” (3) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 42."
     }
   ]
 }

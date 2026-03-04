@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 57",
+  "title": "Análisis Estructural de Salmos 57",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 57.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en misericordia y delante. Inicia con “Al Músico principal: sobre No destruyas: Michtam de David, cuando huyó de delante de Saúl á la cueva. TEN misericordia de mí, oh Dios, ten…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 57, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en corazon y cantare. Inicia con “Pronto está mi corazón, oh Dios, mi corazón está dispuesto: cantaré, y trovaré salmos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 57, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "misericordia",
+      "count": 4,
+      "significance": "La recurrencia de “misericordia” (4) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 57."
     },
     {
-      "word": "Motivo literario",
+      "word": "cielos",
+      "count": 4,
+      "significance": "La recurrencia de “cielos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 57."
+    },
+    {
+      "word": "gloria",
+      "count": 3,
+      "significance": "La recurrencia de “gloria” (3) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Salmos 57."
+    },
+    {
+      "word": "delante",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “delante” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 57."
     }
   ]
 }

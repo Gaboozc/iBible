@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 1-samuel 11",
+  "title": "Análisis Estructural de 1 Samuel 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en saul y jabes. Inicia con “Y SUBIÓ Naas Ammonita, y asentó campo contra Jabes de Galaad. Y todos los de Jabes dijeron á Naas: Haz alianza con nosotros, y te serviremo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en saul y pueblo. Inicia con “Y respondieron á los mensajeros que habían venido: Así diréis á los de Jabes de Galaad: Mañana en calentando el sol, tendréis salvamento. Y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "saul",
+      "count": 10,
+      "significance": "La recurrencia de “saul” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 11."
+    },
+    {
+      "word": "jabes",
+      "count": 7,
+      "significance": "La recurrencia de “jabes” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 11."
+    },
+    {
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 11."
     }
   ]
 }

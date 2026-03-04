@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 25",
+  "title": "Análisis Estructural de Isaías 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ciudad y contra. Inicia con “JEHOVÁ, tú eres mi Dios: te ensalzaré, alabaré tu nombre; porque has hecho maravillas, los consejos antiguos, la verdad firme.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en monte y todos. Inicia con “Y deshará en este monte la máscara de la cobertura con que están cubiertos todos los pueblos, y la cubierta que está extendida sobre todas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ciudad",
+      "count": 4,
+      "significance": "La recurrencia de “ciudad” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "fortaleza",
+      "count": 3,
+      "significance": "La recurrencia de “fortaleza” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 25."
+    },
+    {
+      "word": "contra",
+      "count": 3,
+      "significance": "La recurrencia de “contra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 25."
+    },
+    {
+      "word": "calor",
+      "count": 3,
+      "significance": "La recurrencia de “calor” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 25."
     }
   ]
 }

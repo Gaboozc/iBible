@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final de la era mosaica (antes de entrar a Canaán)",
+  "dominantEmpire": "Sin imperio dominante inmediato sobre Israel en campamento",
+  "kingName": "No hay rey; Moisés como líder del pacto",
+  "kingRegion": "Llanuras de Moab",
   "activeProphets": [
-    "Profetas según el período"
+    "Moisés"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Deuteronomy capítulo 27 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo vigente; anticipa centralización del culto",
+  "location": "Moab, frente al Jordán",
+  "summary": "Deuteronomio recapitula la Ley y renueva el pacto para la nueva generación. En Deuteronomio 27, el capítulo contiene 26 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, todo, maldito. Señales textuales: “Y MANDÓ Moisés, con los ancianos de Israel, al pueblo, diciendo: Guardaréis todos los mandamientos que yo prescribo hoy.” | “Y hablarán los Levitas, y dirán á todo varón de Israel en alta voz:” | “Maldito el que no confirmare las palabras de esta ley para cumplirlas. Y dirá todo el pueblo: Amén.”.",
+  "spiritualContext": "Insiste en amar a Dios con todo el corazón y vivir la obediencia como respuesta al pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, todo, maldito. El núcleo del capítulo se percibe en “Y hablarán los Levitas, y dirán á todo varón de Israel en alta voz:”."
 }

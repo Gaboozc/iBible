@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 11",
+  "title": "Análisis Estructural de Jeremías 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en palabras y pacto. Inicia con “PALABRA que fué de Jehová, á Jeremías, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en padres y juda. Inicia con “Porque con eficacia protesté á vuestros padres el día que los hice subir de la tierra de Egipto hasta el día de hoy, madrugando y protestan…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en casa y segun. Inicia con “Porque según el número de tus ciudades fueron tus dioses, oh Judá; y según el número de tus calles, oh Jerusalem, pusisteis los altares de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en pues y diciendo. Inicia con “Y yo como cordero inocente que llevan á degollar, pues no entendía que maquinaban contra mí designios, diciendo*: Destruyamos el árbol con…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juda",
+      "count": 7,
+      "significance": "La recurrencia de “juda” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabras",
+      "count": 6,
+      "significance": "La recurrencia de “palabras” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 11."
+    },
+    {
+      "word": "diciendo",
+      "count": 5,
+      "significance": "La recurrencia de “diciendo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 11."
+    },
+    {
+      "word": "pacto",
+      "count": 5,
+      "significance": "La recurrencia de “pacto” (5) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Jeremías 11."
     }
   ]
 }

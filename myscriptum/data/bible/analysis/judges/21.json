@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 21",
+  "title": "Análisis Estructural de Jueces 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en israel y dijeron. Inicia con “Y LOS varones de Israel habían jurado en Mizpa, diciendo: Ninguno de nosotros dará su hija á los de Benjamín por mujer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en jabes y galaad. Inicia con “Y dijeron: ¿Hay alguno de las tribus de Israel que no haya subido á Jehová en Mizpa? Y hallaron que ninguno de Jabes-galaad había venido al…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en benjamin y mujeres. Inicia con “Y volvieron entonces los de Benjamín; y diéronles por mujeres las que habían guardado vivas de las mujeres de Jabes-galaad: mas no les bast…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en cada y hijos. Inicia con “Y mandaron á los hijos de Benjamín, diciendo: Id, y poned emboscada en las viñas:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 14,
+      "significance": "La recurrencia de “israel” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "benjamin",
+      "count": 11,
+      "significance": "La recurrencia de “benjamin” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 21."
+    },
+    {
+      "word": "mujeres",
+      "count": 10,
+      "significance": "La recurrencia de “mujeres” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 21."
+    },
+    {
+      "word": "dijeron",
+      "count": 7,
+      "significance": "La recurrencia de “dijeron” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 21."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 25",
+  "title": "Análisis Estructural de Éxodo 25",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en ofrenda y medio. Inicia con “Y JEHOVÁ habló á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en haras y anillos. Inicia con “Y la cubrirás de oro puro; por dentro y por fuera la cubrirás; y harás sobre ella una cornisa de oro alrededor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en haras y pondras. Inicia con “Y pondrás la cubierta encima del arca, y en el arca pondrás el testimonio que yo te daré.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en brazos y candelero. Inicia con “Harás además un candelero de oro puro; labrado á martillo se hará el candelero: su pie, y su caña, sus copas, sus manzanas, y sus flores, s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "haras",
+      "count": 16,
+      "significance": "La recurrencia de “haras” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "brazos",
+      "count": 9,
+      "significance": "La recurrencia de “brazos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 25."
+    },
+    {
+      "word": "arca",
+      "count": 8,
+      "significance": "La recurrencia de “arca” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 25."
+    },
+    {
+      "word": "anillos",
+      "count": 7,
+      "significance": "La recurrencia de “anillos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 25."
     }
   ]
 }

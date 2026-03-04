@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 3",
+  "title": "Análisis Estructural de Levítico 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en ofrenda y sebo. Inicia con “Y SI su ofrenda fuere sacrificio de paces, si hubiere de ofrecerlo de ganado vacuno, sea macho ó hembra, sin defecto lo ofrecerá delante de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en ofrenda y sebo. Inicia con “Mas si de ovejas fuere su ofrenda para sacrificio de paces á Jehová, sea macho ó hembra, ofrecerála sin tacha.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en rinones y altar. Inicia con “Asimismo los dos riñones, y el sebo que está sobre ellos, y el que está sobre los ijares, y con los riñones quitará el redaño de sobre el h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en sebo y ofrenda. Inicia con “Después ofrecerá de ella su ofrenda encendida á Jehová; el sebo que cubre los intestinos, y todo el sebo que está sobre las entrañas,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ofrenda",
+      "count": 12,
+      "significance": "La recurrencia de “ofrenda” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sebo",
+      "count": 12,
+      "significance": "La recurrencia de “sebo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 3."
+    },
+    {
+      "word": "altar",
+      "count": 6,
+      "significance": "La recurrencia de “altar” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 3."
+    },
+    {
+      "word": "rinones",
+      "count": 6,
+      "significance": "La recurrencia de “rinones” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 3."
     }
   ]
 }

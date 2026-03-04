@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 47",
+  "title": "Análisis Estructural de Génesis 47",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 47.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en faraon y tierra. Inicia con “Y JOSÉ vino, é hizo saber á Faraón, y dijo: Mi padre y mis hermanos, y sus ovejas y sus vacas, con todo lo que tienen, han venido de la tie…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en tierra y jose. Inicia con “Y Jacob respondió á Faraón: Los días de los años de mi peregrinación son ciento treinta años; pocos y malos han sido los días de los años d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en tierra y faraon. Inicia con “Y ellos trajeron sus ganados á José; y José les dió alimentos por caballos, y por el ganado de las ovejas, y por el ganado de las vacas, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en tierra y egipto. Inicia con “Y ellos respondieron: La vida nos has dado: hallemos gracia en ojos de mi señor, y seamos siervos de Faraón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 34,
+      "significance": "La recurrencia de “tierra” (34) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 47."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "faraon",
+      "count": 24,
+      "significance": "La recurrencia de “faraon” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 47."
+    },
+    {
+      "word": "jose",
+      "count": 15,
+      "significance": "La recurrencia de “jose” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 47."
+    },
+    {
+      "word": "egipto",
+      "count": 13,
+      "significance": "La recurrencia de “egipto” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 47."
     }
   ]
 }

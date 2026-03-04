@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 147",
+  "title": "Análisis Estructural de Salmos 147",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 147.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en numero y alabad. Inicia con “ALABAD á JAH, porque es bueno cantar salmos á nuestro Dios; porque suave y hermosa es la alabanza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 147, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en tierra y cantad. Inicia con “Jehová ensalza á los humildes; humilla los impíos hasta la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 147, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en alaba y palabra. Inicia con “Complácese Jehová en los que le temen, y en los que esperan en su misericordia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 147, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en juicios y nieve. Inicia con “El da la nieve como lana, derrama la escarcha como ceniza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 147, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 147."
     },
     {
-      "word": "Motivo literario",
+      "word": "palabra",
+      "count": 3,
+      "significance": "La recurrencia de “palabra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 147."
+    },
+    {
+      "word": "alabanza",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “alabanza” (2) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Salmos 147."
+    },
+    {
+      "word": "jerusalem",
+      "count": 2,
+      "significance": "La recurrencia de “jerusalem” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 147."
     }
   ]
 }

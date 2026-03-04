@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 90",
+  "title": "Análisis Estructural de Salmos 90",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 90.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en generacion y siglo. Inicia con “Oración de Moisés varón de Dios. SEÑOR, tú nos has sido refugio en generación y en generación.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 90, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en nuestros y somos. Inicia con “En la mañana florece y crece; á la tarde es cortada, y se seca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 90, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en dias y anos. Inicia con “Los días de nuestra edad son setenta años; que si en los más robustos son ochenta años, con todo su fortaleza es molestia y trabajo; porque…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 90, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en obra y dias. Inicia con “Sácianos presto de tu misericordia: y cantaremos y nos alegraremos todos nuestros días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 90, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "anos",
+      "count": 5,
+      "significance": "La recurrencia de “anos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 90."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nuestros",
+      "count": 5,
+      "significance": "La recurrencia de “nuestros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 90."
+    },
+    {
+      "word": "dias",
+      "count": 5,
+      "significance": "La recurrencia de “dias” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 90."
+    },
+    {
+      "word": "nuestras",
+      "count": 3,
+      "significance": "La recurrencia de “nuestras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 90."
     }
   ]
 }

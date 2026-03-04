@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 40",
+  "title": "Análisis Estructural de Jeremías 40",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en babilonia y jeremias. Inicia con “PALABRA que fué á Jeremías de Jehová, después que Nabuzaradán capitán de la guardia le envió desde Ramá, cuando le tomó estando atado con e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en hijo y habia. Inicia con “Y aun no se había él vuelto, cuando le dijo*: Vuélvete á Gedalías hijo de Ahicam, hijo de Saphán, al cual el rey de Babilonia ha puesto sob…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en hijo y gedalias. Inicia con “Y juróles Gedalías hijo de Ahicam, hijo de Saphán, á ellos y á sus hombres, diciendo: No tengáis temor de servir á los Caldeos: habitad en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en hijo y gedalias. Inicia con “Y Johanán, hijo de Carea, y todos los príncipes de la gente de guerra que estaban en el campo, vinieron á Gedalías en Mizpa,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 18,
+      "significance": "La recurrencia de “hijo” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 40."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gedalias",
+      "count": 11,
+      "significance": "La recurrencia de “gedalias” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 40."
+    },
+    {
+      "word": "babilonia",
+      "count": 8,
+      "significance": "La recurrencia de “babilonia” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 40."
+    },
+    {
+      "word": "habia",
+      "count": 7,
+      "significance": "La recurrencia de “habia” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 40."
     }
   ]
 }

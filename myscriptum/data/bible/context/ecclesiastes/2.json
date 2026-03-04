@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Literatura sapiencial",
+  "dominantEmpire": "No especificado directamente",
+  "kingName": "Voz del “Qohelet” en marco real/sapiencial",
+  "kingRegion": "Jerusalén (marco literario)",
   "activeProphets": [
-    "Profetas según el período"
+    "No es un libro profético en sentido clásico"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Ecclesiastes capítulo 2 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Referencia indirecta a adoración y juicio de Dios",
+  "location": "Jerusalén y observación universal de la vida",
+  "summary": "Eclesiastés reflexiona sobre la vanidad de la vida “bajo el sol” sin Dios como centro. En Eclesiastés 2, el capítulo contiene 26 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: corazon, esto, trabajo. Señales textuales: “DIJE yo en mi corazón: Ven ahora, te probaré con alegría, y gozarás de bienes. Mas he aquí esto también era vanidad.” | “El sabio tiene sus ojos en su cabeza, mas el necio anda en tinieblas: empero también entendí yo que un mismo suceso aca…” | “Porque al hombre que le agrada, Dios* le da sabiduría y ciencia y gozo: mas al pecador da trabajo, el que allegue y amo…”.",
+  "spiritualContext": "Conduce al temor de Dios y la obediencia como conclusión de la existencia humana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan corazon, esto, trabajo. El núcleo del capítulo se percibe en “El sabio tiene sus ojos en su cabeza, mas el necio anda en tinieblas: empero también entendí yo que un mismo suceso aca…”."
 }

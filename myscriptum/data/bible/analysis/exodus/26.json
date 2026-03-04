@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 26",
+  "title": "Análisis Estructural de Éxodo 26",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en cortina y haras. Inicia con “Y HARÁS el tabernáculo de diez cortinas de lino torcido, cárdeno, y púrpura, y carmesí: y harás querubines de obra delicada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en haras y tabernaculo. Inicia con “Harás asimismo cincuenta corchetes de alambre, los cuales meterás por las lazadas: y juntarás la tienda, para que se haga una sola cubierta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en tablas y basas. Inicia con “Y al otro lado del tabernáculo, á la parte del aquilón, veinte tablas;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en velo y haras. Inicia con “Y cubrirás las tablas de oro, y harás sus anillos de oro para meter por ellos las barras: también cubrirás las barras de oro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "haras",
+      "count": 23,
+      "significance": "La recurrencia de “haras” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tabernaculo",
+      "count": 18,
+      "significance": "La recurrencia de “tabernaculo” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 26."
+    },
+    {
+      "word": "cortina",
+      "count": 14,
+      "significance": "La recurrencia de “cortina” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 26."
+    },
+    {
+      "word": "tablas",
+      "count": 13,
+      "significance": "La recurrencia de “tablas” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 26."
     }
   ]
 }

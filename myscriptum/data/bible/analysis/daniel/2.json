@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Daniel 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en sueno y declaracion. Inicia con “Y EN el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en daniel y arioch. Inicia con “Entonces Daniel habló avisada y prudentemente á Arioch, capitán de los de la guarda del rey, que había salido para matar los sabios de Babi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-37",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 37 con foco léxico en imagen y hierro. Inicia con “Respondió el rey, y dijo á Daniel, al cual llamaban Beltsasar: ¿Podrás tú hacerme entender el sueño que vi, y su declaración?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "38-49",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 38 al 49 con foco léxico en hierro y reino. Inicia con “Y todo lo que habitan hijos de hombres, bestias del campo, y aves del cielo, él ha entregado en tu mano, y te ha hecho enseñorear sobre tod…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "daniel",
+      "count": 18,
+      "significance": "La recurrencia de “daniel” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sueno",
+      "count": 14,
+      "significance": "La recurrencia de “sueno” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 2."
+    },
+    {
+      "word": "hierro",
+      "count": 14,
+      "significance": "La recurrencia de “hierro” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 2."
+    },
+    {
+      "word": "declaracion",
+      "count": 12,
+      "significance": "La recurrencia de “declaracion” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 2."
     }
   ]
 }

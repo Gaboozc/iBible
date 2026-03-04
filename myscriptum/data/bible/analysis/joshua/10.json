@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 10",
+  "title": "Análisis Estructural de Josué 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en josue y gabaon. Inicia con “Y COMO Adonisedec rey de Jerusalem oyó que Josué había tomado á Hai, y que la había asolado, (como había hecho á Jericó y á su rey, así hiz…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-22",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 22 con foco léxico en josue y israel. Inicia con “Entonces Josué habló á Jehová el día que Jehová entregó al Amorrheo delante de los hijos de Israel, y dijo en presencia de los Israelitas:…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "23-33",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 23 al 33 con foco léxico en josue y israel. Inicia con “E hiciéronlo así, y sacáronle de la cueva aquellos cinco reyes: al rey de Jerusalem, al rey de Hebrón, al rey de Jerimoth, al rey de Lachîs…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "34-43",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 34 al 43 con foco léxico en todo y habia. Inicia con “De Lachîs pasó Josué, y todo Israel con él, á Eglón: y pusieron campo contra ella, y combatiéronla:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "josue",
+      "count": 29,
+      "significance": "La recurrencia de “josue” (29) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 20,
+      "significance": "La recurrencia de “israel” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 10."
+    },
+    {
+      "word": "todo",
+      "count": 17,
+      "significance": "La recurrencia de “todo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 10."
+    },
+    {
+      "word": "habia",
+      "count": 16,
+      "significance": "La recurrencia de “habia” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 10."
     }
   ]
 }

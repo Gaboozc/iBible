@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 3",
+  "title": "Análisis Estructural de Deuteronomio 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en ciudades y basan. Inicia con “Y VOLVIMOS, y subimos camino de Basán, y saliónos al encuentro Og rey de Basán para pelear, él y todo su pueblo, en Edrei.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en basan y todo. Inicia con “(Los Sidonios llaman á Hermón Sirión; y los Amorrheos, Senir:)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en vuestro y vuestros. Inicia con “Y á los Rubenitas y Gaditas dí de Galaad hasta el arroyo de Arnón, el medio del arroyo por término; hasta el arroyo de Jaboc, término de lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en tierra y segun. Inicia con “Y oré á Jehová en aquel tiempo, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 12,
+      "significance": "La recurrencia de “tierra” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "basan",
+      "count": 10,
+      "significance": "La recurrencia de “basan” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 3."
+    },
+    {
+      "word": "ciudades",
+      "count": 9,
+      "significance": "La recurrencia de “ciudades” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 3."
+    },
+    {
+      "word": "todo",
+      "count": 8,
+      "significance": "La recurrencia de “todo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 3."
     }
   ]
 }

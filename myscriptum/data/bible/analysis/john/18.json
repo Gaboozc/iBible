@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 18",
+  "title": "Análisis Estructural de Juan 18",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en jesus y dicho. Inicia con “COMO Jesús hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró Jesús y su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 18, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en jesus y pedro. Inicia con “Jesús entonces dijo á Pedro: Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 18, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en jesus y pontifice. Inicia con “¿Qué me preguntas á mí? Pregunta á los que han oído, qué les haya yo hablado: he aquí, ésos saben lo que yo he dicho.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 18, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en pilato y judios. Inicia con “Díceles entonces Pilato: Tomadle vosotros, y juzgadle según vuestra ley. Y los Judíos le dijeron: A nosotros no es lícito matar á nadie:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 22,
+      "significance": "La recurrencia de “jesus” (22) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pedro",
+      "count": 10,
+      "significance": "La recurrencia de “pedro” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 18."
+    },
+    {
+      "word": "dicho",
+      "count": 9,
+      "significance": "La recurrencia de “dicho” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 18."
+    },
+    {
+      "word": "pontifice",
+      "count": 9,
+      "significance": "La recurrencia de “pontifice” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 18."
     }
   ]
 }

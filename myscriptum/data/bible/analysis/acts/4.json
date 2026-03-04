@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 4",
+  "title": "Análisis Estructural de Hechos 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en pueblo y sacerdotes. Inicia con “Y HABLANDO ellos al pueblo, sobrevinieron los sacerdotes, y el magistrado del templo, y los Saduceos,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en nombre y hombres. Inicia con “Este es la piedra reprobada de vosotros los edificadores, la cual es puesta por cabeza del ángulo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en habia y hecho. Inicia con “Porque no podemos dejar de decir lo que hemos visto y oído.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en apostoles y todos. Inicia con “Y ahora, Señor, mira sus amenazas, y da á tus siervos que con toda confianza hablen tu palabra;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 7,
+      "significance": "La recurrencia de “todos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 6,
+      "significance": "La recurrencia de “pueblo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 4."
+    },
+    {
+      "word": "jesus",
+      "count": 6,
+      "significance": "La recurrencia de “jesus” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Hechos 4."
+    },
+    {
+      "word": "nombre",
+      "count": 6,
+      "significance": "La recurrencia de “nombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 4."
     }
   ]
 }

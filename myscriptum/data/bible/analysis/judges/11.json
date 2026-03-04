@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 11",
+  "title": "Análisis Estructural de Jueces 11",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en jephte y galaad. Inicia con “EXISTÍA entonces Jephté, Galaadita, hombre valiente, hijo de una ramera, al cual había engendrado Galaad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en tierra y israel. Inicia con “Entonces Jephté vino con los ancianos de Galaad, y el pueblo lo eligió por su cabeza y príncipe; y Jephté habló todas sus palabras delante…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en israel y hijos. Inicia con “Empero Jehová el Dios de Israel entregó á Sehón y á todo su pueblo en mano de Israel, y venciólos: y poseyó Israel toda la tierra del Amorr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en ella y hija. Inicia con “Cualquiera que me saliere á recibir de las puertas de mi casa, cuando volviere de los Ammonitas en paz, será de Jehová, y le ofreceré en ho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jephte",
+      "count": 21,
+      "significance": "La recurrencia de “jephte” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 21,
+      "significance": "La recurrencia de “israel” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 11."
+    },
+    {
+      "word": "hijos",
+      "count": 14,
+      "significance": "La recurrencia de “hijos” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 11."
+    },
+    {
+      "word": "galaad",
+      "count": 12,
+      "significance": "La recurrencia de “galaad” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 11."
     }
   ]
 }

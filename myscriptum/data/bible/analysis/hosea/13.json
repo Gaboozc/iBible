@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hosea 13",
+  "title": "Análisis Estructural de Oseas 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en ephraim y hablaba. Inicia con “CUANDO Ephraim hablaba, hubo temor; fué ensalzado en Israel; mas pecó en Baal, y murió.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en corazon y leon. Inicia con “Yo te conocí en el desierto, en tierra seca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en perdiste y israel. Inicia con “Te perdiste, oh Israel, mas en mí está* tu ayuda.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en muerte y sepulcro. Inicia con “Dolores de mujer de parto le vendrán: es un hijo ignorante, que de otra manera* no estuviera tanto tiempo en el rompimiento de los hijos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tanto",
+      "count": 3,
+      "significance": "La recurrencia de “tanto” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "seran",
+      "count": 3,
+      "significance": "La recurrencia de “seran” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 13."
+    },
+    {
+      "word": "sere",
+      "count": 3,
+      "significance": "La recurrencia de “sere” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 13."
+    },
+    {
+      "word": "muerte",
+      "count": 3,
+      "significance": "La recurrencia de “muerte” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 13."
     }
   ]
 }

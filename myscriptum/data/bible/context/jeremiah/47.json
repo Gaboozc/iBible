@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Final del reino de Judá y caída de Jerusalén (siglo VII–VI a.C.)",
+  "dominantEmpire": "Babilonia (tras declive asirio)",
+  "kingName": "Josías, Joacaz, Joacim, Joaquín, Sedequías",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Jeremías",
+    "Habacuc (cercano en época)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Jeremiah capítulo 47 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo activo hasta su destrucción en 586 a.C.",
+  "location": "Jerusalén y exilio",
+  "summary": "Jeremías proclama juicio inminente y nuevo pacto en medio de resistencia nacional. En Jeremías 47, el capítulo contiene 7 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: palestinos, gaza, tierra. Señales textuales: “PALABRA de Jehová que fué á Jeremías profeta acerca de los Palestinos, antes que Faraón hiriese á Gaza.” | “A causa del día que viene para destrucción de todos los Palestinos, para talar á Tiro, y á Sidón, á todo ayudador que q…” | “¿Cómo reposarás? pues que Jehová lo ha enviado contra Ascalón, y á la ribera de la mar, allí lo puso.”.",
+  "spiritualContext": "Confronta idolatría, falsa seguridad religiosa y endurecimiento del corazón. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan palestinos, gaza, tierra. El núcleo del capítulo se percibe en “A causa del día que viene para destrucción de todos los Palestinos, para talar á Tiro, y á Sidón, á todo ayudador que q…”."
 }

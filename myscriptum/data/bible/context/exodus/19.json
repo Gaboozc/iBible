@@ -1,13 +1,15 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Éxodo y formación nacional (ca. siglo XV–XIII a.C.)",
+  "dominantEmpire": "Egipto faraónico",
+  "kingName": "Faraón (sin nombre explícito en el texto bíblico)",
+  "kingRegion": "Egipto / desierto del Sinaí",
   "activeProphets": [
-    "Profetas según el período"
+    "Moisés",
+    "Aarón",
+    "Miriam"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Exodus capítulo 19 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Se instituye el tabernáculo como santuario móvil",
+  "location": "Egipto, Sinaí y ruta al desierto",
+  "summary": "Éxodo narra liberación de Egipto, pacto del Sinaí y constitución de Israel como pueblo sacerdotal bajo la Ley de Dios. En Éxodo 19, el capítulo contiene 25 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, monte, moises. Señales textuales: “AL mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en aquel día vinieron al desierto de Sinaí.” | “No le tocará mano, mas será apedreado ó asaeteado; sea animal ó sea hombre, no vivirá. En habiendo sonado largamente la…” | “Entonces Moisés descendió al pueblo, y habló con ellos.”.",
+  "spiritualContext": "Enfatiza redención, santidad y obediencia al pacto; el Dios que salva también habita en medio de su pueblo y demanda fidelidad. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, monte, moises. El núcleo del capítulo se percibe en “No le tocará mano, mas será apedreado ó asaeteado; sea animal ó sea hombre, no vivirá. En habiendo sonado largamente la…”."
 }

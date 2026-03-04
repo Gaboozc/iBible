@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 106",
+  "title": "Análisis Estructural de Salmos 106",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 106.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en nuestros y padres. Inicia con “ALELUYA. Alabad á Jehová, porque es bueno; porque para siempre es* su misericordia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 106, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en tierra y contra. Inicia con “Apresuráronse, olvidáronse de sus obras; no esperaron en su consejo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 106, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en antes y gentes. Inicia con “Antes murmuraron en sus tiendas, y no oyeron la voz de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 106, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-48",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 48 con foco léxico en sangre y sacrificaron. Inicia con “Y sacrificaron sus hijos y sus hijas á los demonios;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 106, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mano",
+      "count": 4,
+      "significance": "La recurrencia de “mano” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 106."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "obras",
+      "count": 4,
+      "significance": "La recurrencia de “obras” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 106."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 106."
+    },
+    {
+      "word": "gentes",
+      "count": 4,
+      "significance": "La recurrencia de “gentes” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 106."
     }
   ]
 }

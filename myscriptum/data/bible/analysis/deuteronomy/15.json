@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 15",
+  "title": "Análisis Estructural de Deuteronomio 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en remision y perdonara. Inicia con “AL cabo de siete años harás remisión.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en mano y hermano. Inicia con “Cuando hubiere en ti menesteroso de alguno de tus hermanos en alguna de tus ciudades, en tu tierra que Jehová tu Dios te da, no endurecerás…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en libre y siervo. Inicia con “Y cuando lo despidieres libre de ti, no lo enviarás vacío:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en primerizo y vacas. Inicia con “Santificarás á Jehová tu Dios todo primerizo macho que nacerá de tus vacas y de tus ovejas: no te sirvas del primerizo de tus vacas, ni tra…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mano",
+      "count": 6,
+      "significance": "La recurrencia de “mano” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hermano",
+      "count": 6,
+      "significance": "La recurrencia de “hermano” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 15."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 15."
+    },
+    {
+      "word": "hubiere",
+      "count": 5,
+      "significance": "La recurrencia de “hubiere” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 15."
     }
   ]
 }

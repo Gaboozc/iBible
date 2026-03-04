@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 48",
+  "title": "Análisis Estructural de Génesis 48",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 48.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y despues. Inicia con “Y SUCEDIÓ después de estas cosas el haberse dicho á José: He aquí tu padre está enfermo. Y él tomó consigo sus dos hijos Manasés y Ephraim.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en israel y jose. Inicia con “Porque cuando yo venía de Padan-aram, se me murió Rachêl en la tierra de Canaán, en el camino, como media legua de tierra viniendo á Ephrat…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en cabeza y jose. Inicia con “Entonces José los sacó de entre sus rodillas, é inclinóse á tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en padre y jose. Inicia con “Y dijo José á su padre: No así, padre mío, porque éste es el primogénito; pon tu diestra sobre su cabeza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jose",
+      "count": 12,
+      "significance": "La recurrencia de “jose” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 48."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 9,
+      "significance": "La recurrencia de “israel” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 48."
+    },
+    {
+      "word": "tierra",
+      "count": 9,
+      "significance": "La recurrencia de “tierra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 48."
+    },
+    {
+      "word": "manases",
+      "count": 8,
+      "significance": "La recurrencia de “manases” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 48."
     }
   ]
 }

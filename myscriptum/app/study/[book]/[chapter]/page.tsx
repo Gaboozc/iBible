@@ -9,7 +9,6 @@ import { HistoricalContextTab } from '@/components/Study/HistoricalContextTab';
 import { TextTab } from '@/components/Study/TextTab';
 import { AnalysisTab } from '@/components/Study/AnalysisTab';
 import { EtymologyTab } from '@/components/Study/EtymologyTab';
-import { LexiconTab } from '@/components/Study/LexiconTab';
 import { ConnectionsTab } from '@/components/Study/ConnectionsTab';
 import { QuestionsTab } from '@/components/Study/QuestionsTab';
 import { ChapterNavDropdown } from '@/components/Study/ChapterNavDropdown';
@@ -41,7 +40,7 @@ import {
   setLastViewedChapter,
 } from '@/lib/storage/localStore';
 
-type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'lexicon' | 'connections' | 'questions';
+type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
 export default function StudyPageDynamic() {
   const { mode, toggleTheme } = useTheme();
@@ -389,10 +388,6 @@ export default function StudyPageDynamic() {
 
           <div className={activeTab === 'etymology' ? 'p-4 sm:p-6' : 'hidden'}>
             <EtymologyTab isActive={activeTab === 'etymology'} keyWords={etymologyWords || undefined} />
-          </div>
-
-          <div className={activeTab === 'lexicon' ? 'p-4 sm:p-6' : 'hidden'}>
-            <LexiconTab isActive={activeTab === 'lexicon'} />
           </div>
 
           <div className={activeTab === 'connections' ? 'p-4 sm:p-6' : 'hidden'}>

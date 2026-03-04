@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 49",
+  "title": "Análisis Estructural de Génesis 49",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 49.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en jacob y hijos. Inicia con “Y LLAMÓ Jacob á sus hijos, y dijo: Juntaos, y os declararé lo que os ha de acontecer en los postreros días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en vino y junto. Inicia con “No será quitado el cetro de Judá, y el legislador de entre sus piés, hasta que venga Shiloh; y á él se congregarán los pueblos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en bendiciones y acometera. Inicia con “Tu salud esperé, oh Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en campo y cueva. Inicia con “Las bendiciones de tu padre fueron mayores que las bendiciones de mis progenitores: hasta el término de los collados eternos serán sobre la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 49, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 6,
+      "significance": "La recurrencia de “padre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 49."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jacob",
+      "count": 5,
+      "significance": "La recurrencia de “jacob” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 49."
+    },
+    {
+      "word": "hijos",
+      "count": 5,
+      "significance": "La recurrencia de “hijos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 49."
+    },
+    {
+      "word": "israel",
+      "count": 5,
+      "significance": "La recurrencia de “israel” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 49."
     }
   ]
 }

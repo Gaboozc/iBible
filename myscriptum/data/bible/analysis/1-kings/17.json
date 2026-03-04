@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 17",
+  "title": "Análisis Estructural de 1 Reyes 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en arroyo y palabra. Inicia con “ENTONCES Elías Thisbita, que era de los moradores de Galaad, dijo á Achâb: Vive Jehová Dios de Israel, delante del cual estoy, que no habrá…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en alli y sarepta. Inicia con “Pasados algunos días, secóse el arroyo; porque no había llovido sobre la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en elias y dicho. Inicia con “Y Elías le dijo: No hayas temor; ve, haz como has dicho: empero hazme á mí primero de ello una pequeña torta cocida* debajo de la ceniza, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en nino y elias. Inicia con “Y él le dijo: Dame acá tu hijo. Entonces él lo tomó de su regazo, y llevólo á la cámara donde él estaba, y púsole sobre su cama;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "elias",
+      "count": 9,
+      "significance": "La recurrencia de “elias” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 17."
+    },
+    {
+      "word": "palabra",
+      "count": 6,
+      "significance": "La recurrencia de “palabra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 17."
+    },
+    {
+      "word": "entonces",
+      "count": 5,
+      "significance": "La recurrencia de “entonces” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 17."
     }
   ]
 }

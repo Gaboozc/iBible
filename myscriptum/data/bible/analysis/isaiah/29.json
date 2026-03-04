@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 29",
+  "title": "Análisis Estructural de Isaías 29",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ariel y polvo. Inicia con “¡AY de Ariel, ciudad donde habitó David! Añadid un año á otro, mátense víctimas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en pelearan y contra. Inicia con “Y será como sueño de visión nocturna la multitud de todas las gentes que pelearán contra Ariel, y todos los que pelearán contra ella y sus…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en pueblo y aqui. Inicia con “Dice pues el Señor: Porque este pueblo se me* acerca con su boca, y con sus labios me honra, mas su corazón alejó de mí, y su temor para co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en jacob y santo. Inicia con “Entonces los humildes crecerán en alegría en Jehová, y los pobres de los hombres se gozarán en el Santo de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 5,
+      "significance": "La recurrencia de “contra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 29."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ariel",
+      "count": 4,
+      "significance": "La recurrencia de “ariel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 29."
+    },
+    {
+      "word": "dira",
+      "count": 4,
+      "significance": "La recurrencia de “dira” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 29."
+    },
+    {
+      "word": "polvo",
+      "count": 3,
+      "significance": "La recurrencia de “polvo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 29."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 80",
+  "title": "Análisis Estructural de Salmos 80",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 80.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en disteles y lagrimas. Inicia con “Al Músico principal: sobre Sosannim Eduth: Salmo de Asaph. OH Pastor de Israel, escucha: tú que pastoreas como á ovejas á José, que estás e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 80, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en nuestros y hiciste. Inicia con “Pusístenos por contienda á nuestros vecinos: y nuestros enemigos se burlan entre sí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 80, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en extendio y vastagos. Inicia con “Extendió sus vástagos hasta la mar, y hasta el río sus mugrones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 80, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en rostro y quemada. Inicia con “Quemada á fuego está, asolada: perezcan por la reprensión de tu rostro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 80, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "rostro",
+      "count": 4,
+      "significance": "La recurrencia de “rostro” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 80."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ejercitos",
+      "count": 4,
+      "significance": "La recurrencia de “ejercitos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 80."
+    },
+    {
+      "word": "haznos",
+      "count": 3,
+      "significance": "La recurrencia de “haznos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 80."
+    },
+    {
+      "word": "tornar",
+      "count": 3,
+      "significance": "La recurrencia de “tornar” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 80."
     }
   ]
 }

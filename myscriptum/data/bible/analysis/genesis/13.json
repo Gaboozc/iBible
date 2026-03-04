@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 13",
+  "title": "Análisis Estructural de Génesis 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en abram y hacia. Inicia con “SUBIÓ, pues, Abram de Egipto hacia el Mediodía, él, y su mujer, con todo lo que tenía, y con él Lot.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en tierra y pastores. Inicia con “Y la tierra no podía darles para que habitasen juntos: porque su hacienda era mucha, y no podían morar en un mismo lugar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en toda y llanura. Inicia con “Y alzó Lot sus ojos, y vió toda la llanura del Jordán, que toda ella era de riego, antes que destruyese Jehová á Sodoma y á Gomorra, como e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en tierra y simiente. Inicia con “Porque toda la tierra que ves, la daré á ti y á tu simiente para siempre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abram",
+      "count": 9,
+      "significance": "La recurrencia de “abram” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 9,
+      "significance": "La recurrencia de “tierra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 13."
+    },
+    {
+      "word": "toda",
+      "count": 5,
+      "significance": "La recurrencia de “toda” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 13."
+    },
+    {
+      "word": "lugar",
+      "count": 4,
+      "significance": "La recurrencia de “lugar” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 13."
     }
   ]
 }

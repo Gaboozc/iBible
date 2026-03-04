@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ruth 4",
+  "title": "Análisis Estructural de Rut 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en redimir y booz. Inicia con “Y BOOZ subió á la puerta y sentóse allí: y he aquí pasaba aquel pariente del cual había Booz hablado, y díjole: Eh, fulano, ven acá y siént…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en israel y testigos. Inicia con “Había ya de largo tiempo esta costumbre en Israel en la redención ó contrato, que para la confirmación de cualquier negocio, el uno se quit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en hijo y noemi. Inicia con “Y de la simiente que Jehová te diere de aquesta moza, sea tu casa como la casa de Phares, al que parió Thamar á Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en engendro y phares. Inicia con “Y estas son las generaciones de Phares: Phares engendró á Hesrón;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "engendro",
+      "count": 9,
+      "significance": "La recurrencia de “engendro” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "booz",
+      "count": 8,
+      "significance": "La recurrencia de “booz” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 4."
+    },
+    {
+      "word": "noemi",
+      "count": 6,
+      "significance": "La recurrencia de “noemi” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 4."
+    },
+    {
+      "word": "pariente",
+      "count": 5,
+      "significance": "La recurrencia de “pariente” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 4."
     }
   ]
 }

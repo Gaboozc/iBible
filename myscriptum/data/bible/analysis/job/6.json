@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en junto y respondio. Inicia con “Y RESPONDIÓ Job y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en fortaleza y pluguiera. Inicia con “Y que pluguiera á Dios quebrantarme; que soltara su mano, y me deshiciera!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en caminantes y estan. Inicia con “Que están escondidas por la helada, y encubiertas con nieve;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en palabras y reprende. Inicia con “Enseñadme, y yo callaré: y hacedme entender en qué he errado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "palabras",
+      "count": 4,
+      "significance": "La recurrencia de “palabras” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 6."
     },
     {
-      "word": "Motivo literario",
+      "word": "ahora",
+      "count": 3,
+      "significance": "La recurrencia de “ahora” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 6."
+    },
+    {
+      "word": "tormento",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “tormento” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 6."
+    },
+    {
+      "word": "estan",
+      "count": 2,
+      "significance": "La recurrencia de “estan” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 6."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 8",
+  "title": "Análisis Estructural de 2 Samuel 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en david y hirio. Inicia con “DESPUÉS de esto aconteció, que David hirió á los Filisteos, y los humilló: y tomó David á Methegamma de mano de los Filisteos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en david y hadad. Inicia con “Puso luego David guarnición en Siria la de Damasco, y fueron los Siros siervos de David sujetos á tributo. Y Jehová guardó á David donde qu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en david y habia. Inicia con “Envió Toi á Joram su hijo al rey David, á saludarle pacíficamente y á bendecirle, porque había peleado con Hadad-ezer y lo había vencido: p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en hijo y david. Inicia con “Y reinó David sobre todo Israel; y hacía David derecho y justicia á todo su pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 20,
+      "significance": "La recurrencia de “david” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hadad",
+      "count": 8,
+      "significance": "La recurrencia de “hadad” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 8."
+    },
+    {
+      "word": "ezer",
+      "count": 8,
+      "significance": "La recurrencia de “ezer” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 8."
+    },
+    {
+      "word": "hijo",
+      "count": 8,
+      "significance": "La recurrencia de “hijo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 8."
     }
   ]
 }

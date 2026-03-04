@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 19",
+  "title": "Análisis Estructural de Hechos 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en pablo y espiritu. Inicia con “Y ACONTECIÓ que entre tanto que Apolos estaba en Corinto, Pablo, andadas las regiones superiores, vino á Efeso, y hallando ciertos discípul…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en jesus y senor. Inicia con “De tal manera que aun se llevaban sobre los enfermos los sudarios y los pañuelos de su cuerpo, y las enfermedades se iban de ellos, y los m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 19, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-31",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 31 con foco léxico en asia y diana. Inicia con “Y enviando á Macedonia á dos de los que le ayudaban, Timoteo y Erasto, él se estuvo por algún tiempo en Asia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "32-41",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 32 al 41 con foco léxico en efesios y otros. Inicia con “Y otros gritaban otra cosa; porque la concurrencia estaba confusa, y los más no sabían por qué se habían juntado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pablo",
+      "count": 11,
+      "significance": "La recurrencia de “pablo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 7,
+      "significance": "La recurrencia de “jesus” (7) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Hechos 19."
+    },
+    {
+      "word": "espiritu",
+      "count": 6,
+      "significance": "La recurrencia de “espiritu” (6) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Hechos 19."
+    },
+    {
+      "word": "esto",
+      "count": 6,
+      "significance": "La recurrencia de “esto” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 19."
     }
   ]
 }

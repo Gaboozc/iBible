@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 12",
+  "title": "Análisis Estructural de 2 Samuel 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en habia y hombre. Inicia con “Y ENVIÓ Jehová á Nathán á David, el cual viniendo á él, díjole: Había dos hombres en una ciudad, el uno rico, y el otro pobre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en mujer y david. Inicia con “¿Por qué pues tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Uría Hetheo heriste á cuchillo, y tomaste por t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en nino y muerto. Inicia con “Y levantándose los ancianos de su casa fueron* á él para hacerlo levantar de tierra; mas él no quiso, ni comió con ellos pan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en ciudad y contra. Inicia con “Que envió por mano de Nathán profeta, y llamó su nombre Jedidiah, á causa de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 16,
+      "significance": "La recurrencia de “david” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nino",
+      "count": 11,
+      "significance": "La recurrencia de “nino” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 12."
+    },
+    {
+      "word": "casa",
+      "count": 8,
+      "significance": "La recurrencia de “casa” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 12."
+    },
+    {
+      "word": "nathan",
+      "count": 7,
+      "significance": "La recurrencia de “nathan” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 12."
     }
   ]
 }

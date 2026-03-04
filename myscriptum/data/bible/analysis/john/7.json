@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 7",
+  "title": "Análisis Estructural de Juan 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en fiesta y judios. Inicia con “Y PASADAS estas cosas andaba Jesús en Galilea: que no quería andar en Judea, porque los Judíos procuraban matarle.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-27",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 27 con foco léxico en moises y sabado. Inicia con “Y maravillábanse los Judíos, diciendo: ¿Cómo sabe éste letras, no habiendo aprendido?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "28-40",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 28 al 40 con foco léxico en entonces y jesus. Inicia con “Entonces clamaba Jesús en el templo, enseñando y diciendo: Y á mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el qu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "41-53",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 41 al 53 con foco léxico en cristo y fariseos. Inicia con “Otros decían: Este es el Cristo. Algunos empero decían: ¿De Galilea ha de venir el Cristo?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 7, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 9,
+      "significance": "La recurrencia de “jesus” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 8,
+      "significance": "La recurrencia de “entonces” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 7."
+    },
+    {
+      "word": "decian",
+      "count": 8,
+      "significance": "La recurrencia de “decian” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 7."
+    },
+    {
+      "word": "fiesta",
+      "count": 7,
+      "significance": "La recurrencia de “fiesta” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 7."
     }
   ]
 }

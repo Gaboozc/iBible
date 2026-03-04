@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-thessalonians 2",
+  "title": "Análisis Estructural de 1 Tesalonicenses 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en sabeis y nuestra. Inicia con “PORQUE, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en evangelio y buscamos. Inicia con “Ni buscamos de los hombres gloria, ni de vosotros, ni de otros, aunque podíamos seros carga como apóstoles de Cristo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Tesalonicenses 2, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en nosotros y palabra. Inicia con “Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en nuestra y gozo. Inicia con “Prohibiéndonos hablar á los Gentiles, á fin de que se salven, para henchir la medida de* sus pecados siempre: pues vino sobre ellos la ira…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hermanos",
+      "count": 4,
+      "significance": "La recurrencia de “hermanos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Tesalonicenses 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sabeis",
+      "count": 4,
+      "significance": "La recurrencia de “sabeis” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Tesalonicenses 2."
+    },
+    {
+      "word": "nuestra",
+      "count": 4,
+      "significance": "La recurrencia de “nuestra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Tesalonicenses 2."
+    },
+    {
+      "word": "evangelio",
+      "count": 4,
+      "significance": "La recurrencia de “evangelio” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 1 Tesalonicenses 2."
     }
   ]
 }

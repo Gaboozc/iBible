@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 26",
+  "title": "Análisis Estructural de Jeremías 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y todas. Inicia con “EN el principio del reinado de Joacim hijo de Josías, rey de Judá, fué esta palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en todo y pueblo. Inicia con “Y los sacerdotes, los profetas, y todo el pueblo, oyeron á Jeremías hablar estas palabras en la casa de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en vuestros y vuestras. Inicia con “Y ahora, mejorad vuestros caminos y vuestras obras, y oid la voz de Jehová vuestro Dios, y arrepentiráse Jehová del mal que ha hablado cont…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en contra y egipto. Inicia con “¿Matáronlo luego Ezechîas rey de Judá y todo Judá? ¿no temió á Jehová, y oró en presencia de Jehová, y Jehová se arrepintió del mal que hab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 9,
+      "significance": "La recurrencia de “casa” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 9,
+      "significance": "La recurrencia de “todo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 26."
+    },
+    {
+      "word": "pueblo",
+      "count": 9,
+      "significance": "La recurrencia de “pueblo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 26."
+    },
+    {
+      "word": "contra",
+      "count": 9,
+      "significance": "La recurrencia de “contra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 26."
     }
   ]
 }

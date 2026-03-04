@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 35",
+  "title": "Análisis Estructural de Jeremías 35",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 35.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y casa. Inicia con “PALABRA que fué á Jeremías de Jehová en días de Joacim hijo de Josías, rey de Judá, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en vino y jonadab. Inicia con “Mas ellos dijeron: No beberemos vino; porque Jonadab hijo de Rechâb nuestro padre nos mandó, diciendo: No beberéis jamás vino vosotros ni v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en jerusalem y tierra. Inicia con “Sucedió, empero, que cuando Nabucodonosor rey de Babilonia subió á la tierra, dijimos: Venid, y entrémonos en Jerusalem, de delante del ejé…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en jonadab y dicho. Inicia con “Ciertamente los hijos de Jonadab, hijo de Rechâb, tuvieron por firme el mandamiento que les dió su padre; mas este pueblo no me ha obedecid…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 35, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 10,
+      "significance": "La recurrencia de “hijo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 35."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vino",
+      "count": 7,
+      "significance": "La recurrencia de “vino” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 35."
+    },
+    {
+      "word": "todos",
+      "count": 7,
+      "significance": "La recurrencia de “todos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 35."
+    },
+    {
+      "word": "hijos",
+      "count": 7,
+      "significance": "La recurrencia de “hijos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 35."
     }
   ]
 }

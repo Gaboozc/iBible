@@ -1,10 +1,10 @@
 'use client';
 
-import { BookOpen, Zap, Brain, Link2, MessageSquare, FileText, BookMarked } from 'lucide-react';
+import { BookOpen, Zap, Brain, Link2, MessageSquare, FileText } from 'lucide-react';
 import { useTheme, getColors } from '@/lib/contexts/ThemeContext';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
 
-type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'lexicon' | 'connections' | 'questions';
+type TabId = 'context' | 'text' | 'analysis' | 'etymology' | 'connections' | 'questions';
 
 interface TabsProps {
   activeTab: TabId;
@@ -31,11 +31,6 @@ const tabs = [
     id: 'etymology' as TabId,
     labelKey: 'tab.etymology',
     icon: Zap,
-  },
-  {
-    id: 'lexicon' as TabId,
-    labelKey: 'tab.lexicon',
-    icon: BookMarked,
   },
   {
     id: 'connections' as TabId,

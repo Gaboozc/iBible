@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Malachi 2",
+  "title": "Análisis Estructural de Malaquías 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en mandamiento y nombre. Inicia con “AHORA pues, oh sacerdotes, á vosotros es este mandamiento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 2, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en habeis y boca. Inicia con “La ley de verdad estuvo en su boca, é iniquidad no fué hallada en sus labios: en paz y en justicia anduvo conmigo, y á muchos hizo apartar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en mismo y juda. Inicia con “¿No tenemos todos un mismo* padre? ¿No nos ha criado un mismo* Dios? ¿Por qué menospreciaremos cada uno á su hermano, quebrantando el pacto…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en mujer y pues. Inicia con “Mas diréis: ¿Por qué? Porque Jehová ha atestiguado entre ti y la mujer de tu mocedad, contra la cual tú has sido desleal, siendo ella tu co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Malaquías 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ejercitos",
+      "count": 6,
+      "significance": "La recurrencia de “ejercitos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pacto",
+      "count": 5,
+      "significance": "La recurrencia de “pacto” (5) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Malaquías 2."
+    },
+    {
+      "word": "habeis",
+      "count": 5,
+      "significance": "La recurrencia de “habeis” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 2."
+    },
+    {
+      "word": "pues",
+      "count": 4,
+      "significance": "La recurrencia de “pues” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Malaquías 2."
     }
   ]
 }

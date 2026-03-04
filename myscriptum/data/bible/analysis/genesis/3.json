@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 3",
+  "title": "Análisis Estructural de Génesis 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en mujer y arbol. Inicia con “EMPERO la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo á la mujer: ¿Conque Dios os…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en huerto y hombre. Inicia con “Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en mujer y comeras. Inicia con “Entonces Jehová Dios dijo á la mujer: ¿Qué es lo que has hecho? Y dijo la mujer: La serpiente me engañó, y comí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en hombre y pues. Inicia con “En el sudor de tu rostro comerás el pan hasta que vuelvas á la tierra; porque de ella fuiste tomado: pues polvo eres, y al polvo serás torn…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mujer",
+      "count": 13,
+      "significance": "La recurrencia de “mujer” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "arbol",
+      "count": 9,
+      "significance": "La recurrencia de “arbol” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 3."
+    },
+    {
+      "word": "huerto",
+      "count": 8,
+      "significance": "La recurrencia de “huerto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 3."
+    },
+    {
+      "word": "hombre",
+      "count": 8,
+      "significance": "La recurrencia de “hombre” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 3."
     }
   ]
 }

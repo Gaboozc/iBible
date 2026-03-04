@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 33",
+  "title": "Análisis Estructural de Números 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en asentaron y desierto. Inicia con “ESTAS son las estancias de los hijos de Israel, los cuales salieron de la tierra de Egipto por sus escuadrones, bajo la conducta de Moisés…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-28",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 28 con foco léxico en partidos y asentaron. Inicia con “Y partidos de Rephidim, asentaron en el desierto de Sinaí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "29-42",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 29 al 42 con foco léxico en partidos y asentaron. Inicia con “Y partidos de Mithca, asentaron en Hasmona.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "43-56",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 43 al 56 con foco léxico en asentaron y partidos. Inicia con “Y partidos de Phunón, asentaron en Oboth.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "asentaron",
+      "count": 42,
+      "significance": "La recurrencia de “asentaron” (42) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "partidos",
+      "count": 36,
+      "significance": "La recurrencia de “partidos” (36) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 33."
+    },
+    {
+      "word": "desierto",
+      "count": 8,
+      "significance": "La recurrencia de “desierto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 33."
+    },
+    {
+      "word": "monte",
+      "count": 8,
+      "significance": "La recurrencia de “monte” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 33."
     }
   ]
 }

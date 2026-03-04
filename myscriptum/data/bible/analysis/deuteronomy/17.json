@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 17",
+  "title": "Análisis Estructural de Deuteronomio 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en cosa y hombre. Inicia con “NO sacrificarás á Jehová tu Dios buey, ó cordero, en el cual haya falta ó alguna cosa mala: porque es abominación á Jehová tu Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en testigos y dicho. Inicia con “Por dicho de dos testigos, ó de tres testigos, morirá el que hubiere de morir; no morirá por el dicho de un solo testigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en segun y hombre. Inicia con “Según la ley que ellos te enseñaren, y según el juicio que te dijeren, harás: no te apartarás ni á diestra ni á siniestra de la sentencia q…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en caballos y volver. Inicia con “Empero que no se aumente caballos, ni haga volver el pueblo á Egipto para acrecentar caballos: porque Jehová os ha dicho: No procuraréis vo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 5,
+      "significance": "La recurrencia de “hombre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosa",
+      "count": 4,
+      "significance": "La recurrencia de “cosa” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 17."
+    },
+    {
+      "word": "hubiere",
+      "count": 4,
+      "significance": "La recurrencia de “hubiere” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 17."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 17."
     }
   ]
 }

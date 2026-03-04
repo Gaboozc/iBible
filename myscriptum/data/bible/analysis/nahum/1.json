@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Nahum 1",
+  "title": "Análisis Estructural de Nahúm 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en vengador y enojo. Inicia con “CARGA de Nínive. Libro de la visión de Nahum de El-kosh.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 1, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en contra y seran. Inicia con “¿Qué pensáis contra Jehová? El hará consumación: la tribulación no se levantará dos veces.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "vengador",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “vengador” (2) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Nahúm 1."
     },
     {
-      "word": "Motivo literario",
+      "word": "enojo",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “enojo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 1."
+    },
+    {
+      "word": "enemigos",
+      "count": 2,
+      "significance": "La recurrencia de “enemigos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 1."
+    },
+    {
+      "word": "pies",
+      "count": 2,
+      "significance": "La recurrencia de “pies” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 1."
     }
   ]
 }

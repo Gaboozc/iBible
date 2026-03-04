@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 45",
+  "title": "Análisis Estructural de Isaías 45",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 45.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en delante y puertas. Inicia con “ASÍ dice Jehová á su ungido, á Ciro, al cual tomé yo por su mano derecha, para sujetar gentes delante de él y desatar lomos de reyes; para…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en justicia y tierra. Inicia con “Rociad, cielos, de arriba, y las nubes destilen la justicia; ábrase la tierra, y prodúzcanse la salud y la justicia; háganse brotar juntame…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 45, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en todos y crio. Inicia con “Así dice Jehová: El trabajo de Egipto, las mercaderías de Etiopía, y los Sabeos hombres agigantados, se pasarán á ti, y serán tuyos; irán e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en todos y toda. Inicia con “Reuníos, y venid; allegaos, todos los escapados de las gentes: no saben aquellos que erigen el madero de su escultura, y los que ruegan al…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 8,
+      "significance": "La recurrencia de “todos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 45."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 45."
+    },
+    {
+      "word": "justicia",
+      "count": 6,
+      "significance": "La recurrencia de “justicia” (6) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 45."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 45."
     }
   ]
 }

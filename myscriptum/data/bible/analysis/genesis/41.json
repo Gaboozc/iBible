@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 41",
+  "title": "Análisis Estructural de Génesis 41",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 41.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en faraon y siete. Inicia con “Y ACONTECIÓ que pasados dos años tuvo Faraón un sueño: Parecíale que estaba junto al río;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-29",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 29 con foco léxico en siete y faraon. Inicia con “Y respondió José á Faraón, diciendo: No está en mí; Dios será el que responda paz á Faraón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "30-43",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 30 al 43 con foco léxico en faraon y tierra. Inicia con “Y levantarse han tras ellos siete años de hambre; y toda la hartura será olvidada en la tierra de Egipto; y el hambre consumirá la tierra;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "44-57",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 44 al 57 con foco léxico en jose y tierra. Inicia con “Y dijo Faraón á José: Yo Faraón; y sin ti ninguno alzará su mano ni su pie en toda la tierra de Egipto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "faraon",
+      "count": 34,
+      "significance": "La recurrencia de “faraon” (34) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 41."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siete",
+      "count": 28,
+      "significance": "La recurrencia de “siete” (28) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 41."
+    },
+    {
+      "word": "tierra",
+      "count": 21,
+      "significance": "La recurrencia de “tierra” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 41."
+    },
+    {
+      "word": "jose",
+      "count": 20,
+      "significance": "La recurrencia de “jose” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 41."
     }
   ]
 }

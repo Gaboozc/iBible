@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 11",
+  "title": "Análisis Estructural de Deuteronomio 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hizo y todos. Inicia con “AMARÁS pues á Jehová tu Dios, y guardarás su ordenanza, y sus estatutos y sus derechos y sus mandamientos, todos los días.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en tierra y vuestro. Inicia con “Y para que os sean prolongados los días sobre la tierra, que juró Jehová á vuestros padres había de dar á ellos y á su simiente, tierra que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en vuestro y vuestros. Inicia con “Y así se encienda el furor de Jehová sobre vosotros, y cierre los cielos, y no haya lluvia, ni la tierra dé su fruto, y perezcáis presto de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en delante y vuestro. Inicia con “Nadie se sostendrá delante de vosotros: miedo y temor de vosotros pondrá Jehová vuestro Dios sobre la haz de toda la tierra que hollareis,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 19,
+      "significance": "La recurrencia de “tierra” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vuestro",
+      "count": 13,
+      "significance": "La recurrencia de “vuestro” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 11."
+    },
+    {
+      "word": "vuestros",
+      "count": 8,
+      "significance": "La recurrencia de “vuestros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 11."
+    },
+    {
+      "word": "mandamientos",
+      "count": 6,
+      "significance": "La recurrencia de “mandamientos” (6) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Deuteronomio 11."
     }
   ]
 }

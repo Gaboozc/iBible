@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 11",
+  "title": "Análisis Estructural de 2 Reyes 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y athalia. Inicia con “Y ATHALÍA madre de Ochôzías, viendo que su hijo era muerto, levantóse, y destruyó toda la simiente real.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en sabado y casa. Inicia con “Y las dos partes de vosotros, es á saber*, todos los que salen el sábado, tendréis la guarda de la casa de Jehová junto al rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en pueblo y templo. Inicia con “Sacando luego Joiada* al hijo del rey, púsole la corona y el testimonio, é hiciéronle rey ungiéndole; y batiendo las manos dijeron: ¡Viva e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en pueblo y casa. Inicia con “Entonces Joiada hizo alianza entre Jehová y el rey y el pueblo, que serían pueblo de Jehová: y asimismo entre el rey y el pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 13,
+      "significance": "La recurrencia de “casa” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 9,
+      "significance": "La recurrencia de “pueblo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 11."
+    },
+    {
+      "word": "sacerdote",
+      "count": 7,
+      "significance": "La recurrencia de “sacerdote” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 11."
+    },
+    {
+      "word": "athalia",
+      "count": 6,
+      "significance": "La recurrencia de “athalia” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 11."
     }
   ]
 }

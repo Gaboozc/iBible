@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 8",
+  "title": "Análisis Estructural de Jeremías 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en huesos y dice. Inicia con “EN aquel tiempo, dice Jehová, sacarán los huesos de los reyes de Judá, y los huesos de sus príncipes, y los huesos de los sacerdotes, y los…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en conoce y tiempo. Inicia con “Aun la cigüeña en el cielo conoce su tiempo, y la tórtola y la grulla y la golondrina guardan el tiempo de su venida; mas mi pueblo no cono…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en dice y hecho. Inicia con “¿Hanse avergonzado de haber hecho abominación? Por cierto no se han corrido de vergüenza, ni supieron avergonzarse; caerán por tanto entre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en hija y pueblo. Inicia con “A causa de mi fuerte dolor mi corazón desfallece en mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 6,
+      "significance": "La recurrencia de “pueblo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dice",
+      "count": 5,
+      "significance": "La recurrencia de “dice” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 8."
+    },
+    {
+      "word": "huesos",
+      "count": 5,
+      "significance": "La recurrencia de “huesos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 8."
+    },
+    {
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 8."
     }
   ]
 }

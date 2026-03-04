@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hebrews 11",
+  "title": "Análisis Estructural de Hebreos 11",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en testimonio y cosas. Inicia con “ES pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en habia y isaac. Inicia con “Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir simiente; y parió aun fuera del tiempo de la edad, porque cre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en muriendose y hijos. Inicia con “Por fe Jacob, muriéndose, bendijo á cada uno de los hijos de José, y adoró estribando* sobre la punta de su bordón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en cuchillo y recibieron. Inicia con “Por fe Rahab la ramera no pereció juntamente con los incrédulos, habiendo recibido á los espías con paz.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "testimonio",
+      "count": 5,
+      "significance": "La recurrencia de “testimonio” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 11."
+    },
+    {
+      "word": "cosas",
+      "count": 4,
+      "significance": "La recurrencia de “cosas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 11."
+    },
+    {
+      "word": "recibido",
+      "count": 4,
+      "significance": "La recurrencia de “recibido” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 11."
     }
   ]
 }

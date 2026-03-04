@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 13",
+  "title": "Análisis Estructural de Deuteronomio 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en vuestro y profeta. Inicia con “CUANDO se levantare en medio de ti profeta, ó soñador de sueños, y te diere señal ó prodigio,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en hijo y dioses. Inicia con “Cuando te incitare tu hermano, hijo de tu madre, ó tu hijo, ó tu hija, ó la mujer de tu seno, ó tu amigo que sea como tu alma, diciendo en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en cosa y medio. Inicia con “Y has de apedrearlo con piedras, y morirá; por cuanto procuró apartarte de Jehová tu Dios, que te sacó de tierra de Egipto, de casa de sier…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en todo y filo. Inicia con “Irremisiblemente herirás á filo de espada los moradores de aquella ciudad, destruyéndola con todo lo que en ella hubiere, y también* sus be…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todo",
+      "count": 7,
+      "significance": "La recurrencia de “todo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "medio",
+      "count": 6,
+      "significance": "La recurrencia de “medio” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 13."
+    },
+    {
+      "word": "vuestro",
+      "count": 5,
+      "significance": "La recurrencia de “vuestro” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 13."
+    },
+    {
+      "word": "dioses",
+      "count": 4,
+      "significance": "La recurrencia de “dioses” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 13."
     }
   ]
 }

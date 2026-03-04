@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 26",
+  "title": "Análisis Estructural de Levítico 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en tierra y vuestro. Inicia con “NO haréis para vosotros ídolos, ni escultura, ni os levantaréis estatua, ni pondréis en vuestra tierra piedra pintada para inclinaros á ell…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en vuestros y tierra. Inicia con “Yo Jehová vuestro Dios, que os saqué de la tierra de Egipto, para que no fueseis sus siervos; y rompí las coyundas de vuestro yugo, y os he…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en vuestros y vuestras. Inicia con “Yo también procederé con vosotros en oposición, y os heriré aun siete veces por vuestros pecados:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en tierra y enemigos. Inicia con “Y á los que quedaren de vosotros infundiré en sus corazones tal cobardía, en la tierra de sus enemigos, que el sonido de una hoja movida lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 21,
+      "significance": "La recurrencia de “tierra” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vuestros",
+      "count": 21,
+      "significance": "La recurrencia de “vuestros” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 26."
+    },
+    {
+      "word": "enemigos",
+      "count": 12,
+      "significance": "La recurrencia de “enemigos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 26."
+    },
+    {
+      "word": "vuestro",
+      "count": 10,
+      "significance": "La recurrencia de “vuestro” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 26."
     }
   ]
 }

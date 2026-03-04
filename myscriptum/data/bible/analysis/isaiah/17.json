@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 17",
+  "title": "Análisis Estructural de Isaías 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en damasco y israel. Inicia con “CARGA de Damasco. He aquí que Damasco dejó de ser ciudad, y será montón de ruina.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-14",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en mirara y hicieron. Inicia con “Y no mirará á los altares que hicieron sus manos, ni mirará á lo que hicieron sus dedos, ni á los bosques, ni á las imágenes del sol.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 4,
+      "significance": "La recurrencia de “israel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 17."
     },
     {
-      "word": "Motivo literario",
+      "word": "damasco",
+      "count": 3,
+      "significance": "La recurrencia de “damasco” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 17."
+    },
+    {
+      "word": "mirara",
+      "count": 3,
+      "significance": "La recurrencia de “mirara” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 17."
+    },
+    {
+      "word": "aqui",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “aqui” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 17."
     }
   ]
 }

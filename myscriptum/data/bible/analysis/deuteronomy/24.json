@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 24",
+  "title": "Análisis Estructural de Deuteronomio 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en mujer y casa. Inicia con “CUANDO alguno tomare mujer y se casare con ella, si no le agradare por haber hallado en ella alguna cosa torpe, le escribirá carta de repud…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en hubiere y prenda. Inicia con “Cuando fuere hallado alguno que haya hurtado persona de sus hermanos los hijos de Israel, y hubiere mercadeado con ella, ó la hubiere vendi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en pobre y prenda. Inicia con “Y si fuere hombre pobre, no duermas con su prenda:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en extranjero y huerfano. Inicia con “Mas acuérdate que fuiste siervo en Egipto, y de allí te rescató Jehová tu Dios: por tanto, yo te mando que hagas esto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "prenda",
+      "count": 6,
+      "significance": "La recurrencia de “prenda” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mujer",
+      "count": 5,
+      "significance": "La recurrencia de “mujer” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 24."
+    },
+    {
+      "word": "casa",
+      "count": 5,
+      "significance": "La recurrencia de “casa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 24."
+    },
+    {
+      "word": "hombre",
+      "count": 4,
+      "significance": "La recurrencia de “hombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 24."
     }
   ]
 }

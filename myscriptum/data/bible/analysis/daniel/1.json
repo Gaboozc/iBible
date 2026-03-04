@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Daniel 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en juda y casa. Inicia con “EN el año tercero del reinado de Joacim rey de Judá, vino Nabucodonosor rey de Babilonia á Jerusalem, y cercóla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en daniel y principe. Inicia con “A los cuales el príncipe de los eunucos puso nombres: y puso á Daniel, Beltsasar; y á Ananías, Sadrach; y á Misael, Mesach; y á Azarías, Ab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en diez y dias. Inicia con “Prueba, te ruego, tus siervos diez días, y dennos legumbres á comer, y agua á beber.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en daniel y inteligencia. Inicia con “Y á estos cuatro muchachos dióles Dios conocimiento é inteligencia en todas letras y ciencia: mas Daniel tuvo entendimiento en toda visión…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "daniel",
+      "count": 10,
+      "significance": "La recurrencia de “daniel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "principe",
+      "count": 7,
+      "significance": "La recurrencia de “principe” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 1."
+    },
+    {
+      "word": "eunucos",
+      "count": 7,
+      "significance": "La recurrencia de “eunucos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 1."
+    },
+    {
+      "word": "racion",
+      "count": 6,
+      "significance": "La recurrencia de “racion” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 1."
     }
   ]
 }

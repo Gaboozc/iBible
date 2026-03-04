@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 7",
+  "title": "Análisis Estructural de Josué 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pueblo y josue. Inicia con “EMPERO los hijos de Israel cometieron prevaricación en el anatema: porque Achân, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en israel y anatema. Inicia con “¡Ay Señor! ¿qué diré, ya que Israel ha vuelto las espaldas delante de sus enemigos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en tribu y israel. Inicia con “Os allegaréis, pues, mañana por vuestras tribus; y la tribu que Jehová tomare, se allegará por sus familias; y la familia que Jehová tomare…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en tienda y josue. Inicia con “Que vi entre los despojos un manto babilónico muy bueno, y doscientos siclos de plata, y un changote de oro de peso de cincuenta siclos; lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 14,
+      "significance": "La recurrencia de “israel” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "josue",
+      "count": 12,
+      "significance": "La recurrencia de “josue” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 7."
+    },
+    {
+      "word": "anatema",
+      "count": 8,
+      "significance": "La recurrencia de “anatema” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 7."
+    },
+    {
+      "word": "hijo",
+      "count": 8,
+      "significance": "La recurrencia de “hijo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 7."
     }
   ]
 }

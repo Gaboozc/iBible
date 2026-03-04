@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 14",
+  "title": "Análisis Estructural de Apocalipsis 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en cordero y cuatro. Inicia con “Y MIRÉ, y he aquí, el Cordero estaba sobre el monte de Sión, y con él ciento cuarenta y cuatro mil, que tenían el nombre de su Padre escrit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en angel y diciendo. Inicia con “Y vi otro ángel volar por en medio del cielo, que tenía el evangelio eterno para predicarlo á los que moran en la tierra, y á toda nación y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en aqui y nube. Inicia con “Y el humo del tormento de ellos sube para siempre jamás. Y los que adoran á la bestia y á su imagen, no tienen reposo día ni noche, ni cual…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tierra y aguda. Inicia con “Y el que estaba sentado sobre la nube echó su hoz sobre la tierra, y la tierra fué segada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 9,
+      "significance": "La recurrencia de “tierra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "angel",
+      "count": 7,
+      "significance": "La recurrencia de “angel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 14."
+    },
+    {
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 14."
+    },
+    {
+      "word": "cielo",
+      "count": 5,
+      "significance": "La recurrencia de “cielo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 14."
     }
   ]
 }

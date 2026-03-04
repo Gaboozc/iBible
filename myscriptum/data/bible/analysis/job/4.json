@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en palabras y respondio. Inicia con “Y RESPONDIÓ Eliphaz el Temanita, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en leon y recapacita. Inicia con “Recapacita ahora, ¿quién que fuera inocente se perdiera? y ¿en dónde los rectos fueron cortados?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en delante y negocio. Inicia con “El negocio también me era á mí oculto; mas mi oído ha percibido algo de ello.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en quebrantados y hombre. Inicia con “¿Si será el hombre más justo que Dios? ¿si será el varón más limpio que el que lo hizo?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "leon",
+      "count": 4,
+      "significance": "La recurrencia de “leon” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 4."
     },
     {
-      "word": "Motivo literario",
+      "word": "quebrantados",
+      "count": 3,
+      "significance": "La recurrencia de “quebrantados” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 4."
+    },
+    {
+      "word": "palabras",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “palabras” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 4."
+    },
+    {
+      "word": "aqui",
+      "count": 2,
+      "significance": "La recurrencia de “aqui” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 4."
     }
   ]
 }

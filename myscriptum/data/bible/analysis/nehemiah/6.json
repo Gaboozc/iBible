@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 6",
+  "title": "Análisis Estructural de Nehemías 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en sanballat y gesem. Inicia con “Y FUÉ que habiendo oído Sanballat, y Tobías, y Gesem el Arabe, y los demás nuestros enemigos, que había yo edificado el muro, y que no qued…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en palabras y diciendo. Inicia con “En la cual estaba escrito: Hase oído entre las gentes, y Gasmu lo dice, que tú y los Judíos pensáis rebelaros; y que por eso edificas tú el…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en fuera y tobias. Inicia con “Entonces dije: ¿Un hombre como yo ha de huir? ¿y quién, que como yo fuera, entraría al templo para salvar la vida? No entraré.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en tobias y hijo. Inicia con “Y como lo* oyeron todos nuestros enemigos, temieron todas las gentes que estaban en nuestros alrededores, y abatiéronse mucho sus ojos, y c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tobias",
+      "count": 6,
+      "significance": "La recurrencia de “tobias” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sanballat",
+      "count": 5,
+      "significance": "La recurrencia de “sanballat” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 6."
+    },
+    {
+      "word": "habia",
+      "count": 5,
+      "significance": "La recurrencia de “habia” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 6."
+    },
+    {
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 6."
     }
   ]
 }

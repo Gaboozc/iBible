@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Nehemiah capítulo 9 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 9, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nuestros, tierra, todo. Señales textuales: “Y EL día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí.” | “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.” | “A causa pues de todo eso nosotros hacemos fiel alianza, y la escribimos, signada de nuestros príncipes, de nuestros Lev…”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nuestros, tierra, todo. El núcleo del capítulo se percibe en “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.”."
 }

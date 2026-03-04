@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 23",
+  "title": "Análisis Estructural de Jeremías 23",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en tierra y dice. Inicia con “¡AY de los pastores que desperdician y derraman las ovejas de mi majada! dice Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en profetas y tanto. Inicia con “Porque así el profeta como el sacerdote son fingidos: aun en mi casa hallé su maldad, dice Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en dice y profetas. Inicia con “No envié yo aquellos profetas, y ellos corrían: yo no les hablé, y ellos profetizaban.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en carga y dice. Inicia con “He aquí yo contra los profetas, dice Jehová, que endulzan sus lenguas, y dicen: El ha dicho.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 17,
+      "significance": "La recurrencia de “dice” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "profetas",
+      "count": 11,
+      "significance": "La recurrencia de “profetas” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 23."
+    },
+    {
+      "word": "aqui",
+      "count": 9,
+      "significance": "La recurrencia de “aqui” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 23."
+    },
+    {
+      "word": "tanto",
+      "count": 8,
+      "significance": "La recurrencia de “tanto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 23."
     }
   ]
 }

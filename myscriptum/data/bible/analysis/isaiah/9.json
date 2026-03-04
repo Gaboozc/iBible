@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 9",
+  "title": "Análisis Estructural de Isaías 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y hombro. Inicia con “AUNQUE no será esta* oscuridad tal como la aflicción que le vino en el tiempo que livianamente tocaron la primera vez á la tierra de Zabuló…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en enemigos y dilatado. Inicia con “Lo dilatado de su* imperio y la paz no tendrán término, sobre el trono de David, y sobre su reino, disponiéndolo y confirmándolo en juicio…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en israel y pueblo. Inicia con “De oriente los Siros, y los Filisteos de poniente; y con toda la boca se tragarán á Israel. Ni con todo eso ha cesado su furor, antes todav…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en tendra y mano. Inicia con “Por tanto, el Señor no tomará contentamiento en sus mancebos, ni de sus huérfanos y viudas tendrá misericordia: porque todos son falsos y m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 5,
+      "significance": "La recurrencia de “pueblo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 9."
+    },
+    {
+      "word": "esto",
+      "count": 4,
+      "significance": "La recurrencia de “esto” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 9."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 9."
     }
   ]
 }

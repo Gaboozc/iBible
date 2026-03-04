@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 21",
+  "title": "Análisis Estructural de Josué 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en tribu y hijos. Inicia con “Y LOS principales de los padres de los Levitas vinieron á Eleazar sacerdote, y á Josué hijo de Nun, y á los principales de los padres de la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en ejidos y villas. Inicia con “Y á los hijos de Aarón sacerdote dieron la ciudad de refugio para los homicidas, á Hebrón con sus ejidos; y á Libna con sus ejidos,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-34",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 34 con foco léxico en ejidos y villas. Inicia con “A Ayalón con sus ejidos, á Gath-rimmón con sus ejidos: cuatro villas:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "35-45",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 35 al 45 con foco léxico en ejidos y villas. Inicia con “Dimna con sus ejidos, Naalal con sus ejidos: cuatro villas:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ejidos",
+      "count": 57,
+      "significance": "La recurrencia de “ejidos” (57) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "villas",
+      "count": 29,
+      "significance": "La recurrencia de “villas” (29) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 21."
+    },
+    {
+      "word": "tribu",
+      "count": 24,
+      "significance": "La recurrencia de “tribu” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 21."
+    },
+    {
+      "word": "hijos",
+      "count": 20,
+      "significance": "La recurrencia de “hijos” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 21."
     }
   ]
 }

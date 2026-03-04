@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 25",
+  "title": "Análisis Estructural de Deuteronomio 25",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 25.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hara y harale. Inicia con “CUANDO hubiere pleito entre algunos, y vinieren á juicio, y los juzgaren, y absolvieren al justo y condenaren al inicuo,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en nombre y hermano. Inicia con “Y será que el primogénito que pariere ella, se levantará en nombre de su hermano el muerto, porque el nombre de éste no sea raído de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en tendras y mano. Inicia con “Cuando algunos riñeren juntos el uno con el otro, y llegare la mujer del uno para librar á su marido de mano del que le hiriere, y metiere…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en cualquiera y hace. Inicia con “Porque abominación es á Jehová tu Dios cualquiera que hace esto, cualquiera que hace agravio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 25, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "entonces",
+      "count": 5,
+      "significance": "La recurrencia de “entonces” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 25."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hermano",
+      "count": 4,
+      "significance": "La recurrencia de “hermano” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 25."
+    },
+    {
+      "word": "nombre",
+      "count": 4,
+      "significance": "La recurrencia de “nombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 25."
+    },
+    {
+      "word": "tendras",
+      "count": 4,
+      "significance": "La recurrencia de “tendras” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 25."
     }
   ]
 }

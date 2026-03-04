@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 52",
+  "title": "Análisis Estructural de Salmos 52",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 52.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en david y lengua. Inicia con “Al Músico principal: Masquil de David, cuando vino Doeg Idumeo y dió cuenta á Saúl, diciéndole: David ha venido á casa de Ahimelech. ¿POR q…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-9",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en confio y veran. Inicia con “Y verán los justos, y temerán; y reiránse de él, diciendo*:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "david",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “david” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 52."
     },
     {
-      "word": "Motivo literario",
+      "word": "casa",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “casa” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 52."
+    },
+    {
+      "word": "maldad",
+      "count": 2,
+      "significance": "La recurrencia de “maldad” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 52."
+    },
+    {
+      "word": "misericordia",
+      "count": 2,
+      "significance": "La recurrencia de “misericordia” (2) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 52."
     }
   ]
 }

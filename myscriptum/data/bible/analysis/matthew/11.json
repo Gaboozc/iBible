@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 11",
+  "title": "Análisis Estructural de Mateo 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en jesus y juan. Inicia con “Y FUÉ, que acabando Jesús de dar mandamientos á sus doce discípulos, se fué de allí á enseñar y á predicar en las ciudades de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 11, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en juan y profeta. Inicia con “Mas ¿qué salisteis á ver? ¿un profeta? También os digo, y más que profeta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en hechas y dicen. Inicia con “Mas ¿á quién compararé esta generación? Es semejante á los muchachos que se sientan en las plazas, y dan voces á sus compañeros,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en padre y hijo. Inicia con “Por tanto os digo, que* á la tierra de los de Sodoma será más tolerable el castigo* en el día del juicio, que á ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juan",
+      "count": 7,
+      "significance": "La recurrencia de “juan” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hechas",
+      "count": 5,
+      "significance": "La recurrencia de “hechas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 11."
+    },
+    {
+      "word": "padre",
+      "count": 5,
+      "significance": "La recurrencia de “padre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 11."
+    },
+    {
+      "word": "jesus",
+      "count": 4,
+      "significance": "La recurrencia de “jesus” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 11."
     }
   ]
 }

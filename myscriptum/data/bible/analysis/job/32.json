@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 32",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 32.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en eliu y furor. Inicia con “Y CESARON estos tres varones de responder á Job, por cuanto él era justo en sus ojos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en sabiduria y tanto. Inicia con “Yo decía: Los días hablarán, y la muchedumbre de años declarará sabiduría.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en pues y razones. Inicia con “Os he pues prestado atención, y he aquí que no hay de vosotros quien redarguya á Job, y responda á sus razones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en vientre y lleno. Inicia con “Porque lleno estoy de palabras, y el espíritu de mi vientre me constriñe.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "eliu",
+      "count": 4,
+      "significance": "La recurrencia de “eliu” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 32."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "furor",
+      "count": 4,
+      "significance": "La recurrencia de “furor” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 32."
+    },
+    {
+      "word": "tres",
+      "count": 3,
+      "significance": "La recurrencia de “tres” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 32."
+    },
+    {
+      "word": "esperado",
+      "count": 3,
+      "significance": "La recurrencia de “esperado” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 32."
     }
   ]
 }

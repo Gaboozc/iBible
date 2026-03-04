@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 19",
+  "title": "Análisis Estructural de Juan 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en pilato y jesus. Inicia con “ASÍ que, entonces tomó Pilato á Jesús, y le azotó.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en judios y pilato. Inicia con “Desde entonces procuraba Pilato soltarle; mas los Judíos daban voces, diciendo: Si á éste sueltas, no eres amigo de César: cualquiera que s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-32",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 32 con foco léxico en jesus y madre. Inicia con “Respondió Pilato: Lo que he escrito, he escrito.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 19, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "33-42",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 33 al 42 con foco léxico en jesus y habia. Inicia con “Mas cuando vinieron á Jesús, como le vieron ya muerto, no le quebraron las piernas:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 19, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 22,
+      "significance": "La recurrencia de “jesus” (22) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pilato",
+      "count": 15,
+      "significance": "La recurrencia de “pilato” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 19."
+    },
+    {
+      "word": "judios",
+      "count": 13,
+      "significance": "La recurrencia de “judios” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 19."
+    },
+    {
+      "word": "entonces",
+      "count": 10,
+      "significance": "La recurrencia de “entonces” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 19."
     }
   ]
 }

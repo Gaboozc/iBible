@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Galatians 5",
+  "title": "Análisis Estructural de Gálatas 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en cristo y otra. Inicia con “ESTAD, pues, firmes en la libertad con que Cristo nos hizo libres, y no volváis otra vez á ser presos en el yugo de servidumbre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 5, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en hermanos y libertad. Inicia con “Esta persuasión no es* de aquel que os llama.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en espiritu y carne. Inicia con “Porque toda la ley en aquesta sola palabra se cumple: Amarás á tu prójimo como á ti mismo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 5, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en cosas y espiritu. Inicia con “Envidias, homicidios, borracheras, banqueteos, y cosas semejantes á éstas: de las cuales os denuncio, como ya os he anunciado, que los que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "espiritu",
+      "count": 8,
+      "significance": "La recurrencia de “espiritu” (8) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Gálatas 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "carne",
+      "count": 6,
+      "significance": "La recurrencia de “carne” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 5."
+    },
+    {
+      "word": "cristo",
+      "count": 5,
+      "significance": "La recurrencia de “cristo” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Gálatas 5."
+    },
+    {
+      "word": "unos",
+      "count": 5,
+      "significance": "La recurrencia de “unos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 5."
     }
   ]
 }

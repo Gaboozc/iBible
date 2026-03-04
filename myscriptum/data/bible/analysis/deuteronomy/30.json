@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 30",
+  "title": "Análisis Estructural de Deuteronomio 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en todas y corazon. Inicia con “Y SERÁ que, cuando te sobrevinieren todas estas cosas, la bendición y la maldición que he puesto delante de ti, y volvieres á tu corazón en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en corazon y toda. Inicia con “Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu simiente, para que ames á Jehová tu Dios con todo tu corazón y con toda tu alm…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en cielo y digas. Inicia con “Porque este mandamiento que yo te intimo hoy, no te es encubierto, ni está lejos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tierra y vida. Inicia con “Porque yo te mando hoy que ames á Jehová tu Dios, que andes en sus caminos, y guardes sus mandamientos y sus estatutos y sus derechos, para…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "corazon",
+      "count": 8,
+      "significance": "La recurrencia de “corazon” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 30."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 30."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 30."
+    },
+    {
+      "word": "toda",
+      "count": 4,
+      "significance": "La recurrencia de “toda” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 30."
     }
   ]
 }

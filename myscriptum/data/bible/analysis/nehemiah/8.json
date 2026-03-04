@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 8",
+  "title": "Análisis Estructural de Nehemías 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en todo y pueblo. Inicia con “Y JUNTÓSE todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras el escriba, que tra…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en pueblo y todo. Inicia con “Bendijo entonces Esdras á Jehová, Dios grande. Y todo el pueblo respondió, ¡Amén! ¡Amén! alzando sus manos; y humilláronse, y adoraron á Je…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en todo y pueblo. Inicia con “Díjoles luego: Id, comed grosuras, y bebed vino* dulce, y enviad porciones á los que no tienen prevenido; porque día santo es á nuestro Señ…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en ramos y cabanas. Inicia con “Y que hiciesen saber, y pasar pregón por todas sus ciudades y por Jerusalem, diciendo: Salid al monte, y traed ramos de oliva, y ramos de p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 15,
+      "significance": "La recurrencia de “pueblo” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 13,
+      "significance": "La recurrencia de “todo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 8."
+    },
+    {
+      "word": "esdras",
+      "count": 8,
+      "significance": "La recurrencia de “esdras” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 8."
+    },
+    {
+      "word": "libro",
+      "count": 6,
+      "significance": "La recurrencia de “libro” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 8."
     }
   ]
 }

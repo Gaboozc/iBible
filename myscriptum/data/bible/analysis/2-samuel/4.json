@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 2-samuel 4",
+  "title": "Análisis Estructural de 2 Samuel 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijo y saul. Inicia con “LUEGO que oyó el hijo de Saúl que Abner había sido muerto en Hebrón, las manos se le descoyuntaron, y fué atemorizado todo Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en cabeza y mataron. Inicia con “Pues como entraron en la casa, estando él en su cama en su cámara de dormir, lo hirieron y mataron, y cortáronle la cabeza, y habiéndola to…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "saul",
+      "count": 7,
+      "significance": "La recurrencia de “saul” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 4."
+    },
+    {
+      "word": "boseth",
+      "count": 5,
+      "significance": "La recurrencia de “boseth” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 4."
+    },
+    {
+      "word": "hebron",
+      "count": 4,
+      "significance": "La recurrencia de “hebron” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 4."
     }
   ]
 }

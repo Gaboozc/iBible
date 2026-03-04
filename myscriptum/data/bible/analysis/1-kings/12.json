@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 12",
+  "title": "Análisis Estructural de 1 Reyes 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en padre y pueblo. Inicia con “Y FUÉ Roboam á Sichêm; porque todo Israel había venido á Sichêm para hacerlo rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en padre y pueblo. Inicia con “Entonces los mancebos que se habían criado con él, le respondieron, diciendo: Así hablarás á este pueblo que te ha dicho estas palabras: Tu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en israel y casa. Inicia con “Y el rey Roboam envió á Adoram, que estaba sobre los tributos; pero apedreóle todo Israel, y murió. Entonces el rey Roboam se esforzó á sub…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en pueblo y hizo. Inicia con “Y dijo Jeroboam en su corazón: Ahora se volverá el reino á la casa de David,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 15,
+      "significance": "La recurrencia de “pueblo” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 13,
+      "significance": "La recurrencia de “israel” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 12."
+    },
+    {
+      "word": "roboam",
+      "count": 12,
+      "significance": "La recurrencia de “roboam” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 12."
+    },
+    {
+      "word": "habia",
+      "count": 10,
+      "significance": "La recurrencia de “habia” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 12."
     }
   ]
 }

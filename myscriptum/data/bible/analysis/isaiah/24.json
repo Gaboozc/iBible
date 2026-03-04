@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 24",
+  "title": "Análisis Estructural de Isaías 24",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 24.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y moradores. Inicia con “HE aquí que Jehová vacía la tierra, y la desnuda, y trastorna su haz, y hace esparcir sus moradores.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en vino y alegria. Inicia con “Perdióse el vino, enfermó la vid, gimieron todos los que eran alegres de corazón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en tierra y medio. Inicia con “Porque así será en medio de la tierra, en medio de los pueblos, como aceituno sacudido, como rebuscos acabada la vendimia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en tierra y seran. Inicia con “Quebrantaráse del todo la tierra, enteramente desmenuzada será la tierra, en gran manera será la tierra conmovida.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 24, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 18,
+      "significance": "La recurrencia de “tierra” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 24."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "moradores",
+      "count": 3,
+      "significance": "La recurrencia de “moradores” (3) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Isaías 24."
+    },
+    {
+      "word": "todo",
+      "count": 3,
+      "significance": "La recurrencia de “todo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 24."
+    },
+    {
+      "word": "vino",
+      "count": 3,
+      "significance": "La recurrencia de “vino” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 24."
     }
   ]
 }

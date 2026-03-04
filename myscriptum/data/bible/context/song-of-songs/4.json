@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Tradición poética israelita (asociada a Salomón)",
+  "dominantEmpire": "No aplica al foco literario del libro",
+  "kingName": "Marco salomónico-poético",
+  "kingRegion": "Israel",
   "activeProphets": [
-    "Profetas según el período"
+    "No aplica como libro profético"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Song-of-songs capítulo 4 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "No central",
+  "location": "Paisaje rural y palaciego simbólico",
+  "summary": "Cantares celebra el amor de pacto, belleza y deleite en lenguaje poético. En Cantares 4, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esposa, eres, hermosa. Señales textuales: “HE aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; tus ojos entre tus guedejas como* de paloma; tus c…” | “Prendiste mi corazón, hermana, esposa mía*; has preso mi corazón con uno de tus ojos, con una gargantilla de tu cuello.” | “Levántate, Aquilón, y ven, Austro: sopla mi huerto, despréndanse sus aromas. Venga mi amado á su huerto, y coma de su d…”.",
+  "spiritualContext": "Ha sido leído tanto en clave matrimonial como simbólica de amor del pacto entre Dios y su pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan esposa, eres, hermosa. El núcleo del capítulo se percibe en “Prendiste mi corazón, hermana, esposa mía*; has preso mi corazón con uno de tus ojos, con una gargantilla de tu cuello.”."
 }

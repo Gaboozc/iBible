@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hosea 2",
+  "title": "Análisis Estructural de Oseas 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en pleitead y madre. Inicia con “DECID á vuestros hermanos, Ammi, y á vuestras hermanas, Ruhama:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en amantes y entonces. Inicia con “Y seguirá sus amantes, y no los alcanzará; buscarálos, y no los hallará. Entonces dirá: Iré, y volveréme á mi primer marido; porque mejor m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en tierra y tiempos. Inicia con “Y visitaré sobre ella los tiempos de los Baales, á los cuales incensaba, y adornábase de sus zarcillos y de sus joyeles, é íbase tras sus a…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en conmigo y tierra. Inicia con “Y te desposaré conmigo para siempre; desposarte he conmigo en justicia, y juicio, y misericordia, y miseraciones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "amantes",
+      "count": 5,
+      "significance": "La recurrencia de “amantes” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 2."
+    },
+    {
+      "word": "tiempo",
+      "count": 4,
+      "significance": "La recurrencia de “tiempo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 2."
+    },
+    {
+      "word": "ella",
+      "count": 3,
+      "significance": "La recurrencia de “ella” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 2."
     }
   ]
 }

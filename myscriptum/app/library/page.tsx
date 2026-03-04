@@ -134,6 +134,7 @@ export default function LibraryPage() {
               >
                 {mode === 'light' ? <Moon className="h-4 w-4 sm:h-5 sm:w-5" /> : <Sun className="h-4 w-4 sm:h-5 sm:w-5" />}
               </button>
+              <Link href="/my-notes" className="px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors font-medium text-xs sm:text-sm hidden sm:inline" style={{ backgroundColor: palette.accent.secondary, color: palette.text.light, borderColor: palette.accent.primary, border: '1px solid' }} title="Ver todas mis notas">📝</Link>
               <Link href="/home" className="px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg transition-colors font-medium text-xs sm:text-sm" style={{ backgroundColor: palette.accent.primary, color: palette.bg.primary }}>Inicio</Link>
             </nav>
           </div>

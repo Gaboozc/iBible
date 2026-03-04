@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 27",
+  "title": "Análisis Estructural de Números 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijo y delante. Inicia con “Y LAS hijas de Salphaad, hijo de Hepher, hijo de Galaad, hijo de Machîr, hijo de Manasés, de las familias de Manasés, hijo de José, los nom…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hermanos y padre. Inicia con “Bien dicen las hijas de Salphaad: has de darles posesión de heredad entre los hermanos de su padre; y traspasarás la heredad de su padre á…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en congregacion y reunido. Inicia con “Y después que la habrás visto, tú también serás reunido á tus pueblos, como fué reunido tu hermano Aarón:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en delante y toda. Inicia con “Y ponerlo has delante de Eleazar el sacerdote, y delante de toda la congregación; y le darás órdenes en presencia de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "delante",
+      "count": 11,
+      "significance": "La recurrencia de “delante” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "moises",
+      "count": 9,
+      "significance": "La recurrencia de “moises” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 27."
+    },
+    {
+      "word": "congregacion",
+      "count": 8,
+      "significance": "La recurrencia de “congregacion” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 27."
+    },
+    {
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 27."
     }
   ]
 }

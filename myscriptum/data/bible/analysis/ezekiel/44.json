@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 44",
+  "title": "Análisis Estructural de Ezequiel 44",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 44.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en casa y todas. Inicia con “Y TORNÓME hacia la puerta de afuera del santuario, la cual mira hacia el oriente; y estaba cerrada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en santuario y hijos. Inicia con “Así ha dicho el Señor Jehová: Ningún hijo de extranjero, incircunciso de corazón é incircunciso de carne, entrará en mi santuario, de todos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en atrio y interior. Inicia con “Y será que cuando entraren por las puertas del atrio interior, se vestirán de vestimentas de lino: no asentará sobre ellos lana, cuando min…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en vuestras y santuario. Inicia con “Y á hombre muerto no entrará para contaminarse; mas sobre padre, ó madre, ó hijo, ó hija, hermano, ó hermana que no haya tenido marido, se…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 12,
+      "significance": "La recurrencia de “casa” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 44."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "santuario",
+      "count": 11,
+      "significance": "La recurrencia de “santuario” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 44."
+    },
+    {
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 44."
+    },
+    {
+      "word": "todas",
+      "count": 8,
+      "significance": "La recurrencia de “todas” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 44."
     }
   ]
 }

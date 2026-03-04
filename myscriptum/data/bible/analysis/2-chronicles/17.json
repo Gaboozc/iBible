@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 17",
+  "title": "Análisis Estructural de 2 Crónicas 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en josaphat y juda. Inicia con “Y REINÓ en su lugar Josaphat su hijo, el cual prevaleció contra Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en juda y ciudades. Inicia con “Y animóse su corazón en los caminos de Jehová, y quitó los altos y los bosques de Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en juda y josaphat. Inicia con “Y traían de los Filisteos presentes á Josaphat, y tributos de plata. Los Arabes también le trajeron ganados, siete mil y setecientos carner…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en tras y habia. Inicia con “Tras éste, Amasías hijo de Zichri, el cual se había ofrecido voluntariamente á Jehová, y con él doscientos mil hombres valientes;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juda",
+      "count": 11,
+      "significance": "La recurrencia de “juda” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciudades",
+      "count": 7,
+      "significance": "La recurrencia de “ciudades” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 17."
+    },
+    {
+      "word": "josaphat",
+      "count": 6,
+      "significance": "La recurrencia de “josaphat” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 17."
+    },
+    {
+      "word": "padre",
+      "count": 3,
+      "significance": "La recurrencia de “padre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 17."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 2",
+  "title": "Análisis Estructural de Génesis 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en tierra y toda. Inicia con “Y FUERON acabados los cielos y la tierra, y todo su ornamento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en tierra y habia. Inicia con “Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en hombre y nombre. Inicia con “Y el nombre del tercer río es Hiddekel: éste es el que va delante de Asiria. Y el cuarto río es el Eufrates.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en adam y carne. Inicia con “Y puso Adam nombres á toda bestia y ave de los cielos y á todo animal del campo: mas para Adam no halló ayuda que estuviese* idónea para él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 14,
+      "significance": "La recurrencia de “tierra” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "toda",
+      "count": 10,
+      "significance": "La recurrencia de “toda” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 2."
+    },
+    {
+      "word": "hombre",
+      "count": 10,
+      "significance": "La recurrencia de “hombre” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 2."
+    },
+    {
+      "word": "habia",
+      "count": 8,
+      "significance": "La recurrencia de “habia” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 2."
     }
   ]
 }

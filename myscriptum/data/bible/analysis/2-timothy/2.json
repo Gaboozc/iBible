@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-timothy 2",
+  "title": "Análisis Estructural de 2 Timoteo 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pues y soldado. Inicia con “PUES tú, hijo mío, esfuérzate en la gracia que es en Cristo Jesús.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en muertos y sufro. Inicia con “Acuérdate que Jesucristo, el cual fué* de la simiente de David, resucitó de los muertos conforme á mi evangelio;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en senor y palabra. Inicia con “Recuérdales esto, protestando delante del Señor que no contiendan en palabras, lo cual* para nada aprovecha, antes* trastorna á los oyentes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en senor y alguno. Inicia con “Así que, si alguno se limpiare de estas cosas, será vaso para honra, santificado, y útil para los usos del Señor, y aparejado para todo bue…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 2."
+    },
+    {
+      "word": "palabra",
+      "count": 4,
+      "significance": "La recurrencia de “palabra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 2."
+    },
+    {
+      "word": "cristo",
+      "count": 3,
+      "significance": "La recurrencia de “cristo” (3) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Timoteo 2."
     }
   ]
 }

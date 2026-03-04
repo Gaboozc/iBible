@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 8",
+  "title": "Análisis Estructural de Mateo 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en jesus y diciendo. Inicia con “Y COMO descendió del monte, le seguían muchas gentes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 8, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en jesus y digo. Inicia con “Y oyendo Jesús, se maravilló, y dijo á los que le* seguían: De cierto os digo, que ni aun en Israel he hallado fe tanta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 8, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en jesus y discipulos. Inicia con “Y viendo Jesús muchas gentes alrededor de sí, mandó pasar á la otra parte del lago*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 8, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en hato y puercos. Inicia con “Y los hombres se maravillaron, diciendo: ¿Qué hombre es éste, que aun los vientos y la mar le obedecen?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 12,
+      "significance": "La recurrencia de “jesus” (12) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "diciendo",
+      "count": 7,
+      "significance": "La recurrencia de “diciendo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 8."
+    },
+    {
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 8."
+    },
+    {
+      "word": "senor",
+      "count": 5,
+      "significance": "La recurrencia de “senor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 8."
     }
   ]
 }

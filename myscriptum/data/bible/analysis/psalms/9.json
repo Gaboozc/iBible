@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 9",
+  "title": "Análisis Estructural de Salmos 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en nombre y musico. Inicia con “Al Músico principal: sobre Muth-labben: Salmo de David. TE alabaré, oh Jehová, con todo mi corazón; contaré todas tus maravillas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en siempre y juzgara. Inicia con “Oh enemigo, acabados son para siempre los asolamientos; y las ciudades que derribaste, su memoria pereció con ellas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en sion y puertas. Inicia con “Cantad á Jehová, que habita en Sión: noticiad en los pueblos sus obras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en gentes y selah. Inicia con “Jehová fué conocido en* el juicio que hizo; en la obra de sus manos fué enlazado el malo. (Higaion. Selah.)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gentes",
+      "count": 5,
+      "significance": "La recurrencia de “gentes” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siempre",
+      "count": 4,
+      "significance": "La recurrencia de “siempre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 9."
+    },
+    {
+      "word": "todas",
+      "count": 3,
+      "significance": "La recurrencia de “todas” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 9."
+    },
+    {
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 9."
     }
   ]
 }

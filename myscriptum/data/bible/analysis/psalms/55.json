@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 55",
+  "title": "Análisis Estructural de Salmos 55",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 55.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en oracion y musico. Inicia con “Al Músico principal: en Neginoth: Masquil de David. ESCUCHA, oh Dios, mi oración, y no te escondas de mi súplica.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 55, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en medio y ella. Inicia con “Ciertamente huiría lejos: moraría en el desierto. (Selah.)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 55, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en compania y clamare. Inicia con “Mas tú, hombre, al parecer íntimo mío, mi guía, y mi familiar:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 55, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en oira y quebrantara. Inicia con “Dios oirá, y los quebrantará luego, el que desde la antigüedad permanece (Selah); por cuanto no se mudan, ni temen á Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 55, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 4,
+      "significance": "La recurrencia de “contra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 55."
     },
     {
-      "word": "Motivo literario",
+      "word": "medio",
+      "count": 3,
+      "significance": "La recurrencia de “medio” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 55."
+    },
+    {
+      "word": "oracion",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “oracion” (2) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Salmos 55."
+    },
+    {
+      "word": "enemigo",
+      "count": 2,
+      "significance": "La recurrencia de “enemigo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 55."
     }
   ]
 }

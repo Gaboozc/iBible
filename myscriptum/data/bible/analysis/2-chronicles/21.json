@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 21",
+  "title": "Análisis Estructural de 2 Crónicas 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en reino y josaphat. Inicia con “Y DURMIÓ Josaphat con sus padres, y sepultáronlo con sus padres en la ciudad de David. Y reinó en su lugar Joram su hijo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 21, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en habia y estar. Inicia con “Y anduvo en el camino de los reyes de Israel, como hizo la casa de Achâb; porque tenía por mujer la hija de Achâb, é hizo lo malo en ojos d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en juda y padre. Inicia con “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en enfermedad y anos. Inicia con “Entonces despertó Jehová contra Joram el espíritu de los Filisteos, y de los Arabes que estaban junto á los Etiopes;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juda",
+      "count": 8,
+      "significance": "La recurrencia de “juda” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 21."
+    },
+    {
+      "word": "habia",
+      "count": 6,
+      "significance": "La recurrencia de “habia” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 21."
+    },
+    {
+      "word": "hizo",
+      "count": 6,
+      "significance": "La recurrencia de “hizo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 21."
     }
   ]
 }

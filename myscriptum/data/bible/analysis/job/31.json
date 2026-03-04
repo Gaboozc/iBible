@@ -3,33 +3,49 @@
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 31.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en ojos y pasos. Inicia con “HICE pacto con mis ojos: ¿cómo pues había yo de pensar en virgen?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en conmigo y vientre. Inicia con “Porque es maldad é iniquidad, que han de castigar los jueces.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en mano y contra. Inicia con “Si alcé contra el huérfano mi mano, aunque viese que me ayudarían en la puerta;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en lugar y domesticos. Inicia con “Cuando mis domésticos decían: ¡Quién nos diese de su carne! nunca nos hartaríamos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ojos",
+      "count": 3,
+      "significance": "La recurrencia de “ojos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 31."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "iniquidad",
+      "count": 3,
+      "significance": "La recurrencia de “iniquidad” (3) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Job 31."
+    },
+    {
+      "word": "pasos",
+      "count": 3,
+      "significance": "La recurrencia de “pasos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 31."
+    },
+    {
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 31."
     }
   ]
 }

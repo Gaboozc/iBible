@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 36",
+  "title": "Análisis Estructural de Jeremías 36",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en jeremias y juda. Inicia con “Y ACONTECIÓ en el cuarto año de Joacim hijo de Josías, rey de Judá, que fué esta palabra á Jeremías, de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hijo y baruch. Inicia con “Y aconteció en el año quinto de Joacim hijo de Josías, rey de Judá, en el mes noveno, que promulgaron ayuno en la presencia de Jehová, á to…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en todas y palabras. Inicia con “Preguntaron luego á Baruch, diciendo: Cuéntanos ahora cómo escribiste de boca de Jeremías todas estas palabras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en rollo y jeremias. Inicia con “Y aunque Elnathán y Delaías y Gemarías rogaron al rey que no quemase aquel rollo, no los quiso oir:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 19,
+      "significance": "La recurrencia de “hijo” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabras",
+      "count": 17,
+      "significance": "La recurrencia de “palabras” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 36."
+    },
+    {
+      "word": "baruch",
+      "count": 16,
+      "significance": "La recurrencia de “baruch” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 36."
+    },
+    {
+      "word": "rollo",
+      "count": 14,
+      "significance": "La recurrencia de “rollo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 36."
     }
   ]
 }

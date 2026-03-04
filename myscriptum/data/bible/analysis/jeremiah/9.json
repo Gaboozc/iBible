@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 9",
+  "title": "Análisis Estructural de Jeremías 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pueblo y companero. Inicia con “¡OH si mi cabeza se tornase aguas, y mis ojos fuentes de aguas, para que llore día y noche los muertos de la hija de mi pueblo!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en habla y boca. Inicia con “Saeta afilada es la lengua de ellos; engaño habla; con su boca habla paz con su amigo, y dentro de sí pone sus asechanzas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en padres y ejercitos. Inicia con “Antes se fueron tras la imaginación de su corazón, y en pos de los Baales que les enseñaron sus padres:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en alabe y dice. Inicia con “Porque la muerte ha subido por nuestras ventanas, ha entrado en nuestros palacios; para talar los niños de las calles, los mancebos de las…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 6,
+      "significance": "La recurrencia de “dice” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 9."
+    },
+    {
+      "word": "aguas",
+      "count": 4,
+      "significance": "La recurrencia de “aguas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 9."
+    },
+    {
+      "word": "pueblo",
+      "count": 4,
+      "significance": "La recurrencia de “pueblo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 9."
     }
   ]
 }

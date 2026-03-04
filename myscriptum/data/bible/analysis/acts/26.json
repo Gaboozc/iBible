@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 26",
+  "title": "Análisis Estructural de Hechos 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en judios y agripa. Inicia con “ENTONCES Agripa dijo á Pablo: Se te permite hablar por ti mismo. Pablo entonces, extendiendo la mano, comenzó á responder por sí, diciendo*:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en contra y muchas. Inicia con “Yo ciertamente había pensado deber hacer muchas cosas contra el nombre de Jesús de Nazaret:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en gentiles y pueblo. Inicia con “Librándote del pueblo y de los Gentiles, á los cuales ahora te envío,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en pues y agripa. Inicia con “Mas él dijo: No estoy loco, excelentísimo Festo, sino que hablo palabras de verdad y de templanza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "agripa",
+      "count": 7,
+      "significance": "La recurrencia de “agripa” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosas",
+      "count": 7,
+      "significance": "La recurrencia de “cosas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 26."
+    },
+    {
+      "word": "pablo",
+      "count": 5,
+      "significance": "La recurrencia de “pablo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 26."
+    },
+    {
+      "word": "judios",
+      "count": 5,
+      "significance": "La recurrencia de “judios” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 26."
     }
   ]
 }

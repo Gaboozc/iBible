@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Literatura sapiencial",
+  "dominantEmpire": "No especificado directamente",
+  "kingName": "Voz del “Qohelet” en marco real/sapiencial",
+  "kingRegion": "Jerusalén (marco literario)",
   "activeProphets": [
-    "Profetas según el período"
+    "No es un libro profético en sentido clásico"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Ecclesiastes capítulo 12 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Referencia indirecta a adoración y juicio de Dios",
+  "location": "Jerusalén y observación universal de la vida",
+  "summary": "Eclesiastés reflexiona sobre la vanidad de la vida “bajo el sol” sin Dios como centro. En Eclesiastés 12, el capítulo contiene 14 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: antes, predicador, todo. Señales textuales: “Y ACUÉRDATE de tu Criador en los días de tu juventud, antes que vengan los malos días, y lleguen los años, de los cuale…” | “Vanidad de vanidades, dijo el Predicador, todo vanidad.” | “Porque Dios traerá toda obra á juicio, el cual se hará* sobre toda cosa oculta, buena ó mala.”.",
+  "spiritualContext": "Conduce al temor de Dios y la obediencia como conclusión de la existencia humana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; adoración, oración y respuesta de fe. En su lenguaje central destacan antes, predicador, todo. El núcleo del capítulo se percibe en “Vanidad de vanidades, dijo el Predicador, todo vanidad.”."
 }

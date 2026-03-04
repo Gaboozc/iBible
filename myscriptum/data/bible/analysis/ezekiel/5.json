@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 5",
+  "title": "Análisis Estructural de Ezequiel 5",
   "sections": [
     {
       "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en fuego y tercera. Inicia con “Y TÚ, hijo del hombre, tómate un cuchillo agudo, una navaja de barbero toma, y hazla pasar sobre tu cabeza y tu barba: tómate después un pe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en juicios y gentes. Inicia con “Y ella mudó mis juicios y mis ordenanzas en impiedad más que las gentes, y más que las tierras que están alrededor de ella; porque desechar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 5, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en tercera y parte. Inicia con “Por eso los padres comerán á los hijos en medio de ti, y los hijos comerán á sus padres; y haré en ti juicios, y esparciré á todos vientos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en hambre y oprobio. Inicia con “Y te tornaré en desierto y en oprobio entre las gentes que están alrededor de ti, á los ojos de todo transeunte.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "alrededor",
+      "count": 8,
+      "significance": "La recurrencia de “alrededor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tercera",
+      "count": 6,
+      "significance": "La recurrencia de “tercera” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 5."
+    },
+    {
+      "word": "parte",
+      "count": 6,
+      "significance": "La recurrencia de “parte” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 5."
+    },
+    {
+      "word": "gentes",
+      "count": 6,
+      "significance": "La recurrencia de “gentes” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 5."
     }
   ]
 }

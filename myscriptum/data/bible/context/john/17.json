@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y religiosas judías",
+  "kingRegion": "Judea y Galilea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "John capítulo 17 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo activo durante la narrativa",
+  "location": "Jerusalén y Galilea",
+  "summary": "Juan presenta señales y discursos para afirmar que Jesús es el Hijo de Dios. En Juan 17, el capítulo contiene 26 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: mundo, diste, dado. Señales textuales: “ESTAS cosas habló Jesús, y levantados los ojos al cielo, dijo: Padre, la hora es llegada; glorifica á tu Hijo, para que…” | “Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo.” | “Y yo les he manifestado tu nombre, y manifestarélo aún*; para que el amor con que me has amado, esté en ellos, y yo en…”.",
+  "spiritualContext": "Vida eterna, nuevo nacimiento, amor y unidad con Cristo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan mundo, diste, dado. El núcleo del capítulo se percibe en “Yo les he dado tu palabra; y el mundo los aborreció, porque no son del mundo, como tampoco yo soy del mundo.”."
 }

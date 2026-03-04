@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Joel 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en vuestros y hijos. Inicia con “PALABRA de Jehová que fué á Joel hijo de Pethuel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en tierra y dientes. Inicia con “Porque gente subió á mi tierra, fuerte y sin número; sus dientes, dientes de león, y sus muelas, de león.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en aullad y campo. Inicia con “Confundíos, labradores, aullad, viñeros, por el trigo y la cebada; porque se perdió la mies del campo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en asolados y bestias. Inicia con “¿No es quitado el mantenimiento de delante de nuestros ojos, la alegría y el placer de la casa de nuestro Dios?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Joel 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 5,
+      "significance": "La recurrencia de “hijos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 1."
+    },
+    {
+      "word": "campo",
+      "count": 5,
+      "significance": "La recurrencia de “campo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 1."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Joel 1."
     }
   ]
 }

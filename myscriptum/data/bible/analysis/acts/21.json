@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 21",
+  "title": "Análisis Estructural de Hechos 21",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en vinimos y alli. Inicia con “Y HABIENDO partido de ellos, navegamos y vinimos camino derecho á Coos, y al día siguiente á Rhodas, y de allí á Pátara.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en jerusalem y nosotros. Inicia con “Y venido á nosotros, tomó el cinto de Pablo, y atándose los pies y las manos, dijo: Esto dice el Espíritu Santo: Así atarán los Judíos en J…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en templo y todos. Inicia con “Mas fueron informados acerca de ti, que enseñas á apartarse de Moisés á todos los Judíos que están entre los Gentiles, diciéndoles que no h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en tribuno y pablo. Inicia con “Y procurando ellos matarle, fué dado aviso al tribuno de la compañía, que toda la ciudad de Jerusalem estaba alborotada;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pablo",
+      "count": 12,
+      "significance": "La recurrencia de “pablo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nosotros",
+      "count": 8,
+      "significance": "La recurrencia de “nosotros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 21."
+    },
+    {
+      "word": "dias",
+      "count": 7,
+      "significance": "La recurrencia de “dias” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 21."
+    },
+    {
+      "word": "jerusalem",
+      "count": 7,
+      "significance": "La recurrencia de “jerusalem” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 21."
     }
   ]
 }

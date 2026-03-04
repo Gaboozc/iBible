@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 4",
+  "title": "Análisis Estructural de Mateo 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en escrito y entonces. Inicia con “ENTONCES Jesús fué llevado del Espíritu al desierto, para ser tentado del diablo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en diablo y entonces. Inicia con “Otra vez le pasa el diablo á un monte muy alto, y le muestra todos los reinos del mundo, y su gloria,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en tierra y galilea. Inicia con “Para que se cumpliese lo que fué dicho por el profeta Isaías, que dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en toda y siguieron. Inicia con “Ellos entonces, dejando luego las redes, le siguieron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 7,
+      "significance": "La recurrencia de “jesus” (7) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 6,
+      "significance": "La recurrencia de “entonces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 4."
+    },
+    {
+      "word": "toda",
+      "count": 5,
+      "significance": "La recurrencia de “toda” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 4."
+    },
+    {
+      "word": "galilea",
+      "count": 5,
+      "significance": "La recurrencia de “galilea” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 4."
     }
   ]
 }

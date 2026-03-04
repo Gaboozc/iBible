@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 12",
+  "title": "Análisis Estructural de Josué 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en arroyo y tierra. Inicia con “ESTOS son los reyes de la tierra que los hijos de Israel hirieron, y cuya tierra poseyeron de la otra parte del Jordán al nacimiento del so…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en otro y tierra. Inicia con “Y estos son los reyes de la tierra que hirió Josué con los hijos de Israel, de esta parte del Jordán al occidente, desde Baal-gad en el lla…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en otro y debir. Inicia con “El rey de Debir, otro: el rey de Geder, otro:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en otro y madon. Inicia con “El rey de Madón, otro: el rey de Hasor, otro:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "otro",
+      "count": 30,
+      "significance": "La recurrencia de “otro” (30) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 12."
+    },
+    {
+      "word": "hijos",
+      "count": 4,
+      "significance": "La recurrencia de “hijos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 12."
+    },
+    {
+      "word": "israel",
+      "count": 4,
+      "significance": "La recurrencia de “israel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 12."
     }
   ]
 }

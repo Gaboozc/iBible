@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 18",
+  "title": "Análisis Estructural de Éxodo 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en moises y suegro. Inicia con “Y OYÓ Jethro, sacerdote de Madián, suegro de Moisés, todas las cosas que Dios había hecho con Moisés, y con Israel su pueblo, y cómo Jehová…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en moises y pueblo. Inicia con “Y Moisés contó á su suegro todas las cosas que Jehová había hecho á Faraón y á los Egipcios por amor de Israel, y todo el trabajo que había…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en pueblo y moises. Inicia con “Y Moisés respondió á su suegro: Porque el pueblo viene á mí para consultar á Dios:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en todo y pueblo. Inicia con “Los cuales juzgarán al pueblo en todo tiempo; y será que todo negocio grave lo traerán á ti, y ellos juzgarán todo negocio pequeño: alivia…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "moises",
+      "count": 20,
+      "significance": "La recurrencia de “moises” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 15,
+      "significance": "La recurrencia de “pueblo” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 18."
+    },
+    {
+      "word": "todo",
+      "count": 14,
+      "significance": "La recurrencia de “todo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 18."
+    },
+    {
+      "word": "suegro",
+      "count": 13,
+      "significance": "La recurrencia de “suegro” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 18."
     }
   ]
 }

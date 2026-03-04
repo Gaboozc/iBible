@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en palabras y aqui. Inicia con “POR tanto, Job, oye ahora mis razones, y escucha todas mis palabras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en hombre y aqui. Inicia con “He aquí que él buscó achaques contra mí, y me tiene por su enemigo;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en alma y vida. Inicia con “Detendrá su alma de corrupción, y su vida de que pase á cuchillo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en vera y hombre. Inicia con “Orará á Dios, y le amará, y verá su faz con júbilo: y él restituirá al hombre su justicia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 6,
+      "significance": "La recurrencia de “aqui” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hombre",
+      "count": 6,
+      "significance": "La recurrencia de “hombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 33."
+    },
+    {
+      "word": "vida",
+      "count": 5,
+      "significance": "La recurrencia de “vida” (5) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Job 33."
+    },
+    {
+      "word": "alma",
+      "count": 5,
+      "significance": "La recurrencia de “alma” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 33."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 27",
+  "title": "Análisis Estructural de Deuteronomio 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en piedras y tierra. Inicia con “Y MANDÓ Moisés, con los ancianos de Israel, al pueblo, diciendo: Guardaréis todos los mandamientos que yo prescribo hoy.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en pueblo y moises. Inicia con “Y escribirás en las piedras todas las palabras de esta ley muy claramente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en todo y maldito. Inicia con “Y hablarán los Levitas, y dirán á todo varón de Israel en alta voz:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en maldito y dira. Inicia con “Maldito el que tuviere parte con cualquiera bestia. Y dirá todo el pueblo: Amén.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 16,
+      "significance": "La recurrencia de “pueblo” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 14,
+      "significance": "La recurrencia de “todo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 27."
+    },
+    {
+      "word": "maldito",
+      "count": 12,
+      "significance": "La recurrencia de “maldito” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 27."
+    },
+    {
+      "word": "dira",
+      "count": 12,
+      "significance": "La recurrencia de “dira” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 27."
     }
   ]
 }

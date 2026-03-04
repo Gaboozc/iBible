@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 37",
+  "title": "Análisis Estructural de Éxodo 37",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 37.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hizo y medio. Inicia con “HIZO también Bezaleel el arca de madera de Sittim: su longitud era de dos codos y medio, y de codo y medio su anchura, y su altura de otro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en hizo y mesa. Inicia con “Y los querubines extendían sus alas por encima, cubriendo con sus alas la cubierta: y sus rostros el uno enfrente del otro, hacia la cubier…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en brazos y candelero. Inicia con “También hizo los vasos que habían de estar* sobre la mesa, sus platos, y sus cucharas, y sus cubiertos y sus tazones con que se había de li…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en hizo y puro. Inicia con “Hizo asimismo sus siete candilejas, y sus despabiladeras, y sus platillos, de oro puro;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hizo",
+      "count": 15,
+      "significance": "La recurrencia de “hizo” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 37."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "brazos",
+      "count": 9,
+      "significance": "La recurrencia de “brazos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 37."
+    },
+    {
+      "word": "otro",
+      "count": 8,
+      "significance": "La recurrencia de “otro” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 37."
+    },
+    {
+      "word": "puro",
+      "count": 8,
+      "significance": "La recurrencia de “puro” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 37."
     }
   ]
 }

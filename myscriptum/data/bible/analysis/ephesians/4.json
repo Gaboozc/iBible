@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ephesians 4",
+  "title": "Análisis Estructural de Efesios 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en senor y vocacion. Inicia con “YO pues, preso en el Señor, os ruego que andéis como es digno de la vocación con que sois llamados;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en todas y otros. Inicia con “(Y que subió, ¿qué es, sino que también había descendido primero á las partes más bajas de la tierra?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en habeis y sentido. Inicia con “Esto pues digo, y requiero en el Señor, que no andéis más como los otros Gentiles, que andan en la vanidad de su sentido,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en unos y otros. Inicia con “Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "otros",
+      "count": 8,
+      "significance": "La recurrencia de “otros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cristo",
+      "count": 6,
+      "significance": "La recurrencia de “cristo” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Efesios 4."
+    },
+    {
+      "word": "unos",
+      "count": 5,
+      "significance": "La recurrencia de “unos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 4."
+    },
+    {
+      "word": "todas",
+      "count": 5,
+      "significance": "La recurrencia de “todas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 4."
     }
   ]
 }

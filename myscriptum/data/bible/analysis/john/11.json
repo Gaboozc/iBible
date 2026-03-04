@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 11",
+  "title": "Análisis Estructural de Juan 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en lazaro y jesus. Inicia con “ESTABA entonces enfermo uno llamado* Lázaro, de Bethania, la aldea de María y de Marta su hermana.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-29",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 29 con foco léxico en jesus y marta. Inicia con “Dijo entonces Tomás, el que se dice el Dídimo, á sus condiscípulos: Vamos también nosotros, para que muramos con él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 11, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "30-43",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 30 al 43 con foco léxico en jesus y habia. Inicia con “(Que aun no había llegado Jesús á la aldea, mas estaba en aquel lugar donde Marta le había encontrado.)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 11, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "44-57",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 44 al 57 con foco léxico en jesus y habia. Inicia con “Y el que había estado muerto, salió, atadas las manos y los pies con vendas; y su rostro estaba envuelto en un sudario. Díceles Jesús: Desa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 11, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 24,
+      "significance": "La recurrencia de “jesus” (24) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 11,
+      "significance": "La recurrencia de “entonces” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 11."
+    },
+    {
+      "word": "habia",
+      "count": 11,
+      "significance": "La recurrencia de “habia” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 11."
+    },
+    {
+      "word": "maria",
+      "count": 8,
+      "significance": "La recurrencia de “maria” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 11."
     }
   ]
 }

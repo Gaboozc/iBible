@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Hosea 1",
+  "title": "Análisis Estructural de Oseas 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en israel y oseas. Inicia con “PALABRA de Jehová que fué á Oseas hijo de Beeri, en días de Ozías, Joathán, Achâz, y Ezechîas, reyes de Judá, y en días de Jeroboam hijo de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en sois y hijos. Inicia con “Mas de la casa de Judá tendré misericordia, y salvarélos en Jehová su Dios: y no los salvaré con arco, ni con espada, ni con batalla, ni co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Oseas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 4,
+      "significance": "La recurrencia de “hijo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 1."
+    },
+    {
+      "word": "hijos",
+      "count": 4,
+      "significance": "La recurrencia de “hijos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 1."
+    },
+    {
+      "word": "jezreel",
+      "count": 4,
+      "significance": "La recurrencia de “jezreel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Oseas 1."
     }
   ]
 }

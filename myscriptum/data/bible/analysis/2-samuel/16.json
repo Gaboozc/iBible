@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 16",
+  "title": "Análisis Estructural de 2 Samuel 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en siba y david. Inicia con “Y COMO David pasó un poco de la cumbre del monte*, he aquí Siba, el criado de Mephi-boseth, que lo salía á recibir con un par de asnos enal…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hijo y varon. Inicia con “Y decía Semei, maldiciéndole: Sal, sal, varón de sangres, y hombre de Belial:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en absalom y husai. Inicia con “Y como David y los suyos iban por el camino, Semei iba por el lado del monte delante de él, andando y maldiciendo, y arrojando piedras dela…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en absalom y padre. Inicia con “¿Y á quién había yo de servir? ¿no es á su hijo? Como he servido delante de tu padre, así seré delante de ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "absalom",
+      "count": 10,
+      "significance": "La recurrencia de “absalom” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 9,
+      "significance": "La recurrencia de “david” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 16."
+    },
+    {
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 16."
+    },
+    {
+      "word": "aqui",
+      "count": 6,
+      "significance": "La recurrencia de “aqui” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 16."
     }
   ]
 }

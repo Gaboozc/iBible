@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 19",
+  "title": "Análisis Estructural de Levítico 19",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en vuestro y sacrificareis. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en projimo y nombre. Inicia con “No hurtaréis, y no engañaréis, ni mentiréis ninguno á su prójimo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en fruto y ella. Inicia con “Y cuando un hombre tuviere cópula con mujer, y ella fuere sierva desposada con alguno, y no estuviere rescatada, ni le hubiere sido dada li…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en tierra y tendreis. Inicia con “No contaminarás tu hija haciéndola fornicar: porque no se prostituya la tierra, y se hincha de maldad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "vuestro",
+      "count": 8,
+      "significance": "La recurrencia de “vuestro” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 8,
+      "significance": "La recurrencia de “tierra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 19."
+    },
+    {
+      "word": "projimo",
+      "count": 6,
+      "significance": "La recurrencia de “projimo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 19."
+    },
+    {
+      "word": "fruto",
+      "count": 5,
+      "significance": "La recurrencia de “fruto” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 19."
     }
   ]
 }

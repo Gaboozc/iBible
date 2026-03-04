@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 60",
+  "title": "Análisis Estructural de Isaías 60",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 60.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en venido y gloria. Inicia con “LEVÁNTATE, resplandece; que ha venido tu lumbre, y la gloria de Jehová ha nacido sobre ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 60, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en seran y hijos. Inicia con “Todo el ganado de Cedar será juntado para ti: carneros de Nebayoth te serán servidos: serán ofrecidos con agrado sobre mi altar, y glorific…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 60, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en lugar y gloria. Inicia con “Porque la gente ó el reino que no te sirviere, perecerá; y del todo serán asoladas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 60, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en nunca y tierra. Inicia con “Nunca más se oirá en tu tierra violencia, destrucción ni quebrantamiento en tus términos; mas á tus muros llamarás Salud, y á tus puertas A…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 60, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gloria",
+      "count": 6,
+      "significance": "La recurrencia de “gloria” (6) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Isaías 60."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "seran",
+      "count": 6,
+      "significance": "La recurrencia de “seran” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 60."
+    },
+    {
+      "word": "gentes",
+      "count": 4,
+      "significance": "La recurrencia de “gentes” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 60."
+    },
+    {
+      "word": "reyes",
+      "count": 4,
+      "significance": "La recurrencia de “reyes” (4) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Isaías 60."
     }
   ]
 }

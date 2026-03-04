@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 13",
+  "title": "Análisis Estructural de Éxodo 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en moises y aqueste. Inicia con “Y JEHOVÁ habló á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en levadura y saco. Inicia con “Por los siete días se comerán los panes sin levadura; y no se verá contigo leudado, ni levadura en todo tu término.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en todo y primogenito. Inicia con “Harás pasar á Jehová todo lo que abriere la matriz, asimismo todo primerizo que abriere la matriz de tus animales: los machos serán de Jeho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en columna y noche. Inicia con “Mas hizo Dios al pueblo que rodease por el camino del desierto del mar Bermejo. Y subieron los hijos de Israel de Egipto armados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todo",
+      "count": 9,
+      "significance": "La recurrencia de “todo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "primogenito",
+      "count": 8,
+      "significance": "La recurrencia de “primogenito” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 13."
+    },
+    {
+      "word": "egipto",
+      "count": 8,
+      "significance": "La recurrencia de “egipto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 13."
+    },
+    {
+      "word": "mano",
+      "count": 6,
+      "significance": "La recurrencia de “mano” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 13."
     }
   ]
 }

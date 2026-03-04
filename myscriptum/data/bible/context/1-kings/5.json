@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Periodo veterotestamentario (según marco del libro)",
+  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
+  "kingName": "Según momento narrativo del libro",
+  "kingRegion": "Israel/Judá y regiones vecinas",
   "activeProphets": [
-    "Profetas según el período"
+    "Profetas y líderes del periodo"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-kings capítulo 5 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo o templo según la etapa histórica",
+  "location": "Israel, Judá o exilio, según el libro",
+  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 5, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: salomon, hiram, madera. Señales textuales: “HIRAM rey de Tiro envió también sus siervos á Salomón, luego que oyó que lo habían ungido por rey en lugar de su padre:…” | “Dió pues Hiram á Salomón madera de cedro y madera de haya todo lo que quiso.” | “Y los albañiles de Salomón y los de Hiram, y los aparejadores, cortaron y aparejaron la madera y la cantería para labra…”.",
+  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan salomon, hiram, madera. El núcleo del capítulo se percibe en “Dió pues Hiram á Salomón madera de cedro y madera de haya todo lo que quiso.”."
 }

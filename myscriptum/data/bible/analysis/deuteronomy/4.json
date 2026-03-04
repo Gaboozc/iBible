@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 4",
+  "title": "Análisis Estructural de Deuteronomio 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en estatutos y medio. Inicia con “AHORA pues, oh Israel, oye los estatutos y derechos que yo os enseño, para que los ejecutéis, y viváis, y entréis, y poseáis la tierra que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en tierra y figura. Inicia con “A mí también me mandó Jehová entonces enseñaros los estatutos y derechos, para que los pusieseis por obra en la tierra á la cual pasáis par…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-37",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 37 con foco léxico en tierra y oido. Inicia con “Yo pongo hoy por testigos al cielo y á la tierra, que presto pereceréis totalmente de la tierra hacia la cual pasáis el Jordán para poseerl…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "38-49",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 38 al 49 con foco léxico en tierra y hijos. Inicia con “Para echar de delante de ti gentes grandes y más fuertes que tú, y para introducirte, y darte su tierra por heredad, como hoy.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 22,
+      "significance": "La recurrencia de “tierra” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 9,
+      "significance": "La recurrencia de “hijos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 4."
+    },
+    {
+      "word": "medio",
+      "count": 8,
+      "significance": "La recurrencia de “medio” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 4."
+    },
+    {
+      "word": "estatutos",
+      "count": 7,
+      "significance": "La recurrencia de “estatutos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 4."
     }
   ]
 }

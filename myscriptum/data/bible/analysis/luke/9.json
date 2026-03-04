@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 9",
+  "title": "Análisis Estructural de Lucas 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-16",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 16 con foco léxico en todas y discipulos. Inicia con “Y JUNTANDO á sus doce discípulos, les dió virtud y potestad sobre todos los demonios, y que sanasen enfermedades.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "17-31",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 17 al 31 con foco léxico en hombre y todos. Inicia con “Y comieron todos, y se hartaron; y alzaron lo que les sobró, doce cestos de pedazos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "32-47",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 32 al 47 con foco léxico en jesus y hijo. Inicia con “Y Pedro y los que estaban con él, estaban cargados de sueño: y como despertaron, vieron su majestad, y á aquellos dos varones que estaban c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 9, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "48-62",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 48 al 62 con foco léxico en jesus y senor. Inicia con “Y les dice: Cualquiera que recibiere este niño en mi nombre, á mí recibe; y cualquiera que me recibiere á mí, recibe al que me envió; porqu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 9, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 9,
+      "significance": "La recurrencia de “jesus” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 8,
+      "significance": "La recurrencia de “todos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 9."
+    },
+    {
+      "word": "hijo",
+      "count": 8,
+      "significance": "La recurrencia de “hijo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 9."
+    },
+    {
+      "word": "discipulos",
+      "count": 7,
+      "significance": "La recurrencia de “discipulos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 9."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 7",
+  "title": "Análisis Estructural de Proverbios 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en guarda y mandamientos. Inicia con “HIJO mío, guarda mis razones, y encierra contigo mis mandamientos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en casa y pasaba. Inicia con “El cual pasaba por la calle, junto á la esquina de aquella, é iba camino de su casa,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en amores y casa. Inicia con “Por tanto he salido á encontrarte, buscando diligentemente tu rostro, y te he hallado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 7, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en ella y caminos. Inicia con “Vase en pos de ella luego, como va el buey al degolladero, y como el loco á las prisiones para ser castigado;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 6,
+      "significance": "La recurrencia de “casa” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 7."
     },
     {
-      "word": "Motivo literario",
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 7."
+    },
+    {
+      "word": "guarda",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “guarda” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 7."
+    },
+    {
+      "word": "razones",
+      "count": 2,
+      "significance": "La recurrencia de “razones” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 7."
     }
   ]
 }

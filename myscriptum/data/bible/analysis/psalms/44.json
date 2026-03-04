@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 44",
+  "title": "Análisis Estructural de Salmos 44",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 44.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en nuestros y espada. Inicia con “Al Músico principal: de los hijos de Coré: Masquil. OH Dios, con nuestros oídos hemos oído, nuestros padres nos han contado, la obra que hi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en nuestros y pusistenos. Inicia con “En Dios nos gloriaremos todo tiempo, y para siempre loaremos tu nombre. (Selah.)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en hemos y olvidado. Inicia con “Pusístenos por proverbio entre las gentes, por movimiento de cabeza en los pueblos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en nuestra y despierta. Inicia con “¿No demandaría Dios esto? porque él conoce los secretos del corazón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 44, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuestros",
+      "count": 8,
+      "significance": "La recurrencia de “nuestros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 44."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hemos",
+      "count": 3,
+      "significance": "La recurrencia de “hemos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 44."
+    },
+    {
+      "word": "gentes",
+      "count": 3,
+      "significance": "La recurrencia de “gentes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 44."
+    },
+    {
+      "word": "rostro",
+      "count": 3,
+      "significance": "La recurrencia de “rostro” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 44."
     }
   ]
 }

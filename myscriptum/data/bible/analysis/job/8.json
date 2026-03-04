@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en pervertira y derecho. Inicia con “Y RESPONDIÓ Bildad Suhita, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en crece y principio. Inicia con “Y tu principio habrá sido pequeño, y tu postrimería acrecerá en gran manera.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en esperanza y casa. Inicia con “Aun él en su verdor no será cortado, y antes de toda hierba se secará.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en arrancaren y lugar. Inicia con “Si le arrancaren de su lugar, éste negarále entonces, diciendo*: Nunca te vi.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "lugar",
+      "count": 3,
+      "significance": "La recurrencia de “lugar” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 8."
     },
     {
-      "word": "Motivo literario",
+      "word": "tales",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “tales” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 8."
+    },
+    {
+      "word": "palabras",
+      "count": 2,
+      "significance": "La recurrencia de “palabras” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 8."
+    },
+    {
+      "word": "boca",
+      "count": 2,
+      "significance": "La recurrencia de “boca” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 8."
     }
   ]
 }

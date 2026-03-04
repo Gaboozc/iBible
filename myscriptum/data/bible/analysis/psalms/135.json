@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 135",
+  "title": "Análisis Estructural de Salmos 135",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 135.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en alabad y nombre. Inicia con “Aleluya. ALABAD el nombre de Jehová; alabadle*, siervos de Jehová;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 135, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en hirio y egipto. Inicia con “El hace subir las nubes del cabo de la tierra; él hizo los relámpagos para la lluvia; él saca los vientos de sus tesoros.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 135, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en heredad y pueblo. Inicia con “Y dió la tierra de ellos en heredad, en heredad á Israel su pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 135, esta sección refuerza fidelidad del pacto y promesas divinas, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en bendecid y casa. Inicia con “Tienen orejas, y no oyen; tampoco hay espíritu en sus bocas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 135, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 5,
+      "significance": "La recurrencia de “casa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 135."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 135."
+    },
+    {
+      "word": "bendecid",
+      "count": 4,
+      "significance": "La recurrencia de “bendecid” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 135."
+    },
+    {
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 135."
     }
   ]
 }

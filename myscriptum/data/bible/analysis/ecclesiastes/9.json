@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 9",
+  "title": "Análisis Estructural de Eclesiastés 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en todo y corazon. Inicia con “CIERTAMENTE dado he mi corazón á todas estas cosas, para declarar todo esto: que los justos y los sabios, y sus obras, están en la mano de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en debajo y vida. Inicia con “También su amor, y su odio y su envidia, feneció ya: ni tiene ya más parte en el siglo, en todo lo que se hace debajo del sol.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en tiempo y ella. Inicia con “Todo lo que te viniere á la mano para hacer, hazlo según tus fuerzas; porque en el sepulcro, adonde tú vas, no hay obra, ni industria, ni c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en pobre y sabiduria. Inicia con “Y hállase en ella un hombre pobre, sabio, el cual libra la ciudad con su sabiduría; y nadie se acordaba de aquel pobre hombre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todo",
+      "count": 8,
+      "significance": "La recurrencia de “todo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "debajo",
+      "count": 6,
+      "significance": "La recurrencia de “debajo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 9."
+    },
+    {
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 9."
+    },
+    {
+      "word": "sabiduria",
+      "count": 5,
+      "significance": "La recurrencia de “sabiduria” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 9."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 28",
+  "title": "Análisis Estructural de Mateo 28",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 28.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en maria y angel. Inicia con “Y LA víspera de sábado, que amanece para el primer día de la semana, vino María Magdalena, y la otra María, á ver el sepulcro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en aqui y discipulos. Inicia con “No está aquí; porque ha resucitado, como dijo. Venid, ved el lugar donde fué puesto el Señor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en vinieron y dieron. Inicia con “Y yendo ellas, he aquí unos de la guardia vinieron á la ciudad, y dieron aviso á los príncipes de los sacerdotes de todas las cosas que hab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 28, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en jesus y todos. Inicia con “Mas los once discípulos se fueron á Galilea, al monte donde Jesús les había ordenado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 28, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 7,
+      "significance": "La recurrencia de “aqui” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 28."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 5,
+      "significance": "La recurrencia de “jesus” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 28."
+    },
+    {
+      "word": "discipulos",
+      "count": 5,
+      "significance": "La recurrencia de “discipulos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 28."
+    },
+    {
+      "word": "galilea",
+      "count": 3,
+      "significance": "La recurrencia de “galilea” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 28."
     }
   ]
 }

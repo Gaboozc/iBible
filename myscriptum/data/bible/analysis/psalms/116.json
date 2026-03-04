@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 116",
+  "title": "Análisis Estructural de Salmos 116",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 116.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en oido y pues. Inicia con “AMO á Jehová, pues ha oído mi voz y mis súplicas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 116, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en alma y guarda. Inicia con “Jehová guarda á los sinceros: estaba yo postrado, y salvóme.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 116, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en todo y pagare. Inicia con “Y dije en mi apresuramiento: Todo hombre es mentiroso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 116, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en siervo y hijo. Inicia con “Oh Jehová, que yo soy tu siervo, yo tu siervo, hijo de tu sierva: rompiste mis prisiones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 116, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "muerte",
+      "count": 3,
+      "significance": "La recurrencia de “muerte” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 116."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 116."
+    },
+    {
+      "word": "ahora",
+      "count": 3,
+      "significance": "La recurrencia de “ahora” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 116."
+    },
+    {
+      "word": "alma",
+      "count": 3,
+      "significance": "La recurrencia de “alma” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 116."
     }
   ]
 }

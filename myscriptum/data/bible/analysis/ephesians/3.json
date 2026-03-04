@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ephesians 3",
+  "title": "Análisis Estructural de Efesios 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en cristo y misterio. Inicia con “POR esta causa yo Pablo, prisionero de Cristo Jesús por vosotros los Gentiles,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 3, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en gracia y todos. Inicia con “Del cual yo soy hecho ministro por el don de la gracia de Dios que me ha sido dado según la operación de su potencia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 3, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en causa y gloria. Inicia con “En el cual tenemos seguridad y entrada con confianza por la fe de él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en cristo y amor. Inicia con “Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Efesios 3, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 8,
+      "significance": "La recurrencia de “cristo” (8) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Efesios 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "misterio",
+      "count": 4,
+      "significance": "La recurrencia de “misterio” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 3."
+    },
+    {
+      "word": "causa",
+      "count": 3,
+      "significance": "La recurrencia de “causa” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Efesios 3."
+    },
+    {
+      "word": "jesus",
+      "count": 3,
+      "significance": "La recurrencia de “jesus” (3) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Efesios 3."
     }
   ]
 }

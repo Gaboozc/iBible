@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Romans 15",
+  "title": "Análisis Estructural de Romanos 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en cristo y nosotros. Inicia con “ASÍ que, los que somos más firmes debemos sobrellevar las flaquezas de los flacos, y no agradarnos á nosotros mismos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 15, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en gentiles y otra. Inicia con “Y otra vez dice: Alegraos, Gentiles, con su pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en cristo y manera. Inicia con “Porque no osaría hablar alguna cosa que Cristo no haya hecho por mí para la obediencia de los Gentiles, con la palabra y con las obras,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 15, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en santos y estan. Inicia con “Porque Macedonia y Acaya tuvieron por bien hacer una colecta para los pobres de los santos que están en Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 15, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gentiles",
+      "count": 10,
+      "significance": "La recurrencia de “gentiles” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cristo",
+      "count": 9,
+      "significance": "La recurrencia de “cristo” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Romanos 15."
+    },
+    {
+      "word": "antes",
+      "count": 4,
+      "significance": "La recurrencia de “antes” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 15."
+    },
+    {
+      "word": "escrito",
+      "count": 4,
+      "significance": "La recurrencia de “escrito” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 15."
     }
   ]
 }

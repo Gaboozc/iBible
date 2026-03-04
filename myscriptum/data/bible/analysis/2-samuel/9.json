@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 2-samuel 9",
+  "title": "Análisis Estructural de 2 Samuel 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en david y casa. Inicia con “Y DIJO David: ¿Ha quedado alguno de la casa de Saúl, á quien haga yo misericordia por amor de Jonathán?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en mephi y boseth. Inicia con “Y él inclinándose, dijo: ¿Quién es tu siervo, para que mires á un perro muerto como yo?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 9,
+      "significance": "La recurrencia de “hijo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siba",
+      "count": 8,
+      "significance": "La recurrencia de “siba” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 9."
+    },
+    {
+      "word": "casa",
+      "count": 7,
+      "significance": "La recurrencia de “casa” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 9."
+    },
+    {
+      "word": "saul",
+      "count": 7,
+      "significance": "La recurrencia de “saul” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 9."
     }
   ]
 }

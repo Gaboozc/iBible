@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y locales según el contexto",
+  "kingRegion": "Mediterráneo oriental",
   "activeProphets": [
-    "Profetas según el período"
+    "Jesús, apóstoles y líderes de la iglesia primitiva"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "1-corinthians capítulo 6 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
+  "location": "Judea, Asia Menor y mundo grecorromano",
+  "summary": "1 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Corintios 6, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cuerpo, sois, sabeis. Señales textuales: “¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos?” | “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…” | “Porque comprados sois por precio: glorificad pues á Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dio…”.",
+  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cuerpo, sois, sabeis. El núcleo del capítulo se percibe en “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…”."
 }

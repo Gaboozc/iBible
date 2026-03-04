@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hebrews 10",
+  "title": "Análisis Estructural de Hebreos 10",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en pecado y voluntad. Inicia con “PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 10, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-20",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en pecados y nunca. Inicia con “Así que, todo sacerdote se presenta cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los peca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 10, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en nuestra y cuanto. Inicia con “Y teniendo* un gran sacerdote sobre la casa de Dios,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en parte y hechos. Inicia con “Horrenda cosa es caer en las manos del Dios vivo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pecado",
+      "count": 5,
+      "significance": "La recurrencia de “pecado” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Hebreos 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pecados",
+      "count": 5,
+      "significance": "La recurrencia de “pecados” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Hebreos 10."
+    },
+    {
+      "word": "sacrificio",
+      "count": 4,
+      "significance": "La recurrencia de “sacrificio” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 10."
+    },
+    {
+      "word": "voluntad",
+      "count": 4,
+      "significance": "La recurrencia de “voluntad” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 10."
     }
   ]
 }

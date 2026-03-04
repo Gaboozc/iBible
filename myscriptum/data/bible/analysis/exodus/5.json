@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 5",
+  "title": "Análisis Estructural de Éxodo 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en faraon y pueblo. Inicia con “DESPUÉS entraron Moisés y Aarón á Faraón, y le dijeron: Jehová, el Dios de Israel, dice así: Deja ir á mi pueblo á celebrarme fiesta en el…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en paja y pueblo. Inicia con “De aquí adelante no daréis paja al pueblo para hacer ladrillo, como ayer y antes de ayer; vayan ellos y recojan por sí mismos la paja:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en diciendo y tarea. Inicia con “Y los cuadrilleros los apremiaban, diciendo: Acabad vuestra obra, la tarea del día en su día, como cuando se os daba paja.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en faraon y pueblo. Inicia con “Entonces los capataces de los hijos de Israel se vieron en aflicción, habiéndoseles dicho: No se disminuirá nada de vuestro ladrillo, de la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 12,
+      "significance": "La recurrencia de “pueblo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "faraon",
+      "count": 10,
+      "significance": "La recurrencia de “faraon” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 5."
+    },
+    {
+      "word": "paja",
+      "count": 8,
+      "significance": "La recurrencia de “paja” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 5."
+    },
+    {
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 5."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 20",
+  "title": "Análisis Estructural de Salmos 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en nombre y cumpla. Inicia con “Al Músico principal: Salmo de David. OIGATE Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-9",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en nosotros y ahora. Inicia con “Ahora echo de ver que Jehová guarda á su ungido: oirálo desde los cielos de su santidad, con la fuerza de la salvación de su diestra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 20."
     },
     {
-      "word": "Motivo literario",
+      "word": "nosotros",
+      "count": 3,
+      "significance": "La recurrencia de “nosotros” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 20."
+    },
+    {
+      "word": "memoria",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “memoria” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 20."
+    },
+    {
+      "word": "cumpla",
+      "count": 2,
+      "significance": "La recurrencia de “cumpla” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 20."
     }
   ]
 }

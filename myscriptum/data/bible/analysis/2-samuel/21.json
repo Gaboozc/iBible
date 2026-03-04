@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 21",
+  "title": "Análisis Estructural de 2 Samuel 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en gabaonitas y israel. Inicia con “Y EN los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl, y por aquella casa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en saul y hijo. Inicia con “Y perdonó el rey á Mephi-boseth, hijo de Jonathán, hijo de Saúl, por el juramento de Jehová que hubo entre ellos, entre David y Jonathán hi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en huesos y david. Inicia con “Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que los habían hurtado d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en hubo y otra. Inicia con “Otra segunda guerra hubo después en Gob contra los Filisteos: entonces Sibechâi Husathita hirió á Saph, que era de los hijos del gigante.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "saul",
+      "count": 13,
+      "significance": "La recurrencia de “saul” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 12,
+      "significance": "La recurrencia de “david” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 21."
+    },
+    {
+      "word": "hijo",
+      "count": 10,
+      "significance": "La recurrencia de “hijo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 21."
+    },
+    {
+      "word": "hijos",
+      "count": 9,
+      "significance": "La recurrencia de “hijos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 21."
     }
   ]
 }

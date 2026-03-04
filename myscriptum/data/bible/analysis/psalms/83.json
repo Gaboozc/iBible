@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 83",
+  "title": "Análisis Estructural de Salmos 83",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 83.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en pueblo y contra. Inicia con “Canción: Salmo de Asaph. OH Dios, no tengas silencio: no calles, oh Dios, ni te estés quieto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 83, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en pabellones y idumeos. Inicia con “Los pabellones de los Idumeos y de los Ismaelitas, Moab y los Agarenos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 83, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en perecieron y endor. Inicia con “Que perecieron en Endor, fueron hechos muladar de la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 83, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en nombre y sean. Inicia con “Persíguelos así con tu tempestad, y asómbralos con tu torbellino.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 83, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nombre",
+      "count": 3,
+      "significance": "La recurrencia de “nombre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 83."
     },
     {
-      "word": "Motivo literario",
+      "word": "pueblo",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “pueblo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 83."
+    },
+    {
+      "word": "contra",
+      "count": 2,
+      "significance": "La recurrencia de “contra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 83."
+    },
+    {
+      "word": "dicho",
+      "count": 2,
+      "significance": "La recurrencia de “dicho” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 83."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Zechariah 1",
+  "title": "Análisis Estructural de Zacarías 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en vuestros y ejercitos. Inicia con “EN el mes octavo, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en mirtos y tierra. Inicia con “A los veinticuatro del mes undécimo, que es el mes de Sebath, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en jerusalem y angel. Inicia con “Y respondió el ángel de Jehová, y dijo: Oh Jehová de los ejércitos, ¿hasta cuándo no tendrás piedad de Jerusalem, y de las ciudades de Judá…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en cuernos y juda. Inicia con “Clama aún, diciendo: Así dice Jehová de los ejércitos: Aun serán ensanchadas mis ciudades por la abundancia del bien; y aun consolará Jehov…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ejercitos",
+      "count": 9,
+      "significance": "La recurrencia de “ejercitos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "diciendo",
+      "count": 6,
+      "significance": "La recurrencia de “diciendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 1."
+    },
+    {
+      "word": "angel",
+      "count": 6,
+      "significance": "La recurrencia de “angel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 1."
+    },
+    {
+      "word": "jerusalem",
+      "count": 6,
+      "significance": "La recurrencia de “jerusalem” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 1."
     }
   ]
 }

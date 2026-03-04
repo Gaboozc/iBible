@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, Library, BarChart3 } from 'lucide-react';
+import { Home, Library, BarChart3, BookMarked } from 'lucide-react';
 import { useLanguage } from '@/lib/contexts/LanguageContext';
 
 export function MobileNav() {
@@ -12,6 +12,7 @@ export function MobileNav() {
   const navItems = [
     { href: '/home', icon: Home, label: t('nav.home') },
     { href: '/library', icon: Library, label: t('nav.library') },
+    { href: '/my-notes', icon: BookMarked, label: 'Notes' },
     { href: '/progress', icon: BarChart3, label: t('nav.progress') },
   ];
 

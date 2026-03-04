@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 10",
+  "title": "Análisis Estructural de Lucas 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en casa y ciudad. Inicia con “Y DESPUÉS de estas cosas, designó el Señor aun otros setenta, los cuales envió de dos en dos delante de sí, á toda ciudad y lugar á donde é…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en desecha y tendran. Inicia con “Y os digo que los de Sodoma tendrán más remisión aquel día, que aquella ciudad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-32",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 32 con foco léxico en padre y hijo. Inicia con “Todas las cosas me son entregadas de mi Padre: y nadie sabe quién sea el Hijo sino el Padre; ni quién sea el Padre, sino el Hijo, y á quien…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "33-42",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 33 al 42 con foco léxico en marta y jesus. Inicia con “Mas un Samaritano que transitaba, viniendo cerca de él, y viéndole, fué movido á misericordia;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 6,
+      "significance": "La recurrencia de “casa” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 10."
+    },
+    {
+      "word": "jesus",
+      "count": 6,
+      "significance": "La recurrencia de “jesus” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 10."
+    },
+    {
+      "word": "ciudad",
+      "count": 5,
+      "significance": "La recurrencia de “ciudad” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 10."
     }
   ]
 }

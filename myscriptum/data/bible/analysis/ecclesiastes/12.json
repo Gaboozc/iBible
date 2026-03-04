@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 12",
+  "title": "Análisis Estructural de Eclesiastés 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en antes y dias. Inicia con “Y ACUÉRDATE de tu Criador en los días de tu juventud, antes que vengan los malos días, y lleguen los años, de los cuales digas, No tengo en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-14",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en predicador y todo. Inicia con “Vanidad de vanidades, dijo el Predicador, todo vanidad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 12, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "antes",
+      "count": 3,
+      "significance": "La recurrencia de “antes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "predicador",
+      "count": 3,
+      "significance": "La recurrencia de “predicador” (3) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Eclesiastés 12."
+    },
+    {
+      "word": "todo",
+      "count": 3,
+      "significance": "La recurrencia de “todo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 12."
+    },
+    {
+      "word": "palabras",
+      "count": 3,
+      "significance": "La recurrencia de “palabras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 12."
     }
   ]
 }

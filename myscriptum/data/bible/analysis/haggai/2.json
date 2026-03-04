@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Haggai 2",
+  "title": "Análisis Estructural de Hageo 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en dice y ahora. Inicia con “EN el mes* séptimo, á los veinte y uno del mes*, fué palabra de Jehová por mano del profeta Haggeo, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hageo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en ejercitos y dicho. Inicia con “Y haré temblar á todas las gentes, y vendrá el Deseado de todas las gentes; y henchiré esta casa de gloria, ha dicho Jehová de los ejército…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hageo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en poned y vuestro. Inicia con “Y dijo Haggeo: Si un inmundo á causa de cuerpo muerto tocare alguna cosa de éstas, ¿será inmunda? Y respondieron los sacerdotes, y dijeron:…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hageo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en dice y diciendo. Inicia con “¿Aun no está la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el árbol de la oliva ha todavía florecido: mas desde aq…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hageo 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 11,
+      "significance": "La recurrencia de “dice” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hageo 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ejercitos",
+      "count": 9,
+      "significance": "La recurrencia de “ejercitos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hageo 2."
+    },
+    {
+      "word": "diciendo",
+      "count": 6,
+      "significance": "La recurrencia de “diciendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hageo 2."
+    },
+    {
+      "word": "ahora",
+      "count": 6,
+      "significance": "La recurrencia de “ahora” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hageo 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 6",
+  "title": "Análisis Estructural de Lucas 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en sabado y hombre. Inicia con “Y ACONTECIÓ que pasando él por los sembrados en un sábado segundo del primero, sus discípulos arrancaban espigas, y comían, restregándolas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en bienaventurados y vuestro. Inicia con “A Simón, al cual también llamó Pedro, y á Andrés su hermano, Jacobo y Juan, Felipe y Bartolomé,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-37",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 37 con foco léxico en bien y pecadores. Inicia con “¡Ay de vosotros, cuando todos los hombres dijeren bien de vosotros! porque así hacían sus padres á los falsos profetas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "38-49",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 38 al 49 con foco léxico en hermano y buen. Inicia con “Dad, y se os dará; medida buena, apretada, remecida, y rebosando darán en vuestro seno: porque con la misma medida que midiereis, os será v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 9,
+      "significance": "La recurrencia de “hombre” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "bien",
+      "count": 8,
+      "significance": "La recurrencia de “bien” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 6."
+    },
+    {
+      "word": "vuestro",
+      "count": 7,
+      "significance": "La recurrencia de “vuestro” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 6."
+    },
+    {
+      "word": "hermano",
+      "count": 6,
+      "significance": "La recurrencia de “hermano” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 6."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezra 2",
+  "title": "Análisis Estructural de Esdras 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-18",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 18 con foco léxico en hijos y setenta. Inicia con “Y ESTOS son los hijos de la provincia que subieron de la cautividad, de la transmigración que Nabucodonosor rey de Babilonia hizo traspasar…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "19-35",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 19 al 35 con foco léxico en hijos y veinte. Inicia con “Los hijos de Hasum, doscientos veinte y tres;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "36-53",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 36 al 53 con foco léxico en hijos y jesua. Inicia con “Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "54-70",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 54 al 70 con foco léxico en hijos y siervos. Inicia con “Los hijos de Nesía, los hijos de Hatipha.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 99,
+      "significance": "La recurrencia de “hijos” (99) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "veinte",
+      "count": 13,
+      "significance": "La recurrencia de “veinte” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 2."
+    },
+    {
+      "word": "cincuenta",
+      "count": 9,
+      "significance": "La recurrencia de “cincuenta” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 2."
+    },
+    {
+      "word": "ciento",
+      "count": 8,
+      "significance": "La recurrencia de “ciento” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 2."
     }
   ]
 }

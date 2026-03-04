@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 31",
+  "title": "Análisis Estructural de Salmos 31",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 31.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en esperado y librame. Inicia con “Al Músico principal: Salmo de David. EN ti, oh Jehová, he esperado; no sea yo confundido para siempre: líbrame en tu justicia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en misericordia y alma. Inicia con “Me gozaré y alegraré en tu misericordia; porque has visto mi aflicción; has conocido mi alma en las angustias.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 31, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en contra y mano. Inicia con “Porque he oído afrenta de muchos; miedo por todas partes, cuando consultaban juntos contra mí, é ideaban quitarme la vida.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en delante y todos. Inicia con “¡Cuán grande es tu bien, que has guardado para los que te temen, que has obrado para los que esperan en ti, delante de los hijos de los hom…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mano",
+      "count": 4,
+      "significance": "La recurrencia de “mano” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 31."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "misericordia",
+      "count": 4,
+      "significance": "La recurrencia de “misericordia” (4) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 31."
+    },
+    {
+      "word": "librame",
+      "count": 3,
+      "significance": "La recurrencia de “librame” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 31."
+    },
+    {
+      "word": "eres",
+      "count": 3,
+      "significance": "La recurrencia de “eres” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 31."
     }
   ]
 }

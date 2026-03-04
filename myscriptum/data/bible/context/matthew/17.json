@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Herodes/autoridades romanas en Judea",
+  "kingRegion": "Judea y Galilea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús como Mesías"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Matthew capítulo 17 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Israel del siglo I",
+  "summary": "Mateo presenta a Jesús como Mesías davídico y cumplimiento de la Escritura. En Mateo 17, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesus, aqui, elias. Señales textuales: “Y DESPUÉS de seis días, Jesús toma á Pedro, y á Jacobo, y á Juan su hermano, y los lleva aparte á un monte alto:” | “Y como ellos llegaron al gentío, vino á él un hombre hincándosele de rodillas,” | “Mas porque no los escandalicemos, ve á la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boc…”.",
+  "spiritualContext": "Reino de los cielos, discipulado y justicia superior en continuidad con la Ley y los Profetas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jesus, aqui, elias. El núcleo del capítulo se percibe en “Y como ellos llegaron al gentío, vino á él un hombre hincándosele de rodillas,”."
 }

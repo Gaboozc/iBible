@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 72",
+  "title": "Análisis Estructural de Salmos 72",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 72.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en justicia y pueblo. Inicia con “Para Salomón. OH Dios, da tus juicios al rey, y tu justicia al hijo del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 72, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en tierra y reyes. Inicia con “Descenderá como la lluvia sobre la hierba cortada; como el rocío que destila sobre* la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 72, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en menesteroso y almas. Inicia con “Y arrodillarse han á él todos los reyes; le servirán todas las gentes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 72, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tierra y nombre. Inicia con “Será echado* un puño de grano en tierra, en las cumbres de los montes; su fruto hará ruido como el Líbano, y los de la ciudad florecerán co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 72, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 72."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "justicia",
+      "count": 4,
+      "significance": "La recurrencia de “justicia” (4) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 72."
+    },
+    {
+      "word": "pueblo",
+      "count": 3,
+      "significance": "La recurrencia de “pueblo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 72."
+    },
+    {
+      "word": "menesteroso",
+      "count": 3,
+      "significance": "La recurrencia de “menesteroso” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 72."
     }
   ]
 }

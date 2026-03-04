@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Micah 6",
+  "title": "Análisis Estructural de Miqueas 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en montes y tierra. Inicia con “OID ahora lo que dice Jehová: Levántate, pleitea con los montes, y oigan los collados tu voz.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en pueblo y acuerdate. Inicia con “Pueblo mío, acuérdate ahora qué aconsejó Balac rey de Moab, y qué le respondió Balaam, hijo de Beor, desde Sittim hasta Gilgal, para que co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en clama y ciudad. Inicia con “La voz de Jehová clama á la ciudad, y el sabio mirará á tu nombre. Oid la vara, y á quien la establece.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en enflaquecere y hiriendote. Inicia con “Por eso yo también te enflaqueceré hiriéndote, asolándote por tus pecados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 4,
+      "significance": "La recurrencia de “pueblo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 6."
     },
     {
-      "word": "Motivo literario",
+      "word": "casa",
+      "count": 3,
+      "significance": "La recurrencia de “casa” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 6."
+    },
+    {
+      "word": "ahora",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “ahora” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 6."
+    },
+    {
+      "word": "montes",
+      "count": 2,
+      "significance": "La recurrencia de “montes” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 6."
     }
   ]
 }

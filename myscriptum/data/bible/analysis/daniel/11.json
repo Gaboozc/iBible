@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Daniel 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en hara y reino. Inicia con “Y EN el año primero de Darío el de Media, yo estuve para animarlo y fortalecerlo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en hara y vendra. Inicia con “Y el rey del norte volverá á poner en campo mayor multitud que primero, y á cabo del tiempo de años vendrá á gran priesa con grande ejércit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-34",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 34 con foco léxico en hara y contra. Inicia con “Estando la provincia en paz y en abundancia, entrará y hará lo que no hicieron sus padres, ni los padres de sus padres; presa, y despojos,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "35-45",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 35 al 45 con foco léxico en muchos y caeran. Inicia con “Y algunos de los sabios caerán para ser purgados, y limpiados, y emblanquecidos, hasta el tiempo determinado: porque aun para esto hay plaz…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hara",
+      "count": 16,
+      "significance": "La recurrencia de “hara” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "contra",
+      "count": 11,
+      "significance": "La recurrencia de “contra” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 11."
+    },
+    {
+      "word": "mediodia",
+      "count": 10,
+      "significance": "La recurrencia de “mediodia” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 11."
+    },
+    {
+      "word": "vendra",
+      "count": 9,
+      "significance": "La recurrencia de “vendra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 11."
     }
   ]
 }

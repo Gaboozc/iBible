@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 36",
+  "title": "Análisis Estructural de Éxodo 36",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en obra y corazon. Inicia con “HIZO, pues, Bezaleel y Aholiab, y todo hombre sabio de corazón, á quien Jehová dió sabiduría é inteligencia para que supiesen hacer toda la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en hizo y cortina. Inicia con “E hizo las lazadas de color de jacinto en la orilla de la una cortina, en el borde, á la juntura; y así hizo en la orilla al borde de la se…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en hizo y tablas. Inicia con “Además hizo las tablas para el tabernáculo de madera de Sittim, para estar derechas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en hizo y tablas. Inicia con “Eran, pues, ocho tablas, y sus basas de plata dieciséis; dos basas debajo de cada tabla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hizo",
+      "count": 26,
+      "significance": "La recurrencia de “hizo” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tablas",
+      "count": 14,
+      "significance": "La recurrencia de “tablas” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 36."
+    },
+    {
+      "word": "tabernaculo",
+      "count": 13,
+      "significance": "La recurrencia de “tabernaculo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 36."
+    },
+    {
+      "word": "obra",
+      "count": 12,
+      "significance": "La recurrencia de “obra” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 36."
     }
   ]
 }

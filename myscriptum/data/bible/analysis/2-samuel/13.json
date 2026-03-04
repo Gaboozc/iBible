@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 13",
+  "title": "Análisis Estructural de 2 Samuel 13",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en amnon y thamar. Inicia con “ACONTECIÓ después de esto, que teniendo Absalom hijo de David una hermana hermosa que se llamaba Thamar, enamoróse de ella Amnón hijo de Da…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en ella y hermano. Inicia con “Y como ella se las puso delante para que comiese, él trabó de ella, diciéndole: Ven, hermana mía acuéstate conmigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en absalom y amnon. Inicia con “Y luego que el rey David oyó todo esto, fué muy enojado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-39",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 39 con foco léxico en todos y absalom. Inicia con “Entonces levantándose David, rasgó sus vestidos, y echóse en tierra, y todos sus criados, rasgados sus vestidos, estaban delante.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "amnon",
+      "count": 26,
+      "significance": "La recurrencia de “amnon” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "absalom",
+      "count": 21,
+      "significance": "La recurrencia de “absalom” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 13."
+    },
+    {
+      "word": "thamar",
+      "count": 13,
+      "significance": "La recurrencia de “thamar” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 13."
+    },
+    {
+      "word": "todos",
+      "count": 13,
+      "significance": "La recurrencia de “todos” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 13."
     }
   ]
 }

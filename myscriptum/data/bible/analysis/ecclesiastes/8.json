@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ecclesiastes 8",
+  "title": "Análisis Estructural de Eclesiastés 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en sabio y hara. Inicia con “¿QUIÉN como el sabio? ¿y quién como* el que sabe la declaración de las cosas? La sabiduría del hombre hará relucir su rostro, y mudaráse la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en hombre y todo. Inicia con “Porque para todo lo que quisieres hay tiempo y juicio; mas el trabajo del hombre es grande sobre él;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en bien y esto. Inicia con “Esto vi también: que los impíos sepultados vinieron aún en memoria*; mas los que partieron del lugar santo, fueron luego puestos en olvido…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en hace y obras. Inicia con “Hay vanidad que se hace sobre la tierra: que hay justos á quienes sucede como si hicieran* obras de impíos; y hay impíos á quienes acaece c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Eclesiastés 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 8,
+      "significance": "La recurrencia de “hombre” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 5,
+      "significance": "La recurrencia de “todo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 8."
+    },
+    {
+      "word": "esto",
+      "count": 5,
+      "significance": "La recurrencia de “esto” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 8."
+    },
+    {
+      "word": "corazon",
+      "count": 4,
+      "significance": "La recurrencia de “corazon” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Eclesiastés 8."
     }
   ]
 }

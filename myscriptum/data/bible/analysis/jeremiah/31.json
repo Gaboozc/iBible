@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 31",
+  "title": "Análisis Estructural de Jeremías 31",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 31.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en israel y pueblo. Inicia con “EN aquel tiempo, dice Jehová, yo seré por Dios á todos los linajes de Israel, y ellos me serán á mí por pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
       "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en dice y hijos. Inicia con “Porque Jehová redimió á Jacob, redimiólo de mano del más fuerte que él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en israel y ciudades. Inicia con “Establécete señales, ponte majanos altos; nota atentamente la calzada, el camino por donde viniste: vuélvete, virgen de Israel, vuélvete á…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en dice y dias. Inicia con “He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Jacob y con la casa de Judá:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 14,
+      "significance": "La recurrencia de “dice” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 31."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 12,
+      "significance": "La recurrencia de “israel” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 31."
+    },
+    {
+      "word": "dicho",
+      "count": 7,
+      "significance": "La recurrencia de “dicho” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 31."
+    },
+    {
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 31."
     }
   ]
 }

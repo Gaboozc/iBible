@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades herodianas y romanas",
+  "kingRegion": "Galilea y Judea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Mark capítulo 4 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie durante los eventos",
+  "location": "Principalmente Galilea, camino a Jerusalén",
+  "summary": "Marcos enfatiza acción, autoridad y sufrimiento del Siervo-Mesías. En Marcos 4, el capítulo contiene 41 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: tierra, palabra, luego. Señales textuales: “Y OTRA vez comenzó á enseñar junto á la mar, y se juntó á él mucha gente; tanto, que entrándose él en un barco, se sent…” | “También les dijo: ¿Tráese la antorcha para ser puesta debajo del almud, ó debajo de la cama? ¿No es* para ser puesta en…” | “Y temieron con gran temor, y decían el uno al otro. ¿Quién es éste, que aun el viento y la mar le obedecen?”.",
+  "spiritualContext": "Llama a seguir a Cristo en fe, humildad y entrega de la cruz. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan tierra, palabra, luego. El núcleo del capítulo se percibe en “También les dijo: ¿Tráese la antorcha para ser puesta debajo del almud, ó debajo de la cama? ¿No es* para ser puesta en…”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 1",
+  "title": "Análisis Estructural de 1 Reyes 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en adonia y hijo. Inicia con “COMO el rey David era viejo, y entrado en días, cubríanle de vestidos, mas no se calentaba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-27",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 27 con foco léxico en senor y salomon. Inicia con “Entonces Bath-sheba entró al rey á la cámara: y el rey era muy viejo; y Abisag Sunamita servía al rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "28-40",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 28 al 40 con foco léxico en salomon y david. Inicia con “Entonces el rey David respondió, y dijo: Llamadme á Bath-sheba. Y ella entró á la presencia del rey, y púsose delante del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "41-53",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 41 al 53 con foco léxico en salomon y adonia. Inicia con “Y oyólo Adonía, y todos los convidados que con él estaban, cuando ya habían acabado de comer. Y oyendo Joab el sonido de la trompeta, dijo:…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "salomon",
+      "count": 26,
+      "significance": "La recurrencia de “salomon” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 19,
+      "significance": "La recurrencia de “senor” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 1."
+    },
+    {
+      "word": "hijo",
+      "count": 16,
+      "significance": "La recurrencia de “hijo” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 1."
+    },
+    {
+      "word": "adonia",
+      "count": 15,
+      "significance": "La recurrencia de “adonia” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 1."
     }
   ]
 }

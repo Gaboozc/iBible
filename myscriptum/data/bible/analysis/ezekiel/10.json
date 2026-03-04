@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 10",
+  "title": "Análisis Estructural de Ezequiel 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en querubines y varon. Inicia con “Y MIRÉ, y he aquí en la expansión que había sobre la cabeza de los querubines como una piedra de zafiro, que parecía como semejanza de un t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en querubines y andaban. Inicia con “Y un querubín extendió su mano de entre los querubines al fuego que estaba entre los querubines, y tomó, y puso en las palmas del que estab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en ruedas y rostro. Inicia con “Y toda su carne, y sus costillas, y sus manos, y sus alas, y las ruedas, lleno estaba de ojos alrededor en sus cuatro ruedas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en querubines y alas. Inicia con “Y la gloria de Jehová se salió de sobre el umbral de la casa, y paró sobre los querubines.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "querubines",
+      "count": 16,
+      "significance": "La recurrencia de “querubines” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ruedas",
+      "count": 11,
+      "significance": "La recurrencia de “ruedas” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 10."
+    },
+    {
+      "word": "alas",
+      "count": 7,
+      "significance": "La recurrencia de “alas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 10."
+    },
+    {
+      "word": "cuatro",
+      "count": 7,
+      "significance": "La recurrencia de “cuatro” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 10."
     }
   ]
 }

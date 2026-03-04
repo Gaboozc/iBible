@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y religiosas judías",
+  "kingRegion": "Judea y Galilea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "John capítulo 14 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo activo durante la narrativa",
+  "location": "Jerusalén y Galilea",
+  "summary": "Juan presenta señales y discursos para afirmar que Jesús es el Hijo de Dios. En Juan 14, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: padre, mundo, dicho. Señales textuales: “NO se turbe vuestro corazón: creéis en Dios, creed también en mí.” | “Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre:” | “Empero para que conozca el mundo que amo al Padre, y como el Padre me dió el mandamiento, así hago. Levantaos, vamos de…”.",
+  "spiritualContext": "Vida eterna, nuevo nacimiento, amor y unidad con Cristo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan padre, mundo, dicho. El núcleo del capítulo se percibe en “Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre:”."
 }

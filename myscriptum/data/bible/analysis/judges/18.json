@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 18",
+  "title": "Análisis Estructural de Jueces 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en habia y hombres. Inicia con “EN aquellos días no había rey en Israel. Y en aquellos días la tribu de Dan buscaba posesión para sí donde morase, porque hasta entonces no…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en tierra y hombres. Inicia con “Levantaos, subamos contra ellos; porque nosotros hemos explorado la región, y hemos visto que es muy buena: ¿y vosotros os estáis quedos? n…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en sacerdote y imagen. Inicia con “Y subiendo los cinco hombres que habían ido á reconocer la tierra, entraron allá, y tomaron la imagen de talla, y el ephod, y el teraphim,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en ciudad y hijos. Inicia con “Y los hijos de Dan le dijeron: No des voces tras nosotros, no sea que los de ánimo colérico os acometan, y pierdas también tu vida, y la vi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "michas",
+      "count": 12,
+      "significance": "La recurrencia de “michas” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 11,
+      "significance": "La recurrencia de “casa” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 18."
+    },
+    {
+      "word": "hombres",
+      "count": 9,
+      "significance": "La recurrencia de “hombres” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 18."
+    },
+    {
+      "word": "sacerdote",
+      "count": 9,
+      "significance": "La recurrencia de “sacerdote” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 18."
     }
   ]
 }

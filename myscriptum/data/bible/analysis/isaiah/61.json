@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 61",
+  "title": "Análisis Estructural de Isaías 61",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 61.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en gloria y lugar. Inicia con “EL espíritu del Señor Jehová es sobre mí, porque me ungió Jehová; hame enviado á predicar buenas nuevas á los abatidos, á vendar á los queb…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 61, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en simiente y perpetuo. Inicia con “En lugar de vuestra doble confusión, y de vuestra deshonra, os alabarán en sus heredades; por lo cual en sus tierras poseerán doblado, y te…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 61, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "lugar",
+      "count": 4,
+      "significance": "La recurrencia de “lugar” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 61."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gloria",
+      "count": 3,
+      "significance": "La recurrencia de “gloria” (3) señala revelación, santidad y gloria de Dios y ayuda a rastrear el hilo argumental de Isaías 61."
+    },
+    {
+      "word": "justicia",
+      "count": 3,
+      "significance": "La recurrencia de “justicia” (3) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 61."
+    },
+    {
+      "word": "sereis",
+      "count": 3,
+      "significance": "La recurrencia de “sereis” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 61."
     }
   ]
 }

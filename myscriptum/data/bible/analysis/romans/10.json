@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Romans 10",
+  "title": "Análisis Estructural de Romanos 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en justicia y corazon. Inicia con “HERMANOS, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 10, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en boca y corazon. Inicia con “O, ¿quién descenderá al abismo? (esto es, para volver á traer á Cristo de los muertos.)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en senor y todos. Inicia con “Porque no hay diferencia de Judío y de Griego: porque el mismo que es Señor de todos, rico es para con todos los que le invocan:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en dice y digo. Inicia con “Luego la fe es por el oir; y el oir por la palabra de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 7,
+      "significance": "La recurrencia de “dice” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "justicia",
+      "count": 6,
+      "significance": "La recurrencia de “justicia” (6) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Romanos 10."
+    },
+    {
+      "word": "corazon",
+      "count": 5,
+      "significance": "La recurrencia de “corazon” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 10."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 10."
     }
   ]
 }

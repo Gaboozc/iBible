@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 12",
+  "title": "Análisis Estructural de 2 Corintios 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en cuerpo y hombre. Inicia con “CIERTO no me es conveniente gloriarme; mas vendré á las visiones y á las revelaciones del Señor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en potencia y flaquezas. Inicia con “Y porque la grandeza de las revelaciones no me levante descomedidamente, me es dado un aguijón en mi carne, un mensajero de Satanás que me…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en sino y sido. Inicia con “Con todo esto, las señales de apóstol han sido hechas entre vosotros en toda paciencia, en señales, y en prodigios, y en maravillas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en tito y haya. Inicia con “¿Acaso os he engañado por alguno de los que he enviado á vosotros?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sino",
+      "count": 5,
+      "significance": "La recurrencia de “sino” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cristo",
+      "count": 4,
+      "significance": "La recurrencia de “cristo” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Corintios 12."
+    },
+    {
+      "word": "cuerpo",
+      "count": 4,
+      "significance": "La recurrencia de “cuerpo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 12."
+    },
+    {
+      "word": "sido",
+      "count": 4,
+      "significance": "La recurrencia de “sido” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 12."
     }
   ]
 }

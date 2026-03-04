@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 9",
+  "title": "Análisis Estructural de Nehemías 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en tierra y cielos. Inicia con “Y EL día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en columna y camino. Inicia con “Y dividiste la mar delante de ellos, y pasaron por medio de ella en seco; y á sus perseguidores echaste en los profundos, como una piedra e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en tierra y mano. Inicia con “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en nuestros y todo. Inicia con “Y alargaste sobre ellos muchos años, y protestásteles con tu espíritu por mano de tus profetas, mas no escucharon; por lo cual los entregas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuestros",
+      "count": 17,
+      "significance": "La recurrencia de “nuestros” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 15,
+      "significance": "La recurrencia de “tierra” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 9."
+    },
+    {
+      "word": "todo",
+      "count": 9,
+      "significance": "La recurrencia de “todo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 9."
+    },
+    {
+      "word": "mano",
+      "count": 8,
+      "significance": "La recurrencia de “mano” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 9."
     }
   ]
 }

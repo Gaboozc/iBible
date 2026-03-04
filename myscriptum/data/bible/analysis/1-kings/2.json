@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 2",
+  "title": "Análisis Estructural de 1 Reyes 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en hijo y david. Inicia con “Y LLEGÁRONSE los días de David para morir, y mandó á Salomón su hijo, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en ella y adonia. Inicia con “Entonces Adonía hijo de Haggith vino á Bath-sheba madre de Salomón; y ella dijo: ¿Es tu venida de paz? Y él respondió: Sí*, de paz.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en joab y benaia. Inicia con “Ahora pues, vive Jehová, que me ha confirmado y me ha puesto sobre el trono de David mi padre, y que me ha hecho casa, como me había dicho,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en semei y gath. Inicia con “Después envió el rey, é hizo venir á Semei, y díjole: Edifícate una casa en Jerusalem, y mora ahí, y no salgas de allá á una parte ni á otr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 16,
+      "significance": "La recurrencia de “hijo” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "salomon",
+      "count": 14,
+      "significance": "La recurrencia de “salomon” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 2."
+    },
+    {
+      "word": "david",
+      "count": 11,
+      "significance": "La recurrencia de “david” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 2."
+    },
+    {
+      "word": "semei",
+      "count": 11,
+      "significance": "La recurrencia de “semei” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 2."
     }
   ]
 }

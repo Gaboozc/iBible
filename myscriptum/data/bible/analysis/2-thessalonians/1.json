@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de 2-thessalonians 1",
+  "title": "Análisis Estructural de 2 Tesalonicenses 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en padre y senor. Inicia con “PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es* en Dios nuestro Padre y en el Señor Jesucristo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en senor y potencia. Inicia con “Y á vosotros, que sois atribulados, dar* reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los ángeles de su potencia,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 7,
+      "significance": "La recurrencia de “senor” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 1."
     },
     {
-      "word": "Motivo literario",
+      "word": "jesucristo",
+      "count": 5,
+      "significance": "La recurrencia de “jesucristo” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 1."
+    },
+    {
+      "word": "potencia",
+      "count": 3,
+      "significance": "La recurrencia de “potencia” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 1."
+    },
+    {
+      "word": "padre",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “padre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 1."
     }
   ]
 }

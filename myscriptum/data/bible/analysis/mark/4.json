@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 4",
+  "title": "Análisis Estructural de Marcos 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en otra y junto. Inicia con “Y OTRA vez comenzó á enseñar junto á la mar, y se juntó á él mucha gente; tanto, que entrándose él en un barco, se sentó en la mar: y toda…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en palabra y luego. Inicia con “Para que viendo, vean y no echen de ver; y oyendo, oigan y no entiendan: porque no se conviertan, y les sean perdonados los pecados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-31",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 31 con foco léxico en tiene y tierra. Inicia con “Porque no hay nada oculto que no haya de ser manifestado, ni secreto que no haya de descubrirse.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "32-41",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 32 al 41 con foco léxico en viento y manera. Inicia con “Mas después de sembrado, sube, y se hace la mayor de todas las legumbres, y echa grandes ramas, de tal manera que las aves del cielo puedan…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 4, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 9,
+      "significance": "La recurrencia de “tierra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabra",
+      "count": 9,
+      "significance": "La recurrencia de “palabra” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 4."
+    },
+    {
+      "word": "luego",
+      "count": 6,
+      "significance": "La recurrencia de “luego” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 4."
+    },
+    {
+      "word": "otra",
+      "count": 5,
+      "significance": "La recurrencia de “otra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 4."
     }
   ]
 }

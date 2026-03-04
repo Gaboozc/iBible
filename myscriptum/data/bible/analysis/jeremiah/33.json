@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 33",
+  "title": "Análisis Estructural de Jeremías 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en dicho y israel. Inicia con “Y FUÉ palabra de Jehová á Jeremías la segunda vez, estando él aún preso en el patio de la cárcel, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en ciudades y contra. Inicia con “Y los limpiaré de toda su maldad con que pecaron contra mí; y perdonaré todos sus pecados con que contra mí pecaron, y con que contra mí se…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en dias y casa. Inicia con “He aquí vienen días, dice Jehová, en que yo confirmaré la palabra buena que he hablado á la casa de Israel y á la casa de Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en simiente y siervo. Inicia con “Podráse también invalidar mi pacto con mi siervo David, para que deje de tener hijo que reine sobre su trono, y con los Levitas y sacerdote…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dicho",
+      "count": 8,
+      "significance": "La recurrencia de “dicho” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juda",
+      "count": 6,
+      "significance": "La recurrencia de “juda” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 33."
+    },
+    {
+      "word": "ciudades",
+      "count": 6,
+      "significance": "La recurrencia de “ciudades” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 33."
+    },
+    {
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 33."
     }
   ]
 }

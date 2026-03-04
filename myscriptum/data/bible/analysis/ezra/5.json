@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezra 5",
+  "title": "Análisis Estructural de Esdras 5",
   "sections": [
     {
       "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y entonces. Inicia con “Y PROFETIZARON Haggeo profeta, y Zacarías hijo de Iddo, profetas, á los Judíos que estaban en Judá y en Jerusalem yendo* en nombre del Dios…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en carta y parte. Inicia con “Traslado de la carta que Tatnai, capitán de la parte allá del río, y Sethar-boznai, y sus compañeros los Apharsachêos, que estaban á la par…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en casa y babilonia. Inicia con “Y también les preguntamos sus nombres para hacértelo saber, para escribirte* los nombres de los varones que estaban por cabezas de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en casa y habia. Inicia con “Y también los vasos de oro y de plata de la casa de Dios, que Nabucodonosor había sacado del templo que estaba en Jerusalem, y los había me…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 12,
+      "significance": "La recurrencia de “casa” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 6,
+      "significance": "La recurrencia de “jerusalem” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 5."
+    },
+    {
+      "word": "entonces",
+      "count": 6,
+      "significance": "La recurrencia de “entonces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 5."
+    },
+    {
+      "word": "babilonia",
+      "count": 6,
+      "significance": "La recurrencia de “babilonia” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 5."
     }
   ]
 }

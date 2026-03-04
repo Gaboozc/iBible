@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 48",
+  "title": "Análisis Estructural de Jeremías 48",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 48.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en moab y dicho. Inicia con “ACERCA de Moab. Así ha dicho Jehová de los ejércitos, Dios de Israel: ¡Ay de Nebo! que fué destruída, fué avergonzada; Chîriathaim fué toma…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en moab y beth. Inicia con “Y avergonzaráse Moab de Chêmos, á la manera que la casa de Israel se avergonzó de Beth-el, su confianza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en moab y dice. Inicia con “Cortado es el cuerno de Moab, y su brazo quebrantado, dice Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-47",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 47 con foco léxico en moab y dice. Inicia con “Porque en toda cabeza habrá calva, y toda barba será raída; sobre todas manos rasguños, y sacos sobre todos los lomos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 48, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "moab",
+      "count": 34,
+      "significance": "La recurrencia de “moab” (34) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 48."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "dice",
+      "count": 7,
+      "significance": "La recurrencia de “dice” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 48."
+    },
+    {
+      "word": "ciudades",
+      "count": 6,
+      "significance": "La recurrencia de “ciudades” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 48."
+    },
+    {
+      "word": "dicho",
+      "count": 5,
+      "significance": "La recurrencia de “dicho” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 48."
     }
   ]
 }

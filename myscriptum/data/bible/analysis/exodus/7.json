@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 7",
+  "title": "Análisis Estructural de Éxodo 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en faraon y aaron. Inicia con “Y JEHOVÁ dijo á Moisés: Mira, yo te he constituído dios para Faraón, y tu hermano Aarón será tu profeta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en faraon y aaron. Inicia con “Y habló Jehová á Moisés y á Aarón, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en aqui y aguas. Inicia con “Entonces Jehová dijo á Moisés: El corazón de Faraón está agravado, que no quiere dejar ir al pueblo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en habia y hicieron. Inicia con “Y Moisés y Aarón hicieron como Jehová lo mandó; y alzando la vara hirió las aguas que había en el río, en presencia de Faraón y de sus sier…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "faraon",
+      "count": 16,
+      "significance": "La recurrencia de “faraon” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aaron",
+      "count": 11,
+      "significance": "La recurrencia de “aaron” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 7."
+    },
+    {
+      "word": "egipto",
+      "count": 10,
+      "significance": "La recurrencia de “egipto” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 7."
+    },
+    {
+      "word": "moises",
+      "count": 8,
+      "significance": "La recurrencia de “moises” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 7."
     }
   ]
 }

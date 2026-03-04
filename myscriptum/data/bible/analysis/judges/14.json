@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 14",
+  "title": "Análisis Estructural de Jueces 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en mujer y timnah. Inicia con “Y DESCENDIENDO Samsón á Timnah, vió en Timnah una mujer de las hijas de los Filisteos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en padre y habia. Inicia con “Y el espíritu de Jehová cayó sobre él, y despedazólo como quien despedaza un cabrito, sin tener nada en su mano: y no dió á entender á su p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en treinta y enigma. Inicia con “Y como ellos le vieron, tomaron treinta compañeros que estuviesen con él;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en enigma y lloro. Inicia con “Y lloró la mujer de Samsón delante de él, y dijo: Solamente me aborreces y no me amas, pues que no me declaras el enigma que propusiste á l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mujer",
+      "count": 11,
+      "significance": "La recurrencia de “mujer” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "padre",
+      "count": 11,
+      "significance": "La recurrencia de “padre” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 14."
+    },
+    {
+      "word": "samson",
+      "count": 9,
+      "significance": "La recurrencia de “samson” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 14."
+    },
+    {
+      "word": "madre",
+      "count": 7,
+      "significance": "La recurrencia de “madre” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 14."
     }
   ]
 }

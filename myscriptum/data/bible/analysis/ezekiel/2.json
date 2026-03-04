@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ezekiel 2",
+  "title": "Análisis Estructural de Ezequiel 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en dijome y hijo. Inicia con “Y DÍJOME: Hijo del hombre, está sobre tus pies, y hablaré contigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "6-10",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en palabras y delante. Inicia con “Y tú, hijo del hombre, no temas de ellos, ni tengas miedo de sus palabras, aunque te hallas* entre zarzas y espinas, y tú moras con escorpi…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 4,
+      "significance": "La recurrencia de “hijo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hombre",
+      "count": 4,
+      "significance": "La recurrencia de “hombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 2."
+    },
+    {
+      "word": "rebelde",
+      "count": 4,
+      "significance": "La recurrencia de “rebelde” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 2."
+    },
+    {
+      "word": "palabras",
+      "count": 3,
+      "significance": "La recurrencia de “palabras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 2."
     }
   ]
 }

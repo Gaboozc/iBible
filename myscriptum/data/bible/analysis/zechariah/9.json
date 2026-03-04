@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Zechariah 9",
+  "title": "Análisis Estructural de Zacarías 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en ella y tiro. Inicia con “CARGA de la palabra de Jehová contra tierra de Hadrach, y de Damasco su reposo: porque á Jehová están vueltos los ojos de los hombres, y de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en hija y habitara. Inicia con “Y habitará en Asdod un extranjero, y yo talaré la soberbia de los Palestinos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en ephraim y presos. Inicia con “Y de Ephraim destruiré los carros, y los caballos de Jerusalem; y los arcos de guerra serán quebrados: y hablará paz á las gentes; y su señ…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en piedras y vino. Inicia con “Y Jehová será visto sobre ellos, y su dardo saldrá como relámpago: y el Señor Jehová tocará trompeta, é irá como torbellinos del austro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Zacarías 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 9."
     },
     {
-      "word": "Motivo literario",
+      "word": "fortaleza",
+      "count": 3,
+      "significance": "La recurrencia de “fortaleza” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 9."
+    },
+    {
+      "word": "seran",
+      "count": 3,
+      "significance": "La recurrencia de “seran” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 9."
+    },
+    {
+      "word": "contra",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “contra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Zacarías 9."
     }
   ]
 }

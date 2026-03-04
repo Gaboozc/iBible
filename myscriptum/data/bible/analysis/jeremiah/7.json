@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 7",
+  "title": "Análisis Estructural de Jeremías 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en palabra y vuestros. Inicia con “PALABRA que fué de Jehová á Jeremías, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en nombre y casa. Inicia con “Vendréis y os pondréis delante de mí en esta casa sobre la cual es invocado mi nombre, y diréis: Librados somos: para hacer todas estas abo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en padres y vuestros. Inicia con “Los hijos cogen la leña, y los padres encienden el fuego, y las mujeres amasan la masa, para hacer tortas á la reina del cielo y para hacer…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en topheth y valle. Inicia con “Tú pues les dirás todas estas palabras, mas no te oirán; aun los llamarás, y no te responderán.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "vuestros",
+      "count": 10,
+      "significance": "La recurrencia de “vuestros” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "lugar",
+      "count": 7,
+      "significance": "La recurrencia de “lugar” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 7."
+    },
+    {
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 7."
+    },
+    {
+      "word": "padres",
+      "count": 6,
+      "significance": "La recurrencia de “padres” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 7."
     }
   ]
 }

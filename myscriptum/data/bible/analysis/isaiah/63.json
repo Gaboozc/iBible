@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 63",
+  "title": "Análisis Estructural de Isaías 63",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 63.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en vestidos y vestido. Inicia con “¿QUIÉN es éste que viene de Edom, de Bosra con vestidos bermejos? ¿éste hermoso en su vestido, que marcha en la grandeza de su poder? Yo, e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 63, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en misericordias y segun. Inicia con “Y con mi ira hollé los pueblos, y embriaguélos de mi furor, y derribé á tierra su fortaleza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 63, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en moises y pueblo. Inicia con “Empero acordóse de los días antiguos, de Moisés y* de su pueblo, diciendo*: ¿Dónde está el que les hizo subir de la mar con el pastor de su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 63, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en eres y padre. Inicia con “Tú empero eres nuestro padre, si bien Abraham nos ignora, é Israel no nos conoce: tú, oh Jehová, eres nuestro padre; nuestro Redentor perpe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 63, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 4,
+      "significance": "La recurrencia de “pueblo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 63."
     },
     {
-      "word": "Motivo literario",
+      "word": "nombre",
+      "count": 4,
+      "significance": "La recurrencia de “nombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 63."
+    },
+    {
+      "word": "espiritu",
+      "count": 3,
+      "significance": "La recurrencia de “espiritu” (3) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Isaías 63."
+    },
+    {
+      "word": "vestidos",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “vestidos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 63."
     }
   ]
 }

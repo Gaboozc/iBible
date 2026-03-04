@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 59",
+  "title": "Análisis Estructural de Isaías 59",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 59.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en vuestros y iniquidad. Inicia con “HE aquí que no se ha acortado la mano de Jehová para salvar, ni hase agravado su oído para oir:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 59, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en nosotros y pensamientos. Inicia con “Sus pies corren al mal, y se apresuran para derramar la sangre inocente; sus pensamientos, pensamientos de iniquidad, destrucción y quebran…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 59, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en nuestras y nuestros. Inicia con “Porque nuestras rebeliones se han multiplicado delante de ti, y nuestros pecados han atestiguado contra nosotros: porque con nosotros están…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 59, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en boca y simiente. Inicia con “Pues de justicia se vistió como de loriga, con capacete de salud en su cabeza: y vistióse de vestido de venganza por vestidura, y cubrióse…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 59, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "iniquidad",
+      "count": 5,
+      "significance": "La recurrencia de “iniquidad” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 59."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "justicia",
+      "count": 5,
+      "significance": "La recurrencia de “justicia” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Isaías 59."
+    },
+    {
+      "word": "nosotros",
+      "count": 5,
+      "significance": "La recurrencia de “nosotros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 59."
+    },
+    {
+      "word": "boca",
+      "count": 4,
+      "significance": "La recurrencia de “boca” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 59."
     }
   ]
 }

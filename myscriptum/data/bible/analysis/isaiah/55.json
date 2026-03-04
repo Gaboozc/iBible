@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 55",
+  "title": "Análisis Estructural de Isaías 55",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 55.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en venid y dinero. Inicia con “A TODOS los sedientos: Venid á las aguas; y los que no tienen dinero, venid, comprad, y comed. Venid, comprad, sin dinero y sin precio, vin…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 55, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en pensamientos y vuestros. Inicia con “Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 55, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "vuestros",
+      "count": 5,
+      "significance": "La recurrencia de “vuestros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 55."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pensamientos",
+      "count": 5,
+      "significance": "La recurrencia de “pensamientos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 55."
+    },
+    {
+      "word": "venid",
+      "count": 4,
+      "significance": "La recurrencia de “venid” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 55."
+    },
+    {
+      "word": "caminos",
+      "count": 4,
+      "significance": "La recurrencia de “caminos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 55."
     }
   ]
 }

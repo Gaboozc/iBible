@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 26",
+  "title": "Análisis Estructural de 1 Crónicas 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hijos y obed. Inicia con “CUANTO á los repartimientos de los porteros: De los Coraitas: Meselemia hijo de Coré, de los hijos de Asaph.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hijos y hermanos. Inicia con “Y los hijos de Meselemia y sus hermanos, dieciocho hombres valientes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en hijos y tesoros. Inicia con “Al oriente seis Levitas, al norte cuatro de día; al mediodía cuatro de día; y á la casa de la consulta, de dos en dos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en hijo y hermanos. Inicia con “En orden á su hermano Eliezer, hijo de éste era* Rehabía, hijo de éste Isaías, hijo de éste Joram, hijo de éste Zichri, del que fué hijo Se…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 17,
+      "significance": "La recurrencia de “hijos” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 13,
+      "significance": "La recurrencia de “hijo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 26."
+    },
+    {
+      "word": "hermanos",
+      "count": 9,
+      "significance": "La recurrencia de “hermanos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 26."
+    },
+    {
+      "word": "casa",
+      "count": 7,
+      "significance": "La recurrencia de “casa” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 26."
     }
   ]
 }

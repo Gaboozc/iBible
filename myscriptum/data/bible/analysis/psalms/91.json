@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 91",
+  "title": "Análisis Estructural de Salmos 91",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 91.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en habita y abrigo. Inicia con “EL que habita al abrigo del Altísimo, morará bajo la sombra del Omnipotente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 91, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en tendras y temor. Inicia con “No tendrás temor de espanto nocturno, ni de saeta que vuele de día;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 91, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en puesto y esperanza. Inicia con “Porque tú has puesto á Jehová, que es* mi esperanza, al Altísimo por tu habitación,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 91, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en leon y cuanto. Inicia con “Sobre el león y el basilisco pisarás; hollarás al cachorro del león y al dragón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 91, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "altisimo",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “altisimo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 91."
     },
     {
-      "word": "Motivo literario",
+      "word": "esperanza",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “esperanza” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 91."
+    },
+    {
+      "word": "puesto",
+      "count": 2,
+      "significance": "La recurrencia de “puesto” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 91."
+    },
+    {
+      "word": "leon",
+      "count": 2,
+      "significance": "La recurrencia de “leon” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 91."
     }
   ]
 }

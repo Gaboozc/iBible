@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 6",
+  "title": "Análisis Estructural de 2 Corintios 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en tiempo y aceptable. Inicia con “Y ASÍ nosotros*, como* ayudadores juntamente con él*, os* exhortamos también á que no recibáis en vano la gracia de Dios,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en verdad y castidad. Inicia con “En castidad, en ciencia, en longanimidad, en bondad, en Espíritu Santo, en amor no fingido;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en estais y estrechos. Inicia con “Como doloridos, mas siempre gozosos; como pobres, mas enriqueciendo á muchos; como no teniendo nada, mas poseyéndolo todo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en templo y sere. Inicia con “¿Y qué concordia Cristo con Belial? ¿ó qué parte el fiel con el infiel?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 3,
+      "significance": "La recurrencia de “dice” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 6."
     },
     {
-      "word": "Motivo literario",
+      "word": "aqui",
+      "count": 3,
+      "significance": "La recurrencia de “aqui” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 6."
+    },
+    {
+      "word": "nosotros",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “nosotros” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 6."
+    },
+    {
+      "word": "tiempo",
+      "count": 2,
+      "significance": "La recurrencia de “tiempo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 6."
     }
   ]
 }

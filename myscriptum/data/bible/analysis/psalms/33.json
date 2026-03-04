@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 33",
+  "title": "Análisis Estructural de Salmos 33",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 33.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en cantadle y palabra. Inicia con “ALEGRAOS, justos, en Jehová: á los rectos es hermosa la alabanza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en consejo y junta. Inicia con “El junta como en un montón las aguas de la mar: él pone en depósitos los abismos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en todos y miro. Inicia con “Bienaventurada la gente de que Jehová es su Dios; el pueblo á quien escogió por heredad para sí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 33, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en misericordia y nuestra. Inicia con “He aquí, el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 33, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 33."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "misericordia",
+      "count": 3,
+      "significance": "La recurrencia de “misericordia” (3) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 33."
+    },
+    {
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 33."
+    },
+    {
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 33."
     }
   ]
 }

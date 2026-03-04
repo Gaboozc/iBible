@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 7",
+  "title": "Análisis Estructural de Jueces 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en pueblo y gedeon. Inicia con “LEVANTÁNDOSE pues de mañana Jerobaal, el cual es Gedeón, y todo el pueblo que estaba con él, asentaron el campo junto á la fuente de Harod:…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en campo y manos. Inicia con “Y tomada provisión para el pueblo en sus manos, y sus bocinas, envió á todos los Israelitas cada uno á su tienda, y retuvo á aquellos tresc…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en campo y gedeon. Inicia con “Y su compañero respondió, y dijo: Esto no es otra cosa sino la espada de Gedeón hijo de Joas, varón de Israel: Dios ha entregado en sus man…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en todo y madianitas. Inicia con “Y los tres escuadrones tocaron las bocinas, y quebrando los cántaros tomaron en las manos izquierdas las teas, y en las derechas los cuerno…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "campo",
+      "count": 17,
+      "significance": "La recurrencia de “campo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gedeon",
+      "count": 13,
+      "significance": "La recurrencia de “gedeon” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 7."
+    },
+    {
+      "word": "manos",
+      "count": 9,
+      "significance": "La recurrencia de “manos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 7."
+    },
+    {
+      "word": "todo",
+      "count": 8,
+      "significance": "La recurrencia de “todo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 7."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Romans 11",
+  "title": "Análisis Estructural de Romanos 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en gracia y dice. Inicia con “DIGO pues: ¿Ha desechado Dios á su pueblo? En ninguna manera. Porque también yo soy Israelita, de la simiente de Abraham, de la tribu de Be…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 11, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en gentiles y raiz. Inicia con “Sus ojos sean obscurecidos para que no vean, y agóbiales siempre el espinazo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en pues y ramas. Inicia con “Pues las ramas, dirás, fueron quebradas para que yo fuese ingerido.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en misericordia y cuanto. Inicia con “Así que, cuanto al evangelio, son enemigos por causa de vosotros: mas cuanto á la elección, son muy amados por causa de los padres.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 11, esta sección refuerza misericordia, gracia y restauración, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pues",
+      "count": 7,
+      "significance": "La recurrencia de “pues” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "manera",
+      "count": 6,
+      "significance": "La recurrencia de “manera” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 11."
+    },
+    {
+      "word": "ramas",
+      "count": 6,
+      "significance": "La recurrencia de “ramas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 11."
+    },
+    {
+      "word": "gracia",
+      "count": 5,
+      "significance": "La recurrencia de “gracia” (5) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Romanos 11."
     }
   ]
 }

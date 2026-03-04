@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 11",
+  "title": "Análisis Estructural de Lucas 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en dara y amigo. Inicia con “Y ACONTECIÓ que estando él orando en un lugar, como acabó, uno de sus discípulos le dijo: Señor, enséñanos á orar, como también Juan enseñó…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-27",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 27 con foco léxico en demonios y fuera. Inicia con “Mas algunos de ellos decían: En Beelzebub, príncipe de los demonios, echa fuera los demonios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "28-41",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 28 al 41 con foco léxico en generacion y senal. Inicia con “Y él dijo: Antes bienaventurados los que oyen la palabra de Dios, y la guardan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "42-54",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 42 al 54 con foco léxico en fariseos y cosas. Inicia con “Mas ¡ay de vosotros, Fariseos! que diezmáis la menta, y la ruda, y toda hortaliza; mas el juicio y la caridad de Dios pasáis de largo. Pues…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "fuera",
+      "count": 8,
+      "significance": "La recurrencia de “fuera” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todo",
+      "count": 7,
+      "significance": "La recurrencia de “todo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 11."
+    },
+    {
+      "word": "dara",
+      "count": 6,
+      "significance": "La recurrencia de “dara” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 11."
+    },
+    {
+      "word": "generacion",
+      "count": 6,
+      "significance": "La recurrencia de “generacion” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 11."
     }
   ]
 }

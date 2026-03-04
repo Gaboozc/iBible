@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 46",
+  "title": "Análisis Estructural de Jeremías 46",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 46.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en contra y egipto. Inicia con “PALABRA de Jehová que fué á Jeremías profeta, contra las gentes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en egipto y tierra. Inicia con “Egipto como río se hincha, y las aguas se mueven como ríos, y dijo: Subiré, cubriré la tierra, destruiré la ciudad y los que en ella moran.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en egipto y tiempo. Inicia con “¿Por qué ha sido derribado tu fuerte? no se pudo tener, porque Jehová lo rempujó.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-28",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 28 con foco léxico en mano y dice. Inicia con “Su voz saldrá como de serpiente; porque con ejército vendrán, y con hachas vienen á ella como cortadores de leña.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 46, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 11,
+      "significance": "La recurrencia de “egipto” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 46."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 46."
+    },
+    {
+      "word": "dice",
+      "count": 5,
+      "significance": "La recurrencia de “dice” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 46."
+    },
+    {
+      "word": "faraon",
+      "count": 4,
+      "significance": "La recurrencia de “faraon” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 46."
     }
   ]
 }

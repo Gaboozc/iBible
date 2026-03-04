@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 38",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 38.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en saber y ella. Inicia con “Y RESPONDIÓ Jehová á Job desde un torbellino, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en dias y lugar. Inicia con “¿Has tú mandado á la mañana en tus días? ¿has mostrado al alba su lugar,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-31",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 31 con foco léxico en tierra y tesoros. Inicia con “¿Has tú entrado en los tesoros de la nieve, ó has visto los tesoros del granizo,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "32-41",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 32 al 41 con foco léxico en cielos y puso. Inicia con “¿Sacarás tú á su tiempo los signos de los cielos, ó guiarás el Arcturo con sus hijos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 38, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 38."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "puertas",
+      "count": 4,
+      "significance": "La recurrencia de “puertas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 38."
+    },
+    {
+      "word": "cielos",
+      "count": 4,
+      "significance": "La recurrencia de “cielos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 38."
+    },
+    {
+      "word": "sabiduria",
+      "count": 3,
+      "significance": "La recurrencia de “sabiduria” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 38."
     }
   ]
 }

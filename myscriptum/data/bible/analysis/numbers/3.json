@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 3",
+  "title": "Análisis Estructural de Números 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en hijos y aaron. Inicia con “Y ESTAS son las generaciones de Aarón y de Moisés, desde que Jehová habló á Moisés en el monte de Sinaí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en familias y hijos. Inicia con “Y Jehová habló á Moisés en el desierto de Sinaí, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en familia y familias. Inicia con “Y de Coath, la familia Amramítica, y la familia Izeharítica, y la familia Hebronítica, y la familia Ozielítica: estas son las familias Coat…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-51",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 51 con foco léxico en hijos y primogenitos. Inicia con “Y Jehová dijo á Moisés: Cuenta todos los primogénitos varones de los hijos de Israel de un mes arriba, y toma la cuenta de los nombres de e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 28,
+      "significance": "La recurrencia de “hijos” (28) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 16,
+      "significance": "La recurrencia de “todos” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 3."
+    },
+    {
+      "word": "moises",
+      "count": 14,
+      "significance": "La recurrencia de “moises” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 3."
+    },
+    {
+      "word": "tabernaculo",
+      "count": 14,
+      "significance": "La recurrencia de “tabernaculo” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 3."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Amos 8",
+  "title": "Análisis Estructural de Amós 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en canastillo y fruta. Inicia con “ASÍ me ha mostrado Jehová: y he aquí un canastillo de fruta de verano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-14",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en tierra y toda. Inicia con “¿No se ha de estremecer la tierra sobre esto? ¿y todo habitador de ella no llorará? y subirá toda como un río, y será arrojada, y hundiráse…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Amós 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 8."
     },
     {
-      "word": "Motivo literario",
+      "word": "dice",
+      "count": 3,
+      "significance": "La recurrencia de “dice” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 8."
+    },
+    {
+      "word": "senor",
+      "count": 3,
+      "significance": "La recurrencia de “senor” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 8."
+    },
+    {
+      "word": "aqui",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “aqui” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Amós 8."
     }
   ]
 }

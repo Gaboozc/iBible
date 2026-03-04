@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 5",
+  "title": "Análisis Estructural de Nehemías 5",
   "sections": [
     {
       "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en nuestras y nuestros. Inicia con “ENTONCES fué grande el clamor del pueblo y de sus mujeres contra los Judíos sus hermanos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en hermanos y nosotros. Inicia con “Y enojéme en gran manera cuando oí su clamor y estas palabras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en esto y pueblo. Inicia con “Ruégoos que les devolváis hoy sus tierras, sus viñas, sus olivares, y sus casas, y la centésima parte del dinero y grano, del vino y del ac…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en obra y cada. Inicia con “También en la obra de este muro instauré mi parte*, y no compramos heredad: y todos mis criados juntos estaban allí á la obra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuestras",
+      "count": 11,
+      "significance": "La recurrencia de “nuestras” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hermanos",
+      "count": 7,
+      "significance": "La recurrencia de “hermanos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 5."
+    },
+    {
+      "word": "pueblo",
+      "count": 6,
+      "significance": "La recurrencia de “pueblo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 5."
+    },
+    {
+      "word": "nosotros",
+      "count": 6,
+      "significance": "La recurrencia de “nosotros” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 5."
     }
   ]
 }

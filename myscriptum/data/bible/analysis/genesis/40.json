@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 40",
+  "title": "Análisis Estructural de Génesis 40",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en contra y egipto. Inicia con “Y ACONTECIÓ después de estas cosas, que el copero del rey de Egipto y el panadero delinquieron contra su señor el rey de Egipto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en faraon y jose. Inicia con “Y él preguntó á aquellos eunucos de Faraón, que estaban con él en la prisión de la casa de su señor, diciendo: ¿Por qué parecen hoy mal vue…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en tres y faraon. Inicia con “Al cabo de tres días Faraón te hará levantar cabeza, y te restituirá á tu puesto: y darás la copa á Faraón en su mano, como solías cuando e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en principal y faraon. Inicia con “Al cabo de tres días quitará Faraón tu cabeza de sobre ti, y te hará colgar en la horca, y las aves comerán tu carne de sobre ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "faraon",
+      "count": 12,
+      "significance": "La recurrencia de “faraon” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 40."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jose",
+      "count": 10,
+      "significance": "La recurrencia de “jose” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 40."
+    },
+    {
+      "word": "principal",
+      "count": 9,
+      "significance": "La recurrencia de “principal” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 40."
+    },
+    {
+      "word": "tres",
+      "count": 8,
+      "significance": "La recurrencia de “tres” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 40."
     }
   ]
 }

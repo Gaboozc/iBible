@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 10",
+  "title": "Análisis Estructural de Proverbios 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en justo y impios. Inicia con “Las sentencias de Salomón. EL hijo sabio alegra al padre; y el hijo necio es tristeza de su madre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en boca y loco. Inicia con “El que camina en integridad, anda confiado: mas el que pervierte sus caminos, será quebrantado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en labios y falta. Inicia con “Camino á la vida es guardar la corrección: mas el que deja la reprensión, yerra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en justo y impios. Inicia con “Como pasa el torbellino, así el malo no permanece: mas el justo, fundado para siempre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "justo",
+      "count": 11,
+      "significance": "La recurrencia de “justo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "impios",
+      "count": 9,
+      "significance": "La recurrencia de “impios” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 10."
+    },
+    {
+      "word": "labios",
+      "count": 7,
+      "significance": "La recurrencia de “labios” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 10."
+    },
+    {
+      "word": "boca",
+      "count": 6,
+      "significance": "La recurrencia de “boca” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 10."
     }
   ]
 }

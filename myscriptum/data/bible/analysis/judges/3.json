@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 3",
+  "title": "Análisis Estructural de Jueces 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en israel y hijos. Inicia con “ESTAS, pues, son las gentes que dejó Jehová para probar con ellas á Israel, á todos aquellos que no habían conocido todas las guerras de Ca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en israel y hijos. Inicia con “Y clamaron los hijos de Israel á Jehová; y Jehová suscitó salvador á los hijos de Israel y librólos; es á saber*, á Othoniel hijo de Cenez,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en sala y eglon. Inicia con “Y presentó el presente á Eglón rey de Moab; y era Eglón hombre muy grueso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en israel y hombres. Inicia con “Y habiendo esperado hasta estar confusos, pues que él no abría las puertas de la sala, tomaron la llave y abrieron: y he aquí su señor caíd…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 19,
+      "significance": "La recurrencia de “israel” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 13,
+      "significance": "La recurrencia de “hijos” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 3."
+    },
+    {
+      "word": "mano",
+      "count": 6,
+      "significance": "La recurrencia de “mano” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 3."
+    },
+    {
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 3."
     }
   ]
 }

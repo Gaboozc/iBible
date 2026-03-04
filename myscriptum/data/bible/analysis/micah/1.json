@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Micah 1",
+  "title": "Análisis Estructural de Miqueas 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en tierra y senor. Inicia con “PALABRA de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Samaria y Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en dones y rebelion. Inicia con “Todo esto por la rebelión de Jacob, y por los pecados de la casa de Israel. ¿Cuál es la rebelión de Jacob? ¿no es Samaria? ¿Y cuáles son lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en moradora y llego. Inicia con “Porque su llaga es dolorosa, que llegó hasta Judá; llegó hasta la puerta de mi pueblo, hasta Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 1, esta sección refuerza adoración, oración y respuesta de fe, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en israel y moradora. Inicia con “Unce al carro dromedarios, oh moradora de Lachîs, que fuiste principio de pecado á la hija de Sión; porque en ti se inventaron las rebelion…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Miqueas 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "moradora",
+      "count": 5,
+      "significance": "La recurrencia de “moradora” (5) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Miqueas 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 4,
+      "significance": "La recurrencia de “jerusalem” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 1."
+    },
+    {
+      "word": "israel",
+      "count": 4,
+      "significance": "La recurrencia de “israel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 1."
+    },
+    {
+      "word": "dones",
+      "count": 4,
+      "significance": "La recurrencia de “dones” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Miqueas 1."
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Literatura sapiencial",
+  "dominantEmpire": "No especificado directamente",
+  "kingName": "Voz del “Qohelet” en marco real/sapiencial",
+  "kingRegion": "Jerusalén (marco literario)",
   "activeProphets": [
-    "Profetas según el período"
+    "No es un libro profético en sentido clásico"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Ecclesiastes capítulo 6 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Referencia indirecta a adoración y juicio de Dios",
+  "location": "Jerusalén y observación universal de la vida",
+  "summary": "Eclesiastés reflexiona sobre la vanidad de la vida “bajo el sol” sin Dios como centro. En Eclesiastés 6, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hombre, vanidad, tiene. Señales textuales: “HAY un mal que he visto debajo del cielo, y muy común entre los hombres:” | “Todo el trabajo del hombre es para su boca, y con todo eso su alma no se harta.” | “Porque ¿quién sabe cuál es el bien del hombre en la vida, todos los días de la vida de su vanidad, los cuales él pasa c…”.",
+  "spiritualContext": "Conduce al temor de Dios y la obediencia como conclusión de la existencia humana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hombre, vanidad, tiene. El núcleo del capítulo se percibe en “Todo el trabajo del hombre es para su boca, y con todo eso su alma no se harta.”."
 }

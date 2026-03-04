@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 34",
+  "title": "Análisis Estructural de Jeremías 34",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 34.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en babilonia y mano. Inicia con “PALABRA que fué á Jeremías de Jehová, (cuando Nabucodonosor rey de Babilonia, y todo su ejército, y todos los reinos de la tierra del señor…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en contra y habian. Inicia con “Y el ejército del rey de Babilonia peleaba contra Jerusalem, y contra todas las ciudades de Judá que habían quedado, contra Lachîs, y contr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en cada y habeis. Inicia con “Y fué palabra de Jehová á Jeremías, de parte de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en mano y principes. Inicia con “Y entregaré á los hombres que traspasaron mi pacto, que no han llevado á efecto las palabras del pacto que celebraron en mi presencia divid…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cada",
+      "count": 10,
+      "significance": "La recurrencia de “cada” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 34."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mano",
+      "count": 9,
+      "significance": "La recurrencia de “mano” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 34."
+    },
+    {
+      "word": "juda",
+      "count": 8,
+      "significance": "La recurrencia de “juda” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 34."
+    },
+    {
+      "word": "contra",
+      "count": 7,
+      "significance": "La recurrencia de “contra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 34."
     }
   ]
 }

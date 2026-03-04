@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 19",
+  "title": "Análisis Estructural de Apocalipsis 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en aleluya y decia. Inicia con “DESPUÉS de estas cosas oí una gran voz de gran compañía en el cielo, que decía: Aleluya: Salvación y honra y gloria y potencia al Señor Dio…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en cordero y lino. Inicia con “Gocémonos y alegrémonos y démosle gloria; porque son venidas las bodas del Cordero, y su esposa se ha aparejado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en nombre y escrito. Inicia con “Y sus ojos eran* como llama de fuego, y había* en su cabeza muchas diademas; y tenía un nombre escrito que ninguno entendía sino él mismo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en carnes y bestia. Inicia con “Y vi un ángel que estaba en el sol, y clamó con gran voz, diciendo á todas las aves que volaban por medio del cielo: Venid, y congregaos á…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "carnes",
+      "count": 5,
+      "significance": "La recurrencia de “carnes” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gran",
+      "count": 4,
+      "significance": "La recurrencia de “gran” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 19."
+    },
+    {
+      "word": "cielo",
+      "count": 4,
+      "significance": "La recurrencia de “cielo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 19."
+    },
+    {
+      "word": "aleluya",
+      "count": 4,
+      "significance": "La recurrencia de “aleluya” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 19."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 32",
+  "title": "Análisis Estructural de Deuteronomio 32",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 32.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en hizo y tierra. Inicia con “ESCUCHAD, cielos, y hablaré; y oiga la tierra los dichos de mi boca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en celos y dioses. Inicia con “Manteca de vacas y leche de ovejas, con grosura de corderos, y carneros de Basán; también machos de cabrío, con grosura de riñones de trigo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en roca y esto. Inicia con “Si no temiese la ira del enemigo, no sea que se envanezcan sus adversarios, no sea que digan: Nuestra mano alta ha hecho todo esto, no Jeho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-52",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 52 con foco léxico en tierra y israel. Inicia con “Cuando yo alzaré á los cielos mi mano, y diré: Vivo yo para siempre,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 11,
+      "significance": "La recurrencia de “tierra” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 32."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 10,
+      "significance": "La recurrencia de “hijos” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 32."
+    },
+    {
+      "word": "pueblo",
+      "count": 8,
+      "significance": "La recurrencia de “pueblo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 32."
+    },
+    {
+      "word": "roca",
+      "count": 7,
+      "significance": "La recurrencia de “roca” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 32."
     }
   ]
 }

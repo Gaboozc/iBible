@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 61",
+  "title": "Análisis Estructural de Salmos 61",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 61.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en musico y principal. Inicia con “Al Músico principal: sobre Neginoth: Salmo de David. OYE, oh Dios, mi clamor; á mi oración atiende.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 61, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-8",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en votos y nombre. Inicia con “Porque tú, oh Dios, has oído mis votos, has dado heredad á los que temen tu nombre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 61, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "siempre",
+      "count": 3,
+      "significance": "La recurrencia de “siempre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 61."
     },
     {
-      "word": "Motivo literario",
+      "word": "delante",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “delante” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 61."
+    },
+    {
+      "word": "votos",
+      "count": 2,
+      "significance": "La recurrencia de “votos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 61."
+    },
+    {
+      "word": "nombre",
+      "count": 2,
+      "significance": "La recurrencia de “nombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 61."
     }
   ]
 }

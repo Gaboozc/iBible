@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades herodianas y romanas",
+  "kingRegion": "Galilea y Judea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Mark capítulo 3 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie durante los eventos",
+  "location": "Principalmente Galilea, camino a Jerusalén",
+  "summary": "Marcos enfatiza acción, autoridad y sufrimiento del Siervo-Mesías. En Marcos 3, el capítulo contiene 35 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: fuera, contra, casa. Señales textuales: “Y OTRA vez entró en la sinagoga; y había allí un hombre que tenía una mano seca.” | “Y á Andrés, y á Felipe, y á Bartolomé, y á Mateo, y á Tomás, y á Jacobo hijo* de Alfeo, y á Tadeo, y á Simón el Cananit…” | “Porque cualquiera que hiciere la voluntad de Dios, éste es mi hermano, y mi hermana, y mi madre.”.",
+  "spiritualContext": "Llama a seguir a Cristo en fe, humildad y entrega de la cruz. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan fuera, contra, casa. El núcleo del capítulo se percibe en “Y á Andrés, y á Felipe, y á Bartolomé, y á Mateo, y á Tomás, y á Jacobo hijo* de Alfeo, y á Tadeo, y á Simón el Cananit…”."
 }

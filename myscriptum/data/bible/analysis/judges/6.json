@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 6",
+  "title": "Análisis Estructural de Jueces 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en israel y hijos. Inicia con “MAS los hijos de Israel hicieron lo malo en los ojos de Jehová; y Jehová los entregó en las manos de Madián por siete años.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-20",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en madianitas y respondio. Inicia con “Y vino el ángel de Jehová, y sentóse debajo del alcornoque que está en Ophra, el cual era de Joas Abiezerita; y su hijo Gedeón estaba sacud…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en altar y angel. Inicia con “Y extendiendo el ángel de Jehová el bordón que tenía en su mano, tocó con la punta en la carne y en los panes sin levadura; y subió fuego d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en vellon y gedeon. Inicia con “Y Joas respondió á todos los que estaban junto á él: ¿Tomaréis vosotros la demanda por Baal? ¿le salvaréis vosotros? Cualquiera que tomare…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 14,
+      "significance": "La recurrencia de “israel” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gedeon",
+      "count": 11,
+      "significance": "La recurrencia de “gedeon” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 6."
+    },
+    {
+      "word": "madianitas",
+      "count": 9,
+      "significance": "La recurrencia de “madianitas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 6."
+    },
+    {
+      "word": "mano",
+      "count": 8,
+      "significance": "La recurrencia de “mano” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 6."
     }
   ]
 }

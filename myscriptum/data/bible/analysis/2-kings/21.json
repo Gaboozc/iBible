@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 21",
+  "title": "Análisis Estructural de 2 Reyes 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en habia y casa. Inicia con “DE doce años era Manasés cuando comenzó á reinar, y reinó en Jerusalem cincuenta y cinco años: el nombre de su madre fué Hepsiba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en israel y juda. Inicia con “Y no volveré á hacer que el pie de Israel sea movido de la tierra que dí á sus padres, con tal que guarden y hagan conforme á todas las cos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en manases y malo. Inicia con “Y desampararé las reliquias de mi heredad, y entregarlas he en manos de sus enemigos; y serán para saco y para robo á todos sus adversarios;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en anduvo y amon. Inicia con “Y anduvo en todos los caminos en que su padre anduvo, y sirvió á las inmundicias á las cuales había servido su padre, y á ellas adoró;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jerusalem",
+      "count": 8,
+      "significance": "La recurrencia de “jerusalem” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "habia",
+      "count": 8,
+      "significance": "La recurrencia de “habia” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 21."
+    },
+    {
+      "word": "manases",
+      "count": 7,
+      "significance": "La recurrencia de “manases” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 21."
+    },
+    {
+      "word": "hecho",
+      "count": 7,
+      "significance": "La recurrencia de “hecho” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 21."
     }
   ]
 }

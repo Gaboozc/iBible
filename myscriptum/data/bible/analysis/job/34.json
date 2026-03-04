@@ -3,33 +3,49 @@
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 34.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en palabras y nosotros. Inicia con “ADEMÁS respondió Eliú, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en hombre y hara. Inicia con “Porque él pagará al hombre según su obra, y él le hará hallar conforme á su camino.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en noche y caminos. Inicia con “En un momento morirán, y á media noche se alborotarán los pueblos, y pasarán, y sin mano será quitado el poderoso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en hombre y hombres. Inicia con “Y si él diere reposo, ¿quién inquietará? si escondiere el rostro, ¿quién lo mirará? Esto* sobre una nación, y lo mismo sobre un hombre;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 34, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombre",
+      "count": 10,
+      "significance": "La recurrencia de “hombre” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 34."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "palabras",
+      "count": 5,
+      "significance": "La recurrencia de “palabras” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 34."
+    },
+    {
+      "word": "hara",
+      "count": 4,
+      "significance": "La recurrencia de “hara” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 34."
+    },
+    {
+      "word": "nosotros",
+      "count": 3,
+      "significance": "La recurrencia de “nosotros” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 34."
     }
   ]
 }

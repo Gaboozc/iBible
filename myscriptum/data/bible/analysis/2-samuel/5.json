@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 5",
+  "title": "Análisis Estructural de 2 Samuel 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en david y israel. Inicia con “Y VINIERON todas las tribus de Israel á David en Hebrón, y hablaron, diciendo: He aquí nosotros somos tus huesos y tu carne.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en david y casa. Inicia con “Y dijo David aquel día: ¿Quién llegará hasta las canales, y herirá al Jebuseo, y á los cojos y ciegos, á los cuales el alma de David aborre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en filisteos y david. Inicia con “Estos son los nombres de los que le nacieron en Jerusalem: Sammua, y Sobab, y Nathán, y Salomón,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en david y delante. Inicia con “Y vino David á Baal-perasim, y allí los venció David, y dijo: Rompió Jehová mis enemigos delante de mí, como quien rompe aguas. Y por esto…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 27,
+      "significance": "La recurrencia de “david” (27) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 5."
+    },
+    {
+      "word": "filisteos",
+      "count": 8,
+      "significance": "La recurrencia de “filisteos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 5."
+    },
+    {
+      "word": "hebron",
+      "count": 5,
+      "significance": "La recurrencia de “hebron” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 5."
     }
   ]
 }

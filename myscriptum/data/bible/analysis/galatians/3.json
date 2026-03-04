@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Galatians 3",
+  "title": "Análisis Estructural de Gálatas 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en espiritu y abraham. Inicia con “¡OH Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito como* crucificado entre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 3, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en maldicion y hombre. Inicia con “Luego los de la fe son benditos con el creyente Abraham.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en promesa y simiente. Inicia con “A Abraham fueron hechas las promesas, y á su simiente. No dice: Y á las simientes, como de muchos; sino como de uno: Y á tu simiente, la cu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 3, esta sección refuerza fidelidad del pacto y promesas divinas, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en cristo y sois. Inicia con “Empero antes que viniese la fe, estábamos guardados bajo la ley, encerrados para aquella fe que había de ser descubierta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Gálatas 3, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 10,
+      "significance": "La recurrencia de “cristo” (10) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Gálatas 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "abraham",
+      "count": 8,
+      "significance": "La recurrencia de “abraham” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 3."
+    },
+    {
+      "word": "promesa",
+      "count": 7,
+      "significance": "La recurrencia de “promesa” (7) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Gálatas 3."
+    },
+    {
+      "word": "sois",
+      "count": 5,
+      "significance": "La recurrencia de “sois” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Gálatas 3."
     }
   ]
 }

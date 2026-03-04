@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 11",
+  "title": "Análisis Estructural de Números 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en pueblo y fuego. Inicia con “Y ACONTECIÓ que el pueblo se quejó á oídos de Jehová: y oyólo Jehová, y enardecióse su furor, y encendióse en ellos fuego de Jehová y consu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en pueblo y carne. Inicia con “Y oyó Moisés al pueblo, que lloraba por sus familias, cada uno á la puerta de su tienda: y el furor de Jehová se encendió en gran manera; t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en dias y moises. Inicia con “No comeréis un día, ni dos días, ni cinco días, ni diez días, ni veinte días;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en pueblo y moises. Inicia con “Entonces respondió Josué hijo de Nun, ministro de Moisés, uno* de sus mancebos, y dijo: Señor mío Moisés, impídelos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pueblo",
+      "count": 20,
+      "significance": "La recurrencia de “pueblo” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "moises",
+      "count": 14,
+      "significance": "La recurrencia de “moises” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 11."
+    },
+    {
+      "word": "carne",
+      "count": 8,
+      "significance": "La recurrencia de “carne” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 11."
+    },
+    {
+      "word": "campo",
+      "count": 7,
+      "significance": "La recurrencia de “campo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 11."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 40",
+  "title": "Análisis Estructural de Isaías 40",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hierba y voces. Inicia con “CONSOLAOS, consolaos, pueblo mío, dice vuestro Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en aqui y peso. Inicia con “Súbete sobre un monte alto, anunciadora de Sión; levanta fuertemente tu voz, anunciadora de Jerusalem; levántala, no temas; di á las ciudad…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en nunca y tierra. Inicia con “Como nada son todas las gentes delante de él; y en su comparación serán estimadas en menos que nada, y que lo que no es.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en crio y fuerzas. Inicia con “¿A qué pues me haréis semejante, ó seré asimilado? dice el Santo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 6,
+      "significance": "La recurrencia de “tierra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 40."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 40."
+    },
+    {
+      "word": "hierba",
+      "count": 4,
+      "significance": "La recurrencia de “hierba” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 40."
+    },
+    {
+      "word": "nunca",
+      "count": 4,
+      "significance": "La recurrencia de “nunca” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 40."
     }
   ]
 }

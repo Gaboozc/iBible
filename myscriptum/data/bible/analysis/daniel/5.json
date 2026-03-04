@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Daniel 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en principes y vino. Inicia con “EL rey Belsasar hizo un gran banquete á mil de sus príncipes, y en presencia de los mil bebía vino.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en daniel y padre. Inicia con “Entonces el rey Belsasar fué muy turbado, y se le mudaron sus colores y alteráronse sus príncipes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en queria y delante. Inicia con “Entonces Daniel respondió, y dijo delante del rey: Tus dones sean para ti, y tus presentes dalos á otro. La escritura yo la leeré al rey, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en reino y mene. Inicia con “Y la escritura que esculpió es: MENE, MENE, TEKEL, UPHARSIN.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Daniel 5, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "reino",
+      "count": 10,
+      "significance": "La recurrencia de “reino” (10) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Daniel 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 8,
+      "significance": "La recurrencia de “entonces” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 5."
+    },
+    {
+      "word": "escritura",
+      "count": 7,
+      "significance": "La recurrencia de “escritura” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 5."
+    },
+    {
+      "word": "daniel",
+      "count": 7,
+      "significance": "La recurrencia de “daniel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Daniel 5."
     }
   ]
 }

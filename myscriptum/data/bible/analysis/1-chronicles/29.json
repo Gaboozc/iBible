@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 29",
+  "title": "Análisis Estructural de 1 Crónicas 29",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en casa y plata. Inicia con “DESPUÉS dijo el rey David á toda la asamblea: A solo Salomón mi hijo ha elegido Dios; él es joven y tierno, y la obra grande; porque la cas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en delante y cosas. Inicia con “Y holgóse el pueblo de haber contribuído de su voluntad; porque con entero corazón ofrecieron á Jehová voluntariamente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en todo y corazon. Inicia con “Oh Jehová Dios nuestro, toda esta abundancia que hemos aprestado para edificar casa á tu santo nombre, de tu mano es, y todo es tuyo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en reino y israel. Inicia con “Y todos los príncipes y poderosos, y todos los hijos del rey David, prestaron homenaje al rey Salomón.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 29, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 10,
+      "significance": "La recurrencia de “israel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 29."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 9,
+      "significance": "La recurrencia de “david” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 29."
+    },
+    {
+      "word": "casa",
+      "count": 9,
+      "significance": "La recurrencia de “casa” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 29."
+    },
+    {
+      "word": "cosas",
+      "count": 9,
+      "significance": "La recurrencia de “cosas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 29."
     }
   ]
 }

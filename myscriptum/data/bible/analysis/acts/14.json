@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 14",
+  "title": "Análisis Estructural de Hechos 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en judios y juntamente. Inicia con “Y ACONTECIÓ en Iconio, que entrados juntamente en la sinagoga de los Judíos, hablaron de tal manera, que creyó una grande multitud de Judío…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en pablo y pies. Inicia con “Y un hombre de Listra, impotente de los pies, estaba sentado, cojo desde el vientre de su madre, que jamás había andado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en ciudad y diciendo. Inicia con “Y diciendo: Varones, ¿por qué hacéis esto? Nosotros también somos hombres semejantes á vosotros, que os anunciamos que de estas vanidades o…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-28",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 28 con foco léxico en habiendo y habian. Inicia con “Confirmando los ánimos de los discípulos, exhortándoles á que permaneciesen en la fe, y que es menester que por muchas tribulaciones entrem…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "judios",
+      "count": 6,
+      "significance": "La recurrencia de “judios” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciudad",
+      "count": 5,
+      "significance": "La recurrencia de “ciudad” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 14."
+    },
+    {
+      "word": "pablo",
+      "count": 5,
+      "significance": "La recurrencia de “pablo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 14."
+    },
+    {
+      "word": "alli",
+      "count": 4,
+      "significance": "La recurrencia de “alli” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 14."
     }
   ]
 }

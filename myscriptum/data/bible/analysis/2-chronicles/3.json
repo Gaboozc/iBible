@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 3",
+  "title": "Análisis Estructural de 2 Crónicas 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en casa y codos. Inicia con “Y COMENZÓ Salomón á edificar la casa en Jerusalem, en el monte Moria que había sido mostrado á David su padre, en el lugar que David había…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en casa y cubrio. Inicia con “Cubrió también la casa de piedras preciosas por excelencia: y el oro era oro de Parvaim.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en codos y cinco. Inicia con “Y dentro del lugar santísimo hizo dos querubines de forma de niños, los cuales cubrieron de oro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en hizo y columnas. Inicia con “Hizo también el velo de cárdeno, púrpura, carmesí y lino, é hizo resaltar en él querubines.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "codos",
+      "count": 13,
+      "significance": "La recurrencia de “codos” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 12,
+      "significance": "La recurrencia de “casa” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 3."
+    },
+    {
+      "word": "hizo",
+      "count": 8,
+      "significance": "La recurrencia de “hizo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 3."
+    },
+    {
+      "word": "veinte",
+      "count": 7,
+      "significance": "La recurrencia de “veinte” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 3."
     }
   ]
 }

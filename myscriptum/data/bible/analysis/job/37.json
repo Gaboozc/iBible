@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 37",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 37.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en sonido y tierra. Inicia con “A ESTO también se espanta mi corazón, y salta de su lugar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hace y retirarse. Inicia con “Así hace retirarse á todo hombre, para que los hombres todos reconozcan su obra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en otras y tierra. Inicia con “Unas veces por azote, otras por causa de su tierra, otras por misericordia las hará parecer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en muestranos y hemos. Inicia con “Muéstranos qué le hemos de decir; porque* nosotros no podemos componer las ideas* á causa de las tinieblas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 37, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 37."
     },
     {
-      "word": "Motivo literario",
+      "word": "cielos",
+      "count": 3,
+      "significance": "La recurrencia de “cielos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 37."
+    },
+    {
+      "word": "esto",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “esto” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 37."
+    },
+    {
+      "word": "corazon",
+      "count": 2,
+      "significance": "La recurrencia de “corazon” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 37."
     }
   ]
 }

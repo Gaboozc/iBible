@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 9",
+  "title": "Análisis Estructural de Génesis 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en todo y hombre. Inicia con “Y BENDIJO Dios á Noé y á sus hijos, y díjoles: Fructificad, y multiplicad, y henchid la tierra:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en toda y tierra. Inicia con “Yo, he aquí que yo establezco mi pacto con vosotros, y con vuestra simiente después de vosotros;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en toda y tierra. Inicia con “Y estará el arco en las nubes, y verlo he para acordarme del pacto perpetuo entre Dios y toda alma viviente, con toda carne que hay sobre l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en canaan y siervo. Inicia con “Entonces Sem y Japhet tomaron la ropa, y la pusieron sobre sus propios hombros, y andando hacia atrás, cubrieron la desnudez de su padre, t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 13,
+      "significance": "La recurrencia de “tierra” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "toda",
+      "count": 12,
+      "significance": "La recurrencia de “toda” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 9."
+    },
+    {
+      "word": "todo",
+      "count": 6,
+      "significance": "La recurrencia de “todo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 9."
+    },
+    {
+      "word": "carne",
+      "count": 6,
+      "significance": "La recurrencia de “carne” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 9."
     }
   ]
 }

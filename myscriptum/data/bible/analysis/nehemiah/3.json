@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 3",
+  "title": "Análisis Estructural de Nehemías 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hijo y junto. Inicia con “Y LEVANTÓSE Eliasib el gran sacerdote con sus hermanos los sacerdotes, y edificaron la puerta de las Ovejas. Ellos aparejaron y levantaron…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hijo y restauro. Inicia con “Junto á ellos restauró también Repaías hijo de Hur, príncipe de la mitad de la región de Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en hijo y despues. Inicia con “Tras él restauraron los Levitas, Rehum hijo de Bani; junto á él restauró Asabías, príncipe de la mitad de la región de Ceila en su región.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en hijo y enfrente. Inicia con “Paal hijo de Uzai, enfrente de la esquina y la torre alta que sale de la casa del rey, que está en el patio de la cárcel. Después de él, Pe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 36,
+      "significance": "La recurrencia de “hijo” (36) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "restauro",
+      "count": 23,
+      "significance": "La recurrencia de “restauro” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 3."
+    },
+    {
+      "word": "puerta",
+      "count": 13,
+      "significance": "La recurrencia de “puerta” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 3."
+    },
+    {
+      "word": "despues",
+      "count": 13,
+      "significance": "La recurrencia de “despues” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 3."
     }
   ]
 }

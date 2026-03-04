@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 22",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 22.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en hombre y provecho. Inicia con “Y RESPONDIÓ Eliphaz Temanita, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en viudas y enviaste. Inicia con “Las viudas enviaste vacías, y los brazos de los huérfanos fueron quebrados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en omnipotente y ahora. Inicia con “Los cuales fueron cortados antes de tiempo, cuyo fundamento fué como un río derramado:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en tendras y tierra. Inicia con “Y tendrás más oro que tierra, y como piedras de arroyos oro de Ophir;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "omnipotente",
+      "count": 4,
+      "significance": "La recurrencia de “omnipotente” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 22."
     },
     {
-      "word": "Motivo literario",
+      "word": "tendras",
+      "count": 3,
+      "significance": "La recurrencia de “tendras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 22."
+    },
+    {
+      "word": "hombre",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hombre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 22."
+    },
+    {
+      "word": "provecho",
+      "count": 2,
+      "significance": "La recurrencia de “provecho” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 22."
     }
   ]
 }

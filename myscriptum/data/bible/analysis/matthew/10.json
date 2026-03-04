@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 10",
+  "title": "Análisis Estructural de Mateo 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en doce y fuera. Inicia con “ENTONCES llamando á sus doce discípulos, les dió potestad contra los espíritus inmundos, para que los echasen fuera, y sanasen toda enferme…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en casa y fuere. Inicia con “Y entrando en la casa, saludadla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-32",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 32 con foco léxico en padre y temais. Inicia con “Y seréis aborrecidos de todos por mi nombre; mas el que soportare hasta el fin, éste será salvo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "33-42",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 33 al 42 con foco léxico en recibe y padre. Inicia con “Y cualquiera que me negare delante de los hombres, le negaré yo también delante de mi Padre que está en los cielos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 8,
+      "significance": "La recurrencia de “padre” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 6,
+      "significance": "La recurrencia de “casa” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 10."
+    },
+    {
+      "word": "recibe",
+      "count": 6,
+      "significance": "La recurrencia de “recibe” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 10."
+    },
+    {
+      "word": "contra",
+      "count": 5,
+      "significance": "La recurrencia de “contra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 10."
     }
   ]
 }

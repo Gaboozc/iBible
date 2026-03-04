@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 2",
+  "title": "Análisis Estructural de Números 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en hijos y acamparan. Inicia con “Y HABLÓ Jehová á Moisés y á Aarón, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en contados y cincuenta. Inicia con “La bandera del ejército de Rubén al mediodía, por sus escuadrones: y el jefe de los hijos de Rubén, Elisur hijo de Sedeur;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en contados y jefe. Inicia con “La bandera del ejército de Ephraim por sus escuadrones, al occidente: y el jefe de los hijos de Ephraim, Elisama hijo de Ammiud;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en contados y hijos. Inicia con “Junto á él acamparán los de la tribu de Aser: y el jefe de los hijos de Aser, Phegiel hijo de Ocrán;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contados",
+      "count": 19,
+      "significance": "La recurrencia de “contados” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 16,
+      "significance": "La recurrencia de “hijos” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 2."
+    },
+    {
+      "word": "jefe",
+      "count": 12,
+      "significance": "La recurrencia de “jefe” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 2."
+    },
+    {
+      "word": "hijo",
+      "count": 12,
+      "significance": "La recurrencia de “hijo” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 2."
     }
   ]
 }

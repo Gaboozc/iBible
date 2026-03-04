@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 30",
+  "title": "Análisis Estructural de Génesis 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en jacob y rachel. Inicia con “Y VIENDO Rachêl que no daba hijos á Jacob, tuvo envidia de su hermana, y decía á Jacob: Dame hijos, ó si no, me muero.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-22",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 22 con foco léxico en hijo y mandragoras. Inicia con “Y Zilpa, la sierva de Lea, parió otro hijo á Jacob.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "23-33",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 23 al 33 con foco léxico en ovejas y color. Inicia con “Y concibió, y parió un hijo: y dijo: Quitado ha Dios mi afrenta:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "34-43",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 34 al 43 con foco léxico en ovejas y jacob. Inicia con “Y dijo Labán: Mira, ojalá fuese como tú dices.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jacob",
+      "count": 20,
+      "significance": "La recurrencia de “jacob” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 30."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 13,
+      "significance": "La recurrencia de “hijo” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 30."
+    },
+    {
+      "word": "ovejas",
+      "count": 12,
+      "significance": "La recurrencia de “ovejas” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 30."
+    },
+    {
+      "word": "rachel",
+      "count": 9,
+      "significance": "La recurrencia de “rachel” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 30."
     }
   ]
 }

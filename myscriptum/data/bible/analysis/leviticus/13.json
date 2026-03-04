@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 13",
+  "title": "Análisis Estructural de Levítico 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en sacerdote y piel. Inicia con “Y HABLÓ Jehová á Moisés y á Aarón, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-30",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 30 con foco léxico en sacerdote y llaga. Inicia con “Mas cuando la carne viva se mudare y volviere blanca, entonces vendrá al sacerdote;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "31-45",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 31 al 45 con foco léxico en sacerdote y tina. Inicia con “Mas cuando el sacerdote hubiere mirado la llaga de la tiña, y no pareciere estar más profunda que la tez, ni fuere en ella pelo negro, el s…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "46-59",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 46 al 59 con foco léxico en plaga y vestido. Inicia con “Todo el tiempo que la llaga estuviere en él, será inmundo; estará impuro: habitará solo; fuera del real será su morada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sacerdote",
+      "count": 55,
+      "significance": "La recurrencia de “sacerdote” (55) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "piel",
+      "count": 33,
+      "significance": "La recurrencia de “piel” (33) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 13."
+    },
+    {
+      "word": "hubiere",
+      "count": 24,
+      "significance": "La recurrencia de “hubiere” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 13."
+    },
+    {
+      "word": "llaga",
+      "count": 23,
+      "significance": "La recurrencia de “llaga” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 13."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 1",
+  "title": "Análisis Estructural de Jeremías 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y josias. Inicia con “LAS palabras de Jeremías hijo de Hilcías, de los sacerdotes que estuvieron en Anathoth, en tierra de Benjamín.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en aqui y nino. Inicia con “Y yo dije: ¡Ah! ¡ah! ¡Señor Jehová! He aquí, no sé hablar, porque soy niño.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en palabra y aquilon. Inicia con “Y la palabra de Jehová fué á mí, diciendo: ¿Qué ves tú, Jeremías? Y dije: Yo veo una vara de almendro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en toda y contra. Inicia con “Y á causa de toda su malicia, proferiré mis juicios contra los que me dejaron, é incensaron á dioses extraños, y á hechuras de sus manos se…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "palabra",
+      "count": 5,
+      "significance": "La recurrencia de “palabra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juda",
+      "count": 5,
+      "significance": "La recurrencia de “juda” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 1."
+    },
+    {
+      "word": "hijo",
+      "count": 4,
+      "significance": "La recurrencia de “hijo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 1."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 1."
     }
   ]
 }

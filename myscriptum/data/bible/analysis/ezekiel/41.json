@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 41",
+  "title": "Análisis Estructural de Ezequiel 41",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 41.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en codos y anchura. Inicia con “METIÓME luego en el templo, y midió los postes, siendo* el ancho seis codos de una parte, y seis codos de otra, que era la anchura del tabe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en codos y casa. Inicia con “Y miré la altura de la casa alrededor: los cimientos de las cámaras eran una caña entera de seis codos de grandor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en parte y casa. Inicia con “Y la anchura de la delantera de la casa, y del apartamiento al oriente, de cien codos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en puertas y templo. Inicia con “Cada poste del templo era cuadrado, y la delantera del santuario era* como la otra* delantera.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "codos",
+      "count": 26,
+      "significance": "La recurrencia de “codos” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 41."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 15,
+      "significance": "La recurrencia de “casa” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 41."
+    },
+    {
+      "word": "anchura",
+      "count": 13,
+      "significance": "La recurrencia de “anchura” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 41."
+    },
+    {
+      "word": "camaras",
+      "count": 10,
+      "significance": "La recurrencia de “camaras” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 41."
     }
   ]
 }

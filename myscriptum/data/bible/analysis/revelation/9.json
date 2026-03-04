@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 9",
+  "title": "Análisis Estructural de Apocalipsis 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y pozo. Inicia con “Y EL quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo en la tierra; y le fué dada la llave del pozo del abismo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en tenian y caballos. Inicia con “Y el parecer de las langostas era semejante á caballos aparejados para la guerra: y sobre sus cabezas tenían* como coronas semejantes al or…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en cuatro y sexto. Inicia con “El primer ¡Ay! es pasado: he aquí, vienen aún dos ayes después de estas cosas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en fuego y azufre. Inicia con “Y así vi los caballos en visión, y los que sobre ellos estaban sentados, los cuales tenían corazas de fuego, de jacinto, y de azufre. Y las…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hombres",
+      "count": 7,
+      "significance": "La recurrencia de “hombres” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tenian",
+      "count": 7,
+      "significance": "La recurrencia de “tenian” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 9."
+    },
+    {
+      "word": "humo",
+      "count": 6,
+      "significance": "La recurrencia de “humo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 9."
+    },
+    {
+      "word": "angel",
+      "count": 4,
+      "significance": "La recurrencia de “angel” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 9."
     }
   ]
 }

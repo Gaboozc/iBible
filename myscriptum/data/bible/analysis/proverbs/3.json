@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 3",
+  "title": "Análisis Estructural de Proverbios 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en corazon y opinion. Inicia con “HIJO mío, no te olvides de mi ley; y tu corazón guarde mis mandamientos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en ella y hijo. Inicia con “Y serán llenas tus trojes con abundancia, y tus lagares rebosarán de mosto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en cielos y tendras. Inicia con “Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-35",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 35 con foco léxico en projimo y alguno. Inicia con “No digas á tu prójimo: Ve, y vuelve, y mañana te* daré; cuando tienes contigo qué darle*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 4,
+      "significance": "La recurrencia de “hijo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "caminos",
+      "count": 4,
+      "significance": "La recurrencia de “caminos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 3."
+    },
+    {
+      "word": "corazon",
+      "count": 3,
+      "significance": "La recurrencia de “corazon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 3."
+    },
+    {
+      "word": "vida",
+      "count": 3,
+      "significance": "La recurrencia de “vida” (3) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Proverbios 3."
     }
   ]
 }

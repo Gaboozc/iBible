@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Colossians 2",
+  "title": "Análisis Estructural de Colosenses 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en estan y todos. Inicia con “PORQUE quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están* en Laodicea, y por todos los que nunca vieron mi rost…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en segun y cristo. Inicia con “Arraigados y sobreedificados en él, y confirmados en la fe, así como habéis aprendido, creciendo en ella con hacimiento de gracias.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en pecados y carne. Inicia con “Y á vosotros, estando muertos en pecados y en* la incircuncisión de vuestra carne, os vivificó juntamente con él, perdonándoos todos los pe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 2, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en cuerpo y mundo. Inicia con “Y no teniendo la cabeza, de la cual todo el cuerpo, alimentado y conjunto por las ligaduras y conjunturas, crece en aumento de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Colosenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 6,
+      "significance": "La recurrencia de “cristo” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Colosenses 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "carne",
+      "count": 5,
+      "significance": "La recurrencia de “carne” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 2."
+    },
+    {
+      "word": "cuerpo",
+      "count": 5,
+      "significance": "La recurrencia de “cuerpo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 2."
+    },
+    {
+      "word": "todos",
+      "count": 3,
+      "significance": "La recurrencia de “todos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Colosenses 2."
     }
   ]
 }

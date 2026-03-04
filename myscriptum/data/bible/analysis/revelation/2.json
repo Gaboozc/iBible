@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 2",
+  "title": "Análisis Estructural de Apocalipsis 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en dice y escribe. Inicia con “ESCRIBE al ángel de la iglesia en EFESO: El que tiene las siete estrellas en su diestra, el cual anda en medio de los siete candeleros de o…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en cosas y satanas. Inicia con “Yo sé tus obras, y tu tribulación, y tu pobreza (pero tú* eres rico), y la blasfemia de los que se dicen ser Judíos, y no lo son, mas son*…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en dice y cosas. Inicia con “Arrepiéntete, porque de otra manera vendré á ti presto, y pelearé contra ellos con la espada de mi boca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en dare y iglesias. Inicia con “Y mataré á sus hijos con muerte; y todas las iglesias sabrán que yo soy el que escudriño los riñones y los corazones: y daré á cada uno de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "dice",
+      "count": 9,
+      "significance": "La recurrencia de “dice” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosas",
+      "count": 9,
+      "significance": "La recurrencia de “cosas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 2."
+    },
+    {
+      "word": "obras",
+      "count": 9,
+      "significance": "La recurrencia de “obras” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 2."
+    },
+    {
+      "word": "tiene",
+      "count": 7,
+      "significance": "La recurrencia de “tiene” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 15",
+  "title": "Análisis Estructural de Levítico 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en flujo y inmundo. Inicia con “Y HABLÓ Jehová á Moisés y á Aarón, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en lavara y tarde. Inicia con “Y cualquiera que tocare cualquiera cosa que haya estado debajo de él, será inmundo hasta la tarde; y el que la llevare, lavará sus vestidos…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en inmundo y ella. Inicia con “Y la mujer con quien el varón tuviera ayuntamiento de semen, ambos se lavarán con agua, y serán inmundos hasta la tarde.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en flujo y inmundo. Inicia con “Toda cama en que durmiere todo el tiempo de su flujo, le será como la cama de su costumbre; y todo mueble sobre que se sentare, será inmund…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "flujo",
+      "count": 23,
+      "significance": "La recurrencia de “flujo” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "inmundo",
+      "count": 22,
+      "significance": "La recurrencia de “inmundo” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 15."
+    },
+    {
+      "word": "lavara",
+      "count": 16,
+      "significance": "La recurrencia de “lavara” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 15."
+    },
+    {
+      "word": "tarde",
+      "count": 15,
+      "significance": "La recurrencia de “tarde” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 15."
     }
   ]
 }

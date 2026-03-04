@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nehemiah 11",
+  "title": "Análisis Estructural de Nehemías 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en hijo y hijos. Inicia con “Y HABITARON los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que morase en Jerusalem, ciu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en hijo y hermanos. Inicia con “De los sacerdotes: Jedaías hijo de Joiarib, Jachîn,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en hijo y aldeas. Inicia con “Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en aldeas y habitaron. Inicia con “Y en Siclag, y en Mechôna, y en sus aldeas;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nehemías 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijo",
+      "count": 54,
+      "significance": "La recurrencia de “hijo” (54) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 11,
+      "significance": "La recurrencia de “hijos” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 11."
+    },
+    {
+      "word": "aldeas",
+      "count": 9,
+      "significance": "La recurrencia de “aldeas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 11."
+    },
+    {
+      "word": "jerusalem",
+      "count": 7,
+      "significance": "La recurrencia de “jerusalem” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nehemías 11."
     }
   ]
 }

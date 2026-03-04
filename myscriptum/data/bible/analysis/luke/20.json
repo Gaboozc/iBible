@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 20",
+  "title": "Análisis Estructural de Lucas 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en pueblo y potestad. Inicia con “Y ACONTECIÓ un día, que enseñando él al pueblo en el templo, y anunciando el evangelio, llegáronse los príncipes de los sacerdotes y los es…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en vina y piedra. Inicia con “Entonces el señor de la viña dijo: ¿Qué haré? Enviaré mi hijo amado: quizás cuando á éste vieren, tendrán respeto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en mujer y hijos. Inicia con “Entonces les dijo: Pues dad á César lo que es de César; y lo que es de Dios, á Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-47",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 47 con foco léxico en senor y david. Inicia con “Y que los muertos hayan de resucitar, aun Moisés lo enseñó en el pasaje de* la zarza, cuando llama al Señor: Dios de Abraham, y Dios de Isa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pues",
+      "count": 7,
+      "significance": "La recurrencia de “pues” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 20."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 6,
+      "significance": "La recurrencia de “pueblo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 20."
+    },
+    {
+      "word": "vina",
+      "count": 6,
+      "significance": "La recurrencia de “vina” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 20."
+    },
+    {
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 20."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Hebrews 4",
+  "title": "Análisis Estructural de Hebreos 4",
   "sections": [
     {
       "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en reposo y obras. Inicia con “TEMAMOS, pues, que quedando aún la promesa de entrar en su reposo, parezca alguno de vosotros haberse apartado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en otra y reposo. Inicia con “Y otra vez aquí: No entrarán en mi reposo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en reposo y tanto. Inicia con “Por tanto, queda un reposo para el pueblo de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en tenemos y pontifice. Inicia con “Y no hay cosa criada que no sea manifiesta en su presencia; antes todas las cosas están desnudas y abiertas á los ojos de aquel á quien ten…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hebreos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "reposo",
+      "count": 9,
+      "significance": "La recurrencia de “reposo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pues",
+      "count": 4,
+      "significance": "La recurrencia de “pues” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 4."
+    },
+    {
+      "word": "entrar",
+      "count": 3,
+      "significance": "La recurrencia de “entrar” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 4."
+    },
+    {
+      "word": "obras",
+      "count": 3,
+      "significance": "La recurrencia de “obras” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hebreos 4."
     }
   ]
 }

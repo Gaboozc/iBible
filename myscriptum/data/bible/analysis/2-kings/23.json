@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 23",
+  "title": "Análisis Estructural de 2 Reyes 23",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en jerusalem y todos. Inicia con “ENTONCES el rey envió, y juntaron á él todos los ancianos de Judá y de Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en habia y hecho. Inicia con “Quitó también los caballos que los reyes de Judá habían dedicado al sol á la entrada del templo de Jehová, junto á la cámara de Nathan-mele…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-28",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 28 con foco léxico en juda y habia. Inicia con “Mató además sobre los altares á todos los sacerdotes de los altos que allí estaban, y quemó sobre ellos huesos de hombres, y volvióse á Jer…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "29-37",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 29 al 37 con foco léxico en faraon y nechao. Inicia con “En aquellos días Faraón Nechâo rey de Egipto subió contra el rey de Asiria al río Eufrates, y salió contra él el rey Josías; pero aquél, as…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jerusalem",
+      "count": 15,
+      "significance": "La recurrencia de “jerusalem” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "juda",
+      "count": 13,
+      "significance": "La recurrencia de “juda” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 23."
+    },
+    {
+      "word": "habia",
+      "count": 13,
+      "significance": "La recurrencia de “habia” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 23."
+    },
+    {
+      "word": "hizo",
+      "count": 10,
+      "significance": "La recurrencia de “hizo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 23."
     }
   ]
 }

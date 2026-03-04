@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezra 6",
+  "title": "Análisis Estructural de Esdras 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y jerusalem. Inicia con “ENTONCES el rey Darío dió mandamiento, y buscaron en la casa de los libros, donde guardaban los tesoros allí en Babilonia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en casa y judios. Inicia con “Dejad la obra de la casa de este Dios al principal de los Judíos, y á sus ancianos, para que edifiquen la casa de este Dios en su lugar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en casa y dario. Inicia con “Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta casa de Dios, la cual…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en sacerdotes y transmigracion. Inicia con “Y pusieron á los sacerdotes en sus clases, y á los Levitas en sus divisiones, sobre la obra de Dios que está en Jerusalem, conforme á lo es…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 16,
+      "significance": "La recurrencia de “casa” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 7,
+      "significance": "La recurrencia de “israel” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 6."
+    },
+    {
+      "word": "mandamiento",
+      "count": 6,
+      "significance": "La recurrencia de “mandamiento” (6) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Esdras 6."
+    },
+    {
+      "word": "jerusalem",
+      "count": 6,
+      "significance": "La recurrencia de “jerusalem” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 6."
     }
   ]
 }

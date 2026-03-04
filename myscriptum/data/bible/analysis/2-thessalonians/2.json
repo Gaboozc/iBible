@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-thessalonians 2",
+  "title": "Análisis Estructural de 2 Tesalonicenses 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en senor y empero. Inicia con “EMPERO os rogamos, hermanos, cuanto á la venida de nuestro Señor Jesucristo, y nuestro recogimiento á él,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en ahora y impide. Inicia con “Y ahora vosotros sabéis lo que impide, para que á su tiempo se manifieste.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en verdad y iniquidad. Inicia con “Y con todo engaño de iniquidad en los que perecen; por cuanto no recibieron el amor de la verdad para ser salvos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en senor y jesucristo. Inicia con “A lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Tesalonicenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hermanos",
+      "count": 3,
+      "significance": "La recurrencia de “hermanos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 2."
+    },
+    {
+      "word": "jesucristo",
+      "count": 3,
+      "significance": "La recurrencia de “jesucristo” (3) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 2."
+    },
+    {
+      "word": "espiritu",
+      "count": 3,
+      "significance": "La recurrencia de “espiritu” (3) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de 2 Tesalonicenses 2."
     }
   ]
 }

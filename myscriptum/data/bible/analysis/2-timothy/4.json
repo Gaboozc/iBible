@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-timothy 4",
+  "title": "Análisis Estructural de 2 Timoteo 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tiempo y doctrina. Inicia con “REQUIERO yo pues delante de Dios, y del Señor Jesucristo, que ha de juzgar á los vivos y los muertos en su manifestación y en su reino,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en demas y solo. Inicia con “He peleado la buena batalla, he acabado la carrera, he guardado la fe.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en senor y ayudo. Inicia con “A Tychîco envié á Efeso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en senor y siglos. Inicia con “Y el Señor me librará de toda obra mala, y me preservará para su reino celestial: al cual sea* gloria por los siglos de los siglos. Amén.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Timoteo 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 6,
+      "significance": "La recurrencia de “senor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tiempo",
+      "count": 4,
+      "significance": "La recurrencia de “tiempo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 4."
+    },
+    {
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 4."
+    },
+    {
+      "word": "antes",
+      "count": 3,
+      "significance": "La recurrencia de “antes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Timoteo 4."
     }
   ]
 }

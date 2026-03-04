@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 18",
+  "title": "Análisis Estructural de Deuteronomio 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en heredad y sacerdotes. Inicia con “LOS sacerdotes Levitas, toda la tribu de Leví, no tendrán parte ni heredad con Israel; de las ofrendas encendidas á Jehová, y de la heredad…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 18, esta sección refuerza fidelidad del pacto y promesas divinas, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en porcion y pregunte. Inicia con “Ministrará al nombre de Jehová su Dios, como todos sus hermanos los Levitas que estuvieren allí delante de Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en abominacion y cualquiera. Inicia con “Porque es abominación á Jehová cualquiera que hace estas cosas, y por estas abominaciones Jehová tu Dios las echó de delante de ti.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en profeta y nombre. Inicia con “Profeta les suscitaré de en medio de sus hermanos, como tú; y pondré mis palabras en su boca, y él les hablará todo lo que yo le mandare.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nombre",
+      "count": 6,
+      "significance": "La recurrencia de “nombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "profeta",
+      "count": 6,
+      "significance": "La recurrencia de “profeta” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 18."
+    },
+    {
+      "word": "heredad",
+      "count": 4,
+      "significance": "La recurrencia de “heredad” (4) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Deuteronomio 18."
+    },
+    {
+      "word": "hermanos",
+      "count": 4,
+      "significance": "La recurrencia de “hermanos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 18."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 47",
+  "title": "Análisis Estructural de Ezequiel 47",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 47.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en aguas y hizome. Inicia con “HÍZOME tornar luego á la entrada de la casa; y he aquí aguas que salían de debajo del umbral de la casa hacia el oriente: porque la fachada…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en aguas y arroyo. Inicia con “Y tornando yo, he aquí en la ribera del arroyo había árboles muy muchos de la una parte y de la otra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en termino y tierra. Inicia con “Así ha dicho el Señor Jehová: Este es el término en que partiréis la tierra en heredad entre las doce tribus de Israel: José dos* partes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en lado y mediodia. Inicia con “Y al lado del mediodía, hacia el mediodía, desde Tamar hasta las aguas de las rencillas; desde Cades y el arroyo hasta la gran mar: y esto…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 47, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aguas",
+      "count": 12,
+      "significance": "La recurrencia de “aguas” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 47."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "termino",
+      "count": 10,
+      "significance": "La recurrencia de “termino” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 47."
+    },
+    {
+      "word": "lado",
+      "count": 8,
+      "significance": "La recurrencia de “lado” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 47."
+    },
+    {
+      "word": "oriente",
+      "count": 7,
+      "significance": "La recurrencia de “oriente” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 47."
     }
   ]
 }

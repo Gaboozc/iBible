@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-peter 3",
+  "title": "Análisis Estructural de 1 Pedro 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en mujeres y vosotras. Inicia con “ASIMISMO vosotras, mujeres, sed* sujetas á vuestros maridos; para que también los que no creen á la palabra, sean ganados sin palabra por l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Pedro 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en vida y maldicion. Inicia con “Vosotros maridos, semejantemente, habitad con ellas según ciencia, dando honor á la mujer como á vaso más frágil, y como á herederas juntam…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Pedro 3, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en senor y bien. Inicia con “Porque los ojos del Señor están sobre los justos, y sus oídos atentos* á sus oraciones: pero el rostro del Señor está sobre aquellos que ha…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Pedro 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en carne y cristo. Inicia con “Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la ca…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Pedro 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "bien",
+      "count": 5,
+      "significance": "La recurrencia de “bien” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Pedro 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "sino",
+      "count": 4,
+      "significance": "La recurrencia de “sino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Pedro 3."
+    },
+    {
+      "word": "senor",
+      "count": 4,
+      "significance": "La recurrencia de “senor” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Pedro 3."
+    },
+    {
+      "word": "sois",
+      "count": 4,
+      "significance": "La recurrencia de “sois” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Pedro 3."
     }
   ]
 }

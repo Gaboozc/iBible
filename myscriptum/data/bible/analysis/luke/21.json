@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 21",
+  "title": "Análisis Estructural de Lucas 21",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en cosas y ofrendas. Inicia con “Y MIRANDO, vió á los ricos que echaban sus ofrendas en el gazofilacio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en habra y grandes. Inicia con “Y habrá grandes terremotos, y en varios lugares hambres y pestilencias: y habrá espantos y grandes señales del cielo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en entonces y cosas. Inicia con “Y cuando viereis á Jerusalem cercada de ejércitos, sabed entonces que su destrucción ha llegado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en todo y cerca. Inicia con “Cuando ya brotan, viéndolo, de vosotros mismos entendéis que el verano está ya cerca.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cosas",
+      "count": 9,
+      "significance": "La recurrencia de “cosas” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "todos",
+      "count": 6,
+      "significance": "La recurrencia de “todos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 21."
+    },
+    {
+      "word": "entonces",
+      "count": 6,
+      "significance": "La recurrencia de “entonces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 21."
+    },
+    {
+      "word": "habra",
+      "count": 5,
+      "significance": "La recurrencia de “habra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 21."
     }
   ]
 }

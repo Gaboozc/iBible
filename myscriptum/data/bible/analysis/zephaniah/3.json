@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Zephaniah 3",
+  "title": "Análisis Estructural de Sofonías 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en medio y ella. Inicia con “¡AY de la ciudad ensuciada y contaminada y* opresora!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en quedar y hice. Inicia con “Hice talar gentes; sus castillos están asolados; hice desiertas sus calles, hasta no quedar quien pase: sus ciudades están asoladas hasta n…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en medio y israel. Inicia con “En aquel día no serás avergonzada por ninguna de tus obras con que te rebelaste contra mí; porque entonces quitaré de en medio de ti los qu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tiempo y reunire. Inicia con “En aquel tiempo se dirá á Jerusalem: No temas: Sión, no se debiliten tus manos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Sofonías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "medio",
+      "count": 6,
+      "significance": "La recurrencia de “medio” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tiempo",
+      "count": 5,
+      "significance": "La recurrencia de “tiempo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 3."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 3."
+    },
+    {
+      "word": "ella",
+      "count": 3,
+      "significance": "La recurrencia de “ella” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Sofonías 3."
     }
   ]
 }

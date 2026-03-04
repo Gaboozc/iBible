@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Ministerio de Jesús (ca. 27–30 d.C.)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Herodes/autoridades romanas en Judea",
+  "kingRegion": "Judea y Galilea",
   "activeProphets": [
-    "Profetas según el período"
+    "Juan el Bautista",
+    "Jesús como Mesías"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Matthew capítulo 16 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Israel del siglo I",
+  "summary": "Mateo presenta a Jesús como Mesías davídico y cumplimiento de la Escritura. En Mateo 16, el capítulo contiene 28 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesus, entonces, discipulos. Señales textuales: “Y LLEGÁNDOSE los Fariseos y los Saduceos para tentarle, le pedían que les mostrase señal del cielo.” | “El les dice: Y vosotros, ¿quién decís que soy?” | “De cierto os digo: hay algunos de los que están aquí, que no gustarán la muerte, hasta que hayan visto al Hijo del homb…”.",
+  "spiritualContext": "Reino de los cielos, discipulado y justicia superior en continuidad con la Ley y los Profetas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jesus, entonces, discipulos. El núcleo del capítulo se percibe en “El les dice: Y vosotros, ¿quién decís que soy?”."
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 36",
+  "title": "Análisis Estructural de Ezequiel 36",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en israel y senor. Inicia con “Y TÚ, hijo del hombre, profetiza sobre los montes de Israel, y di: Montes de Israel, oid palabra de Jehová:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en gentes y hombres. Inicia con “Y multiplicaré sobre vosotros hombres y bestias, y serán multiplicados y crecerán: y os haré morar como solíais antiguamente, y os haré más…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en gentes y nombre. Inicia con “Y entrados á las gentes á donde fueron, profanaron mi santo nombre, diciéndose de ellos: Estos son pueblo de Jehová, y de su tierra de él h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en vuestras y iniquidades. Inicia con “Multiplicaré asimismo el fruto de los árboles, y el fruto de los campos, porque nunca más recibáis oprobio de hambre entre las gentes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "gentes",
+      "count": 18,
+      "significance": "La recurrencia de “gentes” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 15,
+      "significance": "La recurrencia de “senor” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 36."
+    },
+    {
+      "word": "israel",
+      "count": 14,
+      "significance": "La recurrencia de “israel” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 36."
+    },
+    {
+      "word": "dicho",
+      "count": 10,
+      "significance": "La recurrencia de “dicho” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 36."
     }
   ]
 }

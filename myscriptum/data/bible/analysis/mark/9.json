@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 9",
+  "title": "Análisis Estructural de Marcos 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en elias y jesus. Inicia con “TAMBIÉN les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan visto el reino de Dios…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en espiritu y luego. Inicia con “Y como vino á los discípulos, vió grande compañía alrededor de ellos, y escribas que disputaban con ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 9, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-38",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 38 con foco léxico en muerto y recibe. Inicia con “Entonces el espíritu* clamando y desgarrándole mucho, salió; y él* quedó como muerto, de modo que muchos decían: Está muerto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "39-50",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 39 al 50 con foco léxico en fuego y mejor. Inicia con “Y Jesús dijo: No se lo prohibáis; porque ninguno hay que haga milagro en mi nombre que luego pueda decir mal de mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 9,
+      "significance": "La recurrencia de “jesus” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Marcos 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "fuego",
+      "count": 7,
+      "significance": "La recurrencia de “fuego” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 9."
+    },
+    {
+      "word": "elias",
+      "count": 5,
+      "significance": "La recurrencia de “elias” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 9."
+    },
+    {
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 9."
     }
   ]
 }

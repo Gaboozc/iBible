@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Mark 5",
+  "title": "Análisis Estructural de Marcos 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en sepulcros y cadenas. Inicia con “Y VINIERON de la otra parte de la mar á la provincia de los Gadarenos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-22",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 22 con foco léxico en habia y jesus. Inicia con “Y le rogaron todos los demonios, diciendo: Envíanos á los puercos para que entremos en ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "23-33",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 23 al 33 con foco léxico en habia y compania. Inicia con “Y le rogaba mucho, diciendo: Mi hija está á la muerte: ven y pondrás las manos sobre ella para que sea salva, y vivirá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "34-43",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 34 al 43 con foco léxico en muchacha y principe. Inicia con “Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Marcos 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "habia",
+      "count": 14,
+      "significance": "La recurrencia de “habia” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 10,
+      "significance": "La recurrencia de “jesus” (10) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Marcos 5."
+    },
+    {
+      "word": "luego",
+      "count": 7,
+      "significance": "La recurrencia de “luego” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 5."
+    },
+    {
+      "word": "muchacha",
+      "count": 6,
+      "significance": "La recurrencia de “muchacha” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Marcos 5."
     }
   ]
 }

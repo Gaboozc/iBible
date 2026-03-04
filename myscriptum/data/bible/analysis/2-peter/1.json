@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-peter 1",
+  "title": "Análisis Estructural de 2 Pedro 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en virtud y jesucristo. Inicia con “SIMÓN Pedro, siervo y apóstol de Jesucristo, á los que habéis alcanzado fe igualmente preciosa con nosotros en la justicia de nuestro Dios…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en cosas y amor. Inicia con “Y en el temor de Dios, amor fraternal, y en el amor fraternal caridad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en siempre y cosas. Inicia con “Por esto, yo no dejaré de amonestaros siempre de estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en gloria y enviada. Inicia con “Porque él había recibido de Dios Padre honra y gloria, cuando una tal voz fué á él enviada de la magnífica gloria: Este es el amado Hijo mí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Pedro 1, esta sección refuerza revelación, santidad y gloria de Dios, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesucristo",
+      "count": 6,
+      "significance": "La recurrencia de “jesucristo” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Pedro 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosas",
+      "count": 6,
+      "significance": "La recurrencia de “cosas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 1."
+    },
+    {
+      "word": "senor",
+      "count": 5,
+      "significance": "La recurrencia de “senor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 1."
+    },
+    {
+      "word": "conocimiento",
+      "count": 3,
+      "significance": "La recurrencia de “conocimiento” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Pedro 1."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 11",
+  "title": "Análisis Estructural de Proverbios 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en viene y justicia. Inicia con “EL peso falso abominación es á Jehová: mas la pesa cabal le agrada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en boca y projimo. Inicia con “El hipócrita con la boca daña á su prójimo: mas los justos son librados con la sabiduría.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en hace y bien. Inicia con “A su alma hace bien el hombre misericordioso: mas el cruel atormenta su carne.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en sabio y justo. Inicia con “El alma liberal será engordada: y el que saciare, él también será saciado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "justicia",
+      "count": 5,
+      "significance": "La recurrencia de “justicia” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Proverbios 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "impio",
+      "count": 5,
+      "significance": "La recurrencia de “impio” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 11."
+    },
+    {
+      "word": "justos",
+      "count": 5,
+      "significance": "La recurrencia de “justos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 11."
+    },
+    {
+      "word": "justo",
+      "count": 4,
+      "significance": "La recurrencia de “justo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 11."
     }
   ]
 }

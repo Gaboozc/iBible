@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 6",
+  "title": "Análisis Estructural de Josué 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en ciudad y siete. Inicia con “EMPERO Jericó estaba cerrada, bien cerrada, á causa de los hijos de Israel: nadie entraba, ni salía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en bocinas y arca. Inicia con “Y así que Josué hubo hablado al pueblo, los siete sacerdotes, llevando las siete bocinas de cuernos de carneros, pasaron delante del arca d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en ciudad y pueblo. Inicia con “Y al séptimo día levantáronse cuando subía el alba, y dieron vuelta á la ciudad de la misma manera siete veces: solamente este día dieron v…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en josue y todo. Inicia con “Mas Josué dijo á los dos hombres que habían reconocido la tierra: Entrad en casa de la mujer ramera, y haced salir de allá á la mujer, y á…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ciudad",
+      "count": 14,
+      "significance": "La recurrencia de “ciudad” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "bocinas",
+      "count": 12,
+      "significance": "La recurrencia de “bocinas” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 6."
+    },
+    {
+      "word": "josue",
+      "count": 11,
+      "significance": "La recurrencia de “josue” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 6."
+    },
+    {
+      "word": "arca",
+      "count": 11,
+      "significance": "La recurrencia de “arca” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 6."
     }
   ]
 }

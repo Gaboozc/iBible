@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 4",
+  "title": "Análisis Estructural de Juan 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en jesus y agua. Inicia con “DE manera que como Jesús entendió que los Fariseos habían oído que Jesús hacía y bautizaba más discípulos que Juan,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 4, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-27",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 27 con foco léxico en mujer y dicele. Inicia con “La mujer le dice: Señor, dame esta agua, para que no tenga sed, ni venga acá á sacarla*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "28-41",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 28 al 41 con foco léxico en siega y entonces. Inicia con “Entonces la mujer dejó su cántaro, y fué á la ciudad, y dijo á aquellos hombres:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "42-54",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 42 al 54 con foco léxico en jesus y hijo. Inicia con “Y decían á la mujer: Ya no creemos por tu dicho; porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 4, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 20,
+      "significance": "La recurrencia de “jesus” (20) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mujer",
+      "count": 13,
+      "significance": "La recurrencia de “mujer” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 4."
+    },
+    {
+      "word": "agua",
+      "count": 9,
+      "significance": "La recurrencia de “agua” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 4."
+    },
+    {
+      "word": "hijo",
+      "count": 7,
+      "significance": "La recurrencia de “hijo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 4."
     }
   ]
 }

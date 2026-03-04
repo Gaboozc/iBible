@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Exodus 8",
+  "title": "Análisis Estructural de Éxodo 8",
   "sections": [
     {
       "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en ranas y pueblo. Inicia con “ENTONCES Jehová dijo á Moisés: Entra á Faraón, y dile: Jehová ha dicho así: Deja ir á mi pueblo, para que me sirvan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en moises y faraon. Inicia con “Y dijo Moisés á Faraón: Gloríate sobre mí: ¿cuándo oraré por ti, y por tus siervos, y por tu pueblo, para que las ranas sean quitadas de ti…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en tierra y pueblo. Inicia con “Y ellos lo hicieron así; y Aarón extendió su mano con su vara, é hirió el polvo de la tierra, el cual se volvió piojos, así en los hombres…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en faraon y moises. Inicia con “Entonces Faraón llamó á Moisés y á Aarón, y díjoles: Andad, sacrificad á vuestro Dios en la tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Éxodo 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "faraon",
+      "count": 17,
+      "significance": "La recurrencia de “faraon” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 16,
+      "significance": "La recurrencia de “pueblo” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 8."
+    },
+    {
+      "word": "moises",
+      "count": 15,
+      "significance": "La recurrencia de “moises” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 8."
+    },
+    {
+      "word": "tierra",
+      "count": 12,
+      "significance": "La recurrencia de “tierra” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Éxodo 8."
     }
   ]
 }

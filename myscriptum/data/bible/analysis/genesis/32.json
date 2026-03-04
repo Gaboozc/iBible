@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 32",
+  "title": "Análisis Estructural de Génesis 32",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 32.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en jacob y esau. Inicia con “Y JACOB se fué su camino, y saliéronle al encuentro ángeles de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en mano y veinte. Inicia con “Y dijo Jacob: Dios de mi padre Abraham, y Dios de mi padre Isaac, Jehová, que me dijiste: Vuélvete á tu tierra y á tu parentela, y yo te ha…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en diciendo y esau. Inicia con “Y mandó al primero, diciendo: Si Esaú mi hermano te encontrare, y te preguntare, diciendo: ¿De quién eres? ¿y adónde vas? ¿y para quién es…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en jacob y nombre. Inicia con “Y como vió que no podía con él, tocó en el sitio del encaje de su muslo, y descoyuntóse el muslo de Jacob mientras con él luchaba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jacob",
+      "count": 16,
+      "significance": "La recurrencia de “jacob” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 32."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "esau",
+      "count": 9,
+      "significance": "La recurrencia de “esau” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 32."
+    },
+    {
+      "word": "nombre",
+      "count": 6,
+      "significance": "La recurrencia de “nombre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 32."
+    },
+    {
+      "word": "delante",
+      "count": 5,
+      "significance": "La recurrencia de “delante” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 32."
     }
   ]
 }

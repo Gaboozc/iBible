@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 74",
+  "title": "Análisis Estructural de Salmos 74",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 74.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en masquil y asaph. Inicia con “Masquil de Asaph. ¿POR qué, oh Dios, nos* has desechado para siempre? ¿por qué ha humeado tu furor contra las ovejas de tu dehesa?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 74, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en tierra y nombre. Inicia con “Han puesto á fuego tus santuarios, han profanado el tabernáculo de tu nombre echándolo* á tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 74, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en cabezas y pueblo. Inicia con “Tú hendiste la mar con tu fortaleza: quebrantaste cabezas de ballenas en las aguas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 74, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en olvides y entregues. Inicia con “No entregues á las bestias el alma de tu tórtola: y no olvides para siempre la congregación de tus afligidos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 74, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 74."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nombre",
+      "count": 4,
+      "significance": "La recurrencia de “nombre” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 74."
+    },
+    {
+      "word": "acuerdate",
+      "count": 3,
+      "significance": "La recurrencia de “acuerdate” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 74."
+    },
+    {
+      "word": "enemigo",
+      "count": 3,
+      "significance": "La recurrencia de “enemigo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 74."
     }
   ]
 }

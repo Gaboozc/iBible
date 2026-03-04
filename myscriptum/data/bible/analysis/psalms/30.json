@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 30",
+  "title": "Análisis Estructural de Salmos 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en salmo y hiciste. Inicia con “Salmo cantado en la dedicación de la Casa: Salmo* de David. GLORIFICARTE he, oh Jehová; porque me has ensalzado, y no hiciste á mis enemigo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en benevolencia y asentado. Inicia con “Porque tú, Jehová, por tu benevolencia has asentado mi monte con fortaleza. Escondiste tu rostro, fuí conturbado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "salmo",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “salmo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 30."
     },
     {
-      "word": "Motivo literario",
+      "word": "hiciste",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hiciste” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 30."
+    },
+    {
+      "word": "vida",
+      "count": 2,
+      "significance": "La recurrencia de “vida” (2) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Salmos 30."
+    },
+    {
+      "word": "alegria",
+      "count": 2,
+      "significance": "La recurrencia de “alegria” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 30."
     }
   ]
 }

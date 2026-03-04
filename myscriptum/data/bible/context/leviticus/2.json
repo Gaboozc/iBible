@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Peregrinación del desierto (periodo mosaico)",
+  "dominantEmpire": "Sin dominio imperial directo en el campamento del desierto",
+  "kingName": "No hay monarquía; liderazgo mosaico-sacerdotal",
+  "kingRegion": "Campamento de Israel en el Sinaí",
   "activeProphets": [
-    "Profetas según el período"
+    "Moisés",
+    "Aarón"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Leviticus capítulo 2 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo operativo con orden sacerdotal",
+  "location": "Sinaí",
+  "summary": "Levítico desarrolla la teología de santidad: sacrificios, pureza, sacerdocio y vida consagrada. En Levítico 2, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: presente, ofrenda, aceite. Señales textuales: “Y CUANDO alguna persona ofreciere oblación de presente á Jehová, su ofrenda será flor de harina, sobre la cual echará a…” | “Y tomará el sacerdote de aquel presente, en memoria del mismo, y harálo arder sobre el altar; ofrenda encendida, de sua…” | “Y el sacerdote hará arder, en memoria del don, parte de su grano desmenuzado, y de su aceite con todo su incienso; es o…”.",
+  "spiritualContext": "Resalta que comunión con Dios requiere expiación, pureza y ética santa en adoración y vida diaria. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan presente, ofrenda, aceite. El núcleo del capítulo se percibe en “Y tomará el sacerdote de aquel presente, en memoria del mismo, y harálo arder sobre el altar; ofrenda encendida, de sua…”."
 }

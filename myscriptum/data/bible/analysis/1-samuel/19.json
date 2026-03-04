@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-samuel 19",
+  "title": "Análisis Estructural de 1 Samuel 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en david y saul. Inicia con “Y HABLÓ Saúl á Jonathán su hijo, y á todos sus criados, para que matasen á David; mas Jonathán hijo de Saúl amaba á David en gran manera.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en david y saul. Inicia con “Llamando entonces Jonathán á David, declaróle todas estas palabras; y él mismo presentó á David á Saúl, y estuvo delante de él como antes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en saul y michal. Inicia con “Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubrióla con una ropa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en saul y rama. Inicia con “Y fué dado aviso á Saúl, diciendo: He aquí que David está en Najoth en Rama.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "saul",
+      "count": 21,
+      "significance": "La recurrencia de “saul” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 21,
+      "significance": "La recurrencia de “david” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 19."
+    },
+    {
+      "word": "mensajeros",
+      "count": 8,
+      "significance": "La recurrencia de “mensajeros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 19."
+    },
+    {
+      "word": "rama",
+      "count": 6,
+      "significance": "La recurrencia de “rama” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 19."
     }
   ]
 }

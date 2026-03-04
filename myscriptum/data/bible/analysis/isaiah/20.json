@@ -1,35 +1,33 @@
 {
-  "title": "Análisis Estructural de Isaiah 20",
+  "title": "Análisis Estructural de Isaías 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
-    },
-    {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "1-6",
+      "title": "Unidad literaria principal",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en egipto y asiria. Inicia con “EN el año que vino Thartán á Asdod, cuando le envió Sargón rey de Asiria, y peleó contra Asdod y la tomó;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "egipto",
+      "count": 4,
+      "significance": "La recurrencia de “egipto” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 20."
     },
     {
-      "word": "Motivo literario",
+      "word": "asiria",
+      "count": 3,
+      "significance": "La recurrencia de “asiria” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 20."
+    },
+    {
+      "word": "etiopia",
+      "count": 3,
+      "significance": "La recurrencia de “etiopia” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 20."
+    },
+    {
+      "word": "asdod",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “asdod” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 20."
     }
   ]
 }

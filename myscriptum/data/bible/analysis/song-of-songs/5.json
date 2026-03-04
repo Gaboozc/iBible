@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Song-of-songs 5",
+  "title": "Análisis Estructural de Cantares 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en hermana y amado. Inicia con “YO vine á mi huerto, oh hermana, esposa mía*: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido.…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en amado y mirra. Inicia con “Yo me levanté para abrir á mi amado, y mis manos gotearon mirra, y mis dedos mirra que corría sobre las aldabas del candado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en amado y otro. Inicia con “¿Qué es tu amado más que otro* amado, oh la más hermosa de todas las mujeres? ¿qué es tu amado más que otro* amado, que así nos conjuras?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en mejillas y especias. Inicia con “Sus mejillas, como una era de especias aromáticas, como* fragantes flores: sus labios, como* lirios que destilan mirra que trasciende.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "amado",
+      "count": 12,
+      "significance": "La recurrencia de “amado” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 5."
     },
     {
-      "word": "Motivo literario",
+      "word": "mirra",
+      "count": 4,
+      "significance": "La recurrencia de “mirra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 5."
+    },
+    {
+      "word": "hermana",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “hermana” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 5."
+    },
+    {
+      "word": "leche",
+      "count": 2,
+      "significance": "La recurrencia de “leche” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 5."
     }
   ]
 }

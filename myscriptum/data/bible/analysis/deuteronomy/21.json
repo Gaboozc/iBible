@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 21",
+  "title": "Análisis Estructural de Deuteronomio 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en muerto y ancianos. Inicia con “CUANDO fuere hallado en la tierra que Jehová tu Dios te da para que la poseas, muerto echado en el campo, y no se supiere quién lo hirió,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en sangre y ojos. Inicia con “Y protestarán, y dirán: Nuestras manos no han derramado esta sangre, ni nuestros ojos lo vieron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en aborrecida y hijo. Inicia con “Y se quitará el vestido de su cautiverio, y quedaráse en tu casa: y llorará á su padre y á su madre el tiempo de un mes: y después entrarás…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en ciudad y entonces. Inicia con “Entonces tomarlo han su padre y su madre, y lo sacarán á los ancianos de su ciudad, y á la puerta del lugar suyo;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ciudad",
+      "count": 7,
+      "significance": "La recurrencia de “ciudad” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ancianos",
+      "count": 6,
+      "significance": "La recurrencia de “ancianos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 21."
+    },
+    {
+      "word": "aborrecida",
+      "count": 5,
+      "significance": "La recurrencia de “aborrecida” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 21."
+    },
+    {
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 21."
     }
   ]
 }

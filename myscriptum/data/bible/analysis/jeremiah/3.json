@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 3",
+  "title": "Análisis Estructural de Jeremías 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en todo y mujer. Inicia con “DICEN: Si alguno dejare su mujer, y yéndose ésta de él se juntare á otro hombre, ¿volverá á ella más? ¿no será tal tierra del todo amancill…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en rebelde y dice. Inicia con “Que yo lo había visto; que por todas estas causas en las cuales fornicó la rebelde Israel, yo la había despedido, y dádole la carta de su r…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en tierra y hijos. Inicia con “Convertíos, hijos rebeldes, dice Jehová, porque yo soy vuestro esposo: y os tomaré uno de una ciudad, y dos de una familia, y os introducir…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en nuestra y israel. Inicia con “Mas como la esposa quiebra la fe de su compañero, así prevaricasteis contra mí, oh casa de Israel, dice Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 3."
+    },
+    {
+      "word": "todo",
+      "count": 7,
+      "significance": "La recurrencia de “todo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 3."
+    },
+    {
+      "word": "rebelde",
+      "count": 7,
+      "significance": "La recurrencia de “rebelde” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 3."
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ezekiel 9",
+  "title": "Análisis Estructural de Ezequiel 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ciudad y medio. Inicia con “Y CLAMÓ en mis oídos con gran voz, diciendo: Los visitadores de la ciudad han llegado, y cada uno trae* en su mano su instrumento para dest…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en casa y ciudad. Inicia con “Y díjoles: Contaminad la casa, y henchid los atrios de muertos: salid. Y salieron, é hirieron en la ciudad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ciudad",
+      "count": 5,
+      "significance": "La recurrencia de “ciudad” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "destruir",
+      "count": 3,
+      "significance": "La recurrencia de “destruir” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 9."
+    },
+    {
+      "word": "varon",
+      "count": 3,
+      "significance": "La recurrencia de “varon” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 9."
+    },
+    {
+      "word": "vestido",
+      "count": 3,
+      "significance": "La recurrencia de “vestido” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 9."
     }
   ]
 }

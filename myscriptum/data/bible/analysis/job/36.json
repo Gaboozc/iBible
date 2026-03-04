@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 36",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en dara y anadio. Inicia con “Y AÑADIÓ Eliú, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en oido y oyeren. Inicia con “Despierta además el oído de ellos para la corrección, y díceles* que se conviertan de la iniquidad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en iniquidad y hombres. Inicia con “Por lo cual teme* que en su* ira no te quite con golpe, el cual no puedas apartar de ti con gran rescate.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 36, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en nubes y aqui. Inicia con “He aquí, Dios es grande, y nosotros no le conocemos; ni se puede rastrear el número de sus años.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 4,
+      "significance": "La recurrencia de “aqui” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "bien",
+      "count": 4,
+      "significance": "La recurrencia de “bien” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 36."
+    },
+    {
+      "word": "afliccion",
+      "count": 3,
+      "significance": "La recurrencia de “afliccion” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 36."
+    },
+    {
+      "word": "iniquidad",
+      "count": 3,
+      "significance": "La recurrencia de “iniquidad” (3) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Job 36."
     }
   ]
 }

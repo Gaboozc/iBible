@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 30",
+  "title": "Análisis Estructural de Números 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en hiciere y moises. Inicia con “Y MOISÉS dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en alma y padre. Inicia con “Si su padre oyere su voto, y la obligación con que ligó su alma, y su padre callare á ello, todos los votos de ella serán firmes, y toda ob…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en alma y marido. Inicia con “Pero si cuando su marido lo oyó, le vedó, entonces el voto que ella hizo, y lo que pronunció de sus labios con que ligó su alma, será nulo;…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en marido y todo. Inicia con “Mas si su marido los anuló el día que los oyó; todo lo que salió de sus labios cuanto á sus votos, y cuanto á la obligación de su alma, ser…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "alma",
+      "count": 12,
+      "significance": "La recurrencia de “alma” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 30."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "marido",
+      "count": 9,
+      "significance": "La recurrencia de “marido” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 30."
+    },
+    {
+      "word": "obligacion",
+      "count": 8,
+      "significance": "La recurrencia de “obligacion” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 30."
+    },
+    {
+      "word": "voto",
+      "count": 7,
+      "significance": "La recurrencia de “voto” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 30."
     }
   ]
 }

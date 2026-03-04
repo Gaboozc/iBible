@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 17",
+  "title": "Análisis Estructural de Levítico 17",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 17.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en varon y diciendo. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en sacrificios y traigan. Inicia con “A fin de que traigan los hijos de Israel sus sacrificios, los que sacrifican sobre la haz del campo, para que los traigan á Jehová á la pue…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en sangre y persona. Inicia con “Y no lo trajere á la puerta del tabernáculo del testimonio, para hacerlo á Jehová, el tal varón será igualmente cortado de sus pueblos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en sangre y carne. Inicia con “Y cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan entre ellos, que cogiere caza de animal ó de ave que sea de c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 17, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sangre",
+      "count": 13,
+      "significance": "La recurrencia de “sangre” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 17."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 17."
+    },
+    {
+      "word": "varon",
+      "count": 7,
+      "significance": "La recurrencia de “varon” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 17."
+    },
+    {
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 17."
     }
   ]
 }

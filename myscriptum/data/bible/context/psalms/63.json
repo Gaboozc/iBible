@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Composición multiépoca (monarquía, exilio y postexilio)",
+  "dominantEmpire": "Varía según salmo y época",
+  "kingName": "Principalmente periodo davídico y posterior",
+  "kingRegion": "Israel/Judá y comunidades en dispersión",
   "activeProphets": [
-    "Profetas según el período"
+    "David y autores litúrgicos de Israel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Psalms capítulo 63 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Adoración centrada en templo/tabernáculo según época",
+  "location": "Sion y contexto de peregrinación/exilio",
+  "summary": "Salmos es el himnario teológico de Israel: lamento, alabanza, sabiduría y confianza mesiánica. En Salmos 63, el capítulo contiene 11 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: alma, tierra, vida. Señales textuales: “Salmo de David, estando en el desierto de Judá. DIOS, Dios mío eres tú: levantaréme á ti de mañana: mi alma tiene sed d…” | “Cuando me acordaré de ti en mi lecho, cuando* meditaré de ti en las velas de la noche.” | “Empero el rey se alegrará en Dios; será alabado cualquiera que por él jura: porque la boca de los que hablan mentira, s…”.",
+  "spiritualContext": "Modela oración honesta delante de Dios en sufrimiento, arrepentimiento, guerra y esperanza. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan alma, tierra, vida. El núcleo del capítulo se percibe en “Cuando me acordaré de ti en mi lecho, cuando* meditaré de ti en las velas de la noche.”."
 }

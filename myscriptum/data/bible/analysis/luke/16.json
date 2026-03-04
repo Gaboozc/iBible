@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 16",
+  "title": "Análisis Estructural de Lucas 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en mayordomo y senor. Inicia con “Y DIJO también á sus discípulos: Había un hombre rico, el cual tenía un mayordomo, y éste fué acusado delante de él como disipador de sus b…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en riquezas y fiel. Inicia con “Y yo os digo: Haceos amigos de las riquezas de maldad, para que cuando faltareis, os reciban en las moradas eternas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en rico y lazaro. Inicia con “Empero más fácil cosa es pasar el cielo y la tierra, que frustrarse un tilde de la ley.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en abraham y padre. Inicia con “Y díjole Abraham: Hijo, acuérdate que recibiste tus bienes en tu vida, y Lázaro también males; mas ahora éste es consolado aquí, y tú atorm…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abraham",
+      "count": 7,
+      "significance": "La recurrencia de “abraham” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "rico",
+      "count": 4,
+      "significance": "La recurrencia de “rico” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 16."
+    },
+    {
+      "word": "mayordomo",
+      "count": 4,
+      "significance": "La recurrencia de “mayordomo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 16."
+    },
+    {
+      "word": "entonces",
+      "count": 4,
+      "significance": "La recurrencia de “entonces” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 16."
     }
   ]
 }

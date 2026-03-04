@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 22",
+  "title": "Análisis Estructural de Mateo 22",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 22.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en bodas y siervos. Inicia con “Y RESPONDIENDO Jesús, les volvió á hablar en parábolas, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-23",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 23 con foco léxico en cesar y entonces. Inicia con “Entonces el rey dijo á los que servían: Atado de pies y de manos tomadle, y echadle en las tinieblas de afuera: allí será el lloro y el cru…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "24-35",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 24 al 35 con foco léxico en mujer y hermano. Inicia con “Diciendo: Maestro, Moisés dijo: Si alguno muriere sin hijos, su hermano se casará con su mujer, y despertará simiente á su hermano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "36-46",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 36 al 46 con foco léxico en senor y toda. Inicia con “Maestro, ¿cuál es el mandamiento grande en la ley?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "diciendo",
+      "count": 7,
+      "significance": "La recurrencia de “diciendo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 22."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pues",
+      "count": 7,
+      "significance": "La recurrencia de “pues” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 22."
+    },
+    {
+      "word": "bodas",
+      "count": 6,
+      "significance": "La recurrencia de “bodas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 22."
+    },
+    {
+      "word": "entonces",
+      "count": 6,
+      "significance": "La recurrencia de “entonces” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 22."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-samuel 23",
+  "title": "Análisis Estructural de 1 Samuel 23",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en david y keila. Inicia con “Y DIERON aviso á David, diciendo: He aquí que los Filisteos combaten á Keila, y roban las eras.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en david y saul. Inicia con “Mas entendiendo David que Saúl ideaba el mal contra él, dijo á Abiathar sacerdote: Trae el ephod.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en saul y mano. Inicia con “Entonces se levantó Jonathán hijo de Saúl, y vino á David en el bosque, y confortó su mano en Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en saul y david. Inicia con “Considerad pues, y ved todos los escondrijos donde se oculta, y volved á mí con la certidumbre, y yo iré con vosotros: que si él estuviere…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 27,
+      "significance": "La recurrencia de “david” (27) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "saul",
+      "count": 23,
+      "significance": "La recurrencia de “saul” (23) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 23."
+    },
+    {
+      "word": "keila",
+      "count": 14,
+      "significance": "La recurrencia de “keila” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 23."
+    },
+    {
+      "word": "filisteos",
+      "count": 8,
+      "significance": "La recurrencia de “filisteos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 23."
     }
   ]
 }

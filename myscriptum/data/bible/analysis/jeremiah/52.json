@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 52",
+  "title": "Análisis Estructural de Jeremías 52",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 52.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en contra y ciudad. Inicia con “ERA Sedechîas de edad de veintiún años cuando comenzó á reinar, y reinó once años en Jerusalem. Su madre se llamaba Hamutal, hija de Jeremí…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en babilonia y casa. Inicia con “Y degolló el rey de Babilonia á los hijos de Sedechîas delante de sus ojos, y también degolló á todos los príncipes de Judá en Ribla.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en capitan y guardia. Inicia con “Lleváronse también los calderos, y los badiles, y los salterios, y las bacías, y los cazos, y todos los vasos de metal con que se servían.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en babilonia y juda. Inicia con “Y el rey de Babilonia los hirió, y los mató en Ribla en tierra de Hamath. Así fué Judá trasportado de su tierra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 52, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "babilonia",
+      "count": 15,
+      "significance": "La recurrencia de “babilonia” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 52."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ciudad",
+      "count": 9,
+      "significance": "La recurrencia de “ciudad” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 52."
+    },
+    {
+      "word": "capitan",
+      "count": 9,
+      "significance": "La recurrencia de “capitan” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 52."
+    },
+    {
+      "word": "todo",
+      "count": 8,
+      "significance": "La recurrencia de “todo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 52."
     }
   ]
 }

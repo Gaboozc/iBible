@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 10",
+  "title": "Análisis Estructural de Juan 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en ovejas y cierto. Inicia con “DE cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en ovejas y padre. Inicia con “Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-32",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 32 con foco léxico en padre y jesus. Inicia con “Y se hacía la fiesta de la dedicación en Jerusalem; y era invierno;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "33-42",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 33 al 42 con foco léxico en padre y creais. Inicia con “Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ovejas",
+      "count": 17,
+      "significance": "La recurrencia de “ovejas” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "padre",
+      "count": 13,
+      "significance": "La recurrencia de “padre” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 10."
+    },
+    {
+      "word": "pastor",
+      "count": 6,
+      "significance": "La recurrencia de “pastor” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 10."
+    },
+    {
+      "word": "jesus",
+      "count": 6,
+      "significance": "La recurrencia de “jesus” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 10."
     }
   ]
 }

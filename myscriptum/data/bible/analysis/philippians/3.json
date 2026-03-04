@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Philippians 3",
+  "title": "Análisis Estructural de Filipenses 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en guardaos y carne. Inicia con “RESTA, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vosotros es seguro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en cristo y cosas. Inicia con “Pero las cosas que para mí eran ganancias, helas reputado pérdidas por amor de Cristo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 3, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en alcanzado y cosa. Inicia con “No que ya haya alcanzado, ni que ya sea perfecto; sino que prosigo, por ver si alcanzo aquello* para lo cual fuí también alcanzado de Crist…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en cuyo y gloria. Inicia con “Hermanos, sed imitadores de mí, y mirad los que así anduvieren como nos tenéis por ejemplo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 8,
+      "significance": "La recurrencia de “cristo” (8) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Filipenses 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cosas",
+      "count": 4,
+      "significance": "La recurrencia de “cosas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Filipenses 3."
+    },
+    {
+      "word": "jesus",
+      "count": 4,
+      "significance": "La recurrencia de “jesus” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Filipenses 3."
+    },
+    {
+      "word": "hermanos",
+      "count": 3,
+      "significance": "La recurrencia de “hermanos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Filipenses 3."
     }
   ]
 }

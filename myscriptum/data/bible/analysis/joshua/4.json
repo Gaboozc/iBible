@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 4",
+  "title": "Análisis Estructural de Josué 4",
   "sections": [
     {
-      "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en jordan y josue. Inicia con “Y CUANDO toda la gente hubo acabado de pasar el Jordán, Jehová habló á Josué, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en jordan y hijos. Inicia con “Les responderéis: Que las aguas del Jordán fueron partidas delante del arca del pacto de Jehová; cuando ella pasó el Jordán, las aguas del…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en sacerdotes y jordan. Inicia con “Como cuarenta mil hombres armados á punto pasaron hacia la campiña de Jericó delante de Jehová á la guerra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en jordan y hijos. Inicia con “Y el pueblo subió del Jordán el diez del mes primero, y asentaron el campo en Gilgal, al lado oriental de Jericó.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jordan",
+      "count": 17,
+      "significance": "La recurrencia de “jordan” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 4."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "josue",
+      "count": 12,
+      "significance": "La recurrencia de “josue” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 4."
+    },
+    {
+      "word": "hijos",
+      "count": 12,
+      "significance": "La recurrencia de “hijos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 4."
+    },
+    {
+      "word": "israel",
+      "count": 9,
+      "significance": "La recurrencia de “israel” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 4."
     }
   ]
 }

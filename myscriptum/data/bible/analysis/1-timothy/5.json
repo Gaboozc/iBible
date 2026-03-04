@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-timothy 5",
+  "title": "Análisis Estructural de 1 Timoteo 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en viudas y verdad. Inicia con “NO reprendas al anciano, sino exhórtale como á padre: á los más jóvenes, como á hermanos;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en casa y ociosas. Inicia con “Y si alguno no tiene cuidado de los suyos, y mayormente de los de su casa, la fe negó, y es peor que un infiel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en fiel y viudas. Inicia con “Quiero pues, que las que son jóvenes se casen, críen hijos, gobiernen la casa; que ninguna ocasión den al adversario para maldecir.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en delante y otros. Inicia con “A los que pecaren, repréndelos delante de todos, para que los otros también teman.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Timoteo 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "viudas",
+      "count": 5,
+      "significance": "La recurrencia de “viudas” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 5,
+      "significance": "La recurrencia de “casa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 5."
+    },
+    {
+      "word": "sino",
+      "count": 4,
+      "significance": "La recurrencia de “sino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 5."
+    },
+    {
+      "word": "jovenes",
+      "count": 3,
+      "significance": "La recurrencia de “jovenes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Timoteo 5."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 18",
+  "title": "Análisis Estructural de Levítico 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en desnudez y estatutos. Inicia con “Y HABLÓ Jehová á Moisés, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en desnudez y descubriras. Inicia con “La desnudez de tu hermana, hija de tu padre, ó hija de tu madre, nacida en casa ó nacida fuera, su desnudez no descubrirás.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en mujer y desnudez. Inicia con “La desnudez de la mujer de tu hermano no descubrirás: es la desnudez de tu hermano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en tierra y todas. Inicia con “En ninguna de estas cosas os amancillaréis; porque en todas estas cosas se han ensuciado las gentes que yo echo de delante de vosotros:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "desnudez",
+      "count": 24,
+      "significance": "La recurrencia de “desnudez” (24) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "descubriras",
+      "count": 13,
+      "significance": "La recurrencia de “descubriras” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 18."
+    },
+    {
+      "word": "mujer",
+      "count": 12,
+      "significance": "La recurrencia de “mujer” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 18."
+    },
+    {
+      "word": "padre",
+      "count": 10,
+      "significance": "La recurrencia de “padre” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 18."
     }
   ]
 }

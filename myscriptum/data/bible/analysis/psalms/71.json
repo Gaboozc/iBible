@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 71",
+  "title": "Análisis Estructural de Salmos 71",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 71.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en siempre y librame. Inicia con “EN ti, oh Jehová, he esperado; no sea yo confuso para siempre.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 71, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en prodigio y sido. Inicia con “Como prodigio he sido á muchos; y tú mi refugio fuerte.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 71, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en sean y justicia. Inicia con “Sean avergonzados, fallezcan los adversarios de mi alma; sean cubiertos de vergüenza y de confusión los que mi mal buscan.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 71, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en justicia y hecho. Inicia con “Y tu justicia, oh Dios, hasta lo excelso; porque has hecho grandes cosas: oh Dios, ¿quién como tú?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 71, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "justicia",
+      "count": 5,
+      "significance": "La recurrencia de “justicia” (5) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 71."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siempre",
+      "count": 3,
+      "significance": "La recurrencia de “siempre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 71."
+    },
+    {
+      "word": "alabanza",
+      "count": 3,
+      "significance": "La recurrencia de “alabanza” (3) señala adoración, oración y respuesta de fe y ayuda a rastrear el hilo argumental de Salmos 71."
+    },
+    {
+      "word": "todo",
+      "count": 3,
+      "significance": "La recurrencia de “todo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 71."
     }
   ]
 }

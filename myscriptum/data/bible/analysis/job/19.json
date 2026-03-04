@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en contra y respondio. Inicia con “Y RESPONDIÓ Job, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en hizo y conocidos. Inicia con “Hame despojado de mi gloria, y quitado la corona de mi cabeza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en contra y tened. Inicia con “Llamé á mi siervo, y no respondió; de mi propia boca le suplicaba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en diese y fuesen. Inicia con “¡Quién diese ahora que mis palabras fuesen escritas! ¡quién diese que se escribieran en un libro!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 5,
+      "significance": "La recurrencia de “contra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 19."
     },
     {
-      "word": "Motivo literario",
+      "word": "respondio",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “respondio” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 19."
+    },
+    {
+      "word": "palabras",
+      "count": 2,
+      "significance": "La recurrencia de “palabras” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 19."
+    },
+    {
+      "word": "delante",
+      "count": 2,
+      "significance": "La recurrencia de “delante” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 19."
     }
   ]
 }

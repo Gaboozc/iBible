@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Isaiah 50",
+  "title": "Análisis Estructural de Isaías 50",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 50.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en madre y aqui. Inicia con “ASÍ dijo Jehová: ¿Qué es de la carta de repudio de vuestra madre, con la cual yo la repudié? ¿ó quiénes son mis acreedores, á quienes os he…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en aqui y senor. Inicia con “Porque el Señor Jehová me ayudará; por tanto no me avergoncé: por eso puse mi rostro como un pedernal, y sé que no seré avergonzado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 50."
     },
     {
-      "word": "Motivo literario",
+      "word": "senor",
+      "count": 4,
+      "significance": "La recurrencia de “senor” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 50."
+    },
+    {
+      "word": "madre",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “madre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 50."
+    },
+    {
+      "word": "vuestras",
+      "count": 2,
+      "significance": "La recurrencia de “vuestras” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 50."
     }
   ]
 }

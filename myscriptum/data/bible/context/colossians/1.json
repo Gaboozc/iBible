@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "dominantEmpire": "Imperio romano",
+  "kingName": "Autoridades romanas y locales según el contexto",
+  "kingRegion": "Mediterráneo oriental",
   "activeProphets": [
-    "Profetas según el período"
+    "Jesús, apóstoles y líderes de la iglesia primitiva"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Colossians capítulo 1 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
+  "location": "Judea, Asia Menor y mundo grecorromano",
+  "summary": "Colosenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Colosenses 1, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: toda, cristo, todo. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,” | “El cual es la imagen del Dios invisible, el primogénito de toda criatura.” | “En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente.”.",
+  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; revelación, santidad y gloria de Dios. En su lenguaje central destacan toda, cristo, todo. El núcleo del capítulo se percibe en “El cual es la imagen del Dios invisible, el primogénito de toda criatura.”."
 }

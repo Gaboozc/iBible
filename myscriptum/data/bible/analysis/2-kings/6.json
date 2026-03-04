@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 6",
+  "title": "Análisis Estructural de 2 Reyes 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en lugar y alli. Inicia con “LOS hijos de los profetas dijeron á Eliseo: He aquí, el lugar en que moramos contigo nos es estrecho.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en entonces y israel. Inicia con “Entonces el rey de Israel envió á aquel lugar que el varón de Dios había dicho y amonestádole; y guardóse de allí, no una vez ni dos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en eliseo y samaria. Inicia con “Y luego que los Siros* descendieron á él, oró Eliseo á Jehová, y dijo: Ruégote que hieras á esta gente con ceguedad. E hiriólos con cegueda…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en hijo y mujer. Inicia con “Y pasando el rey de Israel por el muro, una mujer le dió voces, y dijo: Salva, rey señor mío.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "eliseo",
+      "count": 11,
+      "significance": "La recurrencia de “eliseo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 9,
+      "significance": "La recurrencia de “israel” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 6."
+    },
+    {
+      "word": "entonces",
+      "count": 7,
+      "significance": "La recurrencia de “entonces” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 6."
+    },
+    {
+      "word": "lugar",
+      "count": 6,
+      "significance": "La recurrencia de “lugar” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 6."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 10",
+  "title": "Análisis Estructural de 2 Corintios 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en carne y ruego. Inicia con “EMPERO yo Pablo, os ruego por la mansedumbre y modestia de Cristo, yo que presente ciertamente soy bajo entre vosotros, mas ausente soy con…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en cristo y mismo. Inicia con “Y estando prestos para castigar toda desobediencia, cuando vuestra obediencia fuere cumplida.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 10, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en mismos y medida. Inicia con “Porque á la verdad, dicen, las cartas son graves y fuertes; mas la presencia corporal flaca, y la palabra menospreciable.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en nuestra y medida. Inicia con “No gloriándonos fuera de nuestra* medida en trabajos ajenos; mas teniendo esperanza del crecimiento de vuestra fe, que seremos muy engrande…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 6,
+      "significance": "La recurrencia de “cristo” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Corintios 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nuestra",
+      "count": 6,
+      "significance": "La recurrencia de “nuestra” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 10."
+    },
+    {
+      "word": "medida",
+      "count": 6,
+      "significance": "La recurrencia de “medida” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 10."
+    },
+    {
+      "word": "mismos",
+      "count": 4,
+      "significance": "La recurrencia de “mismos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 10."
     }
   ]
 }

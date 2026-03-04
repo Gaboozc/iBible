@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 31",
+  "title": "Análisis Estructural de Ezequiel 31",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 31.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en ramas y ramos. Inicia con “Y ACONTECIÓ en el año undécimo, en el mes* tercero, al primero del mes, que fué á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en ramas y huerto. Inicia con “En sus ramas hacían nido todas las aves del cielo, y debajo de su ramaje parían todas las bestias del campo, y á su sombra habitaban muchas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-14",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 14 con foco léxico en todos y altura. Inicia con “Por tanto, así dijo el Señor Jehová: Por cuanto te encumbraste en altura, y puso su cumbre entre densas ramas, y su corazón se elevó con su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "15-18",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 15 al 18 con foco léxico en hice y todos. Inicia con “Así ha dicho el Señor Jehová: El día que descendió á la sepultura, hice hacer luto, hice cubrir por él el abismo, y detuve sus ríos, y las…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 31, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 12,
+      "significance": "La recurrencia de “todos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 31."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ramas",
+      "count": 11,
+      "significance": "La recurrencia de “ramas” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 31."
+    },
+    {
+      "word": "arboles",
+      "count": 8,
+      "significance": "La recurrencia de “arboles” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 31."
+    },
+    {
+      "word": "aguas",
+      "count": 7,
+      "significance": "La recurrencia de “aguas” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 31."
     }
   ]
 }

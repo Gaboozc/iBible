@@ -1,13 +1,16 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Edad Patriarcal (ca. 2100–1800 a.C.)",
+  "dominantEmpire": "Contexto mesopotámico y cananeo preimperial",
+  "kingName": "No aplica (estructura patriarcal)",
+  "kingRegion": "Canaán y regiones de Mesopotamia/Egipto",
   "activeProphets": [
-    "Profetas según el período"
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "José (líder providencial)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Genesis capítulo 45 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "No existe aún templo; culto en altares patriarcales",
+  "location": "Mesopotamia, Canaán y Egipto",
+  "summary": "Génesis presenta los orígenes: creación, caída, diluvio, naciones y llamado de Abraham. Establece el pacto abrahámico y la línea de promesa que desembocará en Israel. En Génesis 45, el capítulo contiene 28 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jose, padre, tierra. Señales textuales: “NO podía ya José contenerse delante de todos los que estaban al lado suyo, y clamó: Haced salir de conmigo á todos. Y n…” | “Y besó á todos sus hermanos, y lloró sobre ellos: y después sus hermanos hablaron con él.” | “Entonces dijo Israel: Basta; José mi hijo vive todavía: iré, y le veré antes que yo muera.”.",
+  "spiritualContext": "El libro confronta pecado humano y gracia divina, mostrando elección, pacto, providencia y fidelidad de Dios en medio de familias imperfectas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jose, padre, tierra. El núcleo del capítulo se percibe en “Y besó á todos sus hermanos, y lloró sobre ellos: y después sus hermanos hablaron con él.”."
 }

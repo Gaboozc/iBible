@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 10",
+  "title": "Análisis Estructural de 2 Crónicas 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en roboam y sichem. Inicia con “Y ROBOAM fué á Sichêm porque en Sichêm se había juntado todo Israel para hacerlo rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en padre y pueblo. Inicia con “Entonces el rey Roboam tomó consejo con los viejos, que habían estado delante de Salomón su padre cuando vivía, y díjoles: ¿Cómo aconsejáis…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en padre y yugo. Inicia con “Así que, mi padre os cargó de grave yugo, y yo añadiré á vuestro yugo: mi padre os castigó con azotes, y yo con escorpiones.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en israel y david. Inicia con “Y viendo todo Israel que el rey no les había oído, respondió el pueblo al rey, diciendo: ¿Qué parte tenemos nosotros con David, ni herencia…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 10,
+      "significance": "La recurrencia de “padre” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "roboam",
+      "count": 8,
+      "significance": "La recurrencia de “roboam” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 10."
+    },
+    {
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 10."
+    },
+    {
+      "word": "diciendo",
+      "count": 8,
+      "significance": "La recurrencia de “diciendo” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 10."
     }
   ]
 }

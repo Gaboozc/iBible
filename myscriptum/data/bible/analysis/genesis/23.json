@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Genesis 23",
+  "title": "Análisis Estructural de Génesis 23",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en sara y abraham. Inicia con “Y FUÉ la vida de Sara ciento veintisiete años: tantos fueron los años de la vida de Sara.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en muerto y hijos. Inicia con “Oyenos, señor mío, eres un príncipe de Dios entre nosotros; en lo mejor de nuestras sepulturas sepulta á tu muerto; ninguno de nosotros te…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en pueblo y muerto. Inicia con “No, señor mío, óyeme: te doy la heredad, y te doy también la cueva que está en ella; delante de los hijos de mi pueblo te la doy; sepulta t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en abraham y heredad. Inicia con “Entonces Abraham se convino con Ephrón, y pesó Abraham á Ephrón el dinero que dijo, oyéndolo los hijos de Heth, cuatrocientos siclos de pla…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Génesis 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abraham",
+      "count": 12,
+      "significance": "La recurrencia de “abraham” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijos",
+      "count": 9,
+      "significance": "La recurrencia de “hijos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 23."
+    },
+    {
+      "word": "heredad",
+      "count": 9,
+      "significance": "La recurrencia de “heredad” (9) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Génesis 23."
+    },
+    {
+      "word": "muerto",
+      "count": 8,
+      "significance": "La recurrencia de “muerto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Génesis 23."
     }
   ]
 }

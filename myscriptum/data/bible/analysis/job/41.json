@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 41",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 41.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en contigo y sacaras. Inicia con “¿SACARÁS tú al leviathán con el anzuelo, ó con la cuerda que le echares en su lengua?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en otro y nadie. Inicia con “Nadie hay tan osado que lo despierte: ¿quién pues podrá estar delante de mí?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-26",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 26 con foco léxico en boca y fuego. Inicia con “Con sus estornudos encienden lumbre, y sus ojos son como los párpados del alba.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "27-34",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 27 al 34 con foco léxico en hace y tiene. Inicia con “El hierro estima por pajas, y el acero por leño podrido.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "estan",
+      "count": 3,
+      "significance": "La recurrencia de “estan” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 41."
     },
     {
-      "word": "Motivo literario",
+      "word": "olla",
+      "count": 3,
+      "significance": "La recurrencia de “olla” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 41."
+    },
+    {
+      "word": "hace",
+      "count": 3,
+      "significance": "La recurrencia de “hace” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 41."
+    },
+    {
+      "word": "narices",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “narices” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 41."
     }
   ]
 }

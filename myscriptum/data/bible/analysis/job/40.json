@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 40",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en ahora y entonces. Inicia con “ENTONCES respondió Jehová á Job desde la oscuridad, y dijo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en aqui y ahora. Inicia con “Mira á todo soberbio, y humíllalo, y quebranta á los impíos en su asiento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en huesos y fuertes. Inicia con “Sus huesos son fuertes como* bronce, y sus miembros como barras de hierro.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-24",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 24 con foco léxico en tomaralo y alguno. Inicia con “¿Tomarálo alguno por sus ojos en armadijos, y horadará su nariz?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ahora",
+      "count": 4,
+      "significance": "La recurrencia de “ahora” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 40."
     },
     {
-      "word": "Motivo literario",
+      "word": "aqui",
+      "count": 3,
+      "significance": "La recurrencia de “aqui” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 40."
+    },
+    {
+      "word": "oscuridad",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “oscuridad” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 40."
+    },
+    {
+      "word": "lomos",
+      "count": 2,
+      "significance": "La recurrencia de “lomos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 40."
     }
   ]
 }

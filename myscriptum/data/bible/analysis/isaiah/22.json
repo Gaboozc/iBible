@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 22",
+  "title": "Análisis Estructural de Isaías 22",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 22.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en muertos y valle. Inicia con “CARGA del valle de la visión. ¿Qué tienes ahora, que toda tú te has subido sobre los terrados?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en aguas y pesquera. Inicia con “Y desnudó la cobertura de Judá; y miraste en aquel día hacia la casa de armas del bosque.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en aqui y ejercitos. Inicia con “Esto fué revelado á mis oídos de parte de Jehová de los ejércitos: Que este pecado no os será perdonado hasta que muráis, dice el Señor Jeh…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en casa y padre. Inicia con “Y será que, en aquel día, llamaré á mi siervo Eliacim, hijo de Hilcías;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 22, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ejercitos",
+      "count": 6,
+      "significance": "La recurrencia de “ejercitos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 22."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 6,
+      "significance": "La recurrencia de “casa” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 22."
+    },
+    {
+      "word": "aqui",
+      "count": 5,
+      "significance": "La recurrencia de “aqui” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 22."
+    },
+    {
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 22."
     }
   ]
 }

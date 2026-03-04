@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-chronicles 2",
+  "title": "Análisis Estructural de 1 Crónicas 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en hijos y engendro. Inicia con “ESTOS son los hijos de Israel: Rubén, Simeón, Leví, Judá, Issachâr, Zabulón,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-28",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 28 con foco léxico en hijos y engendro. Inicia con “El sexto Osem, el séptimo David:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "29-42",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 29 al 42 con foco léxico en engendro y hijos. Inicia con “Y el nombre de la mujer de Abisur fué Abihail, la cual le parió á Abán, y á Molib.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "43-55",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 43 al 55 con foco léxico en padre y hijos. Inicia con “Y los hijos de Hebrón: Core, y Thaphua, y Recem, y Sema.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Crónicas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 28,
+      "significance": "La recurrencia de “hijos” (28) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "engendro",
+      "count": 26,
+      "significance": "La recurrencia de “engendro” (26) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 2."
+    },
+    {
+      "word": "padre",
+      "count": 16,
+      "significance": "La recurrencia de “padre” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 2."
+    },
+    {
+      "word": "pario",
+      "count": 9,
+      "significance": "La recurrencia de “pario” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Crónicas 2."
     }
   ]
 }

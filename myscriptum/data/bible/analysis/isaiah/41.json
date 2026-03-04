@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 41",
+  "title": "Análisis Estructural de Isaías 41",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 41.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en islas y escuchadme. Inicia con “ESCUCHADME, islas, y esfuércense los pueblos; alléguense, y entonces hablen: estemos juntamente á juicio.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en temas y contigo. Inicia con “Porque te tomé de los extremos de la tierra, y de sus principales te llamé, y te dije: Mi siervo eres tú; te escogí, y no te deseché.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en israel y aguas. Inicia con “Los aventarás, y los llevará el viento, y esparcirálos el torbellino. Tú empero te regocijarás en Jehová, te gloriarás en el Santo de Israe…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en nuevas y sepamos. Inicia con “Dadnos nuevas de lo que ha de ser después, para que sepamos que vosotros sois dioses; ó á lo menos haced bien, ó mal, para que tengamos qué…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 41, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "israel",
+      "count": 6,
+      "significance": "La recurrencia de “israel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 41."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 4,
+      "significance": "La recurrencia de “aqui” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 41."
+    },
+    {
+      "word": "nada",
+      "count": 4,
+      "significance": "La recurrencia de “nada” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 41."
+    },
+    {
+      "word": "dice",
+      "count": 4,
+      "significance": "La recurrencia de “dice” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 41."
     }
   ]
 }

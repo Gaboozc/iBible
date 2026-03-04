@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 2",
+  "title": "Análisis Estructural de Lucas 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en ciudad y david. Inicia con “Y ACONTECIÓ en aquellos días que salió edicto de parte de Augusto César, que toda la tierra fuese empadronada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en senor y habia. Inicia con “Gloria en las alturas á Dios, y en la tierra paz, buena voluntad para con los hombres.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en templo y senor. Inicia con “Y vino por Espíritu al templo. Y cuando metieron al niño Jesús sus padres en el templo, para hacer por él conforme á la costumbre de la ley,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-52",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 52 con foco léxico en jerusalem y madre. Inicia con “Y el niño crecía, y fortalecíase, y se henchía de sabiduría; y la gracia de Dios era sobre él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senor",
+      "count": 11,
+      "significance": "La recurrencia de “senor” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "habia",
+      "count": 9,
+      "significance": "La recurrencia de “habia” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 2."
+    },
+    {
+      "word": "nino",
+      "count": 7,
+      "significance": "La recurrencia de “nino” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 2."
+    },
+    {
+      "word": "jerusalem",
+      "count": 7,
+      "significance": "La recurrencia de “jerusalem” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Deuteronomy 29",
+  "title": "Análisis Estructural de Deuteronomio 29",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 29.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en tierra y ojos. Inicia con “ESTAS son las palabras del pacto que Jehová mandó á Moisés concertara con los hijos de Israel en la tierra de Moab, además del pacto que co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en vuestros y pacto. Inicia con “Guardaréis, pues, las palabras de este pacto, y las pondréis por obra, para que prosperéis en todo lo que hiciereis.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-22",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 22 con foco léxico en corazon y tierra. Inicia con “Porque vosotros sabéis cómo habitamos en la tierra de Egipto, y cómo hemos pasado por medio de las gentes que habéis pasado;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "23-29",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 23 al 29 con foco léxico en tierra y furor. Inicia con “(Azufre y sal, abrasada toda su tierra: no será sembrada, ni producirá, ni crecerá en ella hierba ninguna, como en la subversión de Sodoma…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Deuteronomio 29, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 12,
+      "significance": "La recurrencia de “tierra” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 29."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pacto",
+      "count": 7,
+      "significance": "La recurrencia de “pacto” (7) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Deuteronomio 29."
+    },
+    {
+      "word": "vuestros",
+      "count": 7,
+      "significance": "La recurrencia de “vuestros” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 29."
+    },
+    {
+      "word": "furor",
+      "count": 5,
+      "significance": "La recurrencia de “furor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Deuteronomio 29."
     }
   ]
 }

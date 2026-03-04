@@ -2,34 +2,50 @@
   "title": "Análisis Estructural de Job 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijos y tres. Inicia con “HUBO un varón en tierra de Hus, llamado Job; y era este hombre perfecto y recto, y temeroso de Dios, y apartado del mal.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en satan y tierra. Inicia con “Y dijo Jehová á Satán: ¿De dónde vienes? Y respondiendo Satán á Jehová, dijo: De rodear la tierra, y de andar por ella.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en solamente y vino. Inicia con “Y dijo Jehová á Satán: He aquí, todo lo que tiene está en tu mano: solamente no pongas tu mano sobre él. Y salióse Satán de delante de Jeho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en vino y casa. Inicia con “Entre tanto que éste hablaba, vino otro que dijo: Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de su hermano el primogéni…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Job 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "vino",
+      "count": 8,
+      "significance": "La recurrencia de “vino” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "satan",
+      "count": 7,
+      "significance": "La recurrencia de “satan” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 1."
+    },
+    {
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 1."
+    },
+    {
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Job 1."
     }
   ]
 }

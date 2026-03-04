@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 69",
+  "title": "Análisis Estructural de Salmos 69",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 69.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en aguas y estoy. Inicia con “Al Músico principal: sobre Sosannim: Salmo de David. SÁLVAME, oh Dios, porque las aguas han entrado hasta el alma.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 69, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en oyeme y alma. Inicia con “Y lloré afligiendo* con ayuno mi alma; y esto me ha sido por afrenta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 69, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en afrenta y delante. Inicia con “Tú sabes mi afrenta, y mi confusión, y mi oprobio: delante de ti están todos mis enemigos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 69, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en sean y nombre. Inicia con “Sean raídos del libro de los vivientes, y no sean escritos con los justos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 69, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sean",
+      "count": 5,
+      "significance": "La recurrencia de “sean” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 69."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aguas",
+      "count": 4,
+      "significance": "La recurrencia de “aguas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 69."
+    },
+    {
+      "word": "estoy",
+      "count": 4,
+      "significance": "La recurrencia de “estoy” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 69."
+    },
+    {
+      "word": "afrenta",
+      "count": 4,
+      "significance": "La recurrencia de “afrenta” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 69."
     }
   ]
 }

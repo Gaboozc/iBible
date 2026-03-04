@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 7",
+  "title": "Análisis Estructural de Apocalipsis 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en cuatro y tierra. Inicia con “Y DESPUÉS de estas cosas vi cuatro ángeles que estaban sobre los cuatro ángulos de la tierra, deteniendo los cuatro vientos de la tierra, p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en tribu y doce. Inicia con “De la tribu de Aser, doce mil señalados. De la tribu de Neftalí, doce mil señalados. De la tribu de Manasés, doce mil señalados.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en trono y diciendo. Inicia con “Y clamaban en alta voz, diciendo: Salvación á nuestro Dios que está sentado sobre el trono, y al Cordero.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 7, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en trono y cordero. Inicia con “Y yo le dije: Señor, tú lo sabes. Y él me dijo: Estos son los que han venido de grande tribulación, y han lavado sus ropas, y las han blanq…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 7, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "senalados",
+      "count": 14,
+      "significance": "La recurrencia de “senalados” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tribu",
+      "count": 12,
+      "significance": "La recurrencia de “tribu” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 7."
+    },
+    {
+      "word": "doce",
+      "count": 12,
+      "significance": "La recurrencia de “doce” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 7."
+    },
+    {
+      "word": "trono",
+      "count": 7,
+      "significance": "La recurrencia de “trono” (7) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Apocalipsis 7."
     }
   ]
 }

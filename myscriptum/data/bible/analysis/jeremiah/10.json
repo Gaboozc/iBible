@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 10",
+  "title": "Análisis Estructural de Jeremías 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en gentes y tengais. Inicia con “OID la palabra que Jehová ha hablado sobre vosotros, oh casa de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en tierra y cielos. Inicia con “Y todos se infatuarán, y entontecerán. Enseñanza de vanidades es el mismo leño.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en todo y obra. Inicia con “Todo hombre se embrutece y le* falta ciencia; avergüéncese de su vaciadizo todo fundidor: porque mentira es su obra de fundición, y no hay…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en tienda y todas. Inicia con “Mi tienda es destruída, y todas mis cuerdas están rotas: mis hijos fueron sacados de mí, y perecieron: no hay ya más quien extienda mi tien…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 7,
+      "significance": "La recurrencia de “tierra” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "gentes",
+      "count": 6,
+      "significance": "La recurrencia de “gentes” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 10."
+    },
+    {
+      "word": "todo",
+      "count": 5,
+      "significance": "La recurrencia de “todo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 10."
+    },
+    {
+      "word": "obra",
+      "count": 4,
+      "significance": "La recurrencia de “obra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 10."
     }
   ]
 }

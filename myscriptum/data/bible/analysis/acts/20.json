@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 20",
+  "title": "Análisis Estructural de Hechos 20",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en pablo y dias. Inicia con “Y DESPUÉS que cesó el alboroto, llamando Pablo á los discípulos habiéndoles exhortado y abrazado, se despidió, y partió para ir á Macedonia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en subiendo y nosotros. Inicia con “Después subiendo, y partiendo el pan, y gustando, habló largamente hasta el alba, y así partió.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en senor y espiritu. Inicia con “Cómo nada que fuese útil he rehuído de anunciaros y enseñaros, públicamente y por las casas,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en todos y cosas. Inicia con “Y de vosotros mismos se levantarán hombres que hablen cosas perversas, para llevar discípulos tras sí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pablo",
+      "count": 7,
+      "significance": "La recurrencia de “pablo” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 20."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 5,
+      "significance": "La recurrencia de “senor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 20."
+    },
+    {
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 20."
+    },
+    {
+      "word": "despues",
+      "count": 4,
+      "significance": "La recurrencia de “despues” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 20."
     }
   ]
 }

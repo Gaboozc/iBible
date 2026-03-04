@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Habakkuk 2",
+  "title": "Análisis Estructural de Habacuc 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hablara y vision. Inicia con “SOBRE mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de responder á mi pregunt…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Habacuc 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en todos y contra. Inicia con “¿No han de levantar todos estos sobre él parábola, y sarcasmos contra él? Y dirán: ¡Ay del que multiplicó lo que no era suyo! ¿Y hasta cuán…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Habacuc 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en piedra y clamara. Inicia con “Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Habacuc 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en tierra y haste. Inicia con “Haste llenado de deshonra más que de honra: bebe tú también, y serás descubierto; el cáliz de la mano derecha de Jehová volverá sobre ti, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Habacuc 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "todos",
+      "count": 5,
+      "significance": "La recurrencia de “todos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Habacuc 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblos",
+      "count": 4,
+      "significance": "La recurrencia de “pueblos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Habacuc 2."
+    },
+    {
+      "word": "tierra",
+      "count": 4,
+      "significance": "La recurrencia de “tierra” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Habacuc 2."
+    },
+    {
+      "word": "gentes",
+      "count": 3,
+      "significance": "La recurrencia de “gentes” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Habacuc 2."
     }
   ]
 }

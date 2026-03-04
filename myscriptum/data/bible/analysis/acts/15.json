@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 15",
+  "title": "Análisis Estructural de Hechos 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-11",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 11 con foco léxico en algunos y hermanos. Inicia con “ENTONCES algunos que venían de Judea enseñaban á los hermanos: Que si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "12-21",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 12 al 21 con foco léxico en gentiles y despues. Inicia con “Entonces toda la multitud calló, y oyeron á Bernabé y á Pablo, que contaban cuán grandes maravillas y señales Dios había hecho por ellos en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "22-31",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 22 al 31 con foco léxico en bien y varones. Inicia con “Entonces pareció bien á los apóstoles y á los ancianos, con toda la iglesia, elegir varones de ellos, y enviarlos á Antioquía con Pablo y B…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "32-41",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 32 al 41 con foco léxico en hermanos y pablo. Inicia con “Judas también y Silas, como ellos también eran profetas, consolaron y confirmaron á los hermanos con abundancia de palabra.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hermanos",
+      "count": 11,
+      "significance": "La recurrencia de “hermanos” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pablo",
+      "count": 9,
+      "significance": "La recurrencia de “pablo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 15."
+    },
+    {
+      "word": "bernabe",
+      "count": 9,
+      "significance": "La recurrencia de “bernabe” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 15."
+    },
+    {
+      "word": "gentiles",
+      "count": 7,
+      "significance": "La recurrencia de “gentiles” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 15."
     }
   ]
 }

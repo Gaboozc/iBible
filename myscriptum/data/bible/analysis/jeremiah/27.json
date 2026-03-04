@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 27",
+  "title": "Análisis Estructural de Jeremías 27",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 27.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en juda y dicho. Inicia con “EN el principio del reinado de Joacim hijo de Josías, rey de Judá, fué de Jehová esta palabra á Jeremías, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en vuestros y babilonia. Inicia con “Y todas las gentes le servirán á él, y á su hijo, y al hijo de su hijo, hasta que venga también el tiempo de su misma tierra; y le servirán…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en babilonia y profetizan. Inicia con “Y hablé también á Sedechîas rey de Judá conforme á todas estas palabras, diciendo: Someted vuestros cuellos al yugo del rey de Babilonia, y…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en casa y juda. Inicia con “Y si ellos son profetas, y si es con ellos palabra de Jehová, oren ahora á Jehová de los ejércitos, que los vasos que han quedado en la cas…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 27, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "babilonia",
+      "count": 14,
+      "significance": "La recurrencia de “babilonia” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 27."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "vuestros",
+      "count": 8,
+      "significance": "La recurrencia de “vuestros” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 27."
+    },
+    {
+      "word": "juda",
+      "count": 7,
+      "significance": "La recurrencia de “juda” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 27."
+    },
+    {
+      "word": "diciendo",
+      "count": 6,
+      "significance": "La recurrencia de “diciendo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 27."
     }
   ]
 }

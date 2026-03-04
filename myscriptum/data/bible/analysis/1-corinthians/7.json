@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-corinthians 7",
+  "title": "Análisis Estructural de 1 Corintios 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-10",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en mujer y marido. Inicia con “CUANTO á las cosas de que me escribisteis, bien es al hombre no tocar mujer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-20",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 20 con foco léxico en marido y mujer. Inicia con “Y si se apartare, que se quede sin casar, ó reconcíliese con su marido; y que el marido no despida á su mujer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "21-30",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 21 al 30 con foco léxico en llamado y senor. Inicia con “¿Eres llamado siendo siervo? no se te dé cuidado: mas también si puedes hacerte libre, procúralo más.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "31-40",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 31 al 40 con foco léxico en tiene y senor. Inicia con “Y los que usan de este mundo, como los que no usan: porque la apariencia de este mundo se pasa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "mujer",
+      "count": 20,
+      "significance": "La recurrencia de “mujer” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "marido",
+      "count": 16,
+      "significance": "La recurrencia de “marido” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 7."
+    },
+    {
+      "word": "senor",
+      "count": 12,
+      "significance": "La recurrencia de “senor” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 7."
+    },
+    {
+      "word": "tiene",
+      "count": 11,
+      "significance": "La recurrencia de “tiene” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 7."
     }
   ]
 }

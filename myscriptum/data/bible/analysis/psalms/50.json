@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 50",
+  "title": "Análisis Estructural de Salmos 50",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 50.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y cielos. Inicia con “Salmo de Asaph. EL Dios de dioses, Jehová, ha hablado, y convocado la tierra desde el nacimiento del sol hasta donde se pone.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en estan y pueblo. Inicia con “Oye, pueblo mío, y hablaré: escucha*, Israel, y testificaré contra ti: yo soy Dios, el Dios tuyo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en tengo y comer. Inicia con “¿Tengo de comer yo carne de toros, ó de beber sangre de machos cabríos?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en contra y boca. Inicia con “Tu boca metías en mal, y tu lengua componía engaño.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 50, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "delante",
+      "count": 3,
+      "significance": "La recurrencia de “delante” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 50."
     },
     {
-      "word": "Motivo literario",
+      "word": "contra",
+      "count": 3,
+      "significance": "La recurrencia de “contra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 50."
+    },
+    {
+      "word": "tierra",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “tierra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 50."
+    },
+    {
+      "word": "cielos",
+      "count": 2,
+      "significance": "La recurrencia de “cielos” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 50."
     }
   ]
 }

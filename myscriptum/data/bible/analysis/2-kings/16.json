@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-kings 16",
+  "title": "Análisis Estructural de 2 Reyes 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en hijo y achaz. Inicia con “EN el año diecisiete de Peka hijo de Remalías, comenzó á reinar Achâz hijo de Jotham rey de Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en asiria y achaz. Inicia con “En aquel tiempo Resín rey de Siria restituyó Elath á Siria, y echó á los Judíos de Elath; y los Siros vinieron á Elath, y habitaron allí ha…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en altar y holocausto. Inicia con “Y Urías el sacerdote edificó el altar; conforme á todo lo que el rey Achâz había enviado de Damasco, así lo hizo el sacerdote Urías, entre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en achaz y padres. Inicia con “E hizo el sacerdote Urías conforme á todas las cosas que el rey Achâz le mandó.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Reyes 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "achaz",
+      "count": 14,
+      "significance": "La recurrencia de “achaz” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "altar",
+      "count": 10,
+      "significance": "La recurrencia de “altar” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 16."
+    },
+    {
+      "word": "hijo",
+      "count": 6,
+      "significance": "La recurrencia de “hijo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 16."
+    },
+    {
+      "word": "asiria",
+      "count": 6,
+      "significance": "La recurrencia de “asiria” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Reyes 16."
     }
   ]
 }

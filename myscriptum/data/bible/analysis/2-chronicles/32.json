@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 32",
+  "title": "Análisis Estructural de 2 Crónicas 32",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 32.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en juda y ezechias. Inicia con “DESPUÉS de estas cosas y de esta fidelidad, vino Sennachêrib rey de los Asirios, entró en Judá, y asentó campo contra las ciudades fuertes,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en ezechias y manos. Inicia con “Así ha dicho Sennachêrib rey de los Asirios: ¿En quién confiáis vosotros para estar cercados en Jerusalem?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en jerusalem y ezechias. Inicia con “Y clamaron á gran voz en judaico al pueblo de Jerusalem que estaba en los muros, para espantarlos y ponerles temor, para tomar la ciudad.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en ezechias y todo. Inicia con “Empero Ezechîas, después de haberse engreído su corazón, se humilló, él y los moradores de Jerusalem; y no vino sobre ellos la ira de Jehov…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 32, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ezechias",
+      "count": 21,
+      "significance": "La recurrencia de “ezechias” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 32."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 12,
+      "significance": "La recurrencia de “jerusalem” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 32."
+    },
+    {
+      "word": "juda",
+      "count": 9,
+      "significance": "La recurrencia de “juda” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 32."
+    },
+    {
+      "word": "contra",
+      "count": 8,
+      "significance": "La recurrencia de “contra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 32."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 16",
+  "title": "Análisis Estructural de Números 16",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 16.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en hijos y moises. Inicia con “Y CORÉ, hijo de Ishar, hijo de Coath, hijo de Leví; y Dathán y Abiram, hijos de Eliab; y Hon, hijo de Peleth, de los hijos de Rubén, tomaro…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en moises y congregacion. Inicia con “Ni tampoco nos has metido tú en tierra que fluya leche y miel, ni nos has dado heredades de tierras y viñas: ¿has de arrancar los ojos de e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-38",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 38 con foco léxico en hombres y tierra. Inicia con “Y él habló á la congregación, diciendo: Apartaos ahora de las tiendas de estos impíos hombres, y no toquéis ninguna cosa suya, por que no p…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "39-50",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 39 al 50 con foco léxico en moises y aaron. Inicia con “Y el sacerdote Eleazar tomó los incensarios de metal con que los quemados habían ofrecido; y extendiéronlos para cubrir el altar,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 16, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "moises",
+      "count": 21,
+      "significance": "La recurrencia de “moises” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 16."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "congregacion",
+      "count": 17,
+      "significance": "La recurrencia de “congregacion” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 16."
+    },
+    {
+      "word": "aaron",
+      "count": 14,
+      "significance": "La recurrencia de “aaron” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 16."
+    },
+    {
+      "word": "core",
+      "count": 11,
+      "significance": "La recurrencia de “core” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 16."
     }
   ]
 }

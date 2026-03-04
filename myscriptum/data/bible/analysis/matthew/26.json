@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 26",
+  "title": "Análisis Estructural de Mateo 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-19",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 19 con foco léxico en jesus y discipulos. Inicia con “Y ACONTECIÓ que, como hubo acabado Jesús todas estas palabras, dijo á sus discípulos:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 26, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "20-38",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 20 al 38 con foco léxico en entonces y jesus. Inicia con “Y como fué la tarde del día, se sentó á la mesa con los doce.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "39-57",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 39 al 57 con foco léxico en jesus y diciendo. Inicia con “Y yéndose un poco más adelante, se postró sobre su rostro, orando, y diciendo: Padre mío, si es posible, pase de mí este vaso; empero no co…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 26, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "58-75",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 58 al 75 con foco léxico en jesus y diciendo. Inicia con “Mas Pedro le seguía de lejos hasta el patio del pontífice; y entrando dentro, estábase sentado con los criados, para ver el fin.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 26, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 24,
+      "significance": "La recurrencia de “jesus” (24) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Mateo 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "entonces",
+      "count": 15,
+      "significance": "La recurrencia de “entonces” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 26."
+    },
+    {
+      "word": "discipulos",
+      "count": 11,
+      "significance": "La recurrencia de “discipulos” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 26."
+    },
+    {
+      "word": "diciendo",
+      "count": 11,
+      "significance": "La recurrencia de “diciendo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 26."
     }
   ]
 }

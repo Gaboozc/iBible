@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Ezra 9",
+  "title": "Análisis Estructural de Esdras 9",
   "sections": [
     {
-      "verses": "1-9",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 9.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en nuestros y tierras. Inicia con “Y ACABADAS estas cosas, los príncipes se llegaron á mí, diciendo: El pueblo de Israel, y los sacerdotes y Levitas, no se han apartado de lo…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "9-18",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "19-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en causa y nosotros. Inicia con “Porque siervos éramos: mas en nuestra servidumbre no nos desamparó nuestro Dios, antes inclinó sobre nosotros misericordia delante de los r…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Esdras 9, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "nuestros",
+      "count": 6,
+      "significance": "La recurrencia de “nuestros” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 9."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "causa",
+      "count": 5,
+      "significance": "La recurrencia de “causa” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 9."
+    },
+    {
+      "word": "pueblos",
+      "count": 4,
+      "significance": "La recurrencia de “pueblos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 9."
+    },
+    {
+      "word": "hijos",
+      "count": 4,
+      "significance": "La recurrencia de “hijos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Esdras 9."
     }
   ]
 }

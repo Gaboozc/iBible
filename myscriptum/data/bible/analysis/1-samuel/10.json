@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-samuel 10",
+  "title": "Análisis Estructural de 1 Samuel 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en tres y hombres. Inicia con “TOMANDO entonces Samuel una ampolla de aceite, derramóla sobre su cabeza, y besólo, y díjole: ¿No te ha ungido Jehová por capitán sobre su…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-14",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 14 con foco léxico en profetas y saul. Inicia con “Y bajarás delante de mí á Gilgal; y luego descenderé yo á ti para sacrificar holocaustos, é inmolar víctimas pacíficas. Espera siete días,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "15-21",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 15 al 21 con foco léxico en samuel y israel. Inicia con “Y dijo el tío de Saúl: Yo te ruego me declares qué os dijo Samuel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "22-27",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 22 al 27 con foco léxico en pueblo y todo. Inicia con “Preguntaron pues otra vez á Jehová, si había aún de venir allí aquel varón. Y respondió Jehová: He aquí que él está escondido entre el baga…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "samuel",
+      "count": 10,
+      "significance": "La recurrencia de “samuel” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pueblo",
+      "count": 9,
+      "significance": "La recurrencia de “pueblo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 10."
+    },
+    {
+      "word": "saul",
+      "count": 7,
+      "significance": "La recurrencia de “saul” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 10."
+    },
+    {
+      "word": "alli",
+      "count": 5,
+      "significance": "La recurrencia de “alli” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 10."
     }
   ]
 }

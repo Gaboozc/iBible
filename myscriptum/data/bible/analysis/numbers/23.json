@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Numbers 23",
+  "title": "Análisis Estructural de Números 23",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en balaam y balac. Inicia con “Y BALAAM dijo á Balac: Edifícame aquí siete altares, y prepárame aquí siete becerros y siete carneros.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en aqui y balac. Inicia con “Porque de la cumbre de las peñas lo veré, y desde los collados lo miraré: he aquí un pueblo que habitará confiado, y no será contado entre…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en balac y jacob. Inicia con “Y Jehová salió al encuentro de Balaam, y puso palabra en su boca, y díjole: Vuelve á Balac, y así has de decir.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en balac y balaam. Inicia con “He aquí el pueblo, que como león se levantará, y como león se erguirá: no se echará hasta que coma la presa, y beba la sangre de los muerto…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Números 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "balac",
+      "count": 18,
+      "significance": "La recurrencia de “balac” (18) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "balaam",
+      "count": 14,
+      "significance": "La recurrencia de “balaam” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 23."
+    },
+    {
+      "word": "aqui",
+      "count": 11,
+      "significance": "La recurrencia de “aqui” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 23."
+    },
+    {
+      "word": "siete",
+      "count": 8,
+      "significance": "La recurrencia de “siete” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Números 23."
     }
   ]
 }

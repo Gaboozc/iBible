@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 2",
+  "title": "Análisis Estructural de 2 Samuel 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en david y saul. Inicia con “DESPUÉS de esto aconteció que David consultó á Jehová, diciendo: ¿Subiré á alguna de las ciudades de Judá? Y Jehová le respondió: Sube. Y D…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hijo y david. Inicia con “Y alzólo por rey sobre Galaad, y sobre Gessuri, y sobre Jezreel, y sobre Ephraim, y sobre Benjamín, y sobre todo Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en abner y asael. Inicia con “Y hubo aquel día una batalla muy recia, y Abner y los hombres de Israel fueron vencidos de los siervos de David.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-32",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 32 con foco léxico en abner y joab. Inicia con “Y juntáronse los hijos de Benjamín en un escuadrón con Abner, y paráronse en la cumbre del collado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "abner",
+      "count": 15,
+      "significance": "La recurrencia de “abner” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "david",
+      "count": 14,
+      "significance": "La recurrencia de “david” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 2."
+    },
+    {
+      "word": "joab",
+      "count": 11,
+      "significance": "La recurrencia de “joab” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 2."
+    },
+    {
+      "word": "asael",
+      "count": 9,
+      "significance": "La recurrencia de “asael” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 2."
     }
   ]
 }

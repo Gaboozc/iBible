@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Esther 2",
+  "title": "Análisis Estructural de Ester 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en hijo y vasthi. Inicia con “PASADAS estas cosas, sosegada ya la ira del rey Assuero, acordóse de Vasthi, y de lo que hizo, y de lo que fué sentenciado contra ella.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en mujeres y esther. Inicia con “Y había criado á Hadassa, que es Esther, hija de su tío, porque no tenía padre ni madre; y era moza de hermosa forma y de buen parecer; y c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en esther y casa. Inicia con “Entonces la moza venía así al rey: todo lo que ella decía se le daba, para venir con ello de la casa de las mujeres hasta la casa del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en mardocheo y esther. Inicia con “Y cuando se juntaban las vírgenes la segunda vez, Mardochêo estaba puesto á la puerta del rey.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ester 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "esther",
+      "count": 13,
+      "significance": "La recurrencia de “esther” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mujeres",
+      "count": 11,
+      "significance": "La recurrencia de “mujeres” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 2."
+    },
+    {
+      "word": "mardocheo",
+      "count": 11,
+      "significance": "La recurrencia de “mardocheo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 2."
+    },
+    {
+      "word": "casa",
+      "count": 9,
+      "significance": "La recurrencia de “casa” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ester 2."
     }
   ]
 }

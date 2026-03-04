@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 26",
+  "title": "Análisis Estructural de Ezequiel 26",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 26.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tiro y ella. Inicia con “Y ACONTECIÓ en el undécimo año, en el primero del mes, que* fué á mí palabra de Jehová, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en contra y caballos. Inicia con “Porque así ha dicho el Señor Jehová: He aquí que del aquilón traigo yo contra Tiro á Nabucodonosor, rey de Babilonia, rey de reyes, con cab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en medio y seras. Inicia con “Y robarán tus riquezas, y saquearán tus mercaderías: y arruinarán tus muros, y tus casas preciosas destruirán; y pondrán tus piedras y tu m…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en seras y poblada. Inicia con “Y levantarán sobre ti endechas, y te dirán: ¿Cómo pereciste tú, poblada en los mares, ciudad que fué alabada, que fué fuerte en la mar, ell…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 26, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 8,
+      "significance": "La recurrencia de “contra” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 26."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "senor",
+      "count": 7,
+      "significance": "La recurrencia de “senor” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 26."
+    },
+    {
+      "word": "tiro",
+      "count": 5,
+      "significance": "La recurrencia de “tiro” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 26."
+    },
+    {
+      "word": "seras",
+      "count": 5,
+      "significance": "La recurrencia de “seras” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 26."
     }
   ]
 }

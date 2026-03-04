@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglos VIII–VII a.C. (y horizonte profético más amplio)",
+  "dominantEmpire": "Asiria y transición hacia Babilonia",
+  "kingName": "Uzías, Jotam, Acaz, Ezequías (Judá)",
+  "kingRegion": "Reino de Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Isaías",
+    "Miqueas (contemporáneo)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Isaiah capítulo 21 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo de Jerusalén activo en el periodo inicial",
+  "location": "Jerusalén y Judá",
+  "summary": "Isaías anuncia juicio por infidelidad y esperanza mesiánica de restauración universal. En Isaías 21, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: noche, carro, guarda. Señales textuales: “CARGA del desierto de la mar. Como los torbellinos que pasan por el desierto en la región del mediodía, así* vienen de…” | “Y he aquí este carro de hombres viene, un par de caballeros. Después habló, y dijo: Cayó, cayó Babilonia; y todos los í…” | “Y las reliquias del número de los valientes flecheros, hijos de Cedar, serán apocadas: porque Jehová Dios de Israel lo…”.",
+  "spiritualContext": "Une santidad de Dios, justicia social, remanente fiel y promesa del Siervo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan noche, carro, guarda. El núcleo del capítulo se percibe en “Y he aquí este carro de hombres viene, un par de caballeros. Después habló, y dijo: Cayó, cayó Babilonia; y todos los í…”."
 }

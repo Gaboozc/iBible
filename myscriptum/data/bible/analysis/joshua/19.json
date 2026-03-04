@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 19",
+  "title": "Análisis Estructural de Josué 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en hijos y heredad. Inicia con “LA SEGUNDA suerte salió por Simeón, por la tribu de los hijos de Simeón conforme á sus familias; y su heredad fué entre la heredad de los h…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en termino y ciudades. Inicia con “Y de aquí* torna este término al norte á Hanatón, viniendo á salir al valle de Iphtael;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en ciudades y beth. Inicia con “Y tornando de donde nace el sol á Beth-dagón, llega á Zabulón, y al valle de Iphtael al norte, á Beth-emec, y á Nehiel, y sale á Cabul á la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-51",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 51 con foco léxico en hijos y heredad. Inicia con “La séptima suerte salió por la tribu de los hijos de Dan por sus familias.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hijos",
+      "count": 22,
+      "significance": "La recurrencia de “hijos” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "heredad",
+      "count": 15,
+      "significance": "La recurrencia de “heredad” (15) señala fidelidad del pacto y promesas divinas y ayuda a rastrear el hilo argumental de Josué 19."
+    },
+    {
+      "word": "termino",
+      "count": 15,
+      "significance": "La recurrencia de “termino” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 19."
+    },
+    {
+      "word": "ciudades",
+      "count": 13,
+      "significance": "La recurrencia de “ciudades” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 19."
     }
   ]
 }

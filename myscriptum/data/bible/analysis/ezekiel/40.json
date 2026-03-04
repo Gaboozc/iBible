@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 40",
+  "title": "Análisis Estructural de Ezequiel 40",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 40.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en puerta y cana. Inicia con “EN el año veinticinco de nuestro cautiverio, al principio del año, á los diez del mes, á los catorce años después que la ciudad fué herida,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en puerta y codos. Inicia con “E hizo los postes de sesenta codos, cada* poste del atrio y del portal por todo alrededor.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-37",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 37 con foco léxico en arcos y codos. Inicia con “Y sus gradas eran de siete peldaños, con sus arcos delante de ellas; y tenía palmas, una de una parte, y otra de la otra, en sus postes.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "38-49",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 38 al 49 con foco léxico en puerta y mesas. Inicia con “Y había allí una cámara, y su puerta con postes de portales; allí lavarán el holocausto.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 40, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "puerta",
+      "count": 40,
+      "significance": "La recurrencia de “puerta” (40) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 40."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "codos",
+      "count": 33,
+      "significance": "La recurrencia de “codos” (33) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 40."
+    },
+    {
+      "word": "midio",
+      "count": 16,
+      "significance": "La recurrencia de “midio” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 40."
+    },
+    {
+      "word": "otra",
+      "count": 15,
+      "significance": "La recurrencia de “otra” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 40."
     }
   ]
 }

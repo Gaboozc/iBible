@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Song-of-songs 2",
+  "title": "Análisis Estructural de Cantares 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en lirio y amor. Inicia con “YO soy la rosa de Sarón, y el lirio de los valles.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en amado y aqui. Inicia con “Su izquierda esté* debajo de mi cabeza, y su derecha me abrace.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en levantate y amiga. Inicia con “Mi amado habló, y me dijo: Levántate, oh amiga mía, hermosa mía, y vente.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en zorras y vinas. Inicia con “Paloma mía, que estás en los agujeros de la peña, en lo escondido de escarpados parajes, muéstrame tu rostro, hazme oir tu voz; porque dulc…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "amado",
+      "count": 6,
+      "significance": "La recurrencia de “amado” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "amiga",
+      "count": 3,
+      "significance": "La recurrencia de “amiga” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 2."
+    },
+    {
+      "word": "amor",
+      "count": 3,
+      "significance": "La recurrencia de “amor” (3) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Cantares 2."
+    },
+    {
+      "word": "aqui",
+      "count": 3,
+      "significance": "La recurrencia de “aqui” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 2."
     }
   ]
 }

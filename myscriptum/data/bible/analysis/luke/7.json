@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 7",
+  "title": "Análisis Estructural de Lucas 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en siervo y jesus. Inicia con “Y COMO acabó todas sus palabras oyéndole el pueblo, entró en Capernaum.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en juan y habia. Inicia con “Y acercándose, tocó el féretro: y los que lo* llevaban, pararon. Y dice: Mancebo, á ti digo, levántate.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-38",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 38 con foco léxico en vino y profeta. Inicia con “Mas ¿qué salisteis á ver? ¿un profeta? También os digo, y aun más que profeta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "39-50",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 39 al 50 con foco léxico en mujer y pies. Inicia con “Y como vió esto el Fariseo que le había convidado, habló entre sí, diciendo: Este, si fuera profeta, conocería quién y cuál es la mujer que…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juan",
+      "count": 9,
+      "significance": "La recurrencia de “juan” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesus",
+      "count": 7,
+      "significance": "La recurrencia de “jesus” (7) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 7."
+    },
+    {
+      "word": "habia",
+      "count": 7,
+      "significance": "La recurrencia de “habia” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 7."
+    },
+    {
+      "word": "pies",
+      "count": 7,
+      "significance": "La recurrencia de “pies” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 7."
     }
   ]
 }

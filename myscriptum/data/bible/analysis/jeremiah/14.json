@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Jeremiah 14",
+  "title": "Análisis Estructural de Jeremías 14",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 14.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en tierra y agua. Inicia con “PALABRA de Jehová que fué á Jeremías, con motivo de la sequía.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en nosotros y nuestras. Inicia con “Si nuestras iniquidades testifican contra nosotros, oh Jehová, haz por amor de tu nombre; porque nuestras rebeliones se han multiplicado, c…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en hambre y cuchillo. Inicia con “Cuando ayunaren, yo no oiré su clamor, y cuando ofrecieren holocausto y ofrenda, no lo aceptaré; antes los consumiré con cuchillo, y con ha…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en aqui y hiciste. Inicia con “Si salgo al campo, he aquí muertos á cuchillo; y si me entro en la ciudad, he aquí enfermos de hambre: porque también el profeta como el sa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jeremías 14, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "hambre",
+      "count": 6,
+      "significance": "La recurrencia de “hambre” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 14."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 14."
+    },
+    {
+      "word": "nombre",
+      "count": 5,
+      "significance": "La recurrencia de “nombre” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 14."
+    },
+    {
+      "word": "cuchillo",
+      "count": 5,
+      "significance": "La recurrencia de “cuchillo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jeremías 14."
     }
   ]
 }

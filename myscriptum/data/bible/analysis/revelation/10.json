@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Revelation 10",
+  "title": "Análisis Estructural de Apocalipsis 10",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 10.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en cielo y cosas. Inicia con “Y VI otro ángel fuerte descender del cielo, cercado de una nube, y el arco celeste sobre su cabeza; y su rostro era como el sol, y sus pies…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "10-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en angel y librito. Inicia con “Pero en los días de la voz del séptimo ángel, cuando él comenzare á tocar la trompeta, el misterio de Dios será consumado, como él lo* anun…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 10, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "angel",
+      "count": 6,
+      "significance": "La recurrencia de “angel” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 10."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cielo",
+      "count": 5,
+      "significance": "La recurrencia de “cielo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 10."
+    },
+    {
+      "word": "mano",
+      "count": 4,
+      "significance": "La recurrencia de “mano” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 10."
+    },
+    {
+      "word": "librito",
+      "count": 4,
+      "significance": "La recurrencia de “librito” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 10."
     }
   ]
 }

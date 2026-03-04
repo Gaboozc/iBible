@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Revelation 20",
+  "title": "Análisis Estructural de Apocalipsis 20",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 20.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en anos y cumplidos. Inicia con “Y VI un ángel descender del cielo, que tenía la llave del abismo, y una grande cadena en su mano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-15",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en fuego y muertos. Inicia con “Y subieron sobre la anchura de la tierra, y circundaron el campo de los santos, y la ciudad amada: y de Dios descendió fuego del cielo, y l…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 20, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "anos",
+      "count": 6,
+      "significance": "La recurrencia de “anos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 20."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "muertos",
+      "count": 5,
+      "significance": "La recurrencia de “muertos” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 20."
+    },
+    {
+      "word": "muerte",
+      "count": 4,
+      "significance": "La recurrencia de “muerte” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 20."
+    },
+    {
+      "word": "fuego",
+      "count": 4,
+      "significance": "La recurrencia de “fuego” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 20."
     }
   ]
 }

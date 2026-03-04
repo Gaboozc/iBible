@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 18",
+  "title": "Análisis Estructural de Salmos 18",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 18.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en carbones y cielos. Inicia con “Al Músico principal: Salmo de David, siervo de Jehová, el cual profirió á Jehová las palabras de este cántico el día que le libró Jehová de…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-25",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 25 con foco léxico en conforme y envio. Inicia con “Y envió sus saetas, y desbaratólos; y echó relámpagos, y los destruyó.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "26-38",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 26 al 38 con foco léxico en pies y limpio. Inicia con “Limpio te mostrarás para con el limpio, y severo serás para con el perverso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "39-50",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 39 al 50 con foco léxico en enemigos y hubo. Inicia con “Pues me ceñiste de fortaleza para la pelea; has agobiado mis enemigos debajo de mí.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 18, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "enemigos",
+      "count": 6,
+      "significance": "La recurrencia de “enemigos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 18."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "delante",
+      "count": 5,
+      "significance": "La recurrencia de “delante” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 18."
+    },
+    {
+      "word": "debajo",
+      "count": 4,
+      "significance": "La recurrencia de “debajo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 18."
+    },
+    {
+      "word": "pies",
+      "count": 4,
+      "significance": "La recurrencia de “pies” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 18."
     }
   ]
 }

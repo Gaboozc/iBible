@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Nahum 3",
+  "title": "Análisis Estructural de Nahúm 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en multitud y cadaveres. Inicia con “¡AY de la ciudad de sangres, toda llena de mentira y de rapiña, sin apartarse de ella* el pillaje!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en todos y ella. Inicia con “Y echaré sobre ti suciedades, y te afrentaré, y te pondré como estiércol.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en seras y fortalezas. Inicia con “Tú también serás embriagada, serás encerrada; tú también buscarás fortaleza á causa del enemigo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-19",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 19 con foco léxico en langostas y multiplicaste. Inicia con “Multiplicaste tus mercaderes más que las estrellas del cielo: el pulgón hizo presa, y voló.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Nahúm 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "ella",
+      "count": 3,
+      "significance": "La recurrencia de “ella” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "multitud",
+      "count": 3,
+      "significance": "La recurrencia de “multitud” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 3."
+    },
+    {
+      "word": "cadaveres",
+      "count": 3,
+      "significance": "La recurrencia de “cadaveres” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 3."
+    },
+    {
+      "word": "todos",
+      "count": 3,
+      "significance": "La recurrencia de “todos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Nahúm 3."
     }
   ]
 }

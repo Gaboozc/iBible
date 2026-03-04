@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 8",
+  "title": "Análisis Estructural de Proverbios 8",
   "sections": [
     {
-      "verses": "1-8",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 8.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en sabiduria y puertas. Inicia con “¿NO clama la sabiduría, y da su voz la inteligencia?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "8-16",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-18",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 18 con foco léxico en ciencia y sabiduria. Inicia con “Recibid mi enseñanza, y no plata; y ciencia antes que el oro escogido.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "17-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "19-27",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 19 al 27 con foco léxico en antes y principio. Inicia con “Mejor es mi fruto que el oro, y que el oro refinado; y mi rédito mejor* que la plata escogida.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "28-36",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 28 al 36 con foco léxico en afirmaba y tierra. Inicia con “Cuando afirmaba los cielos arriba, cuando afirmaba las fuentes del abismo;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 8, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "antes",
+      "count": 7,
+      "significance": "La recurrencia de “antes” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 8."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 8."
+    },
+    {
+      "word": "sabiduria",
+      "count": 4,
+      "significance": "La recurrencia de “sabiduria” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 8."
+    },
+    {
+      "word": "justicia",
+      "count": 4,
+      "significance": "La recurrencia de “justicia” (4) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Proverbios 8."
     }
   ]
 }

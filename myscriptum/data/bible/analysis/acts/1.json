@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Acts 1",
+  "title": "Análisis Estructural de Hechos 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en espiritu y santo. Inicia con “EN el primer tratado, oh Teófilo, he hablado de todas las cosas que Jesús comenzó á hacer y á enseñar,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 1, esta sección refuerza vida espiritual y acción del Espíritu, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en cielo y jerusalem. Inicia con “Mas recibiréis la virtud del Espíritu Santo que vendrá sobre vosotros; y me sereís testigos en Jerusalem, y en toda Judea, y Samaria, y has…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-20",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 20 con foco léxico en hermanos y campo. Inicia con “Todos éstos perseveraban unánimes en oración y ruego, con las mujeres, y con María la madre de Jesús, y con sus hermanos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "21-26",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 21 al 26 con foco léxico en nosotros y senor. Inicia con “Conviene, pues, que de estos hombres que han estado juntos con nosotros todo el tiempo que el Señor Jesús entró y salió entre nosotros,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Hechos 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 5,
+      "significance": "La recurrencia de “jesus” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Hechos 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jerusalem",
+      "count": 5,
+      "significance": "La recurrencia de “jerusalem” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 1."
+    },
+    {
+      "word": "nosotros",
+      "count": 5,
+      "significance": "La recurrencia de “nosotros” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Hechos 1."
+    },
+    {
+      "word": "espiritu",
+      "count": 4,
+      "significance": "La recurrencia de “espiritu” (4) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Hechos 1."
     }
   ]
 }

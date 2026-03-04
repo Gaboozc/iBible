@@ -1,35 +1,33 @@
 {
-  "title": "Análisis Estructural de Psalms 133",
+  "title": "Análisis Estructural de Salmos 133",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 133.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
-    },
-    {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "1-3",
+      "title": "Unidad literaria principal",
+      "description": "Abarca los versículos 1 al 3 con foco léxico en cuan y desciende. Inicia con “Cántico gradual: de David. ¡MIRAD cuán bueno y cuán delicioso es habitar los hermanos igualmente en uno!” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 133, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "cuan",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “cuan” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 133."
     },
     {
-      "word": "Motivo literario",
+      "word": "desciende",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “desciende” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 133."
+    },
+    {
+      "word": "barba",
+      "count": 2,
+      "significance": "La recurrencia de “barba” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 133."
+    },
+    {
+      "word": "cantico",
+      "count": 1,
+      "significance": "La recurrencia de “cantico” (1) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 133."
     }
   ]
 }

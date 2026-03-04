@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 21",
+  "title": "Análisis Estructural de Isaías 21",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 21.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en desierto y angustias. Inicia con “CARGA del desierto de la mar. Como los torbellinos que pasan por el desierto en la región del mediodía, así* vienen de la tierra horrenda.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-9",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 9 con foco léxico en carro y senor. Inicia con “Porque el Señor me dijo así: Ve, pon centinela que haga saber lo que viere.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "10-13",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 10 al 13 con foco léxico en noche y guarda. Inicia con “Trilla mía, y paja de mi era: os he dicho lo que oí de Jehová de los ejércitos, Dios de Israel.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "14-17",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 14 al 17 con foco léxico en presencia y dicho. Inicia con “Salid á encontrar al sediento; llevadle aguas, moradores de tierra de Tema, socorred con su pan al que huye.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 21, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "noche",
+      "count": 5,
+      "significance": "La recurrencia de “noche” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 21."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "carro",
+      "count": 4,
+      "significance": "La recurrencia de “carro” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 21."
+    },
+    {
+      "word": "guarda",
+      "count": 4,
+      "significance": "La recurrencia de “guarda” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 21."
+    },
+    {
+      "word": "presencia",
+      "count": 4,
+      "significance": "La recurrencia de “presencia” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 21."
     }
   ]
 }

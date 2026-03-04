@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Philippians 2",
+  "title": "Análisis Estructural de Filipenses 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en mismo y alguna. Inicia con “POR tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si algunas entrañas y miseric…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en nombre y todo. Inicia con “Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en cristo y vano. Inicia con “Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado en vano.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 2, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en tristeza y senor. Inicia con “Y confío en el Señor que yo también iré presto á vosotros*.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Filipenses 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 5,
+      "significance": "La recurrencia de “cristo” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Filipenses 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "mismo",
+      "count": 4,
+      "significance": "La recurrencia de “mismo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Filipenses 2."
+    },
+    {
+      "word": "jesus",
+      "count": 4,
+      "significance": "La recurrencia de “jesus” (4) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Filipenses 2."
+    },
+    {
+      "word": "muerte",
+      "count": 4,
+      "significance": "La recurrencia de “muerte” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Filipenses 2."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Matthew 13",
+  "title": "Análisis Estructural de Mateo 13",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en parte y cayo. Inicia con “Y AQUEL día, saliendo Jesús de casa, se sentó junto á la mar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-29",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 29 con foco léxico en palabra y sembrado. Inicia con “Mas bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "30-44",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 30 al 44 con foco léxico en reino y campo. Inicia con “Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré á los segadores: Coged primero la cizaña, y atadla…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 13, esta sección refuerza soberanía divina y autoridad, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "45-58",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 45 al 58 con foco léxico en todas y cosas. Inicia con “También el reino de los cielos es semejante al hombre tratante, que busca buenas perlas;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Mateo 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "reino",
+      "count": 12,
+      "significance": "La recurrencia de “reino” (12) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Mateo 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tiene",
+      "count": 10,
+      "significance": "La recurrencia de “tiene” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 13."
+    },
+    {
+      "word": "cielos",
+      "count": 8,
+      "significance": "La recurrencia de “cielos” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 13."
+    },
+    {
+      "word": "cizana",
+      "count": 8,
+      "significance": "La recurrencia de “cizana” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Mateo 13."
     }
   ]
 }

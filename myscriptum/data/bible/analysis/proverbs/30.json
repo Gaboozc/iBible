@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Proverbs 30",
+  "title": "Análisis Estructural de Proverbios 30",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 30.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-9",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 9 con foco léxico en nombre y palabras. Inicia con “PALABRAS de Agur, hijo de Jachê: La profecía que dijo el varón á Ithiel, á Ithiel y á Ucal.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "10-17",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 10 al 17 con foco léxico en generacion y cuyos. Inicia con “No acuses al siervo ante su señor, porque no te maldiga, y peques.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "18-25",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 18 al 25 con foco léxico en rastro y cosas. Inicia con “Tres cosas me son ocultas; aun tampoco sé la cuarta:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "26-33",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 26 al 33 con foco léxico en sacara y conejos. Inicia con “Los conejos, pueblo nada esforzado, y ponen su casa en la piedra;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Proverbios 30, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cosas",
+      "count": 6,
+      "significance": "La recurrencia de “cosas” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 30."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "tierra",
+      "count": 5,
+      "significance": "La recurrencia de “tierra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 30."
+    },
+    {
+      "word": "rastro",
+      "count": 5,
+      "significance": "La recurrencia de “rastro” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 30."
+    },
+    {
+      "word": "generacion",
+      "count": 4,
+      "significance": "La recurrencia de “generacion” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Proverbios 30."
     }
   ]
 }

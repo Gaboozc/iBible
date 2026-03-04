@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 95",
+  "title": "Análisis Estructural de Salmos 95",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 95.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en venid y grande. Inicia con “VENID, celebremos alegremente á Jehová: cantemos con júbilo á la roca de nuestra salud.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 95, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-11",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en pueblo y corazon. Inicia con “Porque él es nuestro Dios; nosotros el pueblo de su dehesa, y ovejas de su mano. Si hoy oyereis su voz,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 95, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "venid",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “venid” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 95."
     },
     {
-      "word": "Motivo literario",
+      "word": "grande",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “grande” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 95."
+    },
+    {
+      "word": "mano",
+      "count": 2,
+      "significance": "La recurrencia de “mano” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 95."
+    },
+    {
+      "word": "pueblo",
+      "count": 2,
+      "significance": "La recurrencia de “pueblo” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 95."
     }
   ]
 }

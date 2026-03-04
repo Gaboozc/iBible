@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 13",
+  "title": "Análisis Estructural de Juan 13",
   "sections": [
     {
       "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 13.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 10 con foco léxico en jesus y habia. Inicia con “ANTES de la fiesta de la Pascua, sabiendo Jesús que su hora había venido para que pasase de este mundo al Padre, como había amado á los suy…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 13, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "11-19",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 11 al 19 con foco léxico en pies y senor. Inicia con “Porque sabía quién le había de entregar; por eso dijo: No estáis limpios todos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "20-29",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 20 al 29 con foco léxico en jesus y cierto. Inicia con “De cierto, de cierto os digo: El que recibe al que yo enviare, á mí recibe; y el que á mí recibe, recibe al que me envió.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 13, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "30-38",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 30 al 38 con foco léxico en ahora y jesus. Inicia con “Como él pues hubo tomado el bocado, luego salió: y era ya* noche.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 13, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 15,
+      "significance": "La recurrencia de “jesus” (15) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 13."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pies",
+      "count": 8,
+      "significance": "La recurrencia de “pies” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 13."
+    },
+    {
+      "word": "senor",
+      "count": 8,
+      "significance": "La recurrencia de “senor” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 13."
+    },
+    {
+      "word": "cierto",
+      "count": 8,
+      "significance": "La recurrencia de “cierto” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 13."
     }
   ]
 }

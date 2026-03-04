@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Song-of-songs 7",
+  "title": "Análisis Estructural de Cantares 7",
   "sections": [
     {
       "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en cuan y pechos. Inicia con “¡CUÁN hermosos son tus pies en los calzados, oh hija de príncipe! Los contornos de tus muslos son como joyas, obra de mano de excelente mae…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "8-13",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en amado y olor. Inicia con “Yo dije: Subiré á la palma, asiré sus ramos: y tus pechos serán ahora como racimos de vid, y el olor de tu boca como de manzanas;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Cantares 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "amado",
+      "count": 4,
+      "significance": "La recurrencia de “amado” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 7."
     },
     {
-      "word": "Motivo literario",
+      "word": "pechos",
+      "count": 3,
+      "significance": "La recurrencia de “pechos” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 7."
+    },
+    {
+      "word": "cuan",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “cuan” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 7."
+    },
+    {
+      "word": "torre",
+      "count": 2,
+      "significance": "La recurrencia de “torre” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Cantares 7."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ezekiel 45",
+  "title": "Análisis Estructural de Ezequiel 45",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 45.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en santuario y longitud. Inicia con “Y CUANDO partiereis por suertes la tierra en heredad, apartaréis una suerte para Jehová que le consagréis en la tierra, de longitud de vein…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en epha y homer. Inicia con “Esta tierra tendrá por posesión en Israel, y nunca más mis príncipes oprimirán á mi pueblo: y darán la tierra á la casa de Israel por sus t…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en israel y holocausto. Inicia con “Y la ordenanza del aceite será* que ofreceréis* un bato de aceite, que es* la décima parte de un coro: diez batos harán* un homer; porque d…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en siete y dias. Inicia con “Así harás el séptimo del mes por los errados y engañados; y expiarás la casa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Ezequiel 45, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "santuario",
+      "count": 9,
+      "significance": "La recurrencia de “santuario” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 45."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "israel",
+      "count": 8,
+      "significance": "La recurrencia de “israel” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 45."
+    },
+    {
+      "word": "parte",
+      "count": 8,
+      "significance": "La recurrencia de “parte” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 45."
+    },
+    {
+      "word": "epha",
+      "count": 8,
+      "significance": "La recurrencia de “epha” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Ezequiel 45."
     }
   ]
 }

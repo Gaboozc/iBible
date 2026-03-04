@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-corinthians 3",
+  "title": "Análisis Estructural de 1 Corintios 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en carnales y sois. Inicia con “DE manera que yo, hermanos, no pude hablaros como á espirituales, sino como á carnales, como á niños en Cristo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en fundamento y planta. Inicia con “Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en obra y alguno. Inicia con “La obra de cada uno será manifestada: porque el día la declarará; porque por el fuego será manifestada; y la obra de cada uno cuál sea, el…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en mundo y sabios. Inicia con “Porque la sabiduría de este mundo es necedad para con Dios; pues escrito está: El que prende á los sabios en la astucia de ellos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Corintios 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sois",
+      "count": 7,
+      "significance": "La recurrencia de “sois” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "cada",
+      "count": 5,
+      "significance": "La recurrencia de “cada” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 3."
+    },
+    {
+      "word": "alguno",
+      "count": 5,
+      "significance": "La recurrencia de “alguno” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 3."
+    },
+    {
+      "word": "carnales",
+      "count": 4,
+      "significance": "La recurrencia de “carnales” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Corintios 3."
     }
   ]
 }

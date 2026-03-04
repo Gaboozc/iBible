@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 23",
+  "title": "Análisis Estructural de Lucas 23",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 23.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-14",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 14 con foco léxico en pilato y herodes. Inicia con “LEVANTÁNDOSE entonces toda la multitud de ellos, lleváronle á Pilato.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "15-28",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 15 al 28 con foco léxico en muerte y voces. Inicia con “Y ni aun Herodes; porque os remití á él, y he aquí, ninguna cosa digna de muerte ha hecho.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "29-42",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 29 al 42 con foco léxico en diciendo y nosotros. Inicia con “Porque he aquí vendrán días en que dirán: Bienaventuradas las estériles, y los vientres que no engendraron, y los pechos que no criaron.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "43-56",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 43 al 56 con foco léxico en habia y jesus. Inicia con “Entonces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraíso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 23, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "diciendo",
+      "count": 11,
+      "significance": "La recurrencia de “diciendo” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 23."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "pilato",
+      "count": 10,
+      "significance": "La recurrencia de “pilato” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 23."
+    },
+    {
+      "word": "jesus",
+      "count": 10,
+      "significance": "La recurrencia de “jesus” (10) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Lucas 23."
+    },
+    {
+      "word": "entonces",
+      "count": 8,
+      "significance": "La recurrencia de “entonces” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 23."
     }
   ]
 }

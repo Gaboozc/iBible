@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Judges 19",
+  "title": "Análisis Estructural de Jueces 19",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 19.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en padre y moza. Inicia con “EN aquellos días, cuando no había rey en Israel, hubo un Levita que moraba como peregrino en los lados del monte de Ephraim, el cual se hab…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-15",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 15 con foco léxico en noche y aqui. Inicia con “Levantóse luego el varón para irse, él, y su concubina, y su criado. Entonces su suegro, el padre de la moza, le dijo: He aquí el día decli…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "16-23",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 16 al 23 con foco léxico en casa y hombre. Inicia con “Y he aquí un hombre viejo, que á la tarde venía del campo de trabajar; el cual era del monte de Ephraim, y moraba como peregrino en Gabaa,…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "24-30",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 24 al 30 con foco léxico en concubina y casa. Inicia con “He aquí mi hija virgen, y la concubina de él: yo os las sacaré ahora; humilladlas, y haced con ellas como os pareciere, y no hagáis á este…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Jueces 19, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "casa",
+      "count": 16,
+      "significance": "La recurrencia de “casa” (16) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 19."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "noche",
+      "count": 11,
+      "significance": "La recurrencia de “noche” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 19."
+    },
+    {
+      "word": "aqui",
+      "count": 9,
+      "significance": "La recurrencia de “aqui” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 19."
+    },
+    {
+      "word": "hombre",
+      "count": 9,
+      "significance": "La recurrencia de “hombre” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jueces 19."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-samuel 6",
+  "title": "Análisis Estructural de 2 Samuel 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en arca y david. Inicia con “Y DAVID tornó á juntar todos los escogidos de Israel, treinta mil.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en david y arca. Inicia con “Y el furor de Jehová se encendió contra Uzza, é hiriólo allí Dios por aquella temeridad, y cayó allí muerto junto al arca de Dios.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en david y arca. Inicia con “Y como los que llevaban el arca de Dios habían andado seis pasos, sacrificaban un buey y un carnero* grueso.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en delante y pueblo. Inicia con “Y repartió á todo el pueblo, y á toda la multitud de Israel, así á hombres como á mujeres, á cada uno una torta de pan, y un pedazo de carn…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Samuel 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "david",
+      "count": 22,
+      "significance": "La recurrencia de “david” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "arca",
+      "count": 15,
+      "significance": "La recurrencia de “arca” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 6."
+    },
+    {
+      "word": "casa",
+      "count": 12,
+      "significance": "La recurrencia de “casa” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 6."
+    },
+    {
+      "word": "delante",
+      "count": 10,
+      "significance": "La recurrencia de “delante” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Samuel 6."
     }
   ]
 }

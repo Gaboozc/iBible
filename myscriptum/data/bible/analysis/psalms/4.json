@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 4",
+  "title": "Análisis Estructural de Salmos 4",
   "sections": [
     {
       "verses": "1-4",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 4.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en selah y musico. Inicia con “Al Músico principal: sobre Neginoth: Salmo de David. RESPÓNDEME cuando clamo, oh Dios de mi justicia: estando* en angustia, tú me hiciste e…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "4-8",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "9-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "5-8",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en ofreced y sacrificios. Inicia con “Ofreced sacrificios de justicia, y confiad en Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 4, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
+      "word": "justicia",
       "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "significance": "La recurrencia de “justicia” (2) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Salmos 4."
     },
     {
-      "word": "Motivo literario",
+      "word": "selah",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “selah” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 4."
+    },
+    {
+      "word": "corazon",
+      "count": 2,
+      "significance": "La recurrencia de “corazon” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 4."
+    },
+    {
+      "word": "musico",
+      "count": 1,
+      "significance": "La recurrencia de “musico” (1) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 4."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-kings 7",
+  "title": "Análisis Estructural de 1 Reyes 7",
   "sections": [
     {
-      "verses": "1-7",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 7.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-13",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 13 con foco léxico en codos y piedras. Inicia con “DESPUÉS edificó Salomón su propia casa en trece años, y acabóla toda.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-14",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "14-26",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 14 al 26 con foco léxico en columnas y codos. Inicia con “Hijo de una viuda de la tribu de Nephtalí, y su padre había sido de Tiro: trabajaba él en bronce, lleno de sabiduría y de inteligencia y sa…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "15-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "27-39",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 27 al 39 con foco léxico en cada y basa. Inicia con “Hizo también diez basas de bronce, siendo la longitud de cada basa de cuatro codos, y la anchura de cuatro codos, y de tres codos la altura.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "40-51",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 40 al 51 con foco léxico en vasos y salomon. Inicia con “Asimismo hizo Hiram fuentes, y tenazas, y cuencos. Así acabó toda la obra que hizo á Salomón para la casa de Jehová:” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Reyes 7, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "columnas",
+      "count": 20,
+      "significance": "La recurrencia de “columnas” (20) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 7."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "codos",
+      "count": 19,
+      "significance": "La recurrencia de “codos” (19) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 7."
+    },
+    {
+      "word": "hizo",
+      "count": 17,
+      "significance": "La recurrencia de “hizo” (17) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 7."
+    },
+    {
+      "word": "cada",
+      "count": 15,
+      "significance": "La recurrencia de “cada” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Reyes 7."
     }
   ]
 }

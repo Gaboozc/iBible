@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 11",
+  "title": "Análisis Estructural de 2 Crónicas 11",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 11.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en roboam y juda. Inicia con “Y COMO vino Roboam á Jerusalem, juntó la casa de Judá y de Benjamín, ciento y ochenta mil hombres escogidos de guerra, para pelear contra I…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en juda y benjamin. Inicia con “Y á Beth-sur, y á Sochô, y á Adullam,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en israel y hijo. Inicia con “Y los sacerdotes y Levitas que estaban en todo Israel, se juntaron á él de todos sus términos.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en hijos y maacha. Inicia con “La cual le parió hijos: á Jeus, y á Samaria, y á Zaham.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 11, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "juda",
+      "count": 9,
+      "significance": "La recurrencia de “juda” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 11."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "roboam",
+      "count": 8,
+      "significance": "La recurrencia de “roboam” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 11."
+    },
+    {
+      "word": "benjamin",
+      "count": 5,
+      "significance": "La recurrencia de “benjamin” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 11."
+    },
+    {
+      "word": "hijo",
+      "count": 5,
+      "significance": "La recurrencia de “hijo” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 11."
     }
   ]
 }

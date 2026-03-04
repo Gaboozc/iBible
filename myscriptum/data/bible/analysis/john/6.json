@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 6",
+  "title": "Análisis Estructural de Juan 6",
   "sections": [
     {
-      "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-18",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 18 con foco léxico en jesus y discipulos. Inicia con “PASADAS estas cosas, fuése Jesús de la otra parte de la mar de Galilea, que es* de Tiberias.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 6, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "19-36",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 19 al 36 con foco léxico en jesus y dijeronle. Inicia con “Y como hubieron navegado como veinticinco ó treinta estadios, ven á Jesús que andaba sobre la mar, y se acercaba al barco: y tuvieron miedo.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 6, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "37-54",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 37 al 54 con foco léxico en padre y vida. Inicia con “Todo lo que el Padre me da, vendrá á mí; y al que á mí viene, no le* hecho fuera.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "55-71",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 55 al 71 con foco léxico en jesus y carne. Inicia con “Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 6, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jesus",
+      "count": 23,
+      "significance": "La recurrencia de “jesus” (23) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "discipulos",
+      "count": 12,
+      "significance": "La recurrencia de “discipulos” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 6."
+    },
+    {
+      "word": "vida",
+      "count": 12,
+      "significance": "La recurrencia de “vida” (12) señala vida espiritual y acción del Espíritu y ayuda a rastrear el hilo argumental de Juan 6."
+    },
+    {
+      "word": "padre",
+      "count": 12,
+      "significance": "La recurrencia de “padre” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 6."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-corinthians 5",
+  "title": "Análisis Estructural de 2 Corintios 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en casa y nuestra. Inicia con “PORQUE sabemos, que si la casa terrestre de nuestra habitación se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eter…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en cuerpo y presentes. Inicia con “(Porque por fe andamos, no por vista;)” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en murio y todos. Inicia con “No nos encomendamos pues otra vez á vosotros, sino os damos ocasión de gloriaros por nosotros, para que tengáis qué responder contra los qu…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en cristo y nosotros. Inicia con “De modo que si alguno está en Cristo, nueva criatura es*: las cosas viejas pasaron; he aquí todas son hechas nuevas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Corintios 5, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "cristo",
+      "count": 8,
+      "significance": "La recurrencia de “cristo” (8) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de 2 Corintios 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "nosotros",
+      "count": 6,
+      "significance": "La recurrencia de “nosotros” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 5."
+    },
+    {
+      "word": "esto",
+      "count": 4,
+      "significance": "La recurrencia de “esto” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 5."
+    },
+    {
+      "word": "todos",
+      "count": 4,
+      "significance": "La recurrencia de “todos” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Corintios 5."
     }
   ]
 }

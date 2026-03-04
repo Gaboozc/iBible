@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Conquista y asentamiento inicial en Canaán",
+  "dominantEmpire": "Ciudades-estado cananeas",
+  "kingName": "No hay rey israelita; Josué como sucesor",
+  "kingRegion": "Canaán",
   "activeProphets": [
-    "Profetas según el período"
+    "Josué"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Joshua capítulo 6 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Tabernáculo en transición hacia centros de culto en la tierra",
+  "location": "Canaán",
+  "summary": "Josué relata entrada, conquista y repartición de la tierra prometida. En Josué 6, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ciudad, bocinas, josue. Señales textuales: “EMPERO Jericó estaba cerrada, bien cerrada, á causa de los hijos de Israel: nadie entraba, ni salía.” | “Así dieron otra vuelta á la ciudad el segundo día, y volviéronse al real: de esta manera hicieron por seis días.” | “Fué pues Jehová con Josué, y su nombre se divulgó por toda la tierra.”.",
+  "spiritualContext": "Subraya fidelidad del pacto, obediencia a la palabra y memoria de las obras de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ciudad, bocinas, josue. El núcleo del capítulo se percibe en “Así dieron otra vuelta á la ciudad el segundo día, y volviéronse al real: de esta manera hicieron por seis días.”."
 }

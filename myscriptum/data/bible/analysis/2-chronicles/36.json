@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 2-chronicles 36",
+  "title": "Análisis Estructural de 2 Crónicas 36",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 36.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en jerusalem y joachaz. Inicia con “ENTONCES el pueblo de la tierra tomó á Joachâz hijo de Josías, é hiciéronle rey en lugar de su padre en Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en babilonia y hizo. Inicia con “También llevó Nabucodonosor á Babilonia de los vasos de la casa de Jehová, y púsolos en su templo en Babilonia.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en casa y contra. Inicia con “Rebelóse asimismo contra Nabucodonosor, al cual había jurado por Dios; y endureció su cerviz, y obstinó su corazón, para no volverse á Jeho…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en persas y todos. Inicia con “Y quemaron la casa de Dios, y rompieron el muro de Jerusalem, y consumieron al fuego todos sus palacios, y destruyeron todos sus vasos dese…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 2 Crónicas 36, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "jerusalem",
+      "count": 11,
+      "significance": "La recurrencia de “jerusalem” (11) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 36."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "casa",
+      "count": 8,
+      "significance": "La recurrencia de “casa” (8) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 36."
+    },
+    {
+      "word": "anos",
+      "count": 7,
+      "significance": "La recurrencia de “anos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 2 Crónicas 36."
+    },
+    {
+      "word": "reino",
+      "count": 7,
+      "significance": "La recurrencia de “reino” (7) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de 2 Crónicas 36."
     }
   ]
 }

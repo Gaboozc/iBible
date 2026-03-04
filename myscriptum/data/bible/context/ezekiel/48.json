@@ -1,13 +1,15 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Exilio babilónico (593–571 a.C.)",
+  "dominantEmpire": "Imperio neobabilónico",
+  "kingName": "Joaquín (exiliado) / Sedequías",
+  "kingRegion": "Exilio en Babilonia y horizonte de Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Ezequiel",
+    "Jeremías",
+    "Daniel"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Ezekiel capítulo 48 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo destruido (desde 586 a.C. en gran parte del libro)",
+  "location": "Río Quebar y visión de Jerusalén futura",
+  "summary": "Ezequiel combina juicios severos y visiones de restauración con fuerte simbolismo profético. En Ezequiel 48, el capítulo contiene 35 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: parte, termino, oriente. Señales textuales: “Y ESTOS son los nombres de las tribus: Desde la extremidad septentrional por la vía de Hethlon viniendo á Hamath, Haser…” | “Y lo que quedare de longitud delante de la suerte santa, diez mil cañas* al oriente y diez mil al occidente, que será l…” | “En derredor tendrá dieciocho mil cañas*. Y el nombre de la ciudad desde aquel día será JEHOVÁ-SHAMMA.”.",
+  "spiritualContext": "Resalta responsabilidad personal, gloria de Dios y esperanza de corazón nuevo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan parte, termino, oriente. El núcleo del capítulo se percibe en “Y lo que quedare de longitud delante de la suerte santa, diez mil cañas* al oriente y diez mil al occidente, que será l…”."
 }

@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "npm run prebuild && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate:analysis": "tsx scripts/generate-analysis.ts",
+    "audit:analysis": "tsx scripts/audit-analysis-quality.ts"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",

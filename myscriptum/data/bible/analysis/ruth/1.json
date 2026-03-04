@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Ruth 1",
+  "title": "Análisis Estructural de Rut 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en moab y hijos. Inicia con “Y ACONTECIÓ en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Beth-lehem de Judá, fué á peregrinar en los…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en nueras y noemi. Inicia con “Salió pues del lugar donde había estado, y con ella sus dos nueras, y comenzaron á caminar para volverse á la tierra de Judá.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-17",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 17 con foco léxico en vosotras y pueblo. Inicia con “Volveos, hijas mías, é idos; que yo ya soy vieja para ser para varón. Y aunque dijese: Esperanza tengo; y esta noche fuese con varón, y aun…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "18-22",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 18 al 22 con foco léxico en noemi y ella. Inicia con “Y viendo Noemi* que estaba tan resuelta á ir con ella, dejó de hablarle.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Rut 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "noemi",
+      "count": 10,
+      "significance": "La recurrencia de “noemi” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ella",
+      "count": 7,
+      "significance": "La recurrencia de “ella” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 1."
+    },
+    {
+      "word": "moab",
+      "count": 6,
+      "significance": "La recurrencia de “moab” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 1."
+    },
+    {
+      "word": "hijos",
+      "count": 6,
+      "significance": "La recurrencia de “hijos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Rut 1."
     }
   ]
 }

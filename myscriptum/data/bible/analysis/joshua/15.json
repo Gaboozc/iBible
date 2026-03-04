@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Joshua 15",
+  "title": "Análisis Estructural de Josué 15",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 15.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-16",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 16 con foco léxico en termino y mediodia. Inicia con “Y FUÉ la suerte de la tribu de los hijos de Judá, por sus familias, junto al término de Edom, del desierto de Zin al mediodía, al lado del…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "17-32",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 17 al 32 con foco léxico en asor y caleb. Inicia con “Y tomóla Othoniel, hijo de Cenez, hermano de Caleb; y él le dió por mujer á su hija Axa.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "33-48",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 33 al 48 con foco léxico en aldeas y ciudades. Inicia con “En las llanuras, Estaol, y Sorea, y Asena,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "49-63",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 49 al 63 con foco léxico en ciudades y aldeas. Inicia con “Y Danna, y Chîriath-sanna, que es Debir,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Josué 15, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "termino",
+      "count": 22,
+      "significance": "La recurrencia de “termino” (22) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 15."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aldeas",
+      "count": 14,
+      "significance": "La recurrencia de “aldeas” (14) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 15."
+    },
+    {
+      "word": "ciudades",
+      "count": 12,
+      "significance": "La recurrencia de “ciudades” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 15."
+    },
+    {
+      "word": "hijos",
+      "count": 9,
+      "significance": "La recurrencia de “hijos” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Josué 15."
     }
   ]
 }

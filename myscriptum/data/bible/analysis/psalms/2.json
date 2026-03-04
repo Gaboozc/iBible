@@ -1,35 +1,39 @@
 {
-  "title": "Análisis Estructural de Psalms 2",
+  "title": "Análisis Estructural de Salmos 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura del capítulo",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en contra y amotinan. Inicia con “¿POR qué se amotinan las gentes, y los pueblos piensan vanidad?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
-    },
-    {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "7-12",
+      "title": "Desarrollo y cierre",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en hijo y tierra. Inicia con “Yo publicaré el decreto: Jehová me ha dicho: Mi hijo eres tú; yo te engendré hoy.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "tierra",
+      "count": 3,
+      "significance": "La recurrencia de “tierra” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 2."
     },
     {
-      "word": "Motivo literario",
+      "word": "gentes",
       "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "significance": "La recurrencia de “gentes” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 2."
+    },
+    {
+      "word": "reyes",
+      "count": 2,
+      "significance": "La recurrencia de “reyes” (2) señala soberanía divina y autoridad y ayuda a rastrear el hilo argumental de Salmos 2."
+    },
+    {
+      "word": "contra",
+      "count": 2,
+      "significance": "La recurrencia de “contra” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 2."
     }
   ]
 }

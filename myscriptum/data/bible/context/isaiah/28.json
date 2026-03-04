@@ -1,13 +1,14 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Siglos VIII–VII a.C. (y horizonte profético más amplio)",
+  "dominantEmpire": "Asiria y transición hacia Babilonia",
+  "kingName": "Uzías, Jotam, Acaz, Ezequías (Judá)",
+  "kingRegion": "Reino de Judá",
   "activeProphets": [
-    "Profetas según el período"
+    "Isaías",
+    "Miqueas (contemporáneo)"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Isaiah capítulo 28 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo de Jerusalén activo en el periodo inicial",
+  "location": "Jerusalén y Judá",
+  "summary": "Isaías anuncia juicio por infidelidad y esperanza mesiánica de restauración universal. En Isaías 28, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juicio, mandamiento, tras. Señales textuales: “¡AY de la corona de soberbia, de los ebrios de Ephraim, y de la flor caduca de la hermosura de su gloria, que está sobr…” | “Porque habéis dicho: Concierto tenemos hecho con la muerte, é hicimos acuerdo con la sepultura; cuando pasare el turbió…” | “También esto salió de Jehová de los ejércitos, para hacer maravilloso el consejo y engrandecer la sabiduría.”.",
+  "spiritualContext": "Une santidad de Dios, justicia social, remanente fiel y promesa del Siervo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en justicia, juicio y responsabilidad moral; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan juicio, mandamiento, tras. El núcleo del capítulo se percibe en “Porque habéis dicho: Concierto tenemos hecho con la muerte, é hicimos acuerdo con la sepultura; cuando pasare el turbió…”."
 }

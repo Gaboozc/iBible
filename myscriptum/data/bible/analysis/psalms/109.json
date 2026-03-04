@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Psalms 109",
+  "title": "Análisis Estructural de Salmos 109",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 109.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-8",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 8 con foco léxico en impio y boca. Inicia con “Al Músico principal: Salmo de David. OH Dios de mi alabanza, no calles;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 109, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "9-16",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 9 al 16 con foco léxico en hijos y huerfanos. Inicia con “Sean sus hijos huérfanos, y su mujer viuda.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 109, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "17-24",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 17 al 24 con foco léxico en maldicion y vestido. Inicia con “Y amó la maldición, y vínole; y no quiso la bendición, y ella se alejó de él.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 109, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "25-31",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 25 al 31 con foco léxico en sean y sido. Inicia con “Yo he sido para ellos objeto de oprobio; mirábanme, y meneaban su cabeza.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Salmos 109, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "sean",
+      "count": 5,
+      "significance": "La recurrencia de “sean” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 109."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "misericordia",
+      "count": 4,
+      "significance": "La recurrencia de “misericordia” (4) señala misericordia, gracia y restauración y ayuda a rastrear el hilo argumental de Salmos 109."
+    },
+    {
+      "word": "boca",
+      "count": 3,
+      "significance": "La recurrencia de “boca” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 109."
+    },
+    {
+      "word": "impio",
+      "count": 3,
+      "significance": "La recurrencia de “impio” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Salmos 109."
     }
   ]
 }

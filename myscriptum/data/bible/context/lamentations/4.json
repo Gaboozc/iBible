@@ -1,13 +1,13 @@
 {
-  "period": "Período bíblico general",
-  "dominantEmpire": "Contexto geográfico y histórico variado",
-  "kingName": "Según contexto histórico del libro",
-  "kingRegion": "Región de Palestina y alrededores",
+  "period": "Post-caída de Jerusalén (586 a.C.)",
+  "dominantEmpire": "Babilonia",
+  "kingName": "Monarquía derrumbada",
+  "kingRegion": "Jerusalén devastada",
   "activeProphets": [
-    "Profetas según el período"
+    "Tradicionalmente asociado a Jeremías"
   ],
-  "templeStatus": "Según la era histórica del libro",
-  "location": "Tierra de Israel",
-  "summary": "Lamentations capítulo 4 presenta narrativas, enseñanzas, o salmos que forman parte de la revelación bíblica. Este capítulo se sitúa en el contexto histórico y teológico del libro en su conjunto, contribuyendo a los temas generales de la obra.",
-  "spiritualContext": "La espiritualidad de este capítulo refleja los valores y enseñanzas bíblicas centrales: fe en Dios, obediencia, arrepentimiento, redención y transformación espiritual. Los temas teológicos del capítulo continúan el mensaje divino a través de la historia bíblica."
+  "templeStatus": "Templo destruido",
+  "location": "Ruinas de Jerusalén",
+  "summary": "Lamentaciones poetiza el duelo nacional tras la destrucción de Jerusalén. En Lamentaciones 4, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hija, calles, nuestros. Señales textuales: “¡CÓMO se ha oscurecido el oro! ¡Cómo* el buen oro se ha demudado! Las piedras del santuario están esparcidas por las en…” | “Nunca los reyes de la tierra, ni todos los que habitan en el mundo, creyeron que el enemigo y el adversario entrara por…” | “Cumplido es tu castigo, oh hija de Sión: nunca más te hará trasportar. Visitará tu iniquidad, oh hija de Edom; descubri…”.",
+  "spiritualContext": "Dolor, confesión y esperanza en la misericordia renovada de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hija, calles, nuestros. El núcleo del capítulo se percibe en “Nunca los reyes de la tierra, ni todos los que habitan en el mundo, creyeron que el enemigo y el adversario entrara por…”."
 }

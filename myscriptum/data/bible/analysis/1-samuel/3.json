@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de 1-samuel 3",
+  "title": "Análisis Estructural de 1 Samuel 3",
   "sections": [
     {
-      "verses": "1-3",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 3.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-6",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en samuel y heme. Inicia con “Y EL joven Samuel ministraba á Jehová delante de Eli: y la palabra de Jehová era de estima en aquellos días; no había visión manifiesta.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-6",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-11",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 11 con foco léxico en samuel y habia. Inicia con “Y Samuel no había conocido aún á Jehová, ni la palabra de Jehová le había sido revelada.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "7-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "12-16",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 12 al 16 con foco léxico en casa y samuel. Inicia con “Aquel día yo despertaré contra Eli todas las cosas que he dicho sobre su casa. En comenzando, acabaré también.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "17-21",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 17 al 21 con foco léxico en samuel y palabra. Inicia con “Y dijo: ¿Qué es la palabra que te habló Jehová*?; ruégote que no me la encubras: así te haga Dios y así te añada, si me encubrieres palabra…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En 1 Samuel 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "samuel",
+      "count": 21,
+      "significance": "La recurrencia de “samuel” (21) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 3."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "aqui",
+      "count": 6,
+      "significance": "La recurrencia de “aqui” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 3."
+    },
+    {
+      "word": "palabra",
+      "count": 5,
+      "significance": "La recurrencia de “palabra” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 3."
+    },
+    {
+      "word": "heme",
+      "count": 5,
+      "significance": "La recurrencia de “heme” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de 1 Samuel 3."
     }
   ]
 }

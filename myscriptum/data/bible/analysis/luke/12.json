@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Luke 12",
+  "title": "Análisis Estructural de Lucas 12",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 12.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-15",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 15 con foco léxico en delante y hombre. Inicia con “EN esto, juntándose muchas gentes, tanto que unos á otros se hollaban, comenzó á decir á sus discípulos, primeramente: Guardaos de la levad…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "16-30",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 16 al 30 con foco léxico en alma y diciendo. Inicia con “Y refirióles una parábola, diciendo: La heredad de un hombre rico había llevado mucho;” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "31-45",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 31 al 45 con foco léxico en senor y viniere. Inicia con “Mas procurad el reino de Dios, y todas estas cosas os serán añadidas.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "46-59",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 46 al 59 con foco léxico en contra y mucho. Inicia con “Vendrá el señor de aquel siervo el día que no espera, y á la hora que no sabe, y le apartará, y pondrá su parte con los infieles.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Lucas 12, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "contra",
+      "count": 10,
+      "significance": "La recurrencia de “contra” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 12."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "digo",
+      "count": 9,
+      "significance": "La recurrencia de “digo” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 12."
+    },
+    {
+      "word": "senor",
+      "count": 9,
+      "significance": "La recurrencia de “senor” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 12."
+    },
+    {
+      "word": "pues",
+      "count": 6,
+      "significance": "La recurrencia de “pues” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Lucas 12."
     }
   ]
 }

@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Revelation 1",
+  "title": "Análisis Estructural de Apocalipsis 1",
   "sections": [
     {
-      "verses": "1-1",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 1.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-5",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 5 con foco léxico en jesucristo y cosas. Inicia con “LA revelación de Jesucristo, que Dios le dió, para manifestar á sus siervos las cosas que deben suceder presto; y la* declaró, enviándola*…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 1, esta sección refuerza obra redentora de Cristo y esperanza escatológica, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "1-2",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "6-10",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 6 al 10 con foco léxico en amen y senor. Inicia con “Y nos ha hecho reyes y sacerdotes para Dios y su Padre; á él sea* gloria é imperio para siempre jamás. Amén.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "3-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "11-15",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 11 al 15 con foco léxico en siete y candeleros. Inicia con “Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envíalo* á las siete iglesias que están en As…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "16-20",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 16 al 20 con foco léxico en siete y diestra. Inicia con “Y tenía en su diestra siete estrellas: y de su boca salía una espada aguda de dos filos. Y su rostro era como el sol cuando resplandece en…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Apocalipsis 1, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "siete",
+      "count": 12,
+      "significance": "La recurrencia de “siete” (12) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 1."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "jesucristo",
+      "count": 5,
+      "significance": "La recurrencia de “jesucristo” (5) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Apocalipsis 1."
+    },
+    {
+      "word": "cosas",
+      "count": 4,
+      "significance": "La recurrencia de “cosas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 1."
+    },
+    {
+      "word": "visto",
+      "count": 4,
+      "significance": "La recurrencia de “visto” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Apocalipsis 1."
     }
   ]
 }

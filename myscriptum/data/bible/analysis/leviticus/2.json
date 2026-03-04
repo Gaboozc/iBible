@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Leviticus 2",
+  "title": "Análisis Estructural de Levítico 2",
   "sections": [
     {
-      "verses": "1-2",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 2.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-4",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 4 con foco léxico en aceite y presente. Inicia con “Y CUANDO alguna persona ofreciere oblación de presente á Jehová, su ofrenda será flor de harina, sobre la cual echará aceite, y pondrá sobr…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "2-4",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "5-8",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 5 al 8 con foco léxico en presente y ofrenda. Inicia con “Mas si tu presente fuere ofrenda de sartén, será de flor de harina sin levadura, amasada con aceite,” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "9-12",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 9 al 12 con foco léxico en presente y ofrenda. Inicia con “Y tomará el sacerdote de aquel presente, en memoria del mismo, y harálo arder sobre el altar; ofrenda encendida, de suave olor á Jehová.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "13-16",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 13 al 16 con foco léxico en ofrenda y presente. Inicia con “Y sazonarás toda ofrenda de tu presente con sal; y no harás que falte jamás de tu presente la sal de la alianza de tu Dios: en toda ofrenda…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Levítico 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "presente",
+      "count": 13,
+      "significance": "La recurrencia de “presente” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 2."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "ofrenda",
+      "count": 13,
+      "significance": "La recurrencia de “ofrenda” (13) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 2."
+    },
+    {
+      "word": "aceite",
+      "count": 9,
+      "significance": "La recurrencia de “aceite” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 2."
+    },
+    {
+      "word": "flor",
+      "count": 5,
+      "significance": "La recurrencia de “flor” (5) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Levítico 2."
     }
   ]
 }

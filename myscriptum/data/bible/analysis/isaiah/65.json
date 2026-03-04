@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Isaiah 65",
+  "title": "Análisis Estructural de Isaías 65",
   "sections": [
     {
-      "verses": "1-10",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 65.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-7",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 7 con foco léxico en aqui y heme. Inicia con “FUÍ buscado de los que no preguntaban por mi*; fuí hallado de los que no me buscaban. Dije á gente que no invocaba mi nombre: Heme aquí, he…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 65, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-20",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "8-13",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 8 al 13 con foco léxico en siervos y aqui. Inicia con “Así ha dicho Jehová: Como si alguno* hallase mosto en un racimo, y dijese: No lo desperdicies, que bendición hay en él; así haré yo por mis…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 65, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "21-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "14-19",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 14 al 19 con foco léxico en aqui y tierra. Inicia con “He aquí que mis siervos cantarán por júbilo del corazón, y vosotros clamaréis por el dolor del corazón, y por el quebrantamiento de espírit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 65, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "20-25",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 20 al 25 con foco léxico en dias y nino. Inicia con “No habrá más allí niño de días, ni viejo que sus días no cumpla: porque el niño morirá de cien años, y el pecador de cien años, será maldit…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Isaías 65, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "aqui",
+      "count": 9,
+      "significance": "La recurrencia de “aqui” (9) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 65."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "siervos",
+      "count": 7,
+      "significance": "La recurrencia de “siervos” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 65."
+    },
+    {
+      "word": "pueblo",
+      "count": 6,
+      "significance": "La recurrencia de “pueblo” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 65."
+    },
+    {
+      "word": "todo",
+      "count": 4,
+      "significance": "La recurrencia de “todo” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Isaías 65."
     }
   ]
 }

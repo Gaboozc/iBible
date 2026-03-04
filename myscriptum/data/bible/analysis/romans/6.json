@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de Romans 6",
+  "title": "Análisis Estructural de Romanos 6",
   "sections": [
     {
       "verses": "1-6",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 6.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 6 con foco léxico en pecado y somos. Inicia con “¿PUES qué diremos? Perseveraremos en pecado para que la gracia crezca?” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 6, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "6-12",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "7-12",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 7 al 12 con foco léxico en pecado y cristo. Inicia con “Porque el que es muerto, justificado es del pecado.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 6, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "13-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "13-18",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 13 al 18 con foco léxico en pecado y bajo. Inicia con “Ni tampoco presentéis vuestros miembros al pecado por instrumentos de iniquidad; antes presentaos á Dios como vivos de los muertos, y vuest…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 6, esta sección refuerza justicia, juicio y responsabilidad moral, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "19-23",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 19 al 23 con foco léxico en ahora y pecado. Inicia con “Humana cosa digo, por la flaqueza de vuestra carne: que como para iniquidad presentasteis vuestros miembros á servir á la inmundicia y á la…” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Romanos 6, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "pecado",
+      "count": 16,
+      "significance": "La recurrencia de “pecado” (16) señala justicia, juicio y responsabilidad moral y ayuda a rastrear el hilo argumental de Romanos 6."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "muerte",
+      "count": 7,
+      "significance": "La recurrencia de “muerte” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 6."
+    },
+    {
+      "word": "cristo",
+      "count": 6,
+      "significance": "La recurrencia de “cristo” (6) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Romanos 6."
+    },
+    {
+      "word": "siervos",
+      "count": 6,
+      "significance": "La recurrencia de “siervos” (6) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Romanos 6."
     }
   ]
 }

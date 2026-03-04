@@ -1,35 +1,51 @@
 {
-  "title": "Análisis Estructural de John 5",
+  "title": "Análisis Estructural de Juan 5",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Introducción y Contexto",
-      "description": "Este segmento presenta la introducción y contexto general del capítulo 5.",
-      "significance": "Establece el marco y la dirección del pasaje que seguirá a continuación."
+      "verses": "1-12",
+      "title": "Apertura y planteamiento",
+      "description": "Abarca los versículos 1 al 12 con foco léxico en lecho y estanque. Inicia con “DESPUÉS de estas cosas, era un día de fiesta de los Judíos, y subió Jesús á Jerusalem.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "5-10",
-      "title": "Desarrollo Principal",
-      "description": "La sección central desarrolla los temas clave presentados en la introducción.",
-      "significance": "Contiene los mensajes y narrativas más importantes del capítulo."
+      "verses": "13-24",
+      "title": "Desarrollo temático",
+      "description": "Abarca los versículos 13 al 24 con foco léxico en padre y hijo. Inicia con “Y el que había sido sanado, no sabía quién fuese; porque Jesús se había apartado de la gente que estaba en aquel lugar.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     },
     {
-      "verses": "11-final",
-      "title": "Conclusión y Aplicación",
-      "description": "Los versículos finales resumen y aplican los temas tratados en el capítulo.",
-      "significance": "Proporciona las lecciones prácticas y espirituales de la sección."
+      "verses": "25-36",
+      "title": "Profundización del mensaje",
+      "description": "Abarca los versículos 25 al 36 con foco léxico en testimonio y padre. Inicia con “De cierto, de cierto os digo: Vendrá hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios: y los que oyeren vivirán.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+    },
+    {
+      "verses": "37-47",
+      "title": "Cierre y llamado final",
+      "description": "Abarca los versículos 37 al 47 con foco léxico en padre y teneis. Inicia con “Y el que me envió, el Padre, él ha dado testimonio de mí. Ni nunca habéis oído su voz, ni habéis visto su parecer.” y avanza hacia la consolidación del mensaje en la unidad.",
+      "significance": "En Juan 5, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
     }
   ],
   "repeatedWords": [
     {
-      "word": "Patrón temático recurrente",
-      "count": 2,
-      "significance": "Este concepto aparece múltiples veces, enfatizando su importancia en el pasaje."
+      "word": "padre",
+      "count": 15,
+      "significance": "La recurrencia de “padre” (15) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 5."
     },
     {
-      "word": "Motivo literario",
-      "count": 2,
-      "significance": "Estructura literaria que refuerza el mensaje del autor."
+      "word": "hijo",
+      "count": 10,
+      "significance": "La recurrencia de “hijo” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 5."
+    },
+    {
+      "word": "testimonio",
+      "count": 10,
+      "significance": "La recurrencia de “testimonio” (10) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Juan 5."
+    },
+    {
+      "word": "jesus",
+      "count": 9,
+      "significance": "La recurrencia de “jesus” (9) señala obra redentora de Cristo y esperanza escatológica y ayuda a rastrear el hilo argumental de Juan 5."
     }
   ]
 }
