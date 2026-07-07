@@ -17,7 +17,8 @@ export interface VersesWithNotes {
   noteCount: number;
 }
 
-const NOTES_STORAGE_KEY = 'ibible:verse-notes';
+const NOTES_STORAGE_KEY = 'myscriptum:verse-notes';
+const LEGACY_NOTES_STORAGE_KEY = 'ibible:verse-notes';
 
 function generateId(): string {
   return `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
@@ -25,7 +26,15 @@ function generateId(): string {
 
 function getAllNotes(): VerseNote[] {
   if (typeof window === 'undefined') return [];
-  const stored = localStorage.getItem(NOTES_STORAGE_KEY);
+  let stored = localStorage.getItem(NOTES_STORAGE_KEY);
+  if (!stored) {
+    const legacy = localStorage.getItem(LEGACY_NOTES_STORAGE_KEY);
+    if (legacy) {
+      localStorage.setItem(NOTES_STORAGE_KEY, legacy);
+      localStorage.removeItem(LEGACY_NOTES_STORAGE_KEY);
+      stored = legacy;
+    }
+  }
   return stored ? JSON.parse(stored) : [];
 }
 

@@ -67,24 +67,18 @@ export async function GET(request: Request, { params }: { params: Promise<RouteP
     
     const dataRoot = resolveDataRoot();
     if (!dataRoot) {
-      console.error('❌ API: data/bible directory not found');
       return NextResponse.json({ error: 'Data directory not found' }, { status: 500 });
     }
 
     const filePath = path.join(dataRoot, type, resolvedBook, `${chapterNum}.json`);
-    console.log(`📁 API: Reading ${type} from ${filePath}`);
-
     const fileContents = await fs.promises.readFile(filePath, 'utf8');
     const data = JSON.parse(fileContents);
-
-    console.log(`✅ API: ${type} loaded successfully`);
     return NextResponse.json(data);
   } catch (error) {
     const err = error as NodeJS.ErrnoException;
     if (err.code === 'ENOENT') {
       return NextResponse.json({ error: 'Not found' }, { status: 404 });
     }
-    console.error(`❌ API Error loading ${type}:`, error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }

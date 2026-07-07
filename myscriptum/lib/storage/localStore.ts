@@ -14,6 +14,7 @@ type AppData = {
   preferences: Preferences;
   progress: {
     readChapters: string[];
+    activeDays: string[]; // ISO date strings (YYYY-MM-DD) with any recorded activity
   };
   reflections: Record<string, Record<string, string>>;
   notes: Record<string, string>;
@@ -33,6 +34,7 @@ const defaultData: AppData = {
   },
   progress: {
     readChapters: [],
+    activeDays: [],
   },
   reflections: {},
   notes: {},
@@ -62,6 +64,8 @@ const mergeData = (raw: Partial<AppData>): AppData => {
     progress: {
       ...defaultData.progress,
       ...(raw.progress ?? {}),
+      activeDays: raw.progress?.activeDays ?? [],
+      readChapters: raw.progress?.readChapters ?? [],
     },
     reflections: raw.reflections ?? {},
     notes: raw.notes ?? {},
@@ -114,8 +118,32 @@ export const setPreferences = (patch: Partial<Preferences>) => {
 
 export const getReadChapters = () => new Set(readStorage().progress.readChapters);
 
+const todayIso = () => new Date().toISOString().slice(0, 10);
+
+const withActivityDay = (current: AppData): AppData => {
+  const today = todayIso();
+  const days = current.progress.activeDays ?? [];
+  if (days.includes(today)) return current;
+  return {
+    ...current,
+    progress: {
+      ...current.progress,
+      activeDays: [...days, today],
+    },
+  };
+};
+
+export const recordActivity = () => {
+  updateStorage(withActivityDay);
+};
+
+export const getActiveDaysCount = () => {
+  const days = readStorage().progress.activeDays ?? [];
+  return days.length;
+};
+
 export const setReadChapters = (readChapters: Set<string>) => {
-  updateStorage((current) => ({
+  updateStorage((current) => withActivityDay({
     ...current,
     progress: {
       ...current.progress,
@@ -173,10 +201,10 @@ export const setReflectionAnswer = (chapterKey: string, index: number, value: st
       existing[String(index)] = value;
     }
     nextReflections[chapterKey] = existing;
-    return {
+    return withActivityDay({
       ...current,
       reflections: nextReflections,
-    };
+    });
   });
 };
 
@@ -185,7 +213,7 @@ export const getChapterNote = (chapterKey: string) => {
 };
 
 export const setChapterNote = (chapterKey: string, value: string) => {
-  updateStorage((current) => ({
+  updateStorage((current) => withActivityDay({
     ...current,
     notes: {
       ...current.notes,

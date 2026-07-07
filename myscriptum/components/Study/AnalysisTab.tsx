@@ -23,10 +23,9 @@ interface StructuralAnalysis {
 
 interface AnalysisTabProps {
   structuralAnalysis?: StructuralAnalysis;
-  isActive?: boolean;
 }
 
-export function AnalysisTab({ structuralAnalysis, isActive = true }: AnalysisTabProps) {
+export function AnalysisTab({ structuralAnalysis }: AnalysisTabProps) {
   if (!structuralAnalysis) {
     return (
       <div className="py-12 text-center text-slate-600">
