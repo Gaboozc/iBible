@@ -1,7 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState } from 'react';
-import { getPreferences, hasStoredData, setPreferences } from '@/lib/storage/localStore';
+import { getPreferences, setPreferences } from '@/lib/storage/localStore';
 
 export type Language = 'es' | 'en';
 export type BibleVersion = 'rv1909' | 'kjv';
@@ -9,6 +9,7 @@ export type BibleVersion = 'rv1909' | 'kjv';
 interface LanguageContextType {
   language: Language;
   bibleVersion: BibleVersion;
+  setLanguage: (language: Language) => void;
   setBibleVersion: (version: BibleVersion) => void;
   t: (key: string) => string;
 }
@@ -155,13 +156,13 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   });
 
   const setBibleVersion = (version: BibleVersion) => {
-    const newLanguage = version === 'rv1909' ? 'es' : 'en';
-    setState((prev) => ({ ...prev, bibleVersion: version, language: newLanguage }));
-    if (!hasStoredData()) {
-      setPreferences({ bibleVersion: version, language: newLanguage });
-      return;
-    }
-    setPreferences({ bibleVersion: version, language: newLanguage });
+    setState((prev) => ({ ...prev, bibleVersion: version }));
+    setPreferences({ bibleVersion: version });
+  };
+
+  const setLanguage = (language: Language) => {
+    setState((prev) => ({ ...prev, language }));
+    setPreferences({ language });
   };
 
   const t = (key: string): string => {
@@ -170,7 +171,15 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
   };
 
   return (
-    <LanguageContext.Provider value={{ language: state.language, bibleVersion: state.bibleVersion, setBibleVersion, t }}>
+    <LanguageContext.Provider
+      value={{
+        language: state.language,
+        bibleVersion: state.bibleVersion,
+        setLanguage,
+        setBibleVersion,
+        t,
+      }}
+    >
       {children}
     </LanguageContext.Provider>
   );

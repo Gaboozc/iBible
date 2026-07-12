@@ -9,7 +9,6 @@ import type { KeyWord } from '@/lib/bible/analysis-loader';
 
 interface EtymologyTabProps {
   keyWords?: KeyWord[];
-  isActive?: boolean;
 }
 
 export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {

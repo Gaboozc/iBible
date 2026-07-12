@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { Trash2, ChevronDown, ChevronUp } from 'lucide-react';
 import { getAllVersesWithNotes, getVerseNotes, deleteVerseNote } from '@/lib/storage/verseNotes';
 import type { VerseNote } from '@/lib/storage/verseNotes';
+import { fetchBibleCatalog } from '@/app/actions/catalog';
 
 interface GroupedNotes {
   [book: string]: {
@@ -15,50 +16,42 @@ export function MyNotesView() {
   const [groupedNotes, setGroupedNotes] = useState<GroupedNotes>({});
   const [expandedBook, setExpandedBook] = useState<string | null>(null);
   const [expandedChapter, setExpandedChapter] = useState<string | null>(null);
+  const [bookNames, setBookNames] = useState<Record<string, string>>({});
+
+  const displayBookName = (slug: string) => bookNames[slug] ?? slug;
+
+  const rebuildGrouped = () => {
+    const versesWithNotes = getAllVersesWithNotes();
+    const grouped: GroupedNotes = {};
+    versesWithNotes.forEach(({ bookSlug, chapter, verse }) => {
+      if (!grouped[bookSlug]) grouped[bookSlug] = {};
+      if (!grouped[bookSlug][chapter]) grouped[bookSlug][chapter] = [];
+      const notes = getVerseNotes(bookSlug, chapter, verse);
+      grouped[bookSlug][chapter].push(...notes);
+    });
+    setGroupedNotes(grouped);
+  };
 
   useEffect(() => {
-    // Load all notes and group them
-    const loadNotes = () => {
-      const versesWithNotes = getAllVersesWithNotes();
-      const grouped: GroupedNotes = {};
-
-      versesWithNotes.forEach(({ bookSlug, chapter, verse }) => {
-        if (!grouped[bookSlug]) {
-          grouped[bookSlug] = {};
-        }
-        if (!grouped[bookSlug][chapter]) {
-          grouped[bookSlug][chapter] = [];
-        }
-
-        const notes = getVerseNotes(bookSlug, chapter, verse);
-        grouped[bookSlug][chapter].push(...notes);
+    rebuildGrouped();
+    fetchBibleCatalog()
+      .then((catalog) => {
+        const map: Record<string, string> = {};
+        catalog.forEach((testament) => {
+          testament.books.forEach((book) => {
+            map[book.slug] = book.name;
+          });
+        });
+        setBookNames(map);
+      })
+      .catch(() => {
+        // catalog is optional; slug fallback is fine
       });
-
-      setGroupedNotes(grouped);
-    };
-
-    loadNotes();
   }, []);
 
   const handleDeleteNote = (noteId: string) => {
     if (deleteVerseNote(noteId)) {
-      // Refresh the view
-      const versesWithNotes = getAllVersesWithNotes();
-      const grouped: GroupedNotes = {};
-
-      versesWithNotes.forEach(({ bookSlug, chapter, verse }) => {
-        if (!grouped[bookSlug]) {
-          grouped[bookSlug] = {};
-        }
-        if (!grouped[bookSlug][chapter]) {
-          grouped[bookSlug][chapter] = [];
-        }
-
-        const notes = getVerseNotes(bookSlug, chapter, verse);
-        grouped[bookSlug][chapter].push(...notes);
-      });
-
-      setGroupedNotes(grouped);
+      rebuildGrouped();
     }
   };
 
@@ -96,7 +89,7 @@ export function MyNotesView() {
               onClick={() => setExpandedBook(expandedBook === bookSlug ? null : bookSlug)}
               className="w-full px-4 py-3 bg-slate-100 hover:bg-slate-200 transition text-left font-semibold text-slate-900 flex items-center justify-between"
             >
-              <span className="text-lg">📖 {bookSlug}</span>
+              <span className="text-lg">📖 {displayBookName(bookSlug)}</span>
               <div className="flex items-center gap-2">
                 <span className="text-sm font-normal text-slate-600">
                   {Object.values(chapters).reduce((sum, notes) => sum + notes.length, 0)} nota{Object.values(chapters).reduce((sum, notes) => sum + notes.length, 0) !== 1 ? 's' : ''}
@@ -151,7 +144,7 @@ export function MyNotesView() {
                                   {/* Encabezado de la nota */}
                                   <div className="flex items-start justify-between gap-3 mb-2">
                                     <span className="text-sm font-semibold text-blue-600">
-                                      {bookSlug} {chapter}:{note.verse}
+                                      {displayBookName(bookSlug)} {chapter}:{note.verse}
                                     </span>
                                     <button
                                       onClick={() => handleDeleteNote(note.id)}

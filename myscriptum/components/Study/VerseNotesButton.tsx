@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Trash2, Send, MessageCircle } from 'lucide-react';
 import { getVerseNotes, addVerseNote, deleteVerseNote, updateVerseNote } from '@/lib/storage/verseNotes';
 import type { VerseNote } from '@/lib/storage/verseNotes';
@@ -16,10 +16,14 @@ export function VerseNotesDisplay({
   chapter,
   verse,
 }: VerseNotesDisplayProps) {
-  const [notes, setNotes] = useState<VerseNote[]>(getVerseNotes(bookSlug, chapter, verse));
+  const [notes, setNotes] = useState<VerseNote[]>([]);
   const [newNoteText, setNewNoteText] = useState('');
   const [editingNoteId, setEditingNoteId] = useState<string | null>(null);
   const [editingText, setEditingText] = useState('');
+
+  useEffect(() => {
+    setNotes(getVerseNotes(bookSlug, chapter, verse));
+  }, [bookSlug, chapter, verse]);
 
   const handleSaveNote = () => {
     if (!newNoteText.trim()) return;

@@ -11,7 +11,6 @@ interface ReflectionQuestion {
 
 interface QuestionsTabProps {
   questions?: ReflectionQuestion[];
-  isActive?: boolean;
   answers?: Record<number, string>;
   onAnswerChange?: (index: number, value: string) => void;
 }
@@ -45,7 +44,9 @@ const stageConfig = {
 
 type StageKey = keyof typeof stageConfig;
 
-export function QuestionsTab({ questions = [], isActive = true, answers = {}, onAnswerChange }: QuestionsTabProps) {
+export function QuestionsTab({ questions = [], answers = {}, onAnswerChange }: QuestionsTabProps) {
+  const [expandedQuestion, setExpandedQuestion] = useState<number | null>(null);
+
   if (!questions || questions.length === 0) {
     return (
       <div className="py-12 text-center text-slate-600">
@@ -54,8 +55,6 @@ export function QuestionsTab({ questions = [], isActive = true, answers = {}, on
       </div>
     );
   }
-
-  const [expandedQuestion, setExpandedQuestion] = useState<number | null>(null);
 
   const questionsByStage = questions.reduce((acc, q, idx) => {
     if (!acc[q.stage]) acc[q.stage] = [];

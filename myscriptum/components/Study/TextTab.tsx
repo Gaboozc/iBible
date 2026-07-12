@@ -16,7 +16,6 @@ interface Verse {
 interface TextTabProps {
   verses: Verse[];
   translationLabel?: string;
-  isActive?: boolean;
   isLoading?: boolean;
   note?: string;
   onNoteChange?: (value: string) => void;

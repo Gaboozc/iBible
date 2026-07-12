@@ -20,20 +20,18 @@ export interface StructuralAnalysis {
   repeatedWords: RepeatedWord[];
 }
 
-export async function loadAnalysis(bookSlug: string, chapterNum: number): Promise<StructuralAnalysis | null> {
+async function fetchAnalysisJson<T>(bookSlug: string, chapterNum: number, type: string): Promise<T | null> {
   try {
-    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/analysis`);
-    if (!response.ok) {
-      console.log(`📊 Analysis not found: ${bookSlug} ${chapterNum}`);
-      return null;
-    }
-    const data = await response.json() as StructuralAnalysis;
-    console.log(`✅ Analysis loaded: ${bookSlug} ${chapterNum}`);
-    return data;
-  } catch (error) {
-    console.error('❌ Error loading analysis:', error);
+    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/${type}`);
+    if (!response.ok) return null;
+    return (await response.json()) as T;
+  } catch {
     return null;
   }
+}
+
+export async function loadAnalysis(bookSlug: string, chapterNum: number): Promise<StructuralAnalysis | null> {
+  return fetchAnalysisJson<StructuralAnalysis>(bookSlug, chapterNum, 'analysis');
 }
 
 export interface HistoricalContext {
@@ -49,19 +47,7 @@ export interface HistoricalContext {
 }
 
 export async function loadContext(bookSlug: string, chapterNum: number): Promise<HistoricalContext | null> {
-  try {
-    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/context`);
-    if (!response.ok) {
-      console.log(`📜 Context not found: ${bookSlug} ${chapterNum}`);
-      return null;
-    }
-    const data = await response.json() as HistoricalContext;
-    console.log(`✅ Context loaded: ${bookSlug} ${chapterNum}`);
-    return data;
-  } catch (error) {
-    console.error('❌ Error loading context:', error);
-    return null;
-  }
+  return fetchAnalysisJson<HistoricalContext>(bookSlug, chapterNum, 'context');
 }
 
 export interface KeyWord {
@@ -79,19 +65,7 @@ export interface KeyWord {
 }
 
 export async function loadEtymology(bookSlug: string, chapterNum: number): Promise<KeyWord[] | null> {
-  try {
-    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/etymology`);
-    if (!response.ok) {
-      console.log(`🔤 Etymology not found: ${bookSlug} ${chapterNum}`);
-      return null;
-    }
-    const data = await response.json() as KeyWord[];
-    console.log(`✅ Etymology loaded: ${bookSlug} ${chapterNum} with ${data.length} words`);
-    return data;
-  } catch (error) {
-    console.error('❌ Error loading etymology:', error);
-    return null;
-  }
+  return fetchAnalysisJson<KeyWord[]>(bookSlug, chapterNum, 'etymology');
 }
 
 export interface Connection {
@@ -102,19 +76,7 @@ export interface Connection {
 }
 
 export async function loadConnections(bookSlug: string, chapterNum: number): Promise<Connection[] | null> {
-  try {
-    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/connections`);
-    if (!response.ok) {
-      console.log(`🔗 Connections not found: ${bookSlug} ${chapterNum}`);
-      return null;
-    }
-    const data = await response.json() as Connection[];
-    console.log(`✅ Connections loaded: ${bookSlug} ${chapterNum} with ${data.length} connections`);
-    return data;
-  } catch (error) {
-    console.error('❌ Error loading connections:', error);
-    return null;
-  }
+  return fetchAnalysisJson<Connection[]>(bookSlug, chapterNum, 'connections');
 }
 
 export interface ReflectionQuestion {
@@ -124,17 +86,5 @@ export interface ReflectionQuestion {
 }
 
 export async function loadQuestions(bookSlug: string, chapterNum: number): Promise<ReflectionQuestion[] | null> {
-  try {
-    const response = await fetch(`/api/analysis/${bookSlug}/${chapterNum}/questions`);
-    if (!response.ok) {
-      console.log(`❓ Questions not found: ${bookSlug} ${chapterNum}`);
-      return null;
-    }
-    const data = await response.json() as ReflectionQuestion[];
-    console.log(`✅ Questions loaded: ${bookSlug} ${chapterNum} with ${data.length} questions`);
-    return data;
-  } catch (error) {
-    console.error('❌ Error loading questions:', error);
-    return null;
-  }
+  return fetchAnalysisJson<ReflectionQuestion[]>(bookSlug, chapterNum, 'questions');
 }

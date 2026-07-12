@@ -16,10 +16,9 @@ interface HistoricalContext {
 
 interface HistoricalContextTabProps {
   context?: HistoricalContext;
-  isActive?: boolean;
 }
 
-export function HistoricalContextTab({ context, isActive = true }: HistoricalContextTabProps) {
+export function HistoricalContextTab({ context }: HistoricalContextTabProps) {
   if (!context) {
     return (
       <div className="py-12 text-center text-slate-600">

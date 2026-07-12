@@ -48,14 +48,12 @@ export default function StudyPageDynamic() {
   const palette = getColors(mode);
   const params = useParams();
   const [activeTab, setActiveTab] = useState<TabId>('context');
-  const [version, setVersion] = useState<BibleVersion>('rv1909');
   const [chapterText, setChapterText] = useState<ChapterText | null>(null);
   const [isLoadingText, setIsLoadingText] = useState(false);
   const [readChapters, setReadChapters] = useState<Set<string>>(new Set());
   const [book, setBook] = useState<BookEntry | null>(null);
   const [isLoading, setIsLoading] = useState(true);
-  const [debugInfo, setDebugInfo] = useState<string>('');
-  
+
   // Analysis data
   const [structuralAnalysis, setStructuralAnalysis] = useState<StructuralAnalysis | null>(null);
   const [contextData, setContextData] = useState<HistoricalContext | null>(null);
@@ -69,28 +67,18 @@ export default function StudyPageDynamic() {
   const bookSlug = params?.book ? (params.book as string) : '';
   const chapterKey = `${bookSlug}:${chapterNum}`;
 
-  // Sync local version state with bibleVersion from context
-  useEffect(() => {
-    setVersion(bibleVersion);
-  }, [bibleVersion]);
-
   // Load book metadata and read status from localStorage
   useEffect(() => {
     const loadBookInfo = async () => {
       try {
         if (!bookSlug || !chapterNum) {
-          setDebugInfo(`Invalid params: bookSlug="${bookSlug}", chapter=${chapterNum}`);
           setIsLoading(false);
           return;
         }
 
         const catalog = await fetchBibleCatalog();
-        console.log('Catalog loaded, looking for book:', bookSlug);
-        const allBooks = catalog.flatMap(t => t.books.map(b => ({ name: b.name, slug: b.slug, testament: t.name })));
-        console.log('Available books:', allBooks);
-        
-        let foundBook: BookEntry | null = null;
 
+        let foundBook: BookEntry | null = null;
         for (const testament of catalog) {
           const b = testament.books.find((b) => b.slug === bookSlug);
           if (b) {
@@ -99,16 +87,10 @@ export default function StudyPageDynamic() {
           }
         }
 
-        console.log('Found book:', foundBook?.name || 'NOT FOUND');
         setBook(foundBook);
-        setDebugInfo(`Looking for: ${bookSlug} ch ${chapterNum}. Found: ${foundBook?.name || 'NOT FOUND'}`);
-
         setReadChapters(getReadChapters());
-
         setIsLoading(false);
-      } catch (error) {
-        console.error('Error loading book info:', error);
-        setDebugInfo(`Error: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      } catch {
         setIsLoading(false);
       }
     };
@@ -136,9 +118,7 @@ export default function StudyPageDynamic() {
 
     const loadText = async () => {
       setIsLoadingText(true);
-      console.log('🔄 Loading text for:', { version: bibleVersion, bookSlug, chapterNum });
       const data = await loadChapterText(bibleVersion, bookSlug, chapterNum);
-      console.log('✅ Text loaded:', { data });
       if (isActive) {
         setChapterText(data);
         setIsLoadingText(false);
@@ -157,8 +137,6 @@ export default function StudyPageDynamic() {
   // Load analysis data (context, analysis, etymology, connections, questions)
   useEffect(() => {
     const loadAnalysisData = async () => {
-      console.log('📚 Loading analysis data for:', { bookSlug, chapterNum });
-      
       const [analysis, context, etymology, connections, questions] = await Promise.all([
         loadAnalysis(bookSlug, chapterNum),
         loadContext(bookSlug, chapterNum),
@@ -172,14 +150,6 @@ export default function StudyPageDynamic() {
       setEtymologyWords(etymology);
       setConnectionsList(connections);
       setQuestionsList(questions);
-      
-      console.log('✅ All analysis data loaded:', {
-        analysisLoaded: !!analysis,
-        contextLoaded: !!context,
-        etymologyCount: etymology?.length ?? 0,
-        connectionsCount: connections?.length ?? 0,
-        questionsCount: questions?.length ?? 0,
-      });
     };
 
     if (!isLoading && bookSlug && chapterNum > 0) {
@@ -214,24 +184,8 @@ export default function StudyPageDynamic() {
     };
   });
 
-  console.log('📖 Computed textVerses:', {
-    chapterTextExists: !!chapterText,
-    chapterTextVerses: chapterText?.verses.length ?? 0,
-    usingFallback: !chapterText,
-    finalVersesCount: textVerses.length,
-  });
-
-  console.log('🔍 Render check:', {
-    activeTab,
-    isLoadingText,
-    textVersesLength: textVerses.length,
-    willShowLoadingUI: isLoadingText,
-    willShowNoContentUI: !isLoadingText && textVerses.length === 0,
-    willShowTextTab: !isLoadingText && textVerses.length > 0,
-  });
-
   const versionLabel =
-    version === 'rv1909' ? 'Reina-Valera 1909' : version === 'kjv' ? 'KJV (English)' : 'Unknown';
+    bibleVersion === 'rv1909' ? 'Reina-Valera 1909' : bibleVersion === 'kjv' ? 'KJV (English)' : 'Unknown';
 
   const handleReflectionChange = (index: number, value: string) => {
     setReflectionAnswers((prev) => ({ ...prev, [index]: value }));
@@ -258,7 +212,6 @@ export default function StudyPageDynamic() {
           <p className="text-lg font-semibold mb-2">Libro no encontrado</p>
           <p className="text-sm text-slate-500">Slug: {bookSlug}</p>
           <p className="text-sm text-slate-500">Capítulo: {chapterNum}</p>
-          {debugInfo && <p className="text-xs text-slate-600 mt-2">{debugInfo}</p>}
         </div>
         <Link
           href="/library"
@@ -356,14 +309,14 @@ export default function StudyPageDynamic() {
           
           {/* Tab Content - FUERA del StudyTabs */}
           <div className={activeTab === 'context' ? 'p-4 sm:p-6' : 'hidden'}>
-            <HistoricalContextTab isActive={activeTab === 'context'} context={contextData || undefined} />
+            <HistoricalContextTab context={contextData || undefined} />
           </div>
 
           <div className={activeTab === 'text' ? 'p-4 sm:p-6' : 'hidden'}>
             {isLoadingText ? (
               <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
                 <p className="text-lg font-semibold">{t('study.loading')}</p>
-                <p className="text-sm mt-2">Versión: {version} | Libro: {bookSlug} | Capítulo: {chapterNum}</p>
+                <p className="text-sm mt-2">Versión: {bibleVersion} | Libro: {bookSlug} | Capítulo: {chapterNum}</p>
               </div>
             ) : textVerses.length === 0 ? (
               <div className="py-12 text-center" style={{ color: palette.text.secondary }}>
@@ -372,7 +325,6 @@ export default function StudyPageDynamic() {
               </div>
             ) : (
               <TextTab
-                isActive={activeTab === 'text'}
                 verses={textVerses}
                 translationLabel={versionLabel}
                 isLoading={false}
@@ -383,20 +335,23 @@ export default function StudyPageDynamic() {
           </div>
 
           <div className={activeTab === 'analysis' ? 'p-4 sm:p-6' : 'hidden'}>
-            <AnalysisTab isActive={activeTab === 'analysis'} structuralAnalysis={structuralAnalysis || undefined} />
+            <AnalysisTab structuralAnalysis={structuralAnalysis || undefined} />
           </div>
 
           <div className={activeTab === 'etymology' ? 'p-4 sm:p-6' : 'hidden'}>
-            <EtymologyTab isActive={activeTab === 'etymology'} keyWords={etymologyWords || undefined} />
+            <EtymologyTab keyWords={etymologyWords || undefined} />
           </div>
 
           <div className={activeTab === 'connections' ? 'p-4 sm:p-6' : 'hidden'}>
-            <ConnectionsTab isActive={activeTab === 'connections'} connections={connectionsList || undefined} />
+            <ConnectionsTab
+              connections={connectionsList || undefined}
+              currentBook={book?.name || bookSlug}
+              currentChapter={chapterNum}
+            />
           </div>
 
           <div className={activeTab === 'questions' ? 'p-4 sm:p-6' : 'hidden'}>
             <QuestionsTab
-              isActive={activeTab === 'questions'}
               questions={questionsList || undefined}
               answers={reflectionAnswers}
               onAnswerChange={handleReflectionChange}

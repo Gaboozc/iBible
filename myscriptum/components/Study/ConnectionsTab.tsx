@@ -1,30 +1,107 @@
 'use client';
 
+import { useMemo } from 'react';
 import { Link2, History, BookOpen, Zap, BookMarked } from 'lucide-react';
-
-interface Connection {
-  type: ConnectionType | string;
-  reference: string;
-  title: string;
-  description: string;
-}
+import { ReactFlow, Background, Controls, MarkerType, type Node, type Edge } from '@xyflow/react';
+import '@xyflow/react/dist/style.css';
+import type { Connection } from '@/lib/bible/analysis-loader';
 
 interface ConnectionsTabProps {
   connections?: Connection[];
-  isActive?: boolean;
+  currentBook?: string;
+  currentChapter?: number;
 }
 
 type ConnectionType = 'historical' | 'thematic' | 'prophetic' | 'typological' | 'lexical';
 
-const connectionTypeConfig: Record<ConnectionType, { icon: React.ComponentType<{ className?: string }>; color: string; label: string }> = {
-  historical: { icon: History, color: 'bg-blue-100 text-blue-700 border-blue-300', label: 'Histórica' },
-  thematic: { icon: BookOpen, color: 'bg-purple-100 text-purple-700 border-purple-300', label: 'Temática' },
-  prophetic: { icon: BookMarked, color: 'bg-red-100 text-red-700 border-red-300', label: 'Profética' },
-  typological: { icon: Zap, color: 'bg-amber-100 text-amber-700 border-amber-300', label: 'Tipológica' },
-  lexical: { icon: Link2, color: 'bg-green-100 text-green-700 border-green-300', label: 'Léxica' },
+const connectionTypeConfig: Record<ConnectionType, {
+  icon: React.ComponentType<{ className?: string }>;
+  color: string;
+  label: string;
+  nodeBg: string;
+  nodeBorder: string;
+  edge: string;
+}> = {
+  historical:  { icon: History,    color: 'bg-blue-100 text-blue-700 border-blue-300',       label: 'Histórica',   nodeBg: '#dbeafe', nodeBorder: '#60a5fa', edge: '#3b82f6' },
+  thematic:    { icon: BookOpen,   color: 'bg-purple-100 text-purple-700 border-purple-300', label: 'Temática',    nodeBg: '#ede9fe', nodeBorder: '#a78bfa', edge: '#8b5cf6' },
+  prophetic:   { icon: BookMarked, color: 'bg-red-100 text-red-700 border-red-300',           label: 'Profética',   nodeBg: '#fee2e2', nodeBorder: '#f87171', edge: '#ef4444' },
+  typological: { icon: Zap,        color: 'bg-amber-100 text-amber-700 border-amber-300',     label: 'Tipológica',  nodeBg: '#fef3c7', nodeBorder: '#fbbf24', edge: '#f59e0b' },
+  lexical:     { icon: Link2,      color: 'bg-green-100 text-green-700 border-green-300',     label: 'Léxica',      nodeBg: '#dcfce7', nodeBorder: '#4ade80', edge: '#22c55e' },
 };
 
-export function ConnectionsTab({ connections = [], isActive = true }: ConnectionsTabProps) {
+function buildGraph(
+  connections: Connection[],
+  currentBook: string,
+  currentChapter: number
+): { nodes: Node[]; edges: Edge[] } {
+  const centerId = 'chapter:current';
+  const centerLabel = currentBook && currentChapter
+    ? `${currentBook.charAt(0).toUpperCase() + currentBook.slice(1)} ${currentChapter}`
+    : 'Este capítulo';
+
+  const nodes: Node[] = [
+    {
+      id: centerId,
+      position: { x: 0, y: 0 },
+      data: { label: centerLabel },
+      style: {
+        background: '#0f172a',
+        color: '#ffffff',
+        border: '2px solid #1e293b',
+        borderRadius: 12,
+        padding: '10px 14px',
+        fontWeight: 600,
+        fontSize: 13,
+      },
+    },
+  ];
+
+  const edges: Edge[] = [];
+  const count = connections.length;
+  const radius = Math.max(180, 40 + count * 12);
+
+  connections.forEach((conn, i) => {
+    const cfg = connectionTypeConfig[conn.type as ConnectionType];
+    const angle = (i / Math.max(count, 1)) * 2 * Math.PI - Math.PI / 2;
+    const x = Math.cos(angle) * radius;
+    const y = Math.sin(angle) * radius;
+    const id = `conn:${i}`;
+
+    nodes.push({
+      id,
+      position: { x, y },
+      data: { label: `${conn.reference}\n${conn.title}` },
+      style: {
+        background: cfg?.nodeBg ?? '#e2e8f0',
+        border: `2px solid ${cfg?.nodeBorder ?? '#94a3b8'}`,
+        color: '#0f172a',
+        borderRadius: 10,
+        padding: '8px 10px',
+        fontSize: 11,
+        whiteSpace: 'pre-line',
+        maxWidth: 180,
+        textAlign: 'center' as const,
+      },
+    });
+
+    edges.push({
+      id: `e:${i}`,
+      source: centerId,
+      target: id,
+      style: { stroke: cfg?.edge ?? '#94a3b8', strokeWidth: 2 },
+      markerEnd: { type: MarkerType.ArrowClosed, color: cfg?.edge ?? '#94a3b8' },
+    });
+  });
+
+  return { nodes, edges };
+}
+
+export function ConnectionsTab({ connections = [], currentBook = '', currentChapter = 0 }: ConnectionsTabProps) {
+  const { nodes, edges } = useMemo(
+    () => buildGraph(connections, currentBook, currentChapter),
+    [connections, currentBook, currentChapter]
+  );
+
   if (!connections || connections.length === 0) {
     return (
       <div className="py-12 text-center text-slate-600">
@@ -33,21 +110,55 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
       </div>
     );
   }
+
   return (
     <div className="space-y-4 sm:space-y-6">
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 sm:p-4">
         <p className="text-xs sm:text-sm text-slate-700">
-          <span className="font-semibold text-slate-900">Conexiones Bíblicas:</span> La Biblia es un libro 
+          <span className="font-semibold text-slate-900">Conexiones Bíblicas:</span> La Biblia es un libro
           interconectado. Aquí encontramos textos relacionados que enriquecen la comprensión de este capítulo.
         </p>
       </div>
 
-      {/* Conexiones agrupadas por tipo */}
+      {/* Red de Conexiones — grafo interactivo */}
+      <div className="bg-white border border-slate-200 rounded-lg overflow-hidden">
+        <div className="px-3 sm:px-4 py-2 border-b border-slate-200 flex flex-wrap items-center gap-2">
+          <h3 className="text-base sm:text-lg font-semibold text-slate-900">Red de Conexiones</h3>
+          <div className="flex flex-wrap gap-2 ml-auto">
+            {Object.entries(connectionTypeConfig).map(([type, cfg]) => (
+              <span
+                key={type}
+                className="inline-flex items-center gap-1 text-[10px] sm:text-xs px-2 py-0.5 rounded-full border"
+                style={{ background: cfg.nodeBg, borderColor: cfg.nodeBorder, color: '#0f172a' }}
+              >
+                <span className="h-1.5 w-1.5 rounded-full" style={{ background: cfg.edge }} />
+                {cfg.label}
+              </span>
+            ))}
+          </div>
+        </div>
+        <div className="h-[360px] sm:h-[440px] bg-slate-50">
+          <ReactFlow
+            nodes={nodes}
+            edges={edges}
+            fitView
+            fitViewOptions={{ padding: 0.2 }}
+            nodesDraggable
+            nodesConnectable={false}
+            elementsSelectable
+            proOptions={{ hideAttribution: true }}
+          >
+            <Background gap={16} size={1} color="#cbd5e1" />
+            <Controls showInteractive={false} />
+          </ReactFlow>
+        </div>
+      </div>
+
+      {/* Listado agrupado por tipo (fallback semántico y accesible) */}
       <div className="space-y-4 sm:space-y-6">
         {Object.entries(connectionTypeConfig).map(([type, config]) => {
           const Icon = config.icon;
           const filteredConnections = connections.filter((c) => c.type === type);
-
           if (filteredConnections.length === 0) return null;
 
           return (
@@ -61,16 +172,12 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
                   {filteredConnections.length}
                 </span>
               </div>
-
               <div className="grid gap-3">
                 {filteredConnections.map((conn, idx) => (
-                  <div
-                    key={idx}
-                    className={`border-2 rounded-lg p-3 sm:p-4 space-y-2 ${config.color}`}
-                  >
-                    <div className="flex items-start justify-between">
+                  <div key={idx} className={`border-2 rounded-lg p-3 sm:p-4 space-y-2 ${config.color}`}>
+                    <div className="flex items-start justify-between gap-3">
                       <h4 className="font-semibold text-xs sm:text-sm">{conn.title}</h4>
-                      <code className="text-[10px] sm:text-xs px-2 py-1 bg-white/50 rounded font-mono">
+                      <code className="text-[10px] sm:text-xs px-2 py-1 bg-white/50 rounded font-mono whitespace-nowrap">
                         {conn.reference}
                       </code>
                     </div>
@@ -81,17 +188,6 @@ export function ConnectionsTab({ connections = [], isActive = true }: Connection
             </div>
           );
         })}
-      </div>
-
-      {/* Mapa conceptual */}
-      <div className="bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-300 rounded-lg p-4 sm:p-6 space-y-4">
-        <h3 className="text-base sm:text-lg font-semibold text-slate-900">Red de Conexiones</h3>
-        <div className="bg-white rounded p-3 sm:p-4 border-2 border-dashed border-slate-300 text-center text-slate-500 py-6 sm:py-8">
-          <p className="text-xs sm:text-sm font-medium mb-2">Visualización interactiva (próximamente)</p>
-          <p className="text-[11px] sm:text-xs">
-            Aquí irá un gráfico interactivo mostrando cómo se conectan todos los textos
-          </p>
-        </div>
       </div>
     </div>
   );

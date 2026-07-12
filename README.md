@@ -30,14 +30,20 @@
 
 ---
 
-## 🏗️ Stack Tecnológico
+## 🏗️ Stack Tecnológico (estado actual)
 
 ```
-Frontend:  Next.js 14 + React + TypeScript + Tailwind CSS
-Backend:   Next.js API Routes + Prisma ORM
-Database:  PostgreSQL
-Hosting:   Vercel (frontend + backend) + Supabase/Neon (DB)
+Frontend:  Next.js 16 + React 19 + TypeScript + Tailwind CSS v4
+State:     zustand (progreso local) + swr
+Grafos:    @xyflow/react (red de conexiones)
+Backend:   Next.js API Routes leyendo JSON de disco (sin BD)
+Storage:   localStorage (persistencia cliente, prefijo myscriptum:)
+Hosting:   Vercel
 ```
+
+> Nota: Prisma / PostgreSQL / NextAuth aparecen en versiones antiguas de este README pero
+> no están instalados. La persistencia real de usuario es 100% localStorage. Ver
+> `ROADMAP.md` para el plan de backend.
 
 ---
 
@@ -67,8 +73,8 @@ Cada capítulo abre con:
 - Estado espiritual del pueblo
 - Figuras clave (profetas, reyes)
 
-### 2. Timeline Interactiva
-Visualización cronológica que muestra:
+### 2. Timeline Interactiva (planificada — no implementada)
+Visualización cronológica futura que mostrará:
 - Reyes, profetas y eventos superpuestos
 - Capítulos anclados a momentos históricos
 - Filtros por periodo, imperio, figura

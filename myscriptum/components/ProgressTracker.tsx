@@ -1,14 +1,15 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { BookOpen, Target, TrendingUp, Flame } from 'lucide-react';
+import { BookOpen, Target, StickyNote, Flame } from 'lucide-react';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
-import { getReadChapters } from '@/lib/storage/localStore';
+import { getActiveDaysCount, getReadChapters } from '@/lib/storage/localStore';
+import { getAllVersesWithNotes } from '@/lib/storage/verseNotes';
 
 interface ReadingProgress {
   chaptersRead: number;
   booksStarted: number;
-  versiclesRead: number;
+  notesCount: number;
   daysActive: number;
   totalProgress: number;
   oldTestamentProgress: number;
@@ -59,11 +60,14 @@ export function ProgressTracker() {
       });
 
       const chaptersRead = readChapters.size;
+      const notesCount = getAllVersesWithNotes().reduce((acc, v) => acc + v.noteCount, 0);
+      const daysActive = getActiveDaysCount();
+
       setProgress({
         chaptersRead,
         booksStarted: booksStartedSet.size,
-        versiclesRead: 0,
-        daysActive: 0,
+        notesCount,
+        daysActive,
         totalProgress: Math.round((chaptersRead / totalChapters.total) * 100),
         oldTestamentProgress: Math.round((oldTestamentRead / totalChapters.oldTestament) * 100),
         newTestamentProgress: Math.round((newTestamentRead / totalChapters.newTestament) * 100),
@@ -145,10 +149,10 @@ export function ProgressTracker() {
 
         <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">
           <div className="flex items-center gap-2 mb-1">
-            <TrendingUp className="h-5 w-5 text-green-600" />
-            <span className="text-3xl font-bold text-green-600">{progress.versiclesRead}</span>
+            <StickyNote className="h-5 w-5 text-green-600" />
+            <span className="text-3xl font-bold text-green-600">{progress.notesCount}</span>
           </div>
-          <div className="text-xs font-medium text-slate-600">Versículos Leídos</div>
+          <div className="text-xs font-medium text-slate-600">Notas Guardadas</div>
         </div>
 
         <div className="bg-white p-4 rounded-lg border border-slate-200 shadow-sm">

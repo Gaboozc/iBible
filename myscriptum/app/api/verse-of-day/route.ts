@@ -34,7 +34,16 @@ const FEATURED_VERSES: VerseResponse[] = [
   {"bookSlug": "genesis", "bookName": "Genesis", "chapter": 1, "verse": 1, "text": "In the beginning God created the heaven and the earth.", "version": "kjv"}
 ];
 
-const randomItem = <T,>(list: T[]): T => list[Math.floor(Math.random() * list.length)];
+const hashString = (input: string): number => {
+  let hash = 0;
+  for (let i = 0; i < input.length; i++) {
+    hash = ((hash << 5) - hash) + input.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+};
+
+const dailyIndex = (list: unknown[], seed: string): number => list.length === 0 ? -1 : hashString(seed) % list.length;
 
 export async function GET(request: Request) {
   try {
@@ -42,17 +51,16 @@ export async function GET(request: Request) {
     const versionParam = url.searchParams.get('version');
     const version = versionParam === 'kjv' ? 'kjv' : 'rv1909';
 
-    // Use embedded verses directly (no network calls in serverless)
     const versesForVersion = FEATURED_VERSES.filter(v => v.version === version);
-    
+
     if (versesForVersion.length === 0) {
       throw new Error(`No verses found for version: ${version}`);
     }
 
-    const selectedVerse = randomItem(versesForVersion);
-    return NextResponse.json(selectedVerse);
+    const todayIso = new Date().toISOString().slice(0, 10);
+    const index = dailyIndex(versesForVersion, `${version}:${todayIso}`);
+    return NextResponse.json(versesForVersion[index]);
   } catch (error) {
-    console.error('verse-of-day error:', error);
     return NextResponse.json(
       { error: 'Failed to load verse of the day', details: error instanceof Error ? error.message : 'Unknown error' },
       { status: 500 }
