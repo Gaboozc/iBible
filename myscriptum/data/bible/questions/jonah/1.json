@@ -1,27 +1,57 @@
 [
   {
     "stage": "observation",
-    "question": "¿Cuáles son los personajes, lugares y eventos principales en jonah 1?",
-    "guidance": "Lee cuidadosamente el texto y anota: ¿Quiénes hablan? ¿Dónde ocurre? ¿Qué acciones suceden? No interpretes aún, solo observa."
+    "question": "¿Qué palabras y frases exactas marca el texto en boca de Dios (v. 2) y qué palabras exactas usa Jonás en respuesta con sus acciones (v. 3)?",
+    "guidance": "Anota los verbos: 'levántate' (קוּם, qum), 've' (הלך), 'clama' (קרא) por parte de Dios; frente a 'se levantó', 'descendió', 'halló', 'pagó', 'entró', 'descender' en Jonás. Observa el patrón: Dios da tres imperativos, Jonás ejecuta acciones inversas. ¿Qué dirección espacial y moral marca el texto?"
   },
   {
     "stage": "observation",
-    "question": "¿Qué palabras o frases se repiten en este capítulo?",
-    "guidance": "Busca patrones lingüísticos que el autor enfatiza. Las repeticiones indican importancia teológica."
+    "question": "Localiza y cuenta cada aparición del adjetivo 'grande' (gadol) en el capítulo. ¿A qué se aplica cada vez?",
+    "guidance": "Deberías encontrar al menos siete: viento grande (v. 4), tempestad grande (v. 4, 12), ciudad grande (v. 2), temor grande (v. 10), temor grande a Jehová (v. 16), pez grande (2:1). Pregunta interpretativa que sigue: ¿está el narrador señalando algo con esa repetición?"
+  },
+  {
+    "stage": "observation",
+    "question": "¿Cuántas veces aparecen los marineros orando frente a cuántas veces aparece Jonás orando en este capítulo?",
+    "guidance": "Los marineros oran a sus dioses (v. 5), el capitán ordena a Jonás orar (v. 6), oran a YHWH pidiendo no ser culpables (v. 14), ofrecen sacrificios y hacen votos (v. 16). Jonás: cero oraciones en el capítulo 1 (su oración vendrá en el vientre del pez, cap. 2). ¿Qué te dice ese contraste sobre la posición espiritual real de cada uno?"
   },
   {
     "stage": "interpretation",
-    "question": "¿Cuál es el mensaje central o propósito de jonah 1?",
-    "guidance": "Considera el contexto del libro entero. ¿Cómo se relaciona este capítulo con los capítulos anteriores y posteriores?"
+    "question": "¿Por qué el narrador contrasta deliberadamente la confesión ortodoxa de Jonás (v. 9) con su conducta desobediente (v. 3)?",
+    "guidance": "Jonás confiesa a YHWH como 'Dios de los cielos, que hizo el mar y la tierra' — precisamente el mar del que quiere escapar. La ironía es que Jonás tiene una teología correcta pero una vida contradictoria. El texto invita al lector a examinarse: ¿en qué áreas confieso lo que no vivo?"
   },
   {
     "stage": "interpretation",
-    "question": "¿Qué nos enseña este capítulo sobre la naturaleza de Dios?",
-    "guidance": "Busca atributos divinos revelados: poder, amor, justicia, misericordia, etc."
+    "question": "¿Qué revela sobre la teología del libro que los marineros paganos se conviertan a YHWH antes de que Jonás haya predicado en Nínive?",
+    "guidance": "El libro subvierte la expectativa de que solo Israel puede adorar a YHWH. Los paganos temen, oran, sacrifican y hacen votos (v. 16) — el vocabulario cúltico del pacto — sin haber recibido la Ley. Anticipa el clímax del capítulo 4 y prepara al lector para aceptar la conversión de Nínive. Compara con Isaías 19:19-25 y Malaquías 1:11."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Es la tormenta un castigo o una gracia? ¿Cómo lo argumentarías desde el texto?",
+    "guidance": "Considera: (a) la tormenta interrumpe la huida — sin ella, Jonás cumpliría su desobediencia; (b) hunde al profeta pero para eso Dios preparó un pez (2:1); (c) despierta la conversión de los marineros. La tormenta es juicio y misericordia simultáneamente. Piensa cuándo has percibido una crisis en tu vida como castigo y solo después la reconociste como redirección providencial."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Por qué los marineros insisten en remar antes de arrojar a Jonás al mar (v. 13)?",
+    "guidance": "Los paganos rechazan derramar 'sangre inocente' (v. 14) — muestran una sensibilidad moral que contrasta con la voluntad autodestructiva de Jonás ('echadme al mar'). Observa cómo el texto dignifica a los gentiles y complica cualquier lectura racista del pacto."
   },
   {
     "stage": "application",
-    "question": "¿Cómo puedo aplicar las enseñanzas de jonah 1 a mi vida hoy?",
-    "guidance": "Busca verdades prácticas que cambien tu forma de pensar, sentir o actuar."
+    "question": "¿A qué 'Nínive' me está enviando Dios que yo esté evitando por prejuicio, historia dolorosa o miedo?",
+    "guidance": "Identifica una persona, comunidad o contexto concreto ante el cual sientes resistencia porque han sido enemigos, verdugos o simplemente 'los otros'. Sé específico. Escribe el nombre. ¿Qué te dice Jonás 1 sobre esa resistencia? ¿Qué costo tiene tu 'Tarsis' personal para ti y para quienes te rodean?"
+  },
+  {
+    "stage": "application",
+    "question": "¿Dónde estoy 'durmiendo en la bodega' mientras otros a mi alrededor están en tormenta espiritual?",
+    "guidance": "El sueño de Jonás no es descanso, es apatía. Piensa en tu contexto inmediato: familia, compañeros de trabajo, vecinos. ¿Hay personas viviendo tormentas — de fe, de sentido, de dolor — mientras tú permaneces indiferente? ¿Qué imperativo del capitán pagano — 'levántate, clama a tu Dios' — necesitas escuchar hoy?"
+  },
+  {
+    "stage": "application",
+    "question": "¿En qué áreas de mi vida sostengo una ortodoxia teológica que mi conducta contradice diariamente?",
+    "guidance": "Jonás confiesa un Dios universal y actúa como si fuera tribal. Haz una lista concreta: ¿qué creo que debería moldear cómo trato mi dinero, mi lengua, mi tiempo, mis relaciones — y sin embargo no lo hace? Elige una y define un paso obediente esta semana."
+  },
+  {
+    "stage": "application",
+    "question": "¿Qué papel juega la iglesia (o mi comunidad de fe) en 'lanzarme al mar' cuando huyo del llamado?",
+    "guidance": "Los marineros paganos hacen algo doloroso pero necesario para salvar tanto el barco como al profeta a largo plazo. Reflexiona: ¿tengo hermanos y hermanas que estén dispuestos a decirme la verdad incómoda cuando huyo? ¿Yo lo hago por otros? La disciplina fraterna, bien entendida, es misericordia."
   }
 ]

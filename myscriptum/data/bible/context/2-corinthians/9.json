@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 55–56 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Acaya y Macedonia",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Corintios 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: suministracion, vuestro, siembra. Señales textuales: “PORQUE cuanto á la suministración para los santos, por demás me es escribiros;” | “Y poderoso es Dios para hacer que abunde en vosotros toda gracia; á fin de que, teniendo siempre en todas las cosas tod…” | “Gracias á Dios por su don inefable.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; misericordia, gracia y restauración; revelación, santidad y gloria de Dios. En su lenguaje central destacan suministracion, vuestro, siembra. El núcleo del capítulo se percibe en “Y poderoso es Dios para hacer que abunde en vosotros toda gracia; á fin de que, teniendo siempre en todas las cosas tod…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Macedonia (redacción) → Corinto (destino)",
+  "summary": "2 Corintios defiende el apostolado de Pablo y llama a reconciliación tras tensión pastoral. En 2 Corintios 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: suministracion, vuestro, siembra. Señales textuales: “PORQUE cuanto á la suministración para los santos, por demás me es escribiros;” | “Y poderoso es Dios para hacer que abunde en vosotros toda gracia; á fin de que, teniendo siempre en todas las cosas tod…” | “Gracias á Dios por su don inefable.”.",
+  "spiritualContext": "Combina debilidad humana y poder de Cristo; consuelo divino en la aflicción. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; misericordia, gracia y restauración; revelación, santidad y gloria de Dios. En su lenguaje central destacan suministracion, vuestro, siembra. El núcleo del capítulo se percibe en “Y poderoso es Dios para hacer que abunde en vosotros toda gracia; á fin de que, teniendo siempre en todas las cosas tod…”."
 }

@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MyScriptum — App Next.js
 
-## Getting Started
+Plataforma de estudio bíblico. Ver [`../README.md`](../README.md) para propósito, visión y roadmap.
 
-First, run the development server:
+## Desarrollo local
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000). El redirect `/` → `/home` está en `next.config.ts`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts principales
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Script | Función |
+|---|---|
+| `npm run dev` | Servidor de desarrollo con Turbopack |
+| `npm run build` | Auditar + preparar estáticos + build de producción |
+| `npm run start` | Servir la build |
+| `npm run generate:analysis` | Regenerar los JSON de estudio (`data/bible/{context,analysis}/`) por libro. Pasa `--force` para sobreescribir; los capítulos en `CURATED_CHAPTERS` (en el script) se protegen siempre. |
+| `npm run audit:analysis` | Escanear los 1189 capítulos, generar `data/bible/quality-report.json` y `data/bible/generic-manifest.json` |
 
-## Learn More
+## Estado del contenido de estudio
 
-To learn more about Next.js, take a look at the following resources:
+**Importante:** el contenido de las pestañas Contexto / Análisis / Etimología / Conexiones / Preguntas se generó originalmente con un script Mad-Lib (`scripts/generate-analysis.ts`) y el 99% son plantillas — datos correctos a nivel de libro (periodo, imperio, rey, profetas) pero relleno genérico a nivel de capítulo.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- El auditor (`npm run audit:analysis`) emite un **manifiesto** con qué pestañas están genéricas por capítulo.
+- La UI carga ese manifiesto y muestra un **badge 🚧 "Contenido genérico"** en cada pestaña marcada para no engañar al usuario.
+- Los capítulos **curados a mano** salen del manifiesto y no muestran el badge. Ejemplo actual: `jonah:1`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Para curar un capítulo a mano:
+1. Escribir los 5 JSON en `data/bible/{context,analysis,etymology,connections,questions}/<book>/<n>.json` siguiendo el molde de Jonás 1.
+2. Añadir `<book>:<n>` al `CURATED_CHAPTERS` en `scripts/generate-analysis.ts` para que no se sobreescriba en la próxima regeneración.
+3. `npm run audit:analysis` — el capítulo debe salir del `generic-manifest.json`.
 
-## Deploy on Vercel
+## Stack real
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Next.js 16 (App Router, Turbopack) · React 19 · TypeScript · Tailwind CSS v4 · zustand · swr · zod · Radix UI · lucide-react · **@xyflow/react** (grafo de conexiones bíblicas).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Persistencia 100% localStorage (prefijo `myscriptum:`). No hay Prisma/PostgreSQL/NextAuth — versiones antiguas del README raíz los mencionan pero no están instalados.

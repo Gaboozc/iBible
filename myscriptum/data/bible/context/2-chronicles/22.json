@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 22, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ochozias, hijo, joram. Señales textuales: “Y LOS moradores de Jerusalem hicieron rey en lugar suyo á Ochôzías su hijo menor: porque la tropa que había venido con…” | “Esto empero venía* de Dios, para que Ochôzías fuese hollado viniendo á Joram: porque siendo venido, salió con Joram con…” | “Y estuvo con ellos escondido en la casa de Dios seis años. Entre tanto Athalía reinaba en el país.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ochozias, hijo, joram. El núcleo del capítulo se percibe en “Esto empero venía* de Dios, para que Ochôzías fuese hollado viniendo á Joram: porque siendo venido, salió con Joram con…”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 22, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ochozias, hijo, joram. Señales textuales: “Y LOS moradores de Jerusalem hicieron rey en lugar suyo á Ochôzías su hijo menor: porque la tropa que había venido con…” | “Esto empero venía* de Dios, para que Ochôzías fuese hollado viniendo á Joram: porque siendo venido, salió con Joram con…” | “Y estuvo con ellos escondido en la casa de Dios seis años. Entre tanto Athalía reinaba en el país.”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ochozias, hijo, joram. El núcleo del capítulo se percibe en “Esto empero venía* de Dios, para que Ochôzías fuese hollado viniendo á Joram: porque siendo venido, salió con Joram con…”."
 }

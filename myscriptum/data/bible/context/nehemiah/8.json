@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 8, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, todo, esdras. Señales textuales: “Y JUNTÓSE todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras…” | “Díjoles luego: Id, comed grosuras, y bebed vino* dulce, y enviad porciones á los que no tienen prevenido; porque día sa…” | “Y leyó Esdras* en el libro de la ley de Dios cada día, desde el primer día hasta el postrero; é hicieron la solemnidad…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, todo, esdras. El núcleo del capítulo se percibe en “Díjoles luego: Id, comed grosuras, y bebed vino* dulce, y enviad porciones á los que no tienen prevenido; porque día sa…”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 8, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, todo, esdras. Señales textuales: “Y JUNTÓSE todo el pueblo como un solo hombre en la plaza que está delante de la puerta de las Aguas, y dijeron á Esdras…” | “Díjoles luego: Id, comed grosuras, y bebed vino* dulce, y enviad porciones á los que no tienen prevenido; porque día sa…” | “Y leyó Esdras* en el libro de la ley de Dios cada día, desde el primer día hasta el postrero; é hicieron la solemnidad…”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, todo, esdras. El núcleo del capítulo se percibe en “Díjoles luego: Id, comed grosuras, y bebed vino* dulce, y enviad porciones á los que no tienen prevenido; porque día sa…”."
 }

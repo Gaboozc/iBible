@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reforma de Josías (ca. 640–609 a.C.)",
+  "dominantEmpire": "Asiria en decadencia; Babilonia emergente",
+  "kingName": "Josías (Judá)",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sofonías",
+    "Jeremías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Sofonías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Sofonías 1, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, todos, tierra. Señales textuales: “PALABRA de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Jos…” | “Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande queb…” | “Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, todos, tierra. El núcleo del capítulo se percibe en “Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande queb…”."
+  "templeStatus": "Templo en reforma bajo Josías",
+  "location": "Judá y Jerusalén",
+  "summary": "Sofonías proclama el Día del Señor de juicio y una restauración del remanente humilde. En Sofonías 1, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, todos, tierra. Señales textuales: “PALABRA de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Jos…” | “Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande queb…” | “Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de…”.",
+  "spiritualContext": "Combina severidad del juicio y ternura pastoral (3:17): Dios se regocija sobre su pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, todos, tierra. El núcleo del capítulo se percibe en “Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande queb…”."
 }

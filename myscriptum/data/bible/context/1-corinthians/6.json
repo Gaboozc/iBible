@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 54–55 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (contexto imperial)",
+  "kingRegion": "Corinto (Acaya) y contacto con Éfeso",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Corintios 6, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cuerpo, sois, sabeis. Señales textuales: “¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos?” | “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…” | “Porque comprados sois por precio: glorificad pues á Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dio…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cuerpo, sois, sabeis. El núcleo del capítulo se percibe en “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…”."
+  "templeStatus": "Segundo Templo aún en Jerusalén; comunidad gentil",
+  "location": "Corinto",
+  "summary": "1 Corintios responde a divisiones, escándalos y confusión doctrinal en una iglesia gentil. En 1 Corintios 6, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cuerpo, sois, sabeis. Señales textuales: “¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos?” | “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…” | “Porque comprados sois por precio: glorificad pues á Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dio…”.",
+  "spiritualContext": "Enseña unidad en Cristo, ejercicio ordenado de los dones y esperanza en la resurrección. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cuerpo, sois, sabeis. El núcleo del capítulo se percibe en “Y esto erais algunos: mas ya* sois lavados, mas ya* sois santificados, mas ya* sois justificados en el nombre del Señor…”."
 }

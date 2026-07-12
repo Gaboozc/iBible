@@ -1,5 +1,15 @@
 # Plan de Contenido — MyScriptum
 
+## Estado real del contenido (2026-07)
+
+> El contenido de estudio de los 1189 capítulos existe como **placeholders auto-generados** por `scripts/generate-analysis.ts` (perfiles reales por libro + Mad-Lib por capítulo). El único capítulo curado a mano es **Jonás 1** — sirve como referencia dorada del nivel objetivo.
+>
+> La UI muestra un badge visible **"🚧 Contenido genérico — pendiente de curación"** en cada pestaña marcada por el auditor (`npm run audit:analysis` → `data/bible/generic-manifest.json`).
+>
+> **Meta pragmática:** curar libros priorizados (ver secciones abajo) siguiendo el molde de Jonás 1 y añadiéndolos al `CURATED_CHAPTERS` de `generate-analysis.ts`.
+
+---
+
 ## Estrategia de Priorización de Contenido
 
 Para el **MVP (Minimum Viable Product)**, necesitamos seleccionar cuidadosamente qué libros bíblicos implementar primero. La selección debe:

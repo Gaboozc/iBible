@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, cartas de la prisión (ca. 60–62 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (contexto imperial)",
+  "kingRegion": "Éfeso (Asia Menor)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Efesios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Efesios 1, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesucristo, cristo, gloria. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, á los santos y fieles en Cristo Jesús que están en Efeso:” | “Para que seamos para alabanza de su gloria, nosotros que antes esperamos en Cristo.” | “La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; revelación, santidad y gloria de Dios; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jesucristo, cristo, gloria. El núcleo del capítulo se percibe en “Para que seamos para alabanza de su gloria, nosotros que antes esperamos en Cristo.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Éfeso",
+  "summary": "Efesios expone el plan eterno de Dios en Cristo y la iglesia como cuerpo unificado. En Efesios 1, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jesucristo, cristo, gloria. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, á los santos y fieles en Cristo Jesús que están en Efeso:” | “Para que seamos para alabanza de su gloria, nosotros que antes esperamos en Cristo.” | “La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos.”.",
+  "spiritualContext": "Une doctrina y vida: elección, gracia, unidad en el Espíritu y batalla espiritual. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; revelación, santidad y gloria de Dios; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jesucristo, cristo, gloria. El núcleo del capítulo se percibe en “Para que seamos para alabanza de su gloria, nosotros que antes esperamos en Cristo.”."
 }

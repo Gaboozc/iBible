@@ -6,12 +6,14 @@ import { lexiconEntries } from '@/data/lexicon';
 import { searchLexiconAction } from '@/lib/actions/lexicon';
 import type { RealLexiconEntry } from '@/data/real-lexicon';
 import type { KeyWord } from '@/lib/bible/analysis-loader';
+import { GenericContentBadge } from './GenericContentBadge';
 
 interface EtymologyTabProps {
   keyWords?: KeyWord[];
+  isGeneric?: boolean;
 }
 
-export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
+export function EtymologyTab({ keyWords = [], isGeneric = false }: EtymologyTabProps) {
   const [expandedEntry, setExpandedEntry] = useState<string | null>(null);
   const [expandedWord, setExpandedWord] = useState<number | null>(null);
   const [query, setQuery] = useState('');
@@ -121,6 +123,7 @@ export function EtymologyTab({ keyWords = [] }: EtymologyTabProps) {
 
   return (
     <div className="space-y-4 md:space-y-6">
+      {isGeneric && <GenericContentBadge tabLabel="etimología" />}
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 md:p-4">
         <p className="text-xs md:text-sm text-slate-700">
           <span className="font-semibold text-slate-900">Etimologia:</span> Explora el origen y el uso historico de palabras clave.

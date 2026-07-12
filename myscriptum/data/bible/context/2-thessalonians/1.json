@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 51–52 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Claudio",
+  "kingRegion": "Tesalónica",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo, Silas y Timoteo"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Tesalonicenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Tesalonicenses 1, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, jesucristo, potencia. Señales textuales: “PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es* en Dios nuestro Padre y en el Señor Jesucristo:” | “Y á vosotros, que sois atribulados, dar* reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los án…” | “Para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, jesucristo, potencia. El núcleo del capítulo se percibe en “Y á vosotros, que sois atribulados, dar* reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los án…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Corinto → Tesalónica",
+  "summary": "2 Tesalonicenses corrige malentendidos escatológicos y exhorta al trabajo fiel. En 2 Tesalonicenses 1, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, jesucristo, potencia. Señales textuales: “PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es* en Dios nuestro Padre y en el Señor Jesucristo:” | “Y á vosotros, que sois atribulados, dar* reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los án…” | “Para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro…”.",
+  "spiritualContext": "La venida del Señor no anula la responsabilidad presente sino que la ordena. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, jesucristo, potencia. El núcleo del capítulo se percibe en “Y á vosotros, que sois atribulados, dar* reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los án…”."
 }

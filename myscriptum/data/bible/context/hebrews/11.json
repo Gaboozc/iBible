@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica tardía (ca. 60–68 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (contexto imperial)",
+  "kingRegion": "Comunidad judeocristiana en tensión",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Autor anónimo con voz apostólica"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Hebreos aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Hebreos 11, el capítulo contiene 40 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: testimonio, tierra, cosas. Señales textuales: “ES pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.” | “Por fe Jacob, muriéndose, bendijo á cada uno de los hijos de José, y adoró estribando* sobre la punta de su bordón.” | “Proveyendo Dios alguna cosa mejor para nosotros, para que no fuesen perfeccionados sin nosotros.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan testimonio, tierra, cosas. El núcleo del capítulo se percibe en “Por fe Jacob, muriéndose, bendijo á cada uno de los hijos de José, y adoró estribando* sobre la punta de su bordón.”."
+  "templeStatus": "Segundo Templo aún en pie; foco en su superación en Cristo",
+  "location": "Comunidad hebrea tentada al retorno al judaísmo",
+  "summary": "Hebreos presenta a Cristo como sumo sacerdote superior y mediador del nuevo pacto. En Hebreos 11, el capítulo contiene 40 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: testimonio, tierra, cosas. Señales textuales: “ES pues la fe la sustancia de las cosas que se esperan, la demostración de las cosas que no se ven.” | “Por fe Jacob, muriéndose, bendijo á cada uno de los hijos de José, y adoró estribando* sobre la punta de su bordón.” | “Proveyendo Dios alguna cosa mejor para nosotros, para que no fuesen perfeccionados sin nosotros.”.",
+  "spiritualContext": "Persevera en la fe: hay algo mejor en Cristo que en las sombras del antiguo pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan testimonio, tierra, cosas. El núcleo del capítulo se percibe en “Por fe Jacob, muriéndose, bendijo á cada uno de los hijos de José, y adoró estribando* sobre la punta de su bordón.”."
 }

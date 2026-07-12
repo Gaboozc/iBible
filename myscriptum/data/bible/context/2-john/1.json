@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era post-apostólica (ca. 85–95 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Iglesias de Asia Menor",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Juan (el anciano)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Juan aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Juan 1, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: verdad, nosotros, padre. Señales textuales: “EL anciano á la señora elegida y á sus hijos, á los cuales yo amo en verdad; y no yo solo, sino también todos los que h…” | “Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal…” | “Los hijos de tu hermana elegida te saludan. Amén.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan verdad, nosotros, padre. El núcleo del capítulo se percibe en “Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal…”."
+  "templeStatus": "Segundo Templo ya destruido",
+  "location": "Éfeso → \"señora elegida\"",
+  "summary": "2 Juan pide guardar la verdad y el amor, y no acoger a falsos maestros. En 2 Juan 1, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: verdad, nosotros, padre. Señales textuales: “EL anciano á la señora elegida y á sus hijos, á los cuales yo amo en verdad; y no yo solo, sino también todos los que h…” | “Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal…” | “Los hijos de tu hermana elegida te saludan. Amén.”.",
+  "spiritualContext": "Verdad y amor son inseparables en la vida cristiana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan verdad, nosotros, padre. El núcleo del capítulo se percibe en “Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal…”."
 }

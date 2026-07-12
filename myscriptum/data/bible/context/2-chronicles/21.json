@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 21, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, hijos, habia. Señales textuales: “Y DURMIÓ Josaphat con sus padres, y sepultáronlo con sus padres en la ciudad de David. Y reinó en su lugar Joram su hij…” | “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…” | “Cuando comenzó á reinar era de treinta y dos años, y reinó en Jerusalem ocho años; y fuése sin ser deseado. Y sepultáro…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan juda, hijos, habia. El núcleo del capítulo se percibe en “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 21, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, hijos, habia. Señales textuales: “Y DURMIÓ Josaphat con sus padres, y sepultáronlo con sus padres en la ciudad de David. Y reinó en su lugar Joram su hij…” | “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…” | “Cuando comenzó á reinar era de treinta y dos años, y reinó en Jerusalem ocho años; y fuése sin ser deseado. Y sepultáro…”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan juda, hijos, habia. El núcleo del capítulo se percibe en “Demás de esto hizo altos en los montes de Judá, é hizo que los moradores de Jerusalem fornicasen, y á ello impelió á Ju…”."
 }

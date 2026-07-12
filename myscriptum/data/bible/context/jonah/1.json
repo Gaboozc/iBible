@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reinado de Jeroboam II en Israel (ca. 780–750 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, con Nínive como capital regional",
+  "kingName": "Jeroboam II (Israel); rey de Nínive innominado",
+  "kingRegion": "Reino del norte de Israel y provincia asiria",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Jonás (hijo de Amitai, de Gat-hefer)",
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Jonás desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Jonás 1, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jonas, nave, habia. Señales textuales: “Y FUÉ palabra de Jehová á Jonás, hijo de Amittai, diciendo:” | “Y él les respondió: Hebreo soy, y temo á Jehová, Dios de los cielos, que hizo la mar y la tierra.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jonas, nave, habia. El núcleo del capítulo se percibe en “Y él les respondió: Hebreo soy, y temo á Jehová, Dios de los cielos, que hizo la mar y la tierra.”."
+  "templeStatus": "Templo en Jerusalén en funcionamiento; en el norte, culto sincretista en Betel y Dan",
+  "location": "Gat-hefer (Galilea), Jope, mar Mediterráneo, ruta a Tarsis",
+  "summary": "Jonás 1 abre una narrativa profética atípica: Dios llama al profeta a proclamar contra Nínive, capital de Asiria, imperio brutal que asolaría al norte de Israel unas décadas después. En lugar de obedecer, Jonás huye en dirección contraria — desde Jope, puerto en la costa, hacia Tarsis (probablemente Tartessos, en el extremo occidental del Mediterráneo). El texto contrapone deliberadamente la huida del profeta de YHWH y la piedad emergente de los marineros paganos. La tormenta que YHWH arroja sobre el mar (v. 4) revela que no existe territorio fuera del dominio del Dios de Israel — la teología de la creación (v. 9: 'el Dios de los cielos, que hizo el mar y la tierra') fundamenta el juicio y la misericordia del libro.",
+  "spiritualContext": "El capítulo confronta el nacionalismo religioso: Jonás preferiría morir antes que ver a Nínive salvada. La ironía es demoledora — los marineros gentiles temen a YHWH, oran y ofrecen sacrificios (v. 14-16), mientras el profeta hebreo duerme en el fondo del barco. Jonás 1 anticipa el corazón del libro (4:11): la compasión de Dios se extiende más allá de las fronteras del pueblo del pacto. Espiritualmente, expone la desobediencia como huida de la vocación y muestra que el juicio de Dios sobre su siervo es un acto de gracia — hunde para restaurar, no para destruir."
 }

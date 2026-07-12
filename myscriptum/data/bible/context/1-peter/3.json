@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica bajo persecución neroniana (ca. 62–64 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Provincias de Asia Menor",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pedro (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Pedro aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Pedro 3, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: bien, sino, senor. Señales textuales: “ASIMISMO vosotras, mujeres, sed* sujetas á vuestros maridos; para que también los que no creen á la palabra, sean ganad…” | “Porque los ojos del Señor están sobre los justos, y sus oídos atentos* á sus oraciones: pero el rostro del Señor está s…” | “El cual está á la diestra de Dios, habiendo subido al cielo; estando á él sujetos los ángeles, y las potestades, y virt…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan bien, sino, senor. El núcleo del capítulo se percibe en “Porque los ojos del Señor están sobre los justos, y sus oídos atentos* á sus oraciones: pero el rostro del Señor está s…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Roma (\"Babilonia\" simbólica) → Asia Menor",
+  "summary": "1 Pedro consuela a peregrinos que sufren y les recuerda su herencia incorruptible. En 1 Pedro 3, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: bien, sino, senor. Señales textuales: “ASIMISMO vosotras, mujeres, sed* sujetas á vuestros maridos; para que también los que no creen á la palabra, sean ganad…” | “Porque los ojos del Señor están sobre los justos, y sus oídos atentos* á sus oraciones: pero el rostro del Señor está s…” | “El cual está á la diestra de Dios, habiendo subido al cielo; estando á él sujetos los ángeles, y las potestades, y virt…”.",
+  "spiritualContext": "La esperanza viva en Cristo sostiene bajo el sufrimiento injusto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan bien, sino, senor. El núcleo del capítulo se percibe en “Porque los ojos del Señor están sobre los justos, y sus oídos atentos* á sus oraciones: pero el rostro del Señor está s…”."
 }

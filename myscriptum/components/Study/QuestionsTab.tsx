@@ -2,6 +2,7 @@
 
 import { Eye, Lightbulb, Target, ChevronDown, ChevronUp } from 'lucide-react';
 import { useState } from 'react';
+import { GenericContentBadge } from './GenericContentBadge';
 
 interface ReflectionQuestion {
   stage: string;
@@ -13,6 +14,7 @@ interface QuestionsTabProps {
   questions?: ReflectionQuestion[];
   answers?: Record<number, string>;
   onAnswerChange?: (index: number, value: string) => void;
+  isGeneric?: boolean;
 }
 
 const stageConfig = {
@@ -44,7 +46,7 @@ const stageConfig = {
 
 type StageKey = keyof typeof stageConfig;
 
-export function QuestionsTab({ questions = [], answers = {}, onAnswerChange }: QuestionsTabProps) {
+export function QuestionsTab({ questions = [], answers = {}, onAnswerChange, isGeneric = false }: QuestionsTabProps) {
   const [expandedQuestion, setExpandedQuestion] = useState<number | null>(null);
 
   if (!questions || questions.length === 0) {
@@ -72,6 +74,7 @@ export function QuestionsTab({ questions = [], answers = {}, onAnswerChange }: Q
 
   return (
     <div className="space-y-6 sm:space-y-8">
+      {isGeneric && <GenericContentBadge tabLabel="preguntas de reflexión" />}
       {/* Metodología Inductiva Banner */}
       <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-4 sm:p-6 space-y-2">
         <h2 className="text-xl sm:text-2xl font-bold">Método Inductivo de Estudio Bíblico</h2>

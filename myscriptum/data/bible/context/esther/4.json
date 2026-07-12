@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Diáspora persa (ca. 483–473 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Asuero (Jerjes I)",
+  "kingRegion": "Corte persa en Susa",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "No hay profeta explícito"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Ester desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Ester 4, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: mardocheo, esther, habia. Señales textuales: “LUEGO que supo Mardochêo todo lo que se había hecho, rasgó sus vestidos, y vistióse de saco y de ceniza, y fuése por me…” | “Y vino Atach, y contó á Esther las palabras de Mardochêo.” | “Entonces se fué Mardochêo, é hizo conforme á todo lo que le mandó Esther.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan mardocheo, esther, habia. El núcleo del capítulo se percibe en “Y vino Atach, y contó á Esther las palabras de Mardochêo.”."
+  "templeStatus": "Segundo templo existente en Jerusalén; foco en diáspora",
+  "location": "Susa (capital persa)",
+  "summary": "Ester narra cómo una judía en la corte persa preserva a su pueblo del edicto de exterminio. En Ester 4, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: mardocheo, esther, habia. Señales textuales: “LUEGO que supo Mardochêo todo lo que se había hecho, rasgó sus vestidos, y vistióse de saco y de ceniza, y fuése por me…” | “Y vino Atach, y contó á Esther las palabras de Mardochêo.” | “Entonces se fué Mardochêo, é hizo conforme á todo lo que le mandó Esther.”.",
+  "spiritualContext": "Muestra providencia divina discreta: Dios no es nombrado pero actúa detrás de escena. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan mardocheo, esther, habia. El núcleo del capítulo se percibe en “Y vino Atach, y contó á Esther las palabras de Mardochêo.”."
 }

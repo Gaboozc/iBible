@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquías divididas hasta el exilio (ca. 850–586 a.C.)",
+  "dominantEmpire": "Asiria y luego Babilonia",
+  "kingName": "Reyes de Israel y Judá hasta Sedequías",
+  "kingRegion": "Reinos divididos, Samaria (norte) y Jerusalén (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Eliseo",
+    "Isaías",
+    "Jeremías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Reyes 3, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, moab, josaphat. Señales textuales: “Y JORAM hijo de Achâb comenzó á reinar en Samaria sobre Israel el año dieciocho de Josaphat rey de Judá; y reinó doce a…” | “Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josaphat r…” | “Entonces arrebató á su primogénito que había de reinar en su lugar, y sacrificóle en holocausto sobre el muro. Y hubo g…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan israel, moab, josaphat. El núcleo del capítulo se percibe en “Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josaphat r…”."
+  "templeStatus": "Templo saqueado y finalmente destruido en 586 a.C.",
+  "location": "Samaria, Jerusalén, Nínive, Babilonia",
+  "summary": "2 Reyes narra la caída de Samaria ante Asiria (722 a.C.) y de Jerusalén ante Babilonia (586 a.C.). En 2 Reyes 3, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, moab, josaphat. Señales textuales: “Y JORAM hijo de Achâb comenzó á reinar en Samaria sobre Israel el año dieciocho de Josaphat rey de Judá; y reinó doce a…” | “Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josaphat r…” | “Entonces arrebató á su primogénito que había de reinar en su lugar, y sacrificóle en holocausto sobre el muro. Y hubo g…”.",
+  "spiritualContext": "Muestra el juicio del pacto por idolatría persistente, pero también la esperanza remanente. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan israel, moab, josaphat. El núcleo del capítulo se percibe en “Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josaphat r…”."
 }

@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Diáspora persa (ca. 483–473 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Asuero (Jerjes I)",
+  "kingRegion": "Corte persa en Susa",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "No hay profeta explícito"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Ester desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Ester 1, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: assuero, reino, principes. Señales textuales: “Y ACONTECIÓ en los días de Assuero, (el Assuero que reinó desde la India hasta la Etiopía sobre ciento veinte y siete p…” | “Mas la reina Vasthi no quiso comparecer á la orden del rey, enviada* por mano de los eunucos; y enojóse el rey muy much…” | “Pues envió letras á todas las provincias del rey, á cada provincia conforme á su escribir, y á cada pueblo conforme á s…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan assuero, reino, principes. El núcleo del capítulo se percibe en “Mas la reina Vasthi no quiso comparecer á la orden del rey, enviada* por mano de los eunucos; y enojóse el rey muy much…”."
+  "templeStatus": "Segundo templo existente en Jerusalén; foco en diáspora",
+  "location": "Susa (capital persa)",
+  "summary": "Ester narra cómo una judía en la corte persa preserva a su pueblo del edicto de exterminio. En Ester 1, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: assuero, reino, principes. Señales textuales: “Y ACONTECIÓ en los días de Assuero, (el Assuero que reinó desde la India hasta la Etiopía sobre ciento veinte y siete p…” | “Mas la reina Vasthi no quiso comparecer á la orden del rey, enviada* por mano de los eunucos; y enojóse el rey muy much…” | “Pues envió letras á todas las provincias del rey, á cada provincia conforme á su escribir, y á cada pueblo conforme á s…”.",
+  "spiritualContext": "Muestra providencia divina discreta: Dios no es nombrado pero actúa detrás de escena. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan assuero, reino, principes. El núcleo del capítulo se percibe en “Mas la reina Vasthi no quiso comparecer á la orden del rey, enviada* por mano de los eunucos; y enojóse el rey muy much…”."
 }

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/prepare-static-data.js",
+    "prebuild": "tsx scripts/audit-analysis-quality.ts && node scripts/prepare-static-data.js",
     "dev": "next dev",
     "build": "npm run prebuild && next build",
     "start": "next start",

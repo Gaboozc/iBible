@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reino del norte antes de su caída (ca. 755–715 a.C.)",
+  "dominantEmpire": "Asiria emergente",
+  "kingName": "Jeroboam II, luego Menahem, Peka, Oseas",
+  "kingRegion": "Reino del norte (Israel)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Oseas",
+    "Amós (contemporáneo)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Oseas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Oseas 11, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: egipto, israel, mismo. Señales textuales: “CUANDO Israel era muchacho, yo lo amé, y de Egipto llamé á mi hijo.” | “Entre tanto, está mi pueblo adherido á la rebelión contra mí: aunque lo llaman al Altísimo, ninguno absolutamente quier…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan egipto, israel, mismo. El núcleo del capítulo se percibe en “Entre tanto, está mi pueblo adherido á la rebelión contra mí: aunque lo llaman al Altísimo, ninguno absolutamente quier…”."
+  "templeStatus": "Templos rivales en Betel y Dan; culto sincretista",
+  "location": "Reino del norte, Samaria y Jezreel",
+  "summary": "Oseas denuncia la infidelidad de Israel con el matrimonio simbólico del profeta. En Oseas 11, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: egipto, israel, mismo. Señales textuales: “CUANDO Israel era muchacho, yo lo amé, y de Egipto llamé á mi hijo.” | “Entre tanto, está mi pueblo adherido á la rebelión contra mí: aunque lo llaman al Altísimo, ninguno absolutamente quier…”.",
+  "spiritualContext": "Revela el amor perseverante de Dios (jésed) frente al adulterio espiritual del pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan egipto, israel, mismo. El núcleo del capítulo se percibe en “Entre tanto, está mi pueblo adherido á la rebelión contra mí: aunque lo llaman al Altísimo, ninguno absolutamente quier…”."
 }

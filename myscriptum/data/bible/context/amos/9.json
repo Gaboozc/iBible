@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reino del norte próspero (ca. 760 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, Egipto en trasfondo",
+  "kingName": "Jeroboam II (Israel), Uzías (Judá)",
+  "kingRegion": "Israel y Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Amós desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Amós 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: tierra, todos, israel. Señales textuales: “VI al Señor que estaba sobre el altar, y dijo: Hiere el umbral, y estremézcanse las puertas: y córtales en piezas la ca…” | “He aquí los ojos del Señor Jehová están contra el reino pecador, y yo lo asolaré de la haz de la tierra: mas no destrui…” | “Pues los plantaré sobre su tierra, y nunca más serán arrancados de su tierra que yo les dí, ha dicho Jehová Dios tuyo.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan tierra, todos, israel. El núcleo del capítulo se percibe en “He aquí los ojos del Señor Jehová están contra el reino pecador, y yo lo asolaré de la haz de la tierra: mas no destrui…”."
+  "templeStatus": "Culto sincretista en Betel y Guilgal",
+  "location": "Betel, Samaria; profeta oriundo de Tecoa",
+  "summary": "Amós, pastor de Tecoa, denuncia la injusticia social y el culto vacío del norte. En Amós 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: tierra, todos, israel. Señales textuales: “VI al Señor que estaba sobre el altar, y dijo: Hiere el umbral, y estremézcanse las puertas: y córtales en piezas la ca…” | “He aquí los ojos del Señor Jehová están contra el reino pecador, y yo lo asolaré de la haz de la tierra: mas no destrui…” | “Pues los plantaré sobre su tierra, y nunca más serán arrancados de su tierra que yo les dí, ha dicho Jehová Dios tuyo.”.",
+  "spiritualContext": "Une justicia social y adoración: sin justicia el culto es abominación. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan tierra, todos, israel. El núcleo del capítulo se percibe en “He aquí los ojos del Señor Jehová están contra el reino pecador, y yo lo asolaré de la haz de la tierra: mas no destrui…”."
 }

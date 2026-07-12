@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, carta de la prisión (ca. 60–62 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Colosas (valle del Lico, Asia Menor)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Colosenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Colosenses 2, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, carne, cuerpo. Señales textuales: “PORQUE quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están* en Laodicea, y por todos los que…” | “Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios…” | “Tales cosas tienen á la verdad cierta reputación de sabiduría en culto voluntario, y humildad, y en duro trato del cuer…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, carne, cuerpo. El núcleo del capítulo se percibe en “Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Colosas",
+  "summary": "Colosenses defiende la supremacía y suficiencia de Cristo frente a una herejía sincretista. En Colosenses 2, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, carne, cuerpo. Señales textuales: “PORQUE quiero que sepáis cuán gran solicitud tengo por vosotros, y por los que están* en Laodicea, y por todos los que…” | “Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios…” | “Tales cosas tienen á la verdad cierta reputación de sabiduría en culto voluntario, y humildad, y en duro trato del cuer…”.",
+  "spiritualContext": "Cristo es imagen del Dios invisible y en Él está la plenitud. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, carne, cuerpo. El núcleo del capítulo se percibe en “Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios…”."
 }

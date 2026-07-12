@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 10, el capítulo contiene 39 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, levitas, nuestras. Señales textuales: “Y LOS que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías,” | “Magpías, Mesullam, Hezir,” | “Porque á las cámaras han de llevar los hijos de Israel y los hijos de Leví la ofrenda del grano, del vino, y del aceite…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, levitas, nuestras. El núcleo del capítulo se percibe en “Magpías, Mesullam, Hezir,”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 10, el capítulo contiene 39 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, levitas, nuestras. Señales textuales: “Y LOS que firmaron fueron, Nehemías el Tirsatha, hijo de Hachâlías, y Sedecías,” | “Magpías, Mesullam, Hezir,” | “Porque á las cámaras han de llevar los hijos de Israel y los hijos de Leví la ofrenda del grano, del vino, y del aceite…”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, levitas, nuestras. El núcleo del capítulo se percibe en “Magpías, Mesullam, Hezir,”."
 }

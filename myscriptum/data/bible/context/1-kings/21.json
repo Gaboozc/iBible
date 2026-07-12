@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica tardía y división del reino (ca. 970–850 a.C.)",
+  "dominantEmpire": "Egipto y Aram-Damasco como potencias regionales",
+  "kingName": "Salomón, luego Roboam, Jeroboam y sucesores",
+  "kingRegion": "Israel unido → reinos divididos de Israel (norte) y Judá (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Elías",
+    "Ahías silonita",
+    "Micaías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 21, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: naboth, achab, vina. Señales textuales: “PASADOS estos negocios, aconteció que Naboth de Jezreel tenía en Jezreel una viña junto al palacio de Achâb rey de Sama…” | “Y como Jezabel oyó que Naboth había sido apedreado y muerto, dijo á Achâb: Levántate y posee la viña de Naboth de Jezre…” | “¿No has visto como Achâb se ha humillado delante de mí? Pues por cuanto se ha humillado delante de mí, no traeré el mal…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan naboth, achab, vina. El núcleo del capítulo se percibe en “Y como Jezabel oyó que Naboth había sido apedreado y muerto, dijo á Achâb: Levántate y posee la viña de Naboth de Jezre…”."
+  "templeStatus": "Construcción del primer templo por Salomón; luego contaminación cúltica",
+  "location": "Jerusalén, Samaria, monte Carmelo",
+  "summary": "1 Reyes cuenta el reinado glorioso y la caída de Salomón, la división del reino y el ministerio profético de Elías. En 1 Reyes 21, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: naboth, achab, vina. Señales textuales: “PASADOS estos negocios, aconteció que Naboth de Jezreel tenía en Jezreel una viña junto al palacio de Achâb rey de Sama…” | “Y como Jezabel oyó que Naboth había sido apedreado y muerto, dijo á Achâb: Levántate y posee la viña de Naboth de Jezre…” | “¿No has visto como Achâb se ha humillado delante de mí? Pues por cuanto se ha humillado delante de mí, no traeré el mal…”.",
+  "spiritualContext": "Contrasta sabiduría y apostasía, mostrando que la fidelidad al pacto sostiene o hunde a los reinos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan naboth, achab, vina. El núcleo del capítulo se percibe en “Y como Jezabel oyó que Naboth había sido apedreado y muerto, dijo á Achâb: Levántate y posee la viña de Naboth de Jezre…”."
 }

@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica tardía y división del reino (ca. 970–850 a.C.)",
+  "dominantEmpire": "Egipto y Aram-Damasco como potencias regionales",
+  "kingName": "Salomón, luego Roboam, Jeroboam y sucesores",
+  "kingRegion": "Israel unido → reinos divididos de Israel (norte) y Judá (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Elías",
+    "Ahías silonita",
+    "Micaías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 20, el capítulo contiene 43 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, adad, entonces. Señales textuales: “ENTONCES Ben-adad rey de Siria juntó á todo su ejército, y con él treinta y dos reyes, con caballos y carros: y subió,…” | “Llegándose luego el profeta al rey de Israel, le dijo: Ve, fortalécete, y considera y mira lo que has de hacer; porque…” | “Y el rey de Israel se fué á su casa triste y enojado, y llegó á Samaria.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan israel, adad, entonces. El núcleo del capítulo se percibe en “Llegándose luego el profeta al rey de Israel, le dijo: Ve, fortalécete, y considera y mira lo que has de hacer; porque…”."
+  "templeStatus": "Construcción del primer templo por Salomón; luego contaminación cúltica",
+  "location": "Jerusalén, Samaria, monte Carmelo",
+  "summary": "1 Reyes cuenta el reinado glorioso y la caída de Salomón, la división del reino y el ministerio profético de Elías. En 1 Reyes 20, el capítulo contiene 43 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, adad, entonces. Señales textuales: “ENTONCES Ben-adad rey de Siria juntó á todo su ejército, y con él treinta y dos reyes, con caballos y carros: y subió,…” | “Llegándose luego el profeta al rey de Israel, le dijo: Ve, fortalécete, y considera y mira lo que has de hacer; porque…” | “Y el rey de Israel se fué á su casa triste y enojado, y llegó á Samaria.”.",
+  "spiritualContext": "Contrasta sabiduría y apostasía, mostrando que la fidelidad al pacto sostiene o hunde a los reinos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan israel, adad, entonces. El núcleo del capítulo se percibe en “Llegándose luego el profeta al rey de Israel, le dijo: Ve, fortalécete, y considera y mira lo que has de hacer; porque…”."
 }

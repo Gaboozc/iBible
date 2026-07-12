@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reinos divididos (ca. 740–700 a.C.)",
+  "dominantEmpire": "Asiria en expansión",
+  "kingName": "Jotam, Acaz, Ezequías (Judá)",
+  "kingRegion": "Judá con impacto en Samaria",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Miqueas",
+    "Isaías",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Miqueas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Miqueas 3, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, profetas, jacob. Señales textuales: “Y DIJE: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía* á vosotros saber el derecho?” | “Y serán avergonzados los profetas, y confundiránse los adivinos; y ellos todos cubrirán su labio, porque no hay respues…” | “Por tanto, á causa de vosotros será Sión arada como campo, y Jerusalem será majanos, y el monte de la casa como cumbres…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, profetas, jacob. El núcleo del capítulo se percibe en “Y serán avergonzados los profetas, y confundiránse los adivinos; y ellos todos cubrirán su labio, porque no hay respues…”."
+  "templeStatus": "Templo en Jerusalén; culto contaminado",
+  "location": "Moreset-gat (origen del profeta), Samaria, Jerusalén",
+  "summary": "Miqueas denuncia la injusticia y promete un gobernante desde Belén (5:2). En Miqueas 3, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, profetas, jacob. Señales textuales: “Y DIJE: Oid ahora, príncipes de Jacob, y cabezas de la casa de Israel: ¿No pertenecía* á vosotros saber el derecho?” | “Y serán avergonzados los profetas, y confundiránse los adivinos; y ellos todos cubrirán su labio, porque no hay respues…” | “Por tanto, á causa de vosotros será Sión arada como campo, y Jerusalem será majanos, y el monte de la casa como cumbres…”.",
+  "spiritualContext": "Sintetiza la ética profética: hacer justicia, amar misericordia y humillarse ante Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, profetas, jacob. El núcleo del capítulo se percibe en “Y serán avergonzados los profetas, y confundiránse los adivinos; y ellos todos cubrirán su labio, porque no hay respues…”."
 }

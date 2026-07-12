@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica tardía (ca. 62–66 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Éfeso",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol) a Timoteo (pastor)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Timoteo aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Timoteo 4, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esto, palabra, todos. Señales textuales: “EMPERO el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíri…” | “Palabra fiel es esta, y digna de ser recibida de todos.” | “Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyer…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan esto, palabra, todos. El núcleo del capítulo se percibe en “Palabra fiel es esta, y digna de ser recibida de todos.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Macedonia (redacción) → Éfeso",
+  "summary": "1 Timoteo instruye a un pastor sobre orden eclesial, doctrina sana y liderazgo. En 1 Timoteo 4, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esto, palabra, todos. Señales textuales: “EMPERO el Espíritu dice manifiestamente, que en los venideros tiempos algunos apostatarán de la fe, escuchando á espíri…” | “Palabra fiel es esta, y digna de ser recibida de todos.” | “Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyer…”.",
+  "spiritualContext": "Verdad y piedad se sostienen mutuamente en la vida de la iglesia. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan esto, palabra, todos. El núcleo del capítulo se percibe en “Palabra fiel es esta, y digna de ser recibida de todos.”."
 }

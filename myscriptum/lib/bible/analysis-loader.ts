@@ -1,6 +1,68 @@
 // This file contains loaders for Bible analysis data
 // All loaders use the /api/analysis/[book]/[chapter]/[type] endpoint
 
+// Map catalog/route slugs (mostly Spanish) → analysis dir slugs (English).
+// Keep in sync with app/api/analysis/[book]/[chapter]/[type]/route.ts.
+const ANALYSIS_BOOK_SLUGS: Record<string, string> = {
+  genesis: 'genesis',
+  exodo: 'exodus',
+  levitico: 'leviticus',
+  numeros: 'numbers',
+  deuteronomio: 'deuteronomy',
+  josue: 'joshua',
+  jueces: 'judges',
+  rut: 'ruth',
+  salmos: 'psalms',
+  proverbios: 'proverbs',
+  eclesiastes: 'ecclesiastes',
+  cantares: 'song-of-songs',
+  isaias: 'isaiah',
+  jeremias: 'jeremiah',
+  lamentaciones: 'lamentations',
+  ezequiel: 'ezekiel',
+  daniel: 'daniel',
+  jonas: 'jonah',
+  mateo: 'matthew',
+  marcos: 'mark',
+  lucas: 'luke',
+  juan: 'john',
+  hechos: 'acts',
+  romanos: 'romans',
+};
+
+export function resolveAnalysisSlug(catalogSlug: string): string {
+  return ANALYSIS_BOOK_SLUGS[catalogSlug] ?? catalogSlug;
+}
+
+export type ContentTab = 'analysis' | 'context' | 'questions' | 'connections' | 'etymology';
+
+export interface GenericManifest {
+  generatedAt: string;
+  chapters: Record<string, ContentTab[]>;
+}
+
+let manifestPromise: Promise<GenericManifest | null> | null = null;
+
+export async function loadGenericManifest(): Promise<GenericManifest | null> {
+  if (!manifestPromise) {
+    manifestPromise = fetch('/data/bible/generic-manifest.json', { cache: 'force-cache' })
+      .then((res) => (res.ok ? (res.json() as Promise<GenericManifest>) : null))
+      .catch(() => null);
+  }
+  return manifestPromise;
+}
+
+export function isTabGeneric(
+  manifest: GenericManifest | null,
+  catalogSlug: string,
+  chapter: number,
+  tab: ContentTab
+): boolean {
+  if (!manifest) return false;
+  const key = `${resolveAnalysisSlug(catalogSlug)}:${chapter}`;
+  return manifest.chapters[key]?.includes(tab) ?? false;
+}
+
 export interface StructuralSection {
   verses: string;
   title: string;

@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Datación debatida (postexílica probable, ca. siglo V a.C.)",
+  "dominantEmpire": "Imperio persa (probable)",
+  "kingName": "No aplica en el texto",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Joel"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Joel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Joel 2, el capítulo contiene 32 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, tierra, vuestro. Señales textuales: “TOCAD trompeta en Sión, y pregonad en mi santo monte: tiemblen todos los moradores de la tierra; porque viene el día de…” | “Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no…” | “Y será que cualquiera que invocare el nombre de Jehová, será salvo: porque en el monte de Sión y en Jerusalem habrá sal…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, tierra, vuestro. El núcleo del capítulo se percibe en “Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no…”."
+  "templeStatus": "Segundo templo en funcionamiento",
+  "location": "Judá y Jerusalén",
+  "summary": "Joel usa una plaga de langostas como imagen del Día del Señor y promete derramamiento del Espíritu. En Joel 2, el capítulo contiene 32 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, tierra, vuestro. Señales textuales: “TOCAD trompeta en Sión, y pregonad en mi santo monte: tiemblen todos los moradores de la tierra; porque viene el día de…” | “Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no…” | “Y será que cualquiera que invocare el nombre de Jehová, será salvo: porque en el monte de Sión y en Jerusalem habrá sal…”.",
+  "spiritualContext": "Llama al arrepentimiento y anuncia una obra escatológica del Espíritu sobre toda carne. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, tierra, vuestro. El núcleo del capítulo se percibe en “Entre la entrada y el altar, lloren los sacerdotes, ministros de Jehová, y digan: Perdona, oh Jehová, á tu pueblo, y no…”."
 }

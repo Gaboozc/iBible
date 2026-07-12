@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 538–458 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Ciro, Darío I y Artajerjes I",
+  "kingRegion": "Provincia de Yehud bajo Persia",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Hageo",
+    "Zacarías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Esdras desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Esdras 3, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, casa, pueblo. Señales textuales: “Y LLEGADO el mes séptimo, y ya* los hijos de Israel en las ciudades, juntóse el pueblo como un solo hombre en Jerusalem.” | “Y dieron dinero á los carpinteros y oficiales; asimismo comida y bebida y aceite á los Sidonios y Tirios, para que traj…” | “Y no podía discernir el pueblo el clamor de los gritos de alegría, de la voz del lloro del pueblo: porque clamaba el pu…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, casa, pueblo. El núcleo del capítulo se percibe en “Y dieron dinero á los carpinteros y oficiales; asimismo comida y bebida y aceite á los Sidonios y Tirios, para que traj…”."
+  "templeStatus": "Reconstrucción del segundo templo (dedicado ca. 516 a.C.)",
+  "location": "Babilonia y Jerusalén",
+  "summary": "Esdras narra el retorno del exilio y la reconstrucción del templo bajo edictos persas. En Esdras 3, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, casa, pueblo. Señales textuales: “Y LLEGADO el mes séptimo, y ya* los hijos de Israel en las ciudades, juntóse el pueblo como un solo hombre en Jerusalem.” | “Y dieron dinero á los carpinteros y oficiales; asimismo comida y bebida y aceite á los Sidonios y Tirios, para que traj…” | “Y no podía discernir el pueblo el clamor de los gritos de alegría, de la voz del lloro del pueblo: porque clamaba el pu…”.",
+  "spiritualContext": "Enfatiza pureza del pueblo del pacto, obediencia a la Ley y consagración del culto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, casa, pueblo. El núcleo del capítulo se percibe en “Y dieron dinero á los carpinteros y oficiales; asimismo comida y bebida y aceite á los Sidonios y Tirios, para que traj…”."
 }

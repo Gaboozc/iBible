@@ -1,6 +1,7 @@
 'use client';
 
 import { Lightbulb, Repeat } from 'lucide-react';
+import { GenericContentBadge } from './GenericContentBadge';
 
 interface StructuralSection {
   verses: string;
@@ -23,9 +24,10 @@ interface StructuralAnalysis {
 
 interface AnalysisTabProps {
   structuralAnalysis?: StructuralAnalysis;
+  isGeneric?: boolean;
 }
 
-export function AnalysisTab({ structuralAnalysis }: AnalysisTabProps) {
+export function AnalysisTab({ structuralAnalysis, isGeneric = false }: AnalysisTabProps) {
   if (!structuralAnalysis) {
     return (
       <div className="py-12 text-center text-slate-600">
@@ -37,6 +39,7 @@ export function AnalysisTab({ structuralAnalysis }: AnalysisTabProps) {
 
   return (
     <div className="space-y-4 sm:space-y-6">
+      {isGeneric && <GenericContentBadge tabLabel="análisis estructural" />}
       <div>
         <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2">{structuralAnalysis.title}</h2>
         <p className="text-sm sm:text-base text-slate-600">

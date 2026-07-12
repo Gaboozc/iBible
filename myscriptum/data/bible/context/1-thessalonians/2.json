@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica temprana (ca. 50–51 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Claudio (contexto imperial)",
+  "kingRegion": "Tesalónica (Macedonia)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo, Silas y Timoteo"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Tesalonicenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Tesalonicenses 2, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hermanos, sabeis, nuestra. Señales textuales: “PORQUE, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana:” | “Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,” | “Que vosotros sois nuestra gloria y gozo.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan hermanos, sabeis, nuestra. El núcleo del capítulo se percibe en “Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Corinto (redacción) → Tesalónica",
+  "summary": "1 Tesalonicenses anima a una iglesia joven bajo persecución y enseña sobre la venida del Señor. En 1 Tesalonicenses 2, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hermanos, sabeis, nuestra. Señales textuales: “PORQUE, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana:” | “Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,” | “Que vosotros sois nuestra gloria y gozo.”.",
+  "spiritualContext": "Fe, amor y esperanza escatológica moldean la vida cristiana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan hermanos, sabeis, nuestra. El núcleo del capítulo se percibe en “Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos,”."
 }

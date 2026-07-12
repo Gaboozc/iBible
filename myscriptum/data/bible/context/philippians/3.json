@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, carta de la prisión (ca. 61 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Filipos (colonia romana en Macedonia)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión romana)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Filipenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Filipenses 3, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, cosas, jesus. Señales textuales: “RESTA, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vos…” | “Si en alguna manera llegase á la resurrección de los muertos.” | “El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cu…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, cosas, jesus. El núcleo del capítulo se percibe en “Si en alguna manera llegase á la resurrección de los muertos.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Roma (probable redacción) → Filipos",
+  "summary": "Filipenses expresa gozo en Cristo aun bajo prisión y ejemplifica el modelo de la kenosis (2:5-11). En Filipenses 3, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, cosas, jesus. Señales textuales: “RESTA, hermanos, que os gocéis en el Señor. A mí, á la verdad, no es molesto el escribiros las mismas cosas, y para vos…” | “Si en alguna manera llegase á la resurrección de los muertos.” | “El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cu…”.",
+  "spiritualContext": "Gozo, humildad de Cristo y contentamiento en toda circunstancia. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, cosas, jesus. El núcleo del capítulo se percibe en “Si en alguna manera llegase á la resurrección de los muertos.”."
 }

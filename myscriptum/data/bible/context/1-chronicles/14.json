@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre historia davídica (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "David (foco narrativo)",
+  "kingRegion": "Israel unido bajo David",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Crónicas 14, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, filisteos, habia. Señales textuales: “E HIRAM rey de Tiro envió embajadores á David, y madera de cedro, y albañiles y carpinteros, que le edificasen una casa.” | “Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim.” | “Y la fama de David fué divulgada por todas aquellas tierras: y puso Jehová temor de David sobre todas las gentes.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, filisteos, habia. El núcleo del capítulo se percibe en “Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim.”."
+  "templeStatus": "David prepara el templo; construcción por Salomón",
+  "location": "Jerusalén y organización cúltica",
+  "summary": "1 Crónicas releva las genealogías desde Adán y el reinado de David con foco en el culto y el templo. En 1 Crónicas 14, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, filisteos, habia. Señales textuales: “E HIRAM rey de Tiro envió embajadores á David, y madera de cedro, y albañiles y carpinteros, que le edificasen una casa.” | “Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim.” | “Y la fama de David fué divulgada por todas aquellas tierras: y puso Jehová temor de David sobre todas las gentes.”.",
+  "spiritualContext": "Recuerda a la comunidad postexílica su identidad davídica y la centralidad del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, filisteos, habia. El núcleo del capítulo se percibe en “Y vinieron los Filisteos, y extendiéronse por el valle de Raphaim.”."
 }

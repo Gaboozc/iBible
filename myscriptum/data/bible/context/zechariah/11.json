@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 11, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pastores, ovejas, tierra. Señales textuales: “OH Líbano, abre tus puertas, y queme fuego tus cedros.” | “Y dije: No os apacentaré; la que muriere, muera; y la que se perdiere, se pierda; y las que quedaren, que cada una coma…” | “Mal haya el pastor de nada, que deja el ganado. Espada sobre su brazo, y sobre su ojo derecho: del todo se secará su br…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pastores, ovejas, tierra. El núcleo del capítulo se percibe en “Y dije: No os apacentaré; la que muriere, muera; y la que se perdiere, se pierda; y las que quedaren, que cada una coma…”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 11, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pastores, ovejas, tierra. Señales textuales: “OH Líbano, abre tus puertas, y queme fuego tus cedros.” | “Y dije: No os apacentaré; la que muriere, muera; y la que se perdiere, se pierda; y las que quedaren, que cada una coma…” | “Mal haya el pastor de nada, que deja el ganado. Espada sobre su brazo, y sobre su ojo derecho: del todo se secará su br…”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pastores, ovejas, tierra. El núcleo del capítulo se percibe en “Y dije: No os apacentaré; la que muriere, muera; y la que se perdiere, se pierda; y las que quedaren, que cada una coma…”."
 }

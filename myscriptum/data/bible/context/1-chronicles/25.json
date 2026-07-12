@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre historia davídica (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "David (foco narrativo)",
+  "kingRegion": "Israel unido bajo David",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Crónicas 25, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, hermanos, doce. Señales textuales: “ASIMISMO David y los príncipes del ejército apartaron para el ministerio á los hijos de Asaph, y de Hemán, y de Jeduthú…” | “La nona á Mathanías, con sus hijos y sus hermanos, doce;” | “La vigésimacuarta á Romamti-ezer, con sus hijos y sus hermanos, doce.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, hermanos, doce. El núcleo del capítulo se percibe en “La nona á Mathanías, con sus hijos y sus hermanos, doce;”."
+  "templeStatus": "David prepara el templo; construcción por Salomón",
+  "location": "Jerusalén y organización cúltica",
+  "summary": "1 Crónicas releva las genealogías desde Adán y el reinado de David con foco en el culto y el templo. En 1 Crónicas 25, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, hermanos, doce. Señales textuales: “ASIMISMO David y los príncipes del ejército apartaron para el ministerio á los hijos de Asaph, y de Hemán, y de Jeduthú…” | “La nona á Mathanías, con sus hijos y sus hermanos, doce;” | “La vigésimacuarta á Romamti-ezer, con sus hijos y sus hermanos, doce.”.",
+  "spiritualContext": "Recuerda a la comunidad postexílica su identidad davídica y la centralidad del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, hermanos, doce. El núcleo del capítulo se percibe en “La nona á Mathanías, con sus hijos y sus hermanos, doce;”."
 }

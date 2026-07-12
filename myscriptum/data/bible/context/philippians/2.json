@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, carta de la prisión (ca. 61 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Filipos (colonia romana en Macedonia)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión romana)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Filipenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Filipenses 2, el capítulo contiene 30 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, mismo, jesus. Señales textuales: “POR tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si alguna…” | “Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado…” | “Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, mismo, jesus. El núcleo del capítulo se percibe en “Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Roma (probable redacción) → Filipos",
+  "summary": "Filipenses expresa gozo en Cristo aun bajo prisión y ejemplifica el modelo de la kenosis (2:5-11). En Filipenses 2, el capítulo contiene 30 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, mismo, jesus. Señales textuales: “POR tanto, si hay alguna consolación en Cristo; si algún refrigerio de amor; si alguna comunión del Espíritu; si alguna…” | “Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado…” | “Porque por la obra de Cristo estuvo cercano á la muerte, poniendo su vida para suplir vuestra falta en mi servicio.”.",
+  "spiritualContext": "Gozo, humildad de Cristo y contentamiento en toda circunstancia. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, mismo, jesus. El núcleo del capítulo se percibe en “Reteniendo la palabra de vida para que yo pueda gloriarme en el día de Cristo, que no he corrido en vano, ni trabajado…”."
 }

@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, cartas de la prisión (ca. 60–62 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (contexto imperial)",
+  "kingRegion": "Éfeso (Asia Menor)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Efesios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Efesios 6, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, contra, vuestros. Señales textuales: “HIJOS, obedeced en el Señor á vuestros padres; porque esto es justo.” | “Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y estar firmes, habiendo acabado to…” | “Gracia sea con todos los que aman á nuestro Señor Jesucristo en sinceridad. Amén. Escrita de Roma á los Efesios por Tic…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan senor, contra, vuestros. El núcleo del capítulo se percibe en “Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y estar firmes, habiendo acabado to…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Éfeso",
+  "summary": "Efesios expone el plan eterno de Dios en Cristo y la iglesia como cuerpo unificado. En Efesios 6, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, contra, vuestros. Señales textuales: “HIJOS, obedeced en el Señor á vuestros padres; porque esto es justo.” | “Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y estar firmes, habiendo acabado to…” | “Gracia sea con todos los que aman á nuestro Señor Jesucristo en sinceridad. Amén. Escrita de Roma á los Efesios por Tic…”.",
+  "spiritualContext": "Une doctrina y vida: elección, gracia, unidad en el Espíritu y batalla espiritual. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan senor, contra, vuestros. El núcleo del capítulo se percibe en “Por tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y estar firmes, habiendo acabado to…”."
 }

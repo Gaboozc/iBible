@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 54–55 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (contexto imperial)",
+  "kingRegion": "Corinto (Acaya) y contacto con Éfeso",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Corintios 2, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: espiritu, sabiduria, cosas. Señales textuales: “ASÍ que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de…” | “Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, ni han subido en corazón de hombre, son* las que ha Dios…” | “Porque ¿quién conoció la mente del Señor? ¿quién le instruyó? Mas nosotros tenemos la mente de Cristo.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en vida espiritual y acción del Espíritu; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan espiritu, sabiduria, cosas. El núcleo del capítulo se percibe en “Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, ni han subido en corazón de hombre, son* las que ha Dios…”."
+  "templeStatus": "Segundo Templo aún en Jerusalén; comunidad gentil",
+  "location": "Corinto",
+  "summary": "1 Corintios responde a divisiones, escándalos y confusión doctrinal en una iglesia gentil. En 1 Corintios 2, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: espiritu, sabiduria, cosas. Señales textuales: “ASÍ que, hermanos, cuando fuí á vosotros, no fuí con altivez de palabra, ó de sabiduría, á anunciaros el testimonio de…” | “Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, ni han subido en corazón de hombre, son* las que ha Dios…” | “Porque ¿quién conoció la mente del Señor? ¿quién le instruyó? Mas nosotros tenemos la mente de Cristo.”.",
+  "spiritualContext": "Enseña unidad en Cristo, ejercicio ordenado de los dones y esperanza en la resurrección. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en vida espiritual y acción del Espíritu; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan espiritu, sabiduria, cosas. El núcleo del capítulo se percibe en “Antes, como está escrito: Cosas que ojo no vió, ni oreja oyó, ni han subido en corazón de hombre, son* las que ha Dios…”."
 }

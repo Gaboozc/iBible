@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reino del norte próspero (ca. 760 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, Egipto en trasfondo",
+  "kingName": "Jeroboam II (Israel), Uzías (Judá)",
+  "kingRegion": "Israel y Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Amós desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Amós 3, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: tierra, palacios, contra. Señales textuales: “OID esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la ti…” | “Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará?” | “Y heriré la casa del invierno con la casa del verano, y las casas de marfil perecerán; y muchas casas serán arruinadas,…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan tierra, palacios, contra. El núcleo del capítulo se percibe en “Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará?”."
+  "templeStatus": "Culto sincretista en Betel y Guilgal",
+  "location": "Betel, Samaria; profeta oriundo de Tecoa",
+  "summary": "Amós, pastor de Tecoa, denuncia la injusticia social y el culto vacío del norte. En Amós 3, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: tierra, palacios, contra. Señales textuales: “OID esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la ti…” | “Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará?” | “Y heriré la casa del invierno con la casa del verano, y las casas de marfil perecerán; y muchas casas serán arruinadas,…”.",
+  "spiritualContext": "Une justicia social y adoración: sin justicia el culto es abominación. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan tierra, palacios, contra. El núcleo del capítulo se percibe en “Bramando el león, ¿quién no temerá? hablando el Señor Jehová, ¿quién no profetizará?”."
 }

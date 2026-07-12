@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 1, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ejercitos, diciendo, angel. Señales textuales: “EN el mes octavo, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo…” | “Y ellos hablaron á aquel ángel de Jehová que estaba entre los mirtos, y dijeron: Hemos recorrido la tierra, y he aquí,…” | “Y yo dije: ¿Qué vienen éstos á hacer? Y respondióme, diciendo: Estos son los cuernos que aventaron á Judá, tanto que ni…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ejercitos, diciendo, angel. El núcleo del capítulo se percibe en “Y ellos hablaron á aquel ángel de Jehová que estaba entre los mirtos, y dijeron: Hemos recorrido la tierra, y he aquí,…”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 1, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ejercitos, diciendo, angel. Señales textuales: “EN el mes octavo, en el año segundo de Darío, fué palabra de Jehová á Zacarías profeta, hijo de Berechîas, hijo de Iddo…” | “Y ellos hablaron á aquel ángel de Jehová que estaba entre los mirtos, y dijeron: Hemos recorrido la tierra, y he aquí,…” | “Y yo dije: ¿Qué vienen éstos á hacer? Y respondióme, diciendo: Estos son los cuernos que aventaron á Judá, tanto que ni…”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ejercitos, diciendo, angel. El núcleo del capítulo se percibe en “Y ellos hablaron á aquel ángel de Jehová que estaba entre los mirtos, y dijeron: Hemos recorrido la tierra, y he aquí,…”."
 }

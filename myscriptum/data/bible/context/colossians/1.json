@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica, carta de la prisión (ca. 60–62 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Colosas (valle del Lico, Asia Menor)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol, en prisión)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Colosenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Colosenses 1, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: toda, cristo, todo. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,” | “El cual es la imagen del Dios invisible, el primogénito de toda criatura.” | “En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; revelación, santidad y gloria de Dios. En su lenguaje central destacan toda, cristo, todo. El núcleo del capítulo se percibe en “El cual es la imagen del Dios invisible, el primogénito de toda criatura.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Colosas",
+  "summary": "Colosenses defiende la supremacía y suficiencia de Cristo frente a una herejía sincretista. En Colosenses 1, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: toda, cristo, todo. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,” | “El cual es la imagen del Dios invisible, el primogénito de toda criatura.” | “En lo cual aun trabajo, combatiendo según la operación de él, la cual obra en mí poderosamente.”.",
+  "spiritualContext": "Cristo es imagen del Dios invisible y en Él está la plenitud. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; revelación, santidad y gloria de Dios. En su lenguaje central destacan toda, cristo, todo. El núcleo del capítulo se percibe en “El cual es la imagen del Dios invisible, el primogénito de toda criatura.”."
 }

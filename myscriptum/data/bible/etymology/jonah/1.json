@@ -1,24 +1,124 @@
 [
   {
-    "hebrew": "דָּבָר (dabar)",
-    "english": "word, matter, thing",
-    "literalMeaning": "aquello que se dice o se hace",
-    "primaryMeaning": "Una palabra hablada; un asunto o cuestión",
-    "theologicalMeaning": "En la teología bíblica, \"dabar\" es fundamental - la palabra de Dios es creativa y poderosa. Dios habla y las cosas existen.",
-    "root": "Raíz primitiva, posiblemente relacionada con el movimiento o la acción",
+    "hebrew": "יוֹנָה (Yonah)",
+    "english": "dove / Jonah",
+    "literalMeaning": "paloma",
+    "primaryMeaning": "Nombre propio del profeta; sustantivo común: paloma o tórtola",
+    "theologicalMeaning": "El nombre 'paloma' resuena con Génesis 8:8-12 (paloma del arca que anuncia la nueva creación) y con la paloma del bautismo de Jesús (Mt 3:16). El profeta llamado 'paloma' huye por mar y regresa como mensajero de vida, invirtiendo y replicando el patrón noájico. En Oseas 7:11, sin embargo, Efraín es llamado 'paloma incauta, sin entendimiento' — matiz que ilumina la torpeza del profeta.",
+    "root": "יון (raíz probablemente onomatopéyica, del arrullo)",
     "cognates": [
-      "dibrah (palabra)",
-      "dober (hablador)"
+      "yonim (palomas, en plural)",
+      "yonah usada en Oseas 7:11 para Efraín como paloma tonta"
     ],
-    "semanticEvolution": "La palabra ha mantenido su significado core a través del hebreo antiguo y moderno.",
+    "semanticEvolution": "Del uso sacrificial (paloma como ofrenda de los pobres en Lv 1:14) al simbolismo del Espíritu (Mt 3:16) y de la paz (Gn 8:11).",
     "relatedWords": [
-      "amar (decir)",
-      "lashon (lengua)",
-      "kol (voz)"
+      "tor (tórtola)",
+      "gozal (pichón)"
     ],
     "keyAppearances": [
-      "jonah 1"
+      "Génesis 8:8-12",
+      "Cantares 2:14",
+      "Oseas 7:11",
+      "Mateo 3:16"
     ],
-    "biblicalFrequency": 1440
+    "biblicalFrequency": 33
+  },
+  {
+    "hebrew": "נִינְוֵה (Nineveh)",
+    "english": "Nineveh",
+    "literalMeaning": "nombre propio; probable etimología acadia 'ninua'",
+    "primaryMeaning": "Capital del imperio asirio, junto al río Tigris (actual Mosul, Irak)",
+    "theologicalMeaning": "Nínive es en el AT símbolo del poder imperial cruel: Asiria destruye el reino del norte en 722 a.C. Que Dios se compadezca de Nínive es la escandalosa lección de todo el libro. El texto añade dos veces 'ciudad grande' (עִיר גְּדוֹלָה) para señalar tanto su tamaño como su importancia moral: la grandeza no la exime de rendir cuentas ni de recibir misericordia.",
+    "root": "acadio 'ninua', probablemente relacionado con la diosa Nina (pez)",
+    "cognates": [
+      "asirio ninua",
+      "griego Νινευή"
+    ],
+    "semanticEvolution": "Nombre geográfico estable desde el siglo XVIII a.C. hasta su destrucción en 612 a.C. Nahúm profetiza su caída; Jonás su arrepentimiento temporal.",
+    "relatedWords": [
+      "ashur (Asur, dios/nación asiria)",
+      "kalach (Cala, otra capital asiria)"
+    ],
+    "keyAppearances": [
+      "Génesis 10:11-12",
+      "2 Reyes 19:36",
+      "Jonás 1:2, 3:2-3, 4:11",
+      "Nahúm 1-3",
+      "Sofonías 2:13"
+    ],
+    "biblicalFrequency": 17
+  },
+  {
+    "hebrew": "תַּרְשִׁישׁ (Tarshish)",
+    "english": "Tarshish",
+    "literalMeaning": "nombre propio; probable Tartessos (sur de la actual España)",
+    "primaryMeaning": "Puerto/región del extremo occidental del Mediterráneo conocido por comercio de metales",
+    "theologicalMeaning": "Tarshish representa 'el fin del mundo conocido' desde Israel — la dirección opuesta a Nínive. Huir a Tarsis es huir de la vocación y del mapa. Isaías 66:19 y Salmo 72:10 usan Tarshish como emblema de las naciones lejanas que un día vendrán a Sion — otra ironía: Jonás huye hacia el lugar del cumplimiento escatológico.",
+    "root": "probable préstamo (fenicio o púnico)",
+    "cognates": [
+      "fenicio tršš"
+    ],
+    "semanticEvolution": "En textos posteriores 'nave de Tarsis' llegó a designar un navío de largo alcance, sin ubicación geográfica precisa (1 R 22:48).",
+    "relatedWords": [
+      "yam (mar)",
+      "oniyah (nave)"
+    ],
+    "keyAppearances": [
+      "1 Reyes 10:22",
+      "Isaías 23:1-14",
+      "Isaías 66:19",
+      "Jonás 1:3",
+      "Salmo 72:10"
+    ],
+    "biblicalFrequency": 27
+  },
+  {
+    "hebrew": "סַעַר (sa'ar)",
+    "english": "tempest, storm",
+    "literalMeaning": "tempestad violenta",
+    "primaryMeaning": "Tormenta enviada o comparada con la acción de YHWH sobre el mar o sobre la historia",
+    "theologicalMeaning": "En el AT las 'tormentas' de YHWH son teofanías judiciales (Job 38:1; Sal 107:25-29; Nah 1:3). Aquí YHWH 'hace levantar' la tempestad — verbo activo, no pasivo: la naturaleza obedece al Creador para redirigir al profeta desobediente. La calma final (v. 15) demuestra que el mismo Dios que envía la tormenta la aquieta cuando se cumple su propósito.",
+    "root": "סער (agitarse, tormentar)",
+    "cognates": [
+      "se'arah (tempestad, torbellino)"
+    ],
+    "semanticEvolution": "Desde tormenta literal (Job 38:1) a metáfora del juicio divino (Jer 30:23) y del poder salvador (Sal 107:29).",
+    "relatedWords": [
+      "ruach (viento)",
+      "yam (mar)",
+      "gal (ola)"
+    ],
+    "keyAppearances": [
+      "Job 38:1",
+      "Salmo 107:25-29",
+      "Jonás 1:4, 11, 12",
+      "Nahúm 1:3"
+    ],
+    "biblicalFrequency": 24
+  },
+  {
+    "hebrew": "יָרֵא (yare')",
+    "english": "to fear, revere",
+    "literalMeaning": "temer",
+    "primaryMeaning": "Reacción emocional de temor y actitud religiosa de reverencia",
+    "theologicalMeaning": "En el AT el 'temor de Jehová' es el principio de la sabiduría (Prov 1:7): no pánico, sino reconocimiento reverente. Jonás 1 cataloga una escala de temores: temor primero por la tormenta (v. 5), luego por lo que Jonás confiesa (v. 10), y finalmente 'gran temor' a YHWH (v. 16) que se traduce en culto. El texto invita al lector a subir esa misma escala.",
+    "root": "ירא (temer, reverenciar)",
+    "cognates": [
+      "yir'ah (temor, reverencia)",
+      "nora' (temible, imponente)"
+    ],
+    "semanticEvolution": "Del temor emocional al 'temor de YHWH' como categoría teológica central de la literatura sapiencial.",
+    "relatedWords": [
+      "'avad (servir)",
+      "shachah (postrarse)",
+      "kavod (gloria)"
+    ],
+    "keyAppearances": [
+      "Génesis 22:12",
+      "Proverbios 1:7",
+      "Jonás 1:5, 10, 16",
+      "Salmo 111:10"
+    ],
+    "biblicalFrequency": 435
   }
 ]

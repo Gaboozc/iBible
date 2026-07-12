@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica tardía y división del reino (ca. 970–850 a.C.)",
+  "dominantEmpire": "Egipto y Aram-Damasco como potencias regionales",
+  "kingName": "Salomón, luego Roboam, Jeroboam y sucesores",
+  "kingRegion": "Israel unido → reinos divididos de Israel (norte) y Judá (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Elías",
+    "Ahías silonita",
+    "Micaías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 4, el capítulo contiene 34 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, salomon, todos. Señales textuales: “FUÉ pues el rey Salomón rey sobre todo Israel.” | “Semei hijo de Ela, en Benjamín;” | “Y venían de todos los pueblos á oir la sabiduría de Salomón, y de todos los reyes de la tierra, donde había llegado la…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, salomon, todos. El núcleo del capítulo se percibe en “Semei hijo de Ela, en Benjamín;”."
+  "templeStatus": "Construcción del primer templo por Salomón; luego contaminación cúltica",
+  "location": "Jerusalén, Samaria, monte Carmelo",
+  "summary": "1 Reyes cuenta el reinado glorioso y la caída de Salomón, la división del reino y el ministerio profético de Elías. En 1 Reyes 4, el capítulo contiene 34 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, salomon, todos. Señales textuales: “FUÉ pues el rey Salomón rey sobre todo Israel.” | “Semei hijo de Ela, en Benjamín;” | “Y venían de todos los pueblos á oir la sabiduría de Salomón, y de todos los reyes de la tierra, donde había llegado la…”.",
+  "spiritualContext": "Contrasta sabiduría y apostasía, mostrando que la fidelidad al pacto sostiene o hunde a los reinos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, salomon, todos. El núcleo del capítulo se percibe en “Semei hijo de Ela, en Benjamín;”."
 }

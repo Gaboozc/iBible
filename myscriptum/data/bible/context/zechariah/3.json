@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 3, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: josue, delante, angel. Señales textuales: “Y MOSTRÓME á Josué, el gran sacerdote, el cual estaba delante del ángel de Jehová; y Satán estaba á su mano derecha par…” | “Y el ángel de Jehová protestó al mismo Josué, diciendo:” | “En aquel día, dice Jehová de los ejércitos, cada uno de vosotros llamará á su compañero debajo de la vid, y debajo de l…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan josue, delante, angel. El núcleo del capítulo se percibe en “Y el ángel de Jehová protestó al mismo Josué, diciendo:”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 3, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: josue, delante, angel. Señales textuales: “Y MOSTRÓME á Josué, el gran sacerdote, el cual estaba delante del ángel de Jehová; y Satán estaba á su mano derecha par…” | “Y el ángel de Jehová protestó al mismo Josué, diciendo:” | “En aquel día, dice Jehová de los ejércitos, cada uno de vosotros llamará á su compañero debajo de la vid, y debajo de l…”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan josue, delante, angel. El núcleo del capítulo se percibe en “Y el ángel de Jehová protestó al mismo Josué, diciendo:”."
 }

@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica tardía (ca. 66–67 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón (persecución)",
+  "kingRegion": "Éfeso",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol) desde su segunda prisión"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Timoteo aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Timoteo 1, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, jesucristo, segun. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús,” | “Mas ahora es manifestada por la aparición de nuestro Salvador Jesucristo, el cual quitó la muerte, y sacó á la luz la v…” | “Déle el Señor que halle misericordia cerca del Señor en aquel día. Y cuánto nos* ayudó en Efeso, tú lo sabes mejor.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, jesucristo, segun. El núcleo del capítulo se percibe en “Mas ahora es manifestada por la aparición de nuestro Salvador Jesucristo, el cual quitó la muerte, y sacó á la luz la v…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Roma (prisión) → Éfeso",
+  "summary": "2 Timoteo es la última carta de Pablo: exhortación pastoral final ante la persecución. En 2 Timoteo 1, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, jesucristo, segun. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, según la promesa de la vida que es en Cristo Jesús,” | “Mas ahora es manifestada por la aparición de nuestro Salvador Jesucristo, el cual quitó la muerte, y sacó á la luz la v…” | “Déle el Señor que halle misericordia cerca del Señor en aquel día. Y cuánto nos* ayudó en Efeso, tú lo sabes mejor.”.",
+  "spiritualContext": "Fidelidad al evangelio, perseverancia bajo aflicción y sucesión ministerial. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, jesucristo, segun. El núcleo del capítulo se percibe en “Mas ahora es manifestada por la aparición de nuestro Salvador Jesucristo, el cual quitó la muerte, y sacó á la luz la v…”."
 }

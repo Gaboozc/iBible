@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 5, el capítulo contiene 11 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: epha, rollo, tierra. Señales textuales: “Y TORNÉME, y alcé mis ojos, y miré, y he aquí un rollo que volaba.” | “Y dije: ¿Qué es? Y él dijo: Este es un epha que sale. Además dijo: Este es el ojo de ellos en toda la tierra.” | “Y él me respondió: Para que le sea edificada casa en tierra de Shinar: y será asentado y puesto allá sobre su asiento.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan epha, rollo, tierra. El núcleo del capítulo se percibe en “Y dije: ¿Qué es? Y él dijo: Este es un epha que sale. Además dijo: Este es el ojo de ellos en toda la tierra.”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 5, el capítulo contiene 11 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: epha, rollo, tierra. Señales textuales: “Y TORNÉME, y alcé mis ojos, y miré, y he aquí un rollo que volaba.” | “Y dije: ¿Qué es? Y él dijo: Este es un epha que sale. Además dijo: Este es el ojo de ellos en toda la tierra.” | “Y él me respondió: Para que le sea edificada casa en tierra de Shinar: y será asentado y puesto allá sobre su asiento.”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan epha, rollo, tierra. El núcleo del capítulo se percibe en “Y dije: ¿Qué es? Y él dijo: Este es un epha que sale. Además dijo: Este es el ojo de ellos en toda la tierra.”."
 }

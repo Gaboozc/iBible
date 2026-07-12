@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Datación debatida (postexílica probable, ca. siglo V a.C.)",
+  "dominantEmpire": "Imperio persa (probable)",
+  "kingName": "No aplica en el texto",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Joel"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Joel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Joel 1, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: todos, hijos, campo. Señales textuales: “PALABRA de Jehová que fué á Joel hijo de Pethuel.” | “Confundíos, labradores, aullad, viñeros, por el trigo y la cebada; porque se perdió la mies del campo.” | “Las bestias del campo bramarán también á ti; porque se secaron los arroyos de las aguas, y fuego consumió las praderías…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan todos, hijos, campo. El núcleo del capítulo se percibe en “Confundíos, labradores, aullad, viñeros, por el trigo y la cebada; porque se perdió la mies del campo.”."
+  "templeStatus": "Segundo templo en funcionamiento",
+  "location": "Judá y Jerusalén",
+  "summary": "Joel usa una plaga de langostas como imagen del Día del Señor y promete derramamiento del Espíritu. En Joel 1, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: todos, hijos, campo. Señales textuales: “PALABRA de Jehová que fué á Joel hijo de Pethuel.” | “Confundíos, labradores, aullad, viñeros, por el trigo y la cebada; porque se perdió la mies del campo.” | “Las bestias del campo bramarán también á ti; porque se secaron los arroyos de las aguas, y fuego consumió las praderías…”.",
+  "spiritualContext": "Llama al arrepentimiento y anuncia una obra escatológica del Espíritu sobre toda carne. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan todos, hijos, campo. El núcleo del capítulo se percibe en “Confundíos, labradores, aullad, viñeros, por el trigo y la cebada; porque se perdió la mies del campo.”."
 }

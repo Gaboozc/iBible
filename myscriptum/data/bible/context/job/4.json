@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Ambientación patriarcal; composición debatida (ca. siglo VII–V a.C.)",
+  "dominantEmpire": "Sin referencia a imperios; contexto tribal",
+  "kingName": "No aplica (marco tribal)",
+  "kingRegion": "Tierra de Uz (al este de Israel)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Job funciona como sabio, no como profeta"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Job desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Job 4, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: leon, quebrantados, palabras. Señales textuales: “Y RESPONDIÓ Eliphaz el Temanita, y dijo:” | “El león viejo perece por falta de presa, y los hijos del león son esparcidos.” | “¿Su hermosura, no se pierde con ellos mismos? Mueren, y sin sabiduría.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan leon, quebrantados, palabras. El núcleo del capítulo se percibe en “El león viejo perece por falta de presa, y los hijos del león son esparcidos.”."
+  "templeStatus": "No hay templo; culto patriarcal en altares",
+  "location": "Tierra de Uz",
+  "summary": "Job explora el problema del sufrimiento del justo mediante diálogos poéticos y una teofanía final. En Job 4, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: leon, quebrantados, palabras. Señales textuales: “Y RESPONDIÓ Eliphaz el Temanita, y dijo:” | “El león viejo perece por falta de presa, y los hijos del león son esparcidos.” | “¿Su hermosura, no se pierde con ellos mismos? Mueren, y sin sabiduría.”.",
+  "spiritualContext": "Enseña que la sabiduría comienza en el temor de Dios y no en fórmulas retributivas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan leon, quebrantados, palabras. El núcleo del capítulo se percibe en “El león viejo perece por falta de presa, y los hijos del león son esparcidos.”."
 }

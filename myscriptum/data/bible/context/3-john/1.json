@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era post-apostólica (ca. 85–95 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Asia Menor",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Juan (el anciano)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "3 Juan aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 3 Juan 1, el capítulo contiene 14 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: verdad, testimonio, amado. Señales textuales: “EL anciano al muy amado Gaio, al cual yo amo en verdad.” | “Nosotros, pues, debemos recibir á los tales, para que seamos cooperadores á la verdad.” | “Porque espero verte en breve, y hablaremos boca á boca. Paz sea* contigo. Los amigos te saludan. Saluda tú á los amigos…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan verdad, testimonio, amado. El núcleo del capítulo se percibe en “Nosotros, pues, debemos recibir á los tales, para que seamos cooperadores á la verdad.”."
+  "templeStatus": "Segundo Templo ya destruido",
+  "location": "Éfeso → Gayo",
+  "summary": "3 Juan elogia la hospitalidad de Gayo y reprende la ambición de Diótrefes. En 3 Juan 1, el capítulo contiene 14 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: verdad, testimonio, amado. Señales textuales: “EL anciano al muy amado Gaio, al cual yo amo en verdad.” | “Nosotros, pues, debemos recibir á los tales, para que seamos cooperadores á la verdad.” | “Porque espero verte en breve, y hablaremos boca á boca. Paz sea* contigo. Los amigos te saludan. Saluda tú á los amigos…”.",
+  "spiritualContext": "Muestra el impacto pastoral concreto de la verdad y del liderazgo abusivo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan verdad, testimonio, amado. El núcleo del capítulo se percibe en “Nosotros, pues, debemos recibir á los tales, para que seamos cooperadores á la verdad.”."
 }

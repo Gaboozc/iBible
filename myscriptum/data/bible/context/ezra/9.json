@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 538–458 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Ciro, Darío I y Artajerjes I",
+  "kingRegion": "Provincia de Yehud bajo Persia",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Hageo",
+    "Zacarías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Esdras desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Esdras 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nuestros, causa, pueblos. Señales textuales: “Y ACABADAS estas cosas, los príncipes se llegaron á mí, diciendo: El pueblo de Israel, y los sacerdotes y Levitas, no s…” | “Y ahora como por un breve momento fué la misericordia de Jehová nuestro Dios, para hacer que nos quedase un resto libre…” | “Jehová, Dios de Israel, tú eres justo: pues que hemos quedado algunos salvos, como este día, henos aquí delante de ti e…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nuestros, causa, pueblos. El núcleo del capítulo se percibe en “Y ahora como por un breve momento fué la misericordia de Jehová nuestro Dios, para hacer que nos quedase un resto libre…”."
+  "templeStatus": "Reconstrucción del segundo templo (dedicado ca. 516 a.C.)",
+  "location": "Babilonia y Jerusalén",
+  "summary": "Esdras narra el retorno del exilio y la reconstrucción del templo bajo edictos persas. En Esdras 9, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nuestros, causa, pueblos. Señales textuales: “Y ACABADAS estas cosas, los príncipes se llegaron á mí, diciendo: El pueblo de Israel, y los sacerdotes y Levitas, no s…” | “Y ahora como por un breve momento fué la misericordia de Jehová nuestro Dios, para hacer que nos quedase un resto libre…” | “Jehová, Dios de Israel, tú eres justo: pues que hemos quedado algunos salvos, como este día, henos aquí delante de ti e…”.",
+  "spiritualContext": "Enfatiza pureza del pueblo del pacto, obediencia a la Ley y consagración del culto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nuestros, causa, pueblos. El núcleo del capítulo se percibe en “Y ahora como por un breve momento fué la misericordia de Jehová nuestro Dios, para hacer que nos quedase un resto libre…”."
 }

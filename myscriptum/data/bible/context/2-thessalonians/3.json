@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 51–52 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Claudio",
+  "kingRegion": "Tesalónica",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo, Silas y Timoteo"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Tesalonicenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Tesalonicenses 3, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, hermanos, nosotros. Señales textuales: “RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:” | “Porque aun estando con vosotros, os denunciábamos esto: Que si alguno no quisiere trabajar, tampoco coma.” | “La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. La segunda Epístola* á los Tesalonicenses fué escri…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan senor, hermanos, nosotros. El núcleo del capítulo se percibe en “Porque aun estando con vosotros, os denunciábamos esto: Que si alguno no quisiere trabajar, tampoco coma.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Corinto → Tesalónica",
+  "summary": "2 Tesalonicenses corrige malentendidos escatológicos y exhorta al trabajo fiel. En 2 Tesalonicenses 3, el capítulo contiene 18 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, hermanos, nosotros. Señales textuales: “RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:” | “Porque aun estando con vosotros, os denunciábamos esto: Que si alguno no quisiere trabajar, tampoco coma.” | “La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. La segunda Epístola* á los Tesalonicenses fué escri…”.",
+  "spiritualContext": "La venida del Señor no anula la responsabilidad presente sino que la ordena. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan senor, hermanos, nosotros. El núcleo del capítulo se percibe en “Porque aun estando con vosotros, os denunciábamos esto: Que si alguno no quisiere trabajar, tampoco coma.”."
 }

@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 9, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: salomon, habia, tierra. Señales textuales: “Y OYENDO la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de arom…” | “Asimismo trescientos escudos de oro batido, teniendo cada escudo trescientos siclos* de oro: y púsolos el rey en la cas…” | “Y durmió Salomón con sus padres, y sepultáronlo en la ciudad de David su padre: y reinó en su lugar Roboam su hijo.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan salomon, habia, tierra. El núcleo del capítulo se percibe en “Asimismo trescientos escudos de oro batido, teniendo cada escudo trescientos siclos* de oro: y púsolos el rey en la cas…”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 9, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: salomon, habia, tierra. Señales textuales: “Y OYENDO la reina de Seba la fama de Salomón, vino á Jerusalem con un muy grande séquito, con camellos cargados de arom…” | “Asimismo trescientos escudos de oro batido, teniendo cada escudo trescientos siclos* de oro: y púsolos el rey en la cas…” | “Y durmió Salomón con sus padres, y sepultáronlo en la ciudad de David su padre: y reinó en su lugar Roboam su hijo.”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan salomon, habia, tierra. El núcleo del capítulo se percibe en “Asimismo trescientos escudos de oro batido, teniendo cada escudo trescientos siclos* de oro: y púsolos el rey en la cas…”."
 }

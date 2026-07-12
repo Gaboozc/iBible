@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Ambientación patriarcal; composición debatida (ca. siglo VII–V a.C.)",
+  "dominantEmpire": "Sin referencia a imperios; contexto tribal",
+  "kingName": "No aplica (marco tribal)",
+  "kingRegion": "Tierra de Uz (al este de Israel)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Job funciona como sabio, no como profeta"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Job desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Job 29, el capítulo contiene 25 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dias, hacia, juicio. Señales textuales: “Y VOLVIÓ Job á tomar su propósito, y dijo:” | “La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría.” | “Calificaba yo el camino de ellos, y sentábame en cabecera; y moraba como rey en el ejército, como el que consuela lloro…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; justicia, juicio y responsabilidad moral. En su lenguaje central destacan dias, hacia, juicio. El núcleo del capítulo se percibe en “La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría.”."
+  "templeStatus": "No hay templo; culto patriarcal en altares",
+  "location": "Tierra de Uz",
+  "summary": "Job explora el problema del sufrimiento del justo mediante diálogos poéticos y una teofanía final. En Job 29, el capítulo contiene 25 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dias, hacia, juicio. Señales textuales: “Y VOLVIÓ Job á tomar su propósito, y dijo:” | “La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría.” | “Calificaba yo el camino de ellos, y sentábame en cabecera; y moraba como rey en el ejército, como el que consuela lloro…”.",
+  "spiritualContext": "Enseña que la sabiduría comienza en el temor de Dios y no en fórmulas retributivas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; justicia, juicio y responsabilidad moral. En su lenguaje central destacan dias, hacia, juicio. El núcleo del capítulo se percibe en “La bendición del que se iba á perder venía sobre mí; y al corazón de la viuda daba alegría.”."
 }

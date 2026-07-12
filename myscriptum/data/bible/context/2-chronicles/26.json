@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 26, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: uzzias, contra, sacerdotes. Señales textuales: “ENTONCES todo el pueblo de Judá tomó á Uzzías, el cual era de diez y seis años, y pusiéronlo por rey en lugar de Amasía…” | “Todo el número de los jefes de familias, valientes y esforzados, era dos mil y seiscientos.” | “Y durmió Uzzías con sus padres, y sepultáronlo con sus padres en el campo de los sepulcros reales; porque dijeron: Lepr…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan uzzias, contra, sacerdotes. El núcleo del capítulo se percibe en “Todo el número de los jefes de familias, valientes y esforzados, era dos mil y seiscientos.”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 26, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: uzzias, contra, sacerdotes. Señales textuales: “ENTONCES todo el pueblo de Judá tomó á Uzzías, el cual era de diez y seis años, y pusiéronlo por rey en lugar de Amasía…” | “Todo el número de los jefes de familias, valientes y esforzados, era dos mil y seiscientos.” | “Y durmió Uzzías con sus padres, y sepultáronlo con sus padres en el campo de los sepulcros reales; porque dijeron: Lepr…”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan uzzias, contra, sacerdotes. El núcleo del capítulo se percibe en “Todo el número de los jefes de familias, valientes y esforzados, era dos mil y seiscientos.”."
 }

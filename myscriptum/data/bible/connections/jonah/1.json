@@ -1,14 +1,62 @@
 [
   {
-    "type": "thematic",
-    "reference": "Referencias temáticas en la Biblia",
-    "title": "Tema Central del Capítulo",
-    "description": "Este capítulo conecta con el tema general del libro de jonah."
+    "type": "historical",
+    "reference": "2 Reyes 14:25",
+    "title": "Jonás como profeta histórico del norte",
+    "description": "La única otra mención bíblica de Jonás fuera del libro homónimo lo sitúa como profeta del reino del norte durante Jeroboam II (ca. 780 a.C.), anunciando la restauración de las fronteras de Israel. Ese trasfondo político explica su horror al pensar en salvar a Nínive: era el enemigo mortal que unas décadas más tarde destruiría a Samaria (722 a.C.)."
   },
   {
     "type": "historical",
-    "reference": "jonah 1",
-    "title": "Conexión Histórica",
-    "description": "Este pasaje se sitúa en un momento clave de la historia bíblica."
+    "reference": "Nahúm 1-3",
+    "title": "El otro profeta contra Nínive",
+    "description": "Nahúm profetizará la caída de Nínive un siglo después (ca. 630 a.C.), sin misericordia. La yuxtaposición canónica de Jonás y Nahúm muestra que el juicio y la compasión de Dios no son alternativas exclusivas: Nínive fue perdonada en un momento y juzgada en otro. Ambas realidades pertenecen al mismo Dios."
+  },
+  {
+    "type": "typological",
+    "reference": "Mateo 12:39-41",
+    "title": "La señal de Jonás en boca de Jesús",
+    "description": "Jesús toma el descenso de Jonás al mar (Jon 1:15-2:1) como tipo de su propia muerte y resurrección: 'como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra'. Además señala que Nínive se arrepintió ante 'uno menor que Jonás' — Jesús se presenta como el profeta mayor."
+  },
+  {
+    "type": "typological",
+    "reference": "Génesis 8:8-12",
+    "title": "La paloma y la nueva creación",
+    "description": "El nombre Jonás ('paloma') evoca la paloma del arca de Noé, otra narrativa donde el juicio por agua abre paso a una nueva creación. En ambos relatos hay tormenta, arca de madera, animales, y salvación de gentiles. Jonás 1 invita a leer la propia historia como un nuevo diluvio en miniatura."
+  },
+  {
+    "type": "thematic",
+    "reference": "Amós 9:2-3",
+    "title": "No hay lugar donde huir de Dios",
+    "description": "Amós, contemporáneo de Jonás, escribe: 'aunque cavaran hasta el Seol... aunque se escondieran en la cumbre del Carmelo... aunque se metieran en el fondo del mar, allí mandaré a la serpiente'. Es prácticamente el guion de Jonás 1: quien huye de YHWH descubre que YHWH ya está en el destino."
+  },
+  {
+    "type": "thematic",
+    "reference": "Salmo 139:7-10",
+    "title": "'¿A dónde huiré de tu presencia?'",
+    "description": "David formula como pregunta retórica lo que Jonás intenta como plan. El Salmo 139 provee el fundamento teológico que refuta la huida: la omnipresencia de Dios cubre cielos, Seol, mar y aurora. Leer Jonás 1 con el Salmo 139 en mano ilumina cada verso."
+  },
+  {
+    "type": "prophetic",
+    "reference": "Isaías 66:18-19",
+    "title": "Naciones lejanas que verán la gloria",
+    "description": "Isaías anuncia que YHWH enviará mensajeros a 'Tarsis, Fut, Lud... las islas apartadas que no oyeron de mí ni vieron mi gloria'. La ironía de Jonás huyendo hacia Tarsis para no anunciar la gloria de YHWH cobra sentido escatológico: la misión centrífuga del pueblo del pacto no puede pararse aunque el mensajero renuncie."
+  },
+  {
+    "type": "prophetic",
+    "reference": "Hechos 10:9-16, 44-48",
+    "title": "Pedro y Cornelio: la Iglesia repite Jonás",
+    "description": "Pedro, otro profeta hebreo, se resiste al llamado de ir a gentiles (Cornelio y su casa). El paralelo con Jonás es intencional: el techo de Pedro (donde tuvo la visión) está en Jope — el mismo puerto desde el que Jonás huyó. Lucas construye la conexión geográfica y teológica. La Iglesia primitiva se lee como la salida definitiva del pueblo de Dios hacia las naciones."
+  },
+  {
+    "type": "lexical",
+    "reference": "1 Reyes 19:3-5",
+    "title": "Elías también huye 'de la presencia'",
+    "description": "Elías, tras el monte Carmelo, 'temiendo se levantó y se fue' — mismos verbos que Jonás. Ambos profetas huyen tras un momento de éxito o vocación, ambos duermen bajo un símbolo (calabacera / retama), ambos son confrontados por Dios con preguntas ('¿qué haces aquí?' / '¿tienes razón para enojarte?'). El libro de Jonás está en diálogo intertextual constante con Elías."
+  },
+  {
+    "type": "lexical",
+    "reference": "Marcos 4:35-41",
+    "title": "El otro dormido en la tormenta",
+    "description": "En Marcos 4, Jesús duerme en la popa mientras sus discípulos temen la tormenta. El paralelo verbal con Jonás 1:5-6 es exacto (el griego LXX usa vocabulario emparentado). Pero el contraste teológico es total: Jonás duerme por indiferencia y huida; Jesús duerme por confianza absoluta. Uno debe ser arrojado al mar; el otro reprende al mar. Jesús es el 'mayor que Jonás' (Mt 12:41) porque calma la tormenta en lugar de causarla."
   }
 ]

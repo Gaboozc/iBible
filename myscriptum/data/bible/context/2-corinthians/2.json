@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 55–56 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Acaya y Macedonia",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Corintios 2, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, tristeza, olor. Señales textuales: “ESTO pues determiné para conmigo, no venir otra vez á vosotros con tristeza.” | “Porque también por este fin os* escribí, para tener experiencia de vosotros si sois obedientes en todo.” | “Porque no somos como muchos, mercaderes falsos de la palabra de Dios: antes con sinceridad, como de Dios, delante de Di…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, tristeza, olor. El núcleo del capítulo se percibe en “Porque también por este fin os* escribí, para tener experiencia de vosotros si sois obedientes en todo.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Macedonia (redacción) → Corinto (destino)",
+  "summary": "2 Corintios defiende el apostolado de Pablo y llama a reconciliación tras tensión pastoral. En 2 Corintios 2, el capítulo contiene 17 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: cristo, tristeza, olor. Señales textuales: “ESTO pues determiné para conmigo, no venir otra vez á vosotros con tristeza.” | “Porque también por este fin os* escribí, para tener experiencia de vosotros si sois obedientes en todo.” | “Porque no somos como muchos, mercaderes falsos de la palabra de Dios: antes con sinceridad, como de Dios, delante de Di…”.",
+  "spiritualContext": "Combina debilidad humana y poder de Cristo; consuelo divino en la aflicción. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en obra redentora de Cristo y esperanza escatológica; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan cristo, tristeza, olor. El núcleo del capítulo se percibe en “Porque también por este fin os* escribí, para tener experiencia de vosotros si sois obedientes en todo.”."
 }

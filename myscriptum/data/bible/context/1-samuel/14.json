@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Fin del periodo de los jueces e inicio de la monarquía (ca. siglo XI a.C.)",
+  "dominantEmpire": "Filisteos como potencia regional",
+  "kingName": "Saúl (primer rey de Israel)",
+  "kingRegion": "Israel unificado, con presión filistea",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Samuel",
+    "Natán (posteriormente)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Samuel 14, el capítulo contiene 52 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, pueblo, jonathan. Señales textuales: “Y UN día aconteció, que Jonathán hijo de Saúl dijo á su criado que le traía las armas: Ven, y pasemos á la guarnición d…” | “Empero Jonathán no había oído cuando su padre conjuró al pueblo, y alargó la punta de una vara que traía en su mano, y…” | “Y la guerra fué fuerte contra los Filisteos todo el tiempo de Saúl; y á cualquiera que Saúl veía hombre valiente y homb…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, pueblo, jonathan. El núcleo del capítulo se percibe en “Empero Jonathán no había oído cuando su padre conjuró al pueblo, y alargó la punta de una vara que traía en su mano, y…”."
+  "templeStatus": "Tabernáculo en Silo; el arca en cautividad y peregrinación",
+  "location": "Silo, Ramá, Guibeá, cuevas de En-gadi",
+  "summary": "1 Samuel narra la transición de los jueces a la monarquía: Samuel unge a Saúl y luego a David. En 1 Samuel 14, el capítulo contiene 52 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, pueblo, jonathan. Señales textuales: “Y UN día aconteció, que Jonathán hijo de Saúl dijo á su criado que le traía las armas: Ven, y pasemos á la guarnición d…” | “Empero Jonathán no había oído cuando su padre conjuró al pueblo, y alargó la punta de una vara que traía en su mano, y…” | “Y la guerra fué fuerte contra los Filisteos todo el tiempo de Saúl; y á cualquiera que Saúl veía hombre valiente y homb…”.",
+  "spiritualContext": "El énfasis está en la elección divina, obediencia frente a apariencias humanas y el corazón conforme a Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, pueblo, jonathan. El núcleo del capítulo se percibe en “Empero Jonathán no había oído cuando su padre conjuró al pueblo, y alargó la punta de una vara que traía en su mano, y…”."
 }

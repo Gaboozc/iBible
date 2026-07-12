@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre historia davídica (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "David (foco narrativo)",
+  "kingRegion": "Israel unido bajo David",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Crónicas 29, el capítulo contiene 30 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, david, casa. Señales textuales: “DESPUÉS dijo el rey David á toda la asamblea: A solo Salomón mi hijo ha elegido Dios; él es joven y tierno, y la obra g…” | “Oh Jehová Dios nuestro, toda esta abundancia que hemos aprestado para edificar casa á tu santo nombre, de tu mano es, y…” | “Con todo lo relativo* á su reinado, y su poder, y los tiempos que pasaron sobre él, y sobre Israel, y sobre todos los r…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan israel, david, casa. El núcleo del capítulo se percibe en “Oh Jehová Dios nuestro, toda esta abundancia que hemos aprestado para edificar casa á tu santo nombre, de tu mano es, y…”."
+  "templeStatus": "David prepara el templo; construcción por Salomón",
+  "location": "Jerusalén y organización cúltica",
+  "summary": "1 Crónicas releva las genealogías desde Adán y el reinado de David con foco en el culto y el templo. En 1 Crónicas 29, el capítulo contiene 30 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, david, casa. Señales textuales: “DESPUÉS dijo el rey David á toda la asamblea: A solo Salomón mi hijo ha elegido Dios; él es joven y tierno, y la obra g…” | “Oh Jehová Dios nuestro, toda esta abundancia que hemos aprestado para edificar casa á tu santo nombre, de tu mano es, y…” | “Con todo lo relativo* á su reinado, y su poder, y los tiempos que pasaron sobre él, y sobre Israel, y sobre todos los r…”.",
+  "spiritualContext": "Recuerda a la comunidad postexílica su identidad davídica y la centralidad del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; soberanía divina y autoridad. En su lenguaje central destacan israel, david, casa. El núcleo del capítulo se percibe en “Oh Jehová Dios nuestro, toda esta abundancia que hemos aprestado para edificar casa á tu santo nombre, de tu mano es, y…”."
 }

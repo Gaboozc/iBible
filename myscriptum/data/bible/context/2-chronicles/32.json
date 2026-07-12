@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 32, el capítulo contiene 33 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ezechias, jerusalem, juda. Señales textuales: “DESPUÉS de estas cosas y de esta fidelidad, vino Sennachêrib rey de los Asirios, entró en Judá, y asentó campo contra l…” | “Además de esto escribió letras en que blasfemaba á Jehová el Dios de Israel, y hablaba contra él, diciendo: Como los di…” | “Y durmió Ezechîas con sus padres, y sepultáronlo en los más insignes sepulcros de los hijos de David, honrándole en su…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ezechias, jerusalem, juda. El núcleo del capítulo se percibe en “Además de esto escribió letras en que blasfemaba á Jehová el Dios de Israel, y hablaba contra él, diciendo: Como los di…”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 32, el capítulo contiene 33 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ezechias, jerusalem, juda. Señales textuales: “DESPUÉS de estas cosas y de esta fidelidad, vino Sennachêrib rey de los Asirios, entró en Judá, y asentó campo contra l…” | “Además de esto escribió letras en que blasfemaba á Jehová el Dios de Israel, y hablaba contra él, diciendo: Como los di…” | “Y durmió Ezechîas con sus padres, y sepultáronlo en los más insignes sepulcros de los hijos de David, honrándole en su…”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ezechias, jerusalem, juda. El núcleo del capítulo se percibe en “Además de esto escribió letras en que blasfemaba á Jehová el Dios de Israel, y hablaba contra él, diciendo: Como los di…”."
 }

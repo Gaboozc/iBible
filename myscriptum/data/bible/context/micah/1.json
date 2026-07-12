@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reinos divididos (ca. 740–700 a.C.)",
+  "dominantEmpire": "Asiria en expansión",
+  "kingName": "Jotam, Acaz, Ezequías (Judá)",
+  "kingRegion": "Judá con impacto en Samaria",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Miqueas",
+    "Isaías",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Miqueas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Miqueas 1, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: moradora, jerusalem, israel. Señales textuales: “PALABRA de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Sa…” | “Porque su llaga es dolorosa, que llegó hasta Judá; llegó hasta la puerta de mi pueblo, hasta Jerusalem.” | “Mésate y trasquílate por los hijos de tus delicias: ensancha tu calva como águila; porque fueron trasportados de ti.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en adoración, oración y respuesta de fe; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan moradora, jerusalem, israel. El núcleo del capítulo se percibe en “Porque su llaga es dolorosa, que llegó hasta Judá; llegó hasta la puerta de mi pueblo, hasta Jerusalem.”."
+  "templeStatus": "Templo en Jerusalén; culto contaminado",
+  "location": "Moreset-gat (origen del profeta), Samaria, Jerusalén",
+  "summary": "Miqueas denuncia la injusticia y promete un gobernante desde Belén (5:2). En Miqueas 1, el capítulo contiene 16 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: moradora, jerusalem, israel. Señales textuales: “PALABRA de Jehová que fué á Miqueas de Morasti en días de Jotham, Achâz, y Ezechîas, reyes de Judá: lo que vió sobre Sa…” | “Porque su llaga es dolorosa, que llegó hasta Judá; llegó hasta la puerta de mi pueblo, hasta Jerusalem.” | “Mésate y trasquílate por los hijos de tus delicias: ensancha tu calva como águila; porque fueron trasportados de ti.”.",
+  "spiritualContext": "Sintetiza la ética profética: hacer justicia, amar misericordia y humillarse ante Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en adoración, oración y respuesta de fe; énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan moradora, jerusalem, israel. El núcleo del capítulo se percibe en “Porque su llaga es dolorosa, que llegó hasta Judá; llegó hasta la puerta de mi pueblo, hasta Jerusalem.”."
 }

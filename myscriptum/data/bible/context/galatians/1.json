@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 48–55 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Contexto imperial",
+  "kingRegion": "Galacia (Asia Menor)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Gálatas aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Gálatas 1, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: otro, evangelio, hombres. Señales textuales: “PABLO, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muert…” | “Porque ya habéis oído acerca de mi conducta otro tiempo en el Judaismo, que perseguía sobremanera la iglesia de Dios, y…” | “Y glorificaban á Dios en mí.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan otro, evangelio, hombres. El núcleo del capítulo se percibe en “Porque ya habéis oído acerca de mi conducta otro tiempo en el Judaismo, que perseguía sobremanera la iglesia de Dios, y…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Galacia (norte o sur, según hipótesis)",
+  "summary": "Gálatas defiende la justificación por la fe frente al judaizantismo. En Gálatas 1, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: otro, evangelio, hombres. Señales textuales: “PABLO, apóstol, (no de los hombres, ni por hombre, mas por Jesucristo y por Dios el Padre, que lo resucitó de los muert…” | “Porque ya habéis oído acerca de mi conducta otro tiempo en el Judaismo, que perseguía sobremanera la iglesia de Dios, y…” | “Y glorificaban á Dios en mí.”.",
+  "spiritualContext": "Contrasta obras de la ley y fruto del Espíritu; libertad cristiana bajo la cruz. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica. En su lenguaje central destacan otro, evangelio, hombres. El núcleo del capítulo se percibe en “Porque ya habéis oído acerca de mi conducta otro tiempo en el Judaismo, que perseguía sobremanera la iglesia de Dios, y…”."
 }

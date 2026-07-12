@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 9, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nuestros, tierra, todo. Señales textuales: “Y EL día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí.” | “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.” | “A causa pues de todo eso nosotros hacemos fiel alianza, y la escribimos, signada de nuestros príncipes, de nuestros Lev…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nuestros, tierra, todo. El núcleo del capítulo se percibe en “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 9, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nuestros, tierra, todo. Señales textuales: “Y EL día veinticuatro del mismo mes se juntaron los hijos de Israel en ayuno, y con sacos, y tierra sobre sí.” | “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.” | “A causa pues de todo eso nosotros hacemos fiel alianza, y la escribimos, signada de nuestros príncipes, de nuestros Lev…”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan nuestros, tierra, todo. El núcleo del capítulo se percibe en “Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.”."
 }

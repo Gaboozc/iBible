@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre historia davídica (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "David (foco narrativo)",
+  "kingRegion": "Israel unido bajo David",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Crónicas 20, el capítulo contiene 8 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, guerra, saco. Señales textuales: “Y ACONTECIÓ á la vuelta del año, en el tiempo que suelen los reyes salir á la guerra*, que Joab sacó las fuerzas del ej…” | “Y volvióse á levantar guerra con los Filisteos; é hirió Elhanán hijo de Jair á Lahmi, hermano de Goliath Getheo, el ast…” | “Estos fueron hijos de Rapha en Gath, los cuales cayeron por mano de David y de sus siervos.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, guerra, saco. El núcleo del capítulo se percibe en “Y volvióse á levantar guerra con los Filisteos; é hirió Elhanán hijo de Jair á Lahmi, hermano de Goliath Getheo, el ast…”."
+  "templeStatus": "David prepara el templo; construcción por Salomón",
+  "location": "Jerusalén y organización cúltica",
+  "summary": "1 Crónicas releva las genealogías desde Adán y el reinado de David con foco en el culto y el templo. En 1 Crónicas 20, el capítulo contiene 8 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, guerra, saco. Señales textuales: “Y ACONTECIÓ á la vuelta del año, en el tiempo que suelen los reyes salir á la guerra*, que Joab sacó las fuerzas del ej…” | “Y volvióse á levantar guerra con los Filisteos; é hirió Elhanán hijo de Jair á Lahmi, hermano de Goliath Getheo, el ast…” | “Estos fueron hijos de Rapha en Gath, los cuales cayeron por mano de David y de sus siervos.”.",
+  "spiritualContext": "Recuerda a la comunidad postexílica su identidad davídica y la centralidad del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, guerra, saco. El núcleo del capítulo se percibe en “Y volvióse á levantar guerra con los Filisteos; é hirió Elhanán hijo de Jair á Lahmi, hermano de Goliath Getheo, el ast…”."
 }

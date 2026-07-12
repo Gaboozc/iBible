@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica tardía (ca. 62–66 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Éfeso",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol) a Timoteo (pastor)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Timoteo aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Timoteo 1, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, cristo, jesus. Señales textuales: “PABLO, apóstol de Jesucristo por la ordenación de Dios nuestro Salvador, y del Señor Jesucristo, nuestra esperanza;” | “Según el evangelio de la gloria del Dios bendito, el cual á mí me ha sido encargado.” | “De los cuales son Himeneo y Alejandro, los cuales entregué á Satanás, para que aprendan á no blasfemar.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, cristo, jesus. El núcleo del capítulo se percibe en “Según el evangelio de la gloria del Dios bendito, el cual á mí me ha sido encargado.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Macedonia (redacción) → Éfeso",
+  "summary": "1 Timoteo instruye a un pastor sobre orden eclesial, doctrina sana y liderazgo. En 1 Timoteo 1, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, cristo, jesus. Señales textuales: “PABLO, apóstol de Jesucristo por la ordenación de Dios nuestro Salvador, y del Señor Jesucristo, nuestra esperanza;” | “Según el evangelio de la gloria del Dios bendito, el cual á mí me ha sido encargado.” | “De los cuales son Himeneo y Alejandro, los cuales entregué á Satanás, para que aprendan á no blasfemar.”.",
+  "spiritualContext": "Verdad y piedad se sostienen mutuamente en la vida de la iglesia. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, cristo, jesus. El núcleo del capítulo se percibe en “Según el evangelio de la gloria del Dios bendito, el cual á mí me ha sido encargado.”."
 }

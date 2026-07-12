@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 538–458 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Ciro, Darío I y Artajerjes I",
+  "kingRegion": "Provincia de Yehud bajo Persia",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Hageo",
+    "Zacarías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Esdras desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Esdras 2, el capítulo contiene 70 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, veinte, cincuenta. Señales textuales: “Y ESTOS son los hijos de la provincia que subieron de la cautividad, de la transmigración que Nabucodonosor rey de Babi…” | “Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres;” | “Y habitaron los sacerdotes, y los Levitas, y los* del pueblo, y los cantores, y los porteros y los Nethineos, en sus ci…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, veinte, cincuenta. El núcleo del capítulo se percibe en “Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres;”."
+  "templeStatus": "Reconstrucción del segundo templo (dedicado ca. 516 a.C.)",
+  "location": "Babilonia y Jerusalén",
+  "summary": "Esdras narra el retorno del exilio y la reconstrucción del templo bajo edictos persas. En Esdras 2, el capítulo contiene 70 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, veinte, cincuenta. Señales textuales: “Y ESTOS son los hijos de la provincia que subieron de la cautividad, de la transmigración que Nabucodonosor rey de Babi…” | “Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres;” | “Y habitaron los sacerdotes, y los Levitas, y los* del pueblo, y los cantores, y los porteros y los Nethineos, en sus ci…”.",
+  "spiritualContext": "Enfatiza pureza del pueblo del pacto, obediencia a la Ley y consagración del culto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, veinte, cincuenta. El núcleo del capítulo se percibe en “Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres;”."
 }

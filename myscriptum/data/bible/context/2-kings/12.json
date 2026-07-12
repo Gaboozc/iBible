@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquías divididas hasta el exilio (ca. 850–586 a.C.)",
+  "dominantEmpire": "Asiria y luego Babilonia",
+  "kingName": "Reyes de Israel y Judá hasta Sedequías",
+  "kingRegion": "Reinos divididos, Samaria (norte) y Jerusalén (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Eliseo",
+    "Isaías",
+    "Jeremías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Reyes 12, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dinero, casa, joas. Señales textuales: “EN el séptimo año de Jehú comenzó á reinar Joas, y reinó cuarenta años en Jerusalem. El nombre de su madre fué Sibia, d…” | “Y daban el dinero suficiente en mano de los que hacían la obra, y de los que tenían el cargo de la casa de Jehová; y el…” | “Pues Josachâr hijo de Simaath, y Jozabad hijo de Somer, sus siervos, hiriéronle, y murió. Y sepultáronlo con sus padres…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan dinero, casa, joas. El núcleo del capítulo se percibe en “Y daban el dinero suficiente en mano de los que hacían la obra, y de los que tenían el cargo de la casa de Jehová; y el…”."
+  "templeStatus": "Templo saqueado y finalmente destruido en 586 a.C.",
+  "location": "Samaria, Jerusalén, Nínive, Babilonia",
+  "summary": "2 Reyes narra la caída de Samaria ante Asiria (722 a.C.) y de Jerusalén ante Babilonia (586 a.C.). En 2 Reyes 12, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dinero, casa, joas. Señales textuales: “EN el séptimo año de Jehú comenzó á reinar Joas, y reinó cuarenta años en Jerusalem. El nombre de su madre fué Sibia, d…” | “Y daban el dinero suficiente en mano de los que hacían la obra, y de los que tenían el cargo de la casa de Jehová; y el…” | “Pues Josachâr hijo de Simaath, y Jozabad hijo de Somer, sus siervos, hiriéronle, y murió. Y sepultáronlo con sus padres…”.",
+  "spiritualContext": "Muestra el juicio del pacto por idolatría persistente, pero también la esperanza remanente. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan dinero, casa, joas. El núcleo del capítulo se percibe en “Y daban el dinero suficiente en mano de los que hacían la obra, y de los que tenían el cargo de la casa de Jehová; y el…”."
 }

@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Retorno del exilio, año 520 a.C.",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I (Persia); Zorobabel como gobernador; Josué como sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Hageo",
+    "Zacarías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Hageo desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Hageo 2, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dice, ejercitos, diciendo. Señales textuales: “EN el mes* séptimo, á los veinte y uno del mes*, fué palabra de Jehová por mano del profeta Haggeo, diciendo:” | “Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella* tocare el pan, ó la vianda, ó el…” | “En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel, hijo de Sealtiel, siervo mío, dice Jehová, y poner…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan dice, ejercitos, diciendo. El núcleo del capítulo se percibe en “Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella* tocare el pan, ó la vianda, ó el…”."
+  "templeStatus": "Reconstrucción del segundo templo en curso",
+  "location": "Jerusalén",
+  "summary": "Hageo exhorta al pueblo a reconstruir el templo y priorizar el culto. En Hageo 2, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: dice, ejercitos, diciendo. Señales textuales: “EN el mes* séptimo, á los veinte y uno del mes*, fué palabra de Jehová por mano del profeta Haggeo, diciendo:” | “Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella* tocare el pan, ó la vianda, ó el…” | “En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel, hijo de Sealtiel, siervo mío, dice Jehová, y poner…”.",
+  "spiritualContext": "Recupera el orden espiritual: buscad primero el reino y su casa. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan dice, ejercitos, diciendo. El núcleo del capítulo se percibe en “Si llevare alguno las carnes sagradas en la falda de su ropa, y con el vuelo de ella* tocare el pan, ó la vianda, ó el…”."
 }

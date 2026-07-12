@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica (ca. siglo X a.C.)",
+  "dominantEmpire": "Reino unificado de Israel bajo David",
+  "kingName": "David",
+  "kingRegion": "Israel unido con capital en Jerusalén",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Samuel 12, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, nino, casa. Señales textuales: “Y ENVIÓ Jehová á Nathán á David, el cual viniendo á él, díjole: Había dos hombres en una ciudad, el uno rico, y el otro…” | “Entonces rogó David á Dios por el niño; y ayunó David, recogióse, y pasó la noche acostado en tierra.” | “Sacó además el pueblo que estaba en ella, y púsolo debajo de sierras, y de trillos de hierro, y de hachas de hierro; é…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, nino, casa. El núcleo del capítulo se percibe en “Entonces rogó David á Dios por el niño; y ayunó David, recogióse, y pasó la noche acostado en tierra.”."
+  "templeStatus": "Tabernáculo en Jerusalén; David proyecta el templo, no lo edifica",
+  "location": "Hebrón, Jerusalén, campañas fronterizas",
+  "summary": "2 Samuel expone el reinado de David: consolidación, pacto davídico, pecado con Betsabé y consecuencias familiares. En 2 Samuel 12, el capítulo contiene 31 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, nino, casa. Señales textuales: “Y ENVIÓ Jehová á Nathán á David, el cual viniendo á él, díjole: Había dos hombres en una ciudad, el uno rico, y el otro…” | “Entonces rogó David á Dios por el niño; y ayunó David, recogióse, y pasó la noche acostado en tierra.” | “Sacó además el pueblo que estaba en ella, y púsolo debajo de sierras, y de trillos de hierro, y de hachas de hierro; é…”.",
+  "spiritualContext": "Muestra la fidelidad de Dios al pacto y las consecuencias del pecado incluso en el ungido. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, nino, casa. El núcleo del capítulo se percibe en “Entonces rogó David á Dios por el niño; y ayunó David, recogióse, y pasó la noche acostado en tierra.”."
 }

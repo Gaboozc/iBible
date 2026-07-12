@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica tardía y división del reino (ca. 970–850 a.C.)",
+  "dominantEmpire": "Egipto y Aram-Damasco como potencias regionales",
+  "kingName": "Salomón, luego Roboam, Jeroboam y sucesores",
+  "kingRegion": "Israel unido → reinos divididos de Israel (norte) y Judá (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Elías",
+    "Ahías silonita",
+    "Micaías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 8, el capítulo contiene 66 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, casa, pueblo. Señales textuales: “ENTONCES juntó Salomón los ancianos de Israel, y á todas las cabezas de las tribus, y á los príncipes de las familias d…” | “Oyelos tú en los cielos, y perdona el pecado de tu pueblo Israel, y vuélvelos á la tierra que diste á sus padres.” | “Y el octavo día despidió al pueblo: y ellos bendiciendo al rey, se fueron á sus estancias alegres y gozosos de corazón…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan israel, casa, pueblo. El núcleo del capítulo se percibe en “Oyelos tú en los cielos, y perdona el pecado de tu pueblo Israel, y vuélvelos á la tierra que diste á sus padres.”."
+  "templeStatus": "Construcción del primer templo por Salomón; luego contaminación cúltica",
+  "location": "Jerusalén, Samaria, monte Carmelo",
+  "summary": "1 Reyes cuenta el reinado glorioso y la caída de Salomón, la división del reino y el ministerio profético de Elías. En 1 Reyes 8, el capítulo contiene 66 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: israel, casa, pueblo. Señales textuales: “ENTONCES juntó Salomón los ancianos de Israel, y á todas las cabezas de las tribus, y á los príncipes de las familias d…” | “Oyelos tú en los cielos, y perdona el pecado de tu pueblo Israel, y vuélvelos á la tierra que diste á sus padres.” | “Y el octavo día despidió al pueblo: y ellos bendiciendo al rey, se fueron á sus estancias alegres y gozosos de corazón…”.",
+  "spiritualContext": "Contrasta sabiduría y apostasía, mostrando que la fidelidad al pacto sostiene o hunde a los reinos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan israel, casa, pueblo. El núcleo del capítulo se percibe en “Oyelos tú en los cielos, y perdona el pecado de tu pueblo Israel, y vuélvelos á la tierra que diste á sus padres.”."
 }

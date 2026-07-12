@@ -5,12 +5,33 @@ import { resolveBookDir } from '../lib/bible/book-dir-map';
 interface ContextData {
   summary?: string;
   spiritualContext?: string;
+  dominantEmpire?: string;
+  period?: string;
+  kingName?: string;
+  templeStatus?: string;
+  location?: string;
 }
 
 interface AnalysisData {
   title?: string;
   sections?: Array<{ description?: string; significance?: string }>;
   repeatedWords?: Array<{ word?: string; count?: number; significance?: string }>;
+}
+
+interface QuestionData {
+  stage?: string;
+  question?: string;
+}
+
+interface ConnectionData {
+  type?: string;
+  description?: string;
+  reference?: string;
+}
+
+interface EtymologyEntry {
+  hebrew?: string;
+  english?: string;
 }
 
 interface ChapterText {
@@ -35,6 +56,13 @@ interface QualityReport {
   chapters: ChapterIssue[];
 }
 
+type ContentTab = 'analysis' | 'context' | 'questions' | 'connections' | 'etymology';
+
+interface GenericManifest {
+  generatedAt: string;
+  chapters: Record<string, ContentTab[]>;
+}
+
 const GENERIC_PATTERNS = [
   /per[ií]odo b[ií]blico general/i,
   /contexto geogr[aá]fico y hist[oó]rico variado/i,
@@ -44,6 +72,35 @@ const GENERIC_PATTERNS = [
   /conecta con los temas principales del libro/i,
   /patr[oó]n tem[aá]tico recurrente/i,
   /motivo literario/i,
+  /[eé]nfasis teol[oó]gico del pasaje y cohesi[oó]n literaria del cap[ií]tulo/i,
+  /aporta un matiz propio dentro del libro/i,
+  /articulando el movimiento del texto dentro del libro/i,
+  /consolidaci[oó]n del mensaje en la unidad/i,
+  /proyecta su mensaje dentro del marco hist[oó]rico del libro/i,
+];
+
+// Huellas del fallbackBookProfile (scripts/generate-analysis.ts)
+const FALLBACK_CONTEXT_FINGERPRINTS = [
+  /Contexto ANE:\s*Egipto\s*\/\s*Asiria\s*\/\s*Babilonia\s*\/\s*Persia/i,
+  /Peri[oó]do veterotestamentario \(seg[uú]n marco del libro\)/i,
+  /Seg[uú]n momento narrativo del libro/i,
+  /Israel, Jud[aá] o exilio, seg[uú]n el libro/i,
+  /Autoridades romanas y locales seg[uú]n el contexto/i,
+  /Segundo Templo en transici[oó]n hist[oó]rica o ya destruido seg[uú]n fecha/i,
+];
+
+// Huellas del generador de questions/connections/etymology
+const QUESTION_FINGERPRINTS = [
+  /personajes,\s*lugares y eventos principales en/i,
+  /palabras o frases se repiten en este cap[ií]tulo/i,
+  /mensaje central o prop[oó]sito de/i,
+  /naturaleza de Dios/i,
+];
+
+const CONNECTION_FINGERPRINTS = [
+  /Este cap[ií]tulo conecta con el tema general del libro de/i,
+  /Este pasaje se sit[uú]a en un momento clave de la historia b[ií]blica/i,
+  /Referencias tem[aá]ticas en la Biblia/i,
 ];
 
 const RV1909_BOOK_ALIASES: Record<string, string> = {
@@ -127,6 +184,55 @@ function loadVerseCount(dataRoot: string, book: string, chapter: number): number
   return 0;
 }
 
+function isChapterTabGeneric(
+  tab: ContentTab,
+  data: {
+    context: ContextData | null;
+    analysis: AnalysisData | null;
+    questions: QuestionData[] | null;
+    connections: ConnectionData[] | null;
+    etymology: EtymologyEntry[] | null;
+  },
+  duplicateTitles: Set<string>
+): boolean {
+  switch (tab) {
+    case 'context': {
+      const ctx = data.context;
+      if (!ctx) return true;
+      if (FALLBACK_CONTEXT_FINGERPRINTS.some((p) => p.test(`${ctx.dominantEmpire ?? ''} ${ctx.period ?? ''} ${ctx.kingName ?? ''} ${ctx.templeStatus ?? ''} ${ctx.location ?? ''}`))) {
+        return true;
+      }
+      const combo = `${ctx.summary ?? ''} ${ctx.spiritualContext ?? ''}`;
+      return GENERIC_PATTERNS.some((p) => p.test(combo));
+    }
+    case 'analysis': {
+      const a = data.analysis;
+      if (!a) return true;
+      const title = a.title?.trim() ?? '';
+      const key = normalize(title.replace(/\d+/g, '#'));
+      if (title && duplicateTitles.has(key)) return true;
+      const sectionsText = (a.sections ?? []).map((s) => `${s.description ?? ''} ${s.significance ?? ''}`).join(' ');
+      return GENERIC_PATTERNS.some((p) => p.test(sectionsText));
+    }
+    case 'questions': {
+      const q = data.questions;
+      if (!q || q.length === 0) return true;
+      const firstQ = q[0]?.question ?? '';
+      return QUESTION_FINGERPRINTS.some((p) => p.test(firstQ));
+    }
+    case 'connections': {
+      const c = data.connections;
+      if (!c || c.length === 0) return true;
+      return c.every((entry) => CONNECTION_FINGERPRINTS.some((p) => p.test(`${entry.description ?? ''} ${entry.reference ?? ''}`)));
+    }
+    case 'etymology': {
+      const e = data.etymology;
+      if (!e || e.length === 0) return true;
+      return e.length === 1 && /d[aá]bar/i.test(e[0]?.hebrew ?? '');
+    }
+  }
+}
+
 function main(): void {
   const dataRoot = path.join(process.cwd(), 'data', 'bible');
   const books = getBooks(dataRoot);
@@ -138,6 +244,24 @@ function main(): void {
   const spiritualMap = new Map<string, number>();
   const titleMap = new Map<string, number>();
 
+  // First pass: collect all analysis titles to know which are duplicated
+  const rawTitles = new Map<string, number>();
+  for (const book of books) {
+    for (const chapter of getChapters(dataRoot, book)) {
+      const a = readJson<AnalysisData>(path.join(dataRoot, 'analysis', book, `${chapter}.json`));
+      const title = a?.title?.trim();
+      if (title) {
+        const key = normalize(title.replace(/\d+/g, '#'));
+        rawTitles.set(key, (rawTitles.get(key) ?? 0) + 1);
+      }
+    }
+  }
+  const duplicateTitles = new Set<string>();
+  rawTitles.forEach((count, key) => {
+    if (count > 1) duplicateTitles.add(key);
+  });
+
+  const genericChapters: Record<string, ContentTab[]> = {};
   let scannedChapters = 0;
 
   for (const book of books) {
@@ -149,10 +273,28 @@ function main(): void {
 
       const contextPath = path.join(dataRoot, 'context', book, `${chapter}.json`);
       const analysisPath = path.join(dataRoot, 'analysis', book, `${chapter}.json`);
+      const questionsPath = path.join(dataRoot, 'questions', book, `${chapter}.json`);
+      const connectionsPath = path.join(dataRoot, 'connections', book, `${chapter}.json`);
+      const etymologyPath = path.join(dataRoot, 'etymology', book, `${chapter}.json`);
 
       const context = readJson<ContextData>(contextPath);
       const analysis = readJson<AnalysisData>(analysisPath);
+      const questions = readJson<QuestionData[]>(questionsPath);
+      const connections = readJson<ConnectionData[]>(connectionsPath);
+      const etymology = readJson<EtymologyEntry[]>(etymologyPath);
       const verseCount = loadVerseCount(dataRoot, book, chapter);
+
+      const flagged: ContentTab[] = [];
+      const chapterData = { context, analysis, questions, connections, etymology };
+      for (const tab of ['analysis', 'context', 'questions', 'connections', 'etymology'] as ContentTab[]) {
+        if (isChapterTabGeneric(tab, chapterData, duplicateTitles)) {
+          flagged.push(tab);
+          pushIssue(issueCounts, `${tab}_generic`);
+        }
+      }
+      if (flagged.length > 0) {
+        genericChapters[`${book}:${chapter}`] = flagged;
+      }
 
       if (!context) {
         issues.push('context_missing_or_invalid');
@@ -255,13 +397,23 @@ function main(): void {
   const outPath = path.join(dataRoot, 'quality-report.json');
   writeFileSync(outPath, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
 
+  const manifest: GenericManifest = {
+    generatedAt: new Date().toISOString(),
+    chapters: genericChapters,
+  };
+  const manifestPath = path.join(dataRoot, 'generic-manifest.json');
+  writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+
+  const genericCount = Object.keys(genericChapters).length;
   console.log('🔎 Deep quality check completed');
   console.log(`📚 Chapters scanned: ${report.scannedChapters}`);
-  console.log(`⚠️ Chapters with issues: ${report.chaptersWithIssues}`);
+  console.log(`⚠️  Chapters with issues: ${report.chaptersWithIssues}`);
+  console.log(`🚧 Chapters with any generic tab: ${genericCount}`);
   console.log(`🧪 Exact duplicate summaries: ${report.exactDuplicates.contextSummary}`);
   console.log(`🧪 Exact duplicate spiritual contexts: ${report.exactDuplicates.spiritualContext}`);
   console.log(`🧪 Near-template duplicate titles: ${report.exactDuplicates.analysisTitle}`);
   console.log(`📄 Report: ${outPath}`);
+  console.log(`📄 Generic manifest: ${manifestPath}`);
 }
 
 main();

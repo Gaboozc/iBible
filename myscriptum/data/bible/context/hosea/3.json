@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reino del norte antes de su caída (ca. 755–715 a.C.)",
+  "dominantEmpire": "Asiria emergente",
+  "kingName": "Jeroboam II, luego Menahem, Peka, Oseas",
+  "kingRegion": "Reino del norte (Israel)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Oseas",
+    "Amós (contemporáneo)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Oseas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Oseas 3, el capítulo contiene 5 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, israel, dias. Señales textuales: “Y DÍJOME otra vez Jehová: Ve, ama una mujer amada de su* compañero, aunque adúltera, como el amor de Jehová para con lo…” | “Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro* varón; ni tampoco yo vendré* á ti.” | “Después volverán los hijos de Israel, y buscarán á Jehová su Dios, y á David su rey; y temerán á Jehová y á su bondad e…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, israel, dias. El núcleo del capítulo se percibe en “Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro* varón; ni tampoco yo vendré* á ti.”."
+  "templeStatus": "Templos rivales en Betel y Dan; culto sincretista",
+  "location": "Reino del norte, Samaria y Jezreel",
+  "summary": "Oseas denuncia la infidelidad de Israel con el matrimonio simbólico del profeta. En Oseas 3, el capítulo contiene 5 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, israel, dias. Señales textuales: “Y DÍJOME otra vez Jehová: Ve, ama una mujer amada de su* compañero, aunque adúltera, como el amor de Jehová para con lo…” | “Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro* varón; ni tampoco yo vendré* á ti.” | “Después volverán los hijos de Israel, y buscarán á Jehová su Dios, y á David su rey; y temerán á Jehová y á su bondad e…”.",
+  "spiritualContext": "Revela el amor perseverante de Dios (jésed) frente al adulterio espiritual del pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, israel, dias. El núcleo del capítulo se percibe en “Y díjele: Tú estarás por mía muchos días: no fornicarás, ni tomarás otro* varón; ni tampoco yo vendré* á ti.”."
 }

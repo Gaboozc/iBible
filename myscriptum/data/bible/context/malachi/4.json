@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio tardío (ca. mediados del siglo V a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "No aplica",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (último profeta del AT)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Malaquías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Malaquías 4, el capítulo contiene 6 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: aqui, todos, seran. Señales textuales: “PORQUE he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa;…” | “Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.” | “El convertirá el corazón de los padres á los hijos, y el corazón de los hijos á los padres: no sea que yo venga, y con…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan aqui, todos, seran. El núcleo del capítulo se percibe en “Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.”."
+  "templeStatus": "Segundo templo funcionando; culto en decadencia",
+  "location": "Jerusalén",
+  "summary": "Malaquías denuncia formalismo sacerdotal y matrimonios mixtos, y promete al mensajero del pacto. En Malaquías 4, el capítulo contiene 6 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: aqui, todos, seran. Señales textuales: “PORQUE he aquí, viene el día ardiente como un horno; y todos los soberbios, y todos los que hacen maldad, serán estopa;…” | “Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.” | “El convertirá el corazón de los padres á los hijos, y el corazón de los hijos á los padres: no sea que yo venga, y con…”.",
+  "spiritualContext": "Cierra el AT anunciando al precursor y al Sol de justicia por venir. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan aqui, todos, seran. El núcleo del capítulo se percibe en “Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.”."
 }

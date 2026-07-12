@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 7, el capítulo contiene 73 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, cuarenta, varones. Señales textuales: “Y LUEGO que el muro fué edificado, y asenté las puertas, y fueron señalados porteros y cantores y Levitas,” | “Los hijos de Lod, de Hadid, y Ono, setecientos veintiuno;” | “Y habitaron los sacerdotes y los Levitas, y los porteros, y los cantores, y los del pueblo, y los Nethineos, y todo Isr…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, cuarenta, varones. El núcleo del capítulo se percibe en “Los hijos de Lod, de Hadid, y Ono, setecientos veintiuno;”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 7, el capítulo contiene 73 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijos, cuarenta, varones. Señales textuales: “Y LUEGO que el muro fué edificado, y asenté las puertas, y fueron señalados porteros y cantores y Levitas,” | “Los hijos de Lod, de Hadid, y Ono, setecientos veintiuno;” | “Y habitaron los sacerdotes y los Levitas, y los porteros, y los cantores, y los del pueblo, y los Nethineos, y todo Isr…”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijos, cuarenta, varones. El núcleo del capítulo se percibe en “Los hijos de Lod, de Hadid, y Ono, setecientos veintiuno;”."
 }

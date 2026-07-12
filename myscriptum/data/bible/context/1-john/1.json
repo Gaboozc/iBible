@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era post-apostólica temprana (ca. 85–95 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Iglesias de Éfeso y Asia Menor",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Juan (apóstol/anciano)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Juan aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Juan 1, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nosotros, hemos, comunion. Señales textuales: “LO que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon…” | “Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;” | “Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan nosotros, hemos, comunion. El núcleo del capítulo se percibe en “Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;”."
+  "templeStatus": "Segundo Templo ya destruido; iglesia madura",
+  "location": "Éfeso",
+  "summary": "1 Juan confronta el docetismo y afirma la encarnación real de Cristo y el amor mutuo. En 1 Juan 1, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nosotros, hemos, comunion. Señales textuales: “LO que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon…” | “Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;” | “Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros.”.",
+  "spiritualContext": "Comunión con el Padre y el Hijo se prueba en verdad, luz y amor concretos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; vida espiritual y acción del Espíritu. En su lenguaje central destacan nosotros, hemos, comunion. El núcleo del capítulo se percibe en “Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;”."
 }

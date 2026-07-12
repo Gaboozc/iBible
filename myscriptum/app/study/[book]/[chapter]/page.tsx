@@ -14,17 +14,20 @@ import { QuestionsTab } from '@/components/Study/QuestionsTab';
 import { ChapterNavDropdown } from '@/components/Study/ChapterNavDropdown';
 import { ezequiel1Data } from '@/data/ezequiel1';
 import { loadChapterText, BibleVersion, ChapterText } from '@/lib/bible/loader';
-import { 
-  loadAnalysis, 
-  loadContext, 
-  loadEtymology, 
-  loadConnections, 
+import {
+  loadAnalysis,
+  loadContext,
+  loadEtymology,
+  loadConnections,
   loadQuestions,
+  loadGenericManifest,
+  isTabGeneric,
   type StructuralAnalysis,
   type HistoricalContext,
   type KeyWord,
   type Connection,
-  type ReflectionQuestion 
+  type ReflectionQuestion,
+  type GenericManifest,
 } from '@/lib/bible/analysis-loader';
 import { fetchBibleCatalog } from '@/app/actions/catalog';
 import type { BookEntry } from '@/data/bibleCatalog';
@@ -62,6 +65,11 @@ export default function StudyPageDynamic() {
   const [questionsList, setQuestionsList] = useState<ReflectionQuestion[] | null>(null);
   const [reflectionAnswers, setReflectionAnswers] = useState<Record<number, string>>({});
   const [chapterNote, setChapterNoteState] = useState('');
+  const [genericManifest, setGenericManifest] = useState<GenericManifest | null>(null);
+
+  useEffect(() => {
+    loadGenericManifest().then(setGenericManifest);
+  }, []);
 
   const chapterNum = params?.chapter ? parseInt(params.chapter as string, 10) : 0;
   const bookSlug = params?.book ? (params.book as string) : '';
@@ -309,7 +317,10 @@ export default function StudyPageDynamic() {
           
           {/* Tab Content - FUERA del StudyTabs */}
           <div className={activeTab === 'context' ? 'p-4 sm:p-6' : 'hidden'}>
-            <HistoricalContextTab context={contextData || undefined} />
+            <HistoricalContextTab
+              context={contextData || undefined}
+              isGeneric={isTabGeneric(genericManifest, bookSlug, chapterNum, 'context')}
+            />
           </div>
 
           <div className={activeTab === 'text' ? 'p-4 sm:p-6' : 'hidden'}>
@@ -335,11 +346,17 @@ export default function StudyPageDynamic() {
           </div>
 
           <div className={activeTab === 'analysis' ? 'p-4 sm:p-6' : 'hidden'}>
-            <AnalysisTab structuralAnalysis={structuralAnalysis || undefined} />
+            <AnalysisTab
+              structuralAnalysis={structuralAnalysis || undefined}
+              isGeneric={isTabGeneric(genericManifest, bookSlug, chapterNum, 'analysis')}
+            />
           </div>
 
           <div className={activeTab === 'etymology' ? 'p-4 sm:p-6' : 'hidden'}>
-            <EtymologyTab keyWords={etymologyWords || undefined} />
+            <EtymologyTab
+              keyWords={etymologyWords || undefined}
+              isGeneric={isTabGeneric(genericManifest, bookSlug, chapterNum, 'etymology')}
+            />
           </div>
 
           <div className={activeTab === 'connections' ? 'p-4 sm:p-6' : 'hidden'}>
@@ -347,6 +364,7 @@ export default function StudyPageDynamic() {
               connections={connectionsList || undefined}
               currentBook={book?.name || bookSlug}
               currentChapter={chapterNum}
+              isGeneric={isTabGeneric(genericManifest, bookSlug, chapterNum, 'connections')}
             />
           </div>
 
@@ -355,6 +373,7 @@ export default function StudyPageDynamic() {
               questions={questionsList || undefined}
               answers={reflectionAnswers}
               onAnswerChange={handleReflectionChange}
+              isGeneric={isTabGeneric(genericManifest, bookSlug, chapterNum, 'questions')}
             />
           </div>
         </div>

@@ -1,6 +1,7 @@
 'use client';
 
 import { Globe, Clock, Users, Building2, MapPin, BookMarked } from 'lucide-react';
+import { GenericContentBadge } from './GenericContentBadge';
 
 interface HistoricalContext {
   period: string;
@@ -16,9 +17,10 @@ interface HistoricalContext {
 
 interface HistoricalContextTabProps {
   context?: HistoricalContext;
+  isGeneric?: boolean;
 }
 
-export function HistoricalContextTab({ context }: HistoricalContextTabProps) {
+export function HistoricalContextTab({ context, isGeneric = false }: HistoricalContextTabProps) {
   if (!context) {
     return (
       <div className="py-12 text-center text-slate-600">
@@ -30,6 +32,7 @@ export function HistoricalContextTab({ context }: HistoricalContextTabProps) {
 
   return (
     <div className="space-y-6">
+      {isGeneric && <GenericContentBadge tabLabel="contexto histórico" />}
       {/* Resumen narrativo */}
       <section className="bg-blue-50 border border-blue-200 rounded-lg p-6 space-y-4">
         <h3 className="text-lg font-semibold text-slate-900 flex items-center gap-2">

@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 10, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: seran, casa, lluvia. Señales textuales: “PEDID á Jehová lluvia en la sazón tardía: Jehová hará relámpagos, y os dará lluvia abundante, y hierba en el campo á ca…” | “Y será Ephraim como valiente, y alegraráse su corazón como de vino: sus hijos también verán y se alegrarán; su corazón…” | “Y yo los fortificaré en Jehová, y caminarán en su nombre, dice Jehová.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan seran, casa, lluvia. El núcleo del capítulo se percibe en “Y será Ephraim como valiente, y alegraráse su corazón como de vino: sus hijos también verán y se alegrarán; su corazón…”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 10, el capítulo contiene 12 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: seran, casa, lluvia. Señales textuales: “PEDID á Jehová lluvia en la sazón tardía: Jehová hará relámpagos, y os dará lluvia abundante, y hierba en el campo á ca…” | “Y será Ephraim como valiente, y alegraráse su corazón como de vino: sus hijos también verán y se alegrarán; su corazón…” | “Y yo los fortificaré en Jehová, y caminarán en su nombre, dice Jehová.”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan seran, casa, lluvia. El núcleo del capítulo se percibe en “Y será Ephraim como valiente, y alegraráse su corazón como de vino: sus hijos también verán y se alegrarán; su corazón…”."
 }

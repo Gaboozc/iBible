@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica temprana (ca. 50–51 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Claudio (contexto imperial)",
+  "kingRegion": "Tesalónica (Macedonia)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo, Silas y Timoteo"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Tesalonicenses aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Tesalonicenses 1, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, padre, jesucristo. Señales textuales: “PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es* en Dios Padre y en el Señor Jesucristo: Gracia…” | “Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo d…” | “Y esperar á su Hijo de los cielos, al cual resucitó de los muertos; á Jesús, el cual nos libró de la ira que ha de veni…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, padre, jesucristo. El núcleo del capítulo se percibe en “Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo d…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Corinto (redacción) → Tesalónica",
+  "summary": "1 Tesalonicenses anima a una iglesia joven bajo persecución y enseña sobre la venida del Señor. En 1 Tesalonicenses 1, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, padre, jesucristo. Señales textuales: “PABLO, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es* en Dios Padre y en el Señor Jesucristo: Gracia…” | “Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo d…” | “Y esperar á su Hijo de los cielos, al cual resucitó de los muertos; á Jesús, el cual nos libró de la ira que ha de veni…”.",
+  "spiritualContext": "Fe, amor y esperanza escatológica moldean la vida cristiana. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan senor, padre, jesucristo. El núcleo del capítulo se percibe en “Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo d…”."
 }

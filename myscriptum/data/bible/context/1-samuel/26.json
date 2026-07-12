@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Fin del periodo de los jueces e inicio de la monarquía (ca. siglo XI a.C.)",
+  "dominantEmpire": "Filisteos como potencia regional",
+  "kingName": "Saúl (primer rey de Israel)",
+  "kingRegion": "Israel unificado, con presión filistea",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Samuel",
+    "Natán (posteriormente)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Samuel 26, el capítulo contiene 25 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, saul, pues. Señales textuales: “Y VINIERON los Zipheos á Saúl en Gabaa, diciendo: ¿No está David escondido en el collado de Hachîla delante del desiert…” | “Y pasando David de la otra parte, púsose desviado en la cumbre del monte, habiendo grande distancia entre ellos;” | “Y Saúl dijo á David: Bendito eres tú, hijo mío David; sin duda ejecutarás tú grandes empresas*, y prevalecerás. Entonce…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, saul, pues. El núcleo del capítulo se percibe en “Y pasando David de la otra parte, púsose desviado en la cumbre del monte, habiendo grande distancia entre ellos;”."
+  "templeStatus": "Tabernáculo en Silo; el arca en cautividad y peregrinación",
+  "location": "Silo, Ramá, Guibeá, cuevas de En-gadi",
+  "summary": "1 Samuel narra la transición de los jueces a la monarquía: Samuel unge a Saúl y luego a David. En 1 Samuel 26, el capítulo contiene 25 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, saul, pues. Señales textuales: “Y VINIERON los Zipheos á Saúl en Gabaa, diciendo: ¿No está David escondido en el collado de Hachîla delante del desiert…” | “Y pasando David de la otra parte, púsose desviado en la cumbre del monte, habiendo grande distancia entre ellos;” | “Y Saúl dijo á David: Bendito eres tú, hijo mío David; sin duda ejecutarás tú grandes empresas*, y prevalecerás. Entonce…”.",
+  "spiritualContext": "El énfasis está en la elección divina, obediencia frente a apariencias humanas y el corazón conforme a Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, saul, pues. El núcleo del capítulo se percibe en “Y pasando David de la otra parte, púsose desviado en la cumbre del monte, habiendo grande distancia entre ellos;”."
 }

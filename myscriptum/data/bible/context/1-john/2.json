@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era post-apostólica temprana (ca. 85–95 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Domicio (contexto tradicional)",
+  "kingRegion": "Iglesias de Éfeso y Asia Menor",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Juan (apóstol/anciano)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "1 Juan aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 1 Juan 2, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: habeis, padre, escribo. Señales textuales: “HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padr…” | “No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.” | “Si sabéis que él es justo, sabed también que cualquiera que hace justicia, es nacido de él.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan habeis, padre, escribo. El núcleo del capítulo se percibe en “No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.”."
+  "templeStatus": "Segundo Templo ya destruido; iglesia madura",
+  "location": "Éfeso",
+  "summary": "1 Juan confronta el docetismo y afirma la encarnación real de Cristo y el amor mutuo. En 1 Juan 2, el capítulo contiene 29 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: habeis, padre, escribo. Señales textuales: “HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padr…” | “No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.” | “Si sabéis que él es justo, sabed también que cualquiera que hace justicia, es nacido de él.”.",
+  "spiritualContext": "Comunión con el Padre y el Hijo se prueba en verdad, luz y amor concretos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan habeis, padre, escribo. El núcleo del capítulo se percibe en “No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.”."
 }

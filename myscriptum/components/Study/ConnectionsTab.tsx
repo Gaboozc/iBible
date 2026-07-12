@@ -5,11 +5,13 @@ import { Link2, History, BookOpen, Zap, BookMarked } from 'lucide-react';
 import { ReactFlow, Background, Controls, MarkerType, type Node, type Edge } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import type { Connection } from '@/lib/bible/analysis-loader';
+import { GenericContentBadge } from './GenericContentBadge';
 
 interface ConnectionsTabProps {
   connections?: Connection[];
   currentBook?: string;
   currentChapter?: number;
+  isGeneric?: boolean;
 }
 
 type ConnectionType = 'historical' | 'thematic' | 'prophetic' | 'typological' | 'lexical';
@@ -96,7 +98,7 @@ function buildGraph(
   return { nodes, edges };
 }
 
-export function ConnectionsTab({ connections = [], currentBook = '', currentChapter = 0 }: ConnectionsTabProps) {
+export function ConnectionsTab({ connections = [], currentBook = '', currentChapter = 0, isGeneric = false }: ConnectionsTabProps) {
   const { nodes, edges } = useMemo(
     () => buildGraph(connections, currentBook, currentChapter),
     [connections, currentBook, currentChapter]
@@ -113,6 +115,7 @@ export function ConnectionsTab({ connections = [], currentBook = '', currentChap
 
   return (
     <div className="space-y-4 sm:space-y-6">
+      {isGeneric && <GenericContentBadge tabLabel="conexiones bíblicas" />}
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 sm:p-4">
         <p className="text-xs sm:text-sm text-slate-700">
           <span className="font-semibold text-slate-900">Conexiones Bíblicas:</span> La Biblia es un libro

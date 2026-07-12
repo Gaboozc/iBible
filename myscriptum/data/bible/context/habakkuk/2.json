@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Antesala de la invasión babilónica a Judá (ca. 620–605 a.C.)",
+  "dominantEmpire": "Caldeos (Babilonia neobabilónica) en ascenso",
+  "kingName": "Joacim (Judá)",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Habacuc",
+    "Jeremías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Habacuc desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Habacuc 2, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: todos, pueblos, tierra. Señales textuales: “SOBRE mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de re…” | “Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.” | “Mas Jehová está* en su santo templo: calle delante de él toda la tierra.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan todos, pueblos, tierra. El núcleo del capítulo se percibe en “Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.”."
+  "templeStatus": "Templo aún en pie; caerá pronto",
+  "location": "Judá y Jerusalén",
+  "summary": "Habacuc dialoga con Dios sobre el uso de un pueblo pagano para juzgar a Judá y concluye en fe. En Habacuc 2, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: todos, pueblos, tierra. Señales textuales: “SOBRE mi guarda estaré, y sobre la fortaleza afirmaré el pie, y atalayaré para ver qué hablará en mí, y qué tengo de re…” | “Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.” | “Mas Jehová está* en su santo templo: calle delante de él toda la tierra.”.",
+  "spiritualContext": "El justo por su fe vivirá (2:4): fundamento del vivir creyente aun en oscuridad. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan todos, pueblos, tierra. El núcleo del capítulo se percibe en “Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.”."
 }

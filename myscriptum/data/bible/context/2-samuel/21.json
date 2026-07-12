@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica (ca. siglo X a.C.)",
+  "dominantEmpire": "Reino unificado de Israel bajo David",
+  "kingName": "David",
+  "kingRegion": "Israel unido con capital en Jerusalén",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Samuel 21, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, david, hijo. Señales textuales: “Y EN los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl…” | “Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que…” | “Estos cuatro le habían nacido al gigante en Gath, los cuales cayeron por la mano de David, y por la mano de sus siervos.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, david, hijo. El núcleo del capítulo se percibe en “Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que…”."
+  "templeStatus": "Tabernáculo en Jerusalén; David proyecta el templo, no lo edifica",
+  "location": "Hebrón, Jerusalén, campañas fronterizas",
+  "summary": "2 Samuel expone el reinado de David: consolidación, pacto davídico, pecado con Betsabé y consecuencias familiares. En 2 Samuel 21, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, david, hijo. Señales textuales: “Y EN los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl…” | “Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que…” | “Estos cuatro le habían nacido al gigante en Gath, los cuales cayeron por la mano de David, y por la mano de sus siervos.”.",
+  "spiritualContext": "Muestra la fidelidad de Dios al pacto y las consecuencias del pecado incluso en el ungido. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, david, hijo. El núcleo del capítulo se percibe en “Entonces David fué, y tomó los huesos de Saúl y los huesos de Jonathán su hijo, de los hombres de Jabes de Galaad, que…”."
 }

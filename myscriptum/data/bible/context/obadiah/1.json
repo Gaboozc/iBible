@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Poco después de la caída de Jerusalén (probable ca. 586–550 a.C.)",
+  "dominantEmpire": "Babilonia",
+  "kingName": "No aplica",
+  "kingRegion": "Judá y Edom",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Abdías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Abdías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Abdías 1, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esau, monte, habias. Señales textuales: “VISIÓN de Abdías. El Señor Jehová ha dicho así cuanto á Edom: Oído hemos el pregón de Jehová, y mensajero es enviado á…” | “El día que estando tú delante, llevaban extraños cautivo su ejército, y los extraños entraban por sus puertas, y echaba…” | “Y vendrán salvadores al monte de Sión para juzgar al monte de Esaú; y el reino será de Jehová.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan esau, monte, habias. El núcleo del capítulo se percibe en “El día que estando tú delante, llevaban extraños cautivo su ejército, y los extraños entraban por sus puertas, y echaba…”."
+  "templeStatus": "Templo destruido",
+  "location": "Contra Edom (montes de Seír)",
+  "summary": "Abdías anuncia el juicio sobre Edom por su complicidad en la caída de Jerusalén. En Abdías 1, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: esau, monte, habias. Señales textuales: “VISIÓN de Abdías. El Señor Jehová ha dicho así cuanto á Edom: Oído hemos el pregón de Jehová, y mensajero es enviado á…” | “El día que estando tú delante, llevaban extraños cautivo su ejército, y los extraños entraban por sus puertas, y echaba…” | “Y vendrán salvadores al monte de Sión para juzgar al monte de Esaú; y el reino será de Jehová.”.",
+  "spiritualContext": "Dios reivindica a su pueblo y juzga la soberbia de las naciones vecinas. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan esau, monte, habias. El núcleo del capítulo se percibe en “El día que estando tú delante, llevaban extraños cautivo su ejército, y los extraños entraban por sus puertas, y echaba…”."
 }

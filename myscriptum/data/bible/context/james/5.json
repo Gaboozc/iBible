@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica temprana (ca. 45–49 d.C., una de las primeras cartas)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Contexto imperial temprano",
+  "kingRegion": "Judíos cristianos dispersos (diáspora)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Santiago, hermano del Señor"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Santiago aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Santiago 5, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, vuestras, habeis. Señales textuales: “EA ya ahora, oh ricos, llorad aullando por vuestras miserias que os vendrán.” | “He aquí, tenemos por bienaventurados á los que sufren. Habéis oído la paciencia de Job, y habéis visto el fin del Señor…” | “Sepa que el que hubiere hecho convertir al pecador del error de su camino, salvará un alma de muerte, y cubrirá multitu…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan senor, vuestras, habeis. El núcleo del capítulo se percibe en “He aquí, tenemos por bienaventurados á los que sufren. Habéis oído la paciencia de Job, y habéis visto el fin del Señor…”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Jerusalén (redacción) → diáspora",
+  "summary": "Santiago llama a una fe encarnada en obras: sabiduría, control de la lengua y justicia. En Santiago 5, el capítulo contiene 20 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: senor, vuestras, habeis. Señales textuales: “EA ya ahora, oh ricos, llorad aullando por vuestras miserias que os vendrán.” | “He aquí, tenemos por bienaventurados á los que sufren. Habéis oído la paciencia de Job, y habéis visto el fin del Señor…” | “Sepa que el que hubiere hecho convertir al pecador del error de su camino, salvará un alma de muerte, y cubrirá multitu…”.",
+  "spiritualContext": "La fe sin obras es muerta: la piedad se prueba en la vida real. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan senor, vuestras, habeis. El núcleo del capítulo se percibe en “He aquí, tenemos por bienaventurados á los que sufren. Habéis oído la paciencia de Job, y habéis visto el fin del Señor…”."
 }

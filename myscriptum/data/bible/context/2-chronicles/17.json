@@ -1,13 +1,16 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Perspectiva postexílica sobre reyes de Judá (compilado ca. siglo V–IV a.C.)",
+  "dominantEmpire": "Imperio persa (contexto de redacción)",
+  "kingName": "Reyes de Judá desde Salomón hasta Sedequías",
+  "kingRegion": "Reino sur de Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sadoc",
+    "Isaías",
+    "Jeremías",
+    "Hulda"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Crónicas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Crónicas 17, el capítulo contiene 19 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, ciudades, josaphat. Señales textuales: “Y REINÓ en su lugar Josaphat su hijo, el cual prevaleció contra Israel.” | “Y cayó el pavor de Jehová sobre todos los reinos de las tierras que estaban alrededor de Judá; que no osaron hacer guer…” | “Estos eran siervos del rey, sin los que había el rey puesto en las ciudades de guarnición por toda Judea.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan juda, ciudades, josaphat. El núcleo del capítulo se percibe en “Y cayó el pavor de Jehová sobre todos los reinos de las tierras que estaban alrededor de Judá; que no osaron hacer guer…”."
+  "templeStatus": "Construcción, profanaciones, reformas y destrucción del templo",
+  "location": "Jerusalén y templo",
+  "summary": "2 Crónicas se enfoca en los reyes de Judá, sus reformas cúlticas y la caída de Jerusalén. En 2 Crónicas 17, el capítulo contiene 19 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: juda, ciudades, josaphat. Señales textuales: “Y REINÓ en su lugar Josaphat su hijo, el cual prevaleció contra Israel.” | “Y cayó el pavor de Jehová sobre todos los reinos de las tierras que estaban alrededor de Judá; que no osaron hacer guer…” | “Estos eran siervos del rey, sin los que había el rey puesto en las ciudades de guarnición por toda Judea.”.",
+  "spiritualContext": "Enseña que la humillación, oración y búsqueda de Dios traen restauración al pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan juda, ciudades, josaphat. El núcleo del capítulo se percibe en “Y cayó el pavor de Jehová sobre todos los reinos de las tierras que estaban alrededor de Judá; que no osaron hacer guer…”."
 }

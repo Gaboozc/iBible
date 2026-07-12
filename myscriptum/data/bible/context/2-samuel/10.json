@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica (ca. siglo X a.C.)",
+  "dominantEmpire": "Reino unificado de Israel bajo David",
+  "kingName": "David",
+  "kingRegion": "Israel unido con capital en Jerusalén",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Natán",
+    "Gad"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "2 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 2 Samuel 10, el capítulo contiene 19 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: siros, david, hijos. Señales textuales: “DESPUÉS de esto aconteció, que murió el rey de los hijos de Ammón: y reinó en lugar suyo Hanún su hijo.” | “Entregó luego lo que quedó del pueblo en mano de Abisai su hermano, y púsolo en orden para encontrar á los Ammonitas.” | “Viendo pues todos los reyes que asistían á Hadad-ezer, como habían ellos sido derrotados delante de Israel, hicieron pa…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan siros, david, hijos. El núcleo del capítulo se percibe en “Entregó luego lo que quedó del pueblo en mano de Abisai su hermano, y púsolo en orden para encontrar á los Ammonitas.”."
+  "templeStatus": "Tabernáculo en Jerusalén; David proyecta el templo, no lo edifica",
+  "location": "Hebrón, Jerusalén, campañas fronterizas",
+  "summary": "2 Samuel expone el reinado de David: consolidación, pacto davídico, pecado con Betsabé y consecuencias familiares. En 2 Samuel 10, el capítulo contiene 19 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: siros, david, hijos. Señales textuales: “DESPUÉS de esto aconteció, que murió el rey de los hijos de Ammón: y reinó en lugar suyo Hanún su hijo.” | “Entregó luego lo que quedó del pueblo en mano de Abisai su hermano, y púsolo en orden para encontrar á los Ammonitas.” | “Viendo pues todos los reyes que asistían á Hadad-ezer, como habían ellos sido derrotados delante de Israel, hicieron pa…”.",
+  "spiritualContext": "Muestra la fidelidad de Dios al pacto y las consecuencias del pecado incluso en el ungido. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan siros, david, hijos. El núcleo del capítulo se percibe en “Entregó luego lo que quedó del pueblo en mano de Abisai su hermano, y púsolo en orden para encontrar á los Ammonitas.”."
 }

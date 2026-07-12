@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reinos divididos (ca. 740–700 a.C.)",
+  "dominantEmpire": "Asiria en expansión",
+  "kingName": "Jotam, Acaz, Ezequías (Judá)",
+  "kingRegion": "Judá con impacto en Samaria",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Miqueas",
+    "Isaías",
+    "Oseas"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Miqueas desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Miqueas 2, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, casas, hombre. Señales textuales: “¡AY de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, p…” | “La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien…” | “Subirá rompedor delante de ellos; romperán y pasarán la puerta, y saldrán por ella: y su rey pasará delante de ellos, y…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, casas, hombre. El núcleo del capítulo se percibe en “La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien…”."
+  "templeStatus": "Templo en Jerusalén; culto contaminado",
+  "location": "Moreset-gat (origen del profeta), Samaria, Jerusalén",
+  "summary": "Miqueas denuncia la injusticia y promete un gobernante desde Belén (5:2). En Miqueas 2, el capítulo contiene 13 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: pueblo, casas, hombre. Señales textuales: “¡AY de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, p…” | “La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien…” | “Subirá rompedor delante de ellos; romperán y pasarán la puerta, y saldrán por ella: y su rey pasará delante de ellos, y…”.",
+  "spiritualContext": "Sintetiza la ética profética: hacer justicia, amar misericordia y humillarse ante Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan pueblo, casas, hombre. El núcleo del capítulo se percibe en “La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien…”."
 }

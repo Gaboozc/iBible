@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Reforma de Josías (ca. 640–609 a.C.)",
+  "dominantEmpire": "Asiria en decadencia; Babilonia emergente",
+  "kingName": "Josías (Judá)",
+  "kingRegion": "Judá",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Sofonías",
+    "Jeremías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Sofonías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Sofonías 2, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: gente, antes, buscad. Señales textuales: “CONGREGAOS y meditad, gente no amable,” | “Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandeci…” | “Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en ca…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan gente, antes, buscad. El núcleo del capítulo se percibe en “Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandeci…”."
+  "templeStatus": "Templo en reforma bajo Josías",
+  "location": "Judá y Jerusalén",
+  "summary": "Sofonías proclama el Día del Señor de juicio y una restauración del remanente humilde. En Sofonías 2, el capítulo contiene 15 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: gente, antes, buscad. Señales textuales: “CONGREGAOS y meditad, gente no amable,” | “Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandeci…” | “Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en ca…”.",
+  "spiritualContext": "Combina severidad del juicio y ternura pastoral (3:17): Dios se regocija sobre su pueblo. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan gente, antes, buscad. El núcleo del capítulo se percibe en “Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandeci…”."
 }

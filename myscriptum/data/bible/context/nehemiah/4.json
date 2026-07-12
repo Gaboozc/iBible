@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 4, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: muro, obra, nosotros. Señales textuales: “Y FUÉ que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio…” | “Sucedió empero, que como vinieron los Judíos que habitaban entre ellos, nos dieron aviso diez veces de todos los lugare…” | “Y ni yo, ni mis hermanos, ni mis mozos, ni la gente de guardia que me seguía, desnudamos nuestro vestido: cada uno se d…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan muro, obra, nosotros. El núcleo del capítulo se percibe en “Sucedió empero, que como vinieron los Judíos que habitaban entre ellos, nos dieron aviso diez veces de todos los lugare…”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 4, el capítulo contiene 23 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: muro, obra, nosotros. Señales textuales: “Y FUÉ que como oyó Sanballat que nosotros edificábamos el muro, encolerizóse y enojóse en gran manera, é hizo escarnio…” | “Sucedió empero, que como vinieron los Judíos que habitaban entre ellos, nos dieron aviso diez veces de todos los lugare…” | “Y ni yo, ni mis hermanos, ni mis mozos, ni la gente de guardia que me seguía, desnudamos nuestro vestido: cada uno se d…”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan muro, obra, nosotros. El núcleo del capítulo se percibe en “Sucedió empero, que como vinieron los Judíos que habitaban entre ellos, nos dieron aviso diez veces de todos los lugare…”."
 }

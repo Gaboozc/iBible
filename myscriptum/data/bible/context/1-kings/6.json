@@ -1,13 +1,15 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Monarquía davídica tardía y división del reino (ca. 970–850 a.C.)",
+  "dominantEmpire": "Egipto y Aram-Damasco como potencias regionales",
+  "kingName": "Salomón, luego Roboam, Jeroboam y sucesores",
+  "kingRegion": "Israel unido → reinos divididos de Israel (norte) y Judá (sur)",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Elías",
+    "Ahías silonita",
+    "Micaías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Reyes desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Reyes 6, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, codos, dentro. Señales textuales: “Y FUÉ en el año cuatrocientos ochenta después que los hijos de Israel salieron de Egipto, en el cuarto año del principi…” | “Y el oráculo estaba en la parte de adentro, el cual tenía veinte codos de largo, y otros veinte de ancho, y otros veint…” | “Y en el undécimo año, en el mes de Bul, que es el mes octavo, fué acabada la casa con todas sus pertenencias, y con tod…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, codos, dentro. El núcleo del capítulo se percibe en “Y el oráculo estaba en la parte de adentro, el cual tenía veinte codos de largo, y otros veinte de ancho, y otros veint…”."
+  "templeStatus": "Construcción del primer templo por Salomón; luego contaminación cúltica",
+  "location": "Jerusalén, Samaria, monte Carmelo",
+  "summary": "1 Reyes cuenta el reinado glorioso y la caída de Salomón, la división del reino y el ministerio profético de Elías. En 1 Reyes 6, el capítulo contiene 38 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, codos, dentro. Señales textuales: “Y FUÉ en el año cuatrocientos ochenta después que los hijos de Israel salieron de Egipto, en el cuarto año del principi…” | “Y el oráculo estaba en la parte de adentro, el cual tenía veinte codos de largo, y otros veinte de ancho, y otros veint…” | “Y en el undécimo año, en el mes de Bul, que es el mes octavo, fué acabada la casa con todas sus pertenencias, y con tod…”.",
+  "spiritualContext": "Contrasta sabiduría y apostasía, mostrando que la fidelidad al pacto sostiene o hunde a los reinos. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan casa, codos, dentro. El núcleo del capítulo se percibe en “Y el oráculo estaba en la parte de adentro, el cual tenía veinte codos de largo, y otros veinte de ancho, y otros veint…”."
 }

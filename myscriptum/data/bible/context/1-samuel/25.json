@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Fin del periodo de los jueces e inicio de la monarquía (ca. siglo XI a.C.)",
+  "dominantEmpire": "Filisteos como potencia regional",
+  "kingName": "Saúl (primer rey de Israel)",
+  "kingRegion": "Israel unificado, con presión filistea",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Samuel",
+    "Natán (posteriormente)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Samuel 25, el capítulo contiene 44 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, nabal, senor. Señales textuales: “Y MURIÓ Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué a…” | “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…” | “Porque Saúl había dado su hija Michâl mujer de David, á Palti hijo de Lais, que era de Gallim.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, nabal, senor. El núcleo del capítulo se percibe en “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…”."
+  "templeStatus": "Tabernáculo en Silo; el arca en cautividad y peregrinación",
+  "location": "Silo, Ramá, Guibeá, cuevas de En-gadi",
+  "summary": "1 Samuel narra la transición de los jueces a la monarquía: Samuel unge a Saúl y luego a David. En 1 Samuel 25, el capítulo contiene 44 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: david, nabal, senor. Señales textuales: “Y MURIÓ Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué a…” | “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…” | “Porque Saúl había dado su hija Michâl mujer de David, á Palti hijo de Lais, que era de Gallim.”.",
+  "spiritualContext": "El énfasis está en la elección divina, obediencia frente a apariencias humanas y el corazón conforme a Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan david, nabal, senor. El núcleo del capítulo se percibe en “Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á ti…”."
 }

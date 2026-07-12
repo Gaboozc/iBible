@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (520–ca. 480 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Darío I; Zorobabel gobernador; Josué sumo sacerdote",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Zacarías",
+    "Hageo"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Zacarías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Zacarías 14, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jerusalem, gentes, hacia. Señales textuales: “HE aquí, el día de Jehová viene, y tus despojos serán repartidos en medio de ti.” | “Y morarán en ella, y nunca más será anatema; sino que será Jerusalem habitada confiadamente.” | “Y será toda olla en Jerusalem y en Judá santidad á Jehová de los ejércitos: y todos los que sacrificaren, vendrán y tom…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jerusalem, gentes, hacia. El núcleo del capítulo se percibe en “Y morarán en ella, y nunca más será anatema; sino que será Jerusalem habitada confiadamente.”."
+  "templeStatus": "Reconstrucción y consagración del segundo templo",
+  "location": "Jerusalén",
+  "summary": "Zacarías presenta visiones apocalípticas y promesas mesiánicas del Rey humilde. En Zacarías 14, el capítulo contiene 21 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jerusalem, gentes, hacia. Señales textuales: “HE aquí, el día de Jehová viene, y tus despojos serán repartidos en medio de ti.” | “Y morarán en ella, y nunca más será anatema; sino que será Jerusalem habitada confiadamente.” | “Y será toda olla en Jerusalem y en Judá santidad á Jehová de los ejércitos: y todos los que sacrificaren, vendrán y tom…”.",
+  "spiritualContext": "Alienta al remanente con esperanza mesiánica y renovación del culto verdadero. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan jerusalem, gentes, hacia. El núcleo del capítulo se percibe en “Y morarán en ella, y nunca más será anatema; sino que será Jerusalem habitada confiadamente.”."
 }

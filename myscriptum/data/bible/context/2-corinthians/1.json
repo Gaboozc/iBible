@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica (ca. 55–56 d.C.)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Nerón",
+  "kingRegion": "Acaya y Macedonia",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Pablo (apóstol)"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "2 Corintios aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En 2 Corintios 1, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nosotros, nuestra, consolacion. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, y Timoteo el hermano, á la iglesia de Dios que está en Corinto, j…” | “Porque no os escribimos otras cosas de las que leéis, ó también conocéis: y espero que aun hasta el fin las* conoceréis:” | “No que nos enseñoreemos de vuestra fe, mas somos ayudadores de vuestro gozo: porque por la fe estáis firmes.”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan nosotros, nuestra, consolacion. El núcleo del capítulo se percibe en “Porque no os escribimos otras cosas de las que leéis, ó también conocéis: y espero que aun hasta el fin las* conoceréis:”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Macedonia (redacción) → Corinto (destino)",
+  "summary": "2 Corintios defiende el apostolado de Pablo y llama a reconciliación tras tensión pastoral. En 2 Corintios 1, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: nosotros, nuestra, consolacion. Señales textuales: “PABLO, apóstol de Jesucristo por la voluntad de Dios, y Timoteo el hermano, á la iglesia de Dios que está en Corinto, j…” | “Porque no os escribimos otras cosas de las que leéis, ó también conocéis: y espero que aun hasta el fin las* conoceréis:” | “No que nos enseñoreemos de vuestra fe, mas somos ayudadores de vuestro gozo: porque por la fe estáis firmes.”.",
+  "spiritualContext": "Combina debilidad humana y poder de Cristo; consuelo divino en la aflicción. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; obra redentora de Cristo y esperanza escatológica; misericordia, gracia y restauración. En su lenguaje central destacan nosotros, nuestra, consolacion. El núcleo del capítulo se percibe en “Porque no os escribimos otras cosas de las que leéis, ó también conocéis: y espero que aun hasta el fin las* conoceréis:”."
 }

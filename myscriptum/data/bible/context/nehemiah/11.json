@@ -1,13 +1,13 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 445 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Artajerjes I",
+  "kingRegion": "Provincia de Yehud",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Malaquías (contemporáneo posible)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Nehemías desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Nehemías 11, el capítulo contiene 36 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, hijos, aldeas. Señales textuales: “Y HABITARON los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que mora…” | “Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos.” | “Y algunos de los Levitas, en los repartimientos de Judá y de Benjamín.”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, hijos, aldeas. El núcleo del capítulo se percibe en “Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos.”."
+  "templeStatus": "Segundo templo en funcionamiento; muros restaurados",
+  "location": "Susa y Jerusalén",
+  "summary": "Nehemías dirige la reconstrucción de los muros de Jerusalén y renueva el compromiso con la Ley. En Nehemías 11, el capítulo contiene 36 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: hijo, hijos, aldeas. Señales textuales: “Y HABITARON los príncipes del pueblo en Jerusalem; mas el resto del pueblo echó suertes para traer uno de diez que mora…” | “Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos.” | “Y algunos de los Levitas, en los repartimientos de Judá y de Benjamín.”.",
+  "spiritualContext": "Combina oración, acción, liderazgo comunitario y renovación del pacto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan hijo, hijos, aldeas. El núcleo del capítulo se percibe en “Y los porteros, Accub, Talmón, y sus hermanos, guardas en las puertas, ciento setenta y dos.”."
 }

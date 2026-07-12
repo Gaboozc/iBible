@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Postexilio persa (ca. 538–458 a.C.)",
+  "dominantEmpire": "Imperio persa aqueménida",
+  "kingName": "Ciro, Darío I y Artajerjes I",
+  "kingRegion": "Provincia de Yehud bajo Persia",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Hageo",
+    "Zacarías"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "Esdras desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En Esdras 6, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, israel, mandamiento. Señales textuales: “ENTONCES el rey Darío dió mandamiento, y buscaron en la casa de los libros, donde guardaban los tesoros allí en Babilon…” | “Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta ca…” | “Y celebraron la solemnidad de los panes ázimos siete días con regocijo, por cuanto Jehová los había alegrado, y convert…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; justicia, juicio y responsabilidad moral. En su lenguaje central destacan casa, israel, mandamiento. El núcleo del capítulo se percibe en “Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta ca…”."
+  "templeStatus": "Reconstrucción del segundo templo (dedicado ca. 516 a.C.)",
+  "location": "Babilonia y Jerusalén",
+  "summary": "Esdras narra el retorno del exilio y la reconstrucción del templo bajo edictos persas. En Esdras 6, el capítulo contiene 22 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: casa, israel, mandamiento. Señales textuales: “ENTONCES el rey Darío dió mandamiento, y buscaron en la casa de los libros, donde guardaban los tesoros allí en Babilon…” | “Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta ca…” | “Y celebraron la solemnidad de los panes ázimos siete días con regocijo, por cuanto Jehová los había alegrado, y convert…”.",
+  "spiritualContext": "Enfatiza pureza del pueblo del pacto, obediencia a la Ley y consagración del culto. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; justicia, juicio y responsabilidad moral. En su lenguaje central destacan casa, israel, mandamiento. El núcleo del capítulo se percibe en “Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta ca…”."
 }

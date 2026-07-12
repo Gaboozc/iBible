@@ -1,13 +1,14 @@
 {
-  "period": "Periodo veterotestamentario (según marco del libro)",
-  "dominantEmpire": "Contexto ANE: Egipto / Asiria / Babilonia / Persia según la sección",
-  "kingName": "Según momento narrativo del libro",
-  "kingRegion": "Israel/Judá y regiones vecinas",
+  "period": "Fin del periodo de los jueces e inicio de la monarquía (ca. siglo XI a.C.)",
+  "dominantEmpire": "Filisteos como potencia regional",
+  "kingName": "Saúl (primer rey de Israel)",
+  "kingRegion": "Israel unificado, con presión filistea",
   "activeProphets": [
-    "Profetas y líderes del periodo"
+    "Samuel",
+    "Natán (posteriormente)"
   ],
-  "templeStatus": "Tabernáculo o templo según la etapa histórica",
-  "location": "Israel, Judá o exilio, según el libro",
-  "summary": "1 Samuel desarrolla el plan de Dios en el marco histórico de Israel, resaltando pacto, juicio y esperanza. En 1 Samuel 19, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, david, mensajeros. Señales textuales: “Y HABLÓ Saúl á Jonathán su hijo, y á todos sus criados, para que matasen á David; mas Jonathán hijo de Saúl amaba á Dav…” | “Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubri…” | “Y él también se desnudó sus vestidos, y profetizó igualmente delante de Samuel, y cayó desnudo todo aquel día y toda aq…”.",
-  "spiritualContext": "El capítulo se interpreta dentro de la fidelidad de Dios y el llamado del pueblo a obediencia y arrepentimiento. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, david, mensajeros. El núcleo del capítulo se percibe en “Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubri…”."
+  "templeStatus": "Tabernáculo en Silo; el arca en cautividad y peregrinación",
+  "location": "Silo, Ramá, Guibeá, cuevas de En-gadi",
+  "summary": "1 Samuel narra la transición de los jueces a la monarquía: Samuel unge a Saúl y luego a David. En 1 Samuel 19, el capítulo contiene 24 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: saul, david, mensajeros. Señales textuales: “Y HABLÓ Saúl á Jonathán su hijo, y á todos sus criados, para que matasen á David; mas Jonathán hijo de Saúl amaba á Dav…” | “Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubri…” | “Y él también se desnudó sus vestidos, y profetizó igualmente delante de Samuel, y cayó desnudo todo aquel día y toda aq…”.",
+  "spiritualContext": "El énfasis está en la elección divina, obediencia frente a apariencias humanas y el corazón conforme a Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan saul, david, mensajeros. El núcleo del capítulo se percibe en “Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubri…”."
 }

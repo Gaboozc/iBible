@@ -1,13 +1,13 @@
 {
-  "period": "Siglo I d.C. (era apostólica y expansión de la iglesia)",
+  "period": "Era apostólica temprana (ca. 45–49 d.C., una de las primeras cartas)",
   "dominantEmpire": "Imperio romano",
-  "kingName": "Autoridades romanas y locales según el contexto",
-  "kingRegion": "Mediterráneo oriental",
+  "kingName": "Contexto imperial temprano",
+  "kingRegion": "Judíos cristianos dispersos (diáspora)",
   "activeProphets": [
-    "Jesús, apóstoles y líderes de la iglesia primitiva"
+    "Santiago, hermano del Señor"
   ],
-  "templeStatus": "Segundo Templo en transición histórica o ya destruido según fecha",
-  "location": "Judea, Asia Menor y mundo grecorromano",
-  "summary": "Santiago aporta desarrollo cristológico, eclesial y pastoral en el marco del Nuevo Testamento. En Santiago 1, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: obra, alguno, hombre. Señales textuales: “JACOBO, siervo de Dios y del Señor Jesucristo, á las doce tribus que están esparcidas, salud.” | “Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.” | “La religión pura y sin mácula delante de Dios y Padre es esta: Visitar los huérfanos y las viudas en sus tribulaciones,…”.",
-  "spiritualContext": "El énfasis recae en Cristo, la obra del Espíritu y la fidelidad de la iglesia bajo presión cultural y persecución. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan obra, alguno, hombre. El núcleo del capítulo se percibe en “Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.”."
+  "templeStatus": "Segundo Templo aún en pie",
+  "location": "Jerusalén (redacción) → diáspora",
+  "summary": "Santiago llama a una fe encarnada en obras: sabiduría, control de la lengua y justicia. En Santiago 1, el capítulo contiene 27 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: obra, alguno, hombre. Señales textuales: “JACOBO, siervo de Dios y del Señor Jesucristo, á las doce tribus que están esparcidas, salud.” | “Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.” | “La religión pura y sin mácula delante de Dios y Padre es esta: Visitar los huérfanos y las viudas en sus tribulaciones,…”.",
+  "spiritualContext": "La fe sin obras es muerta: la piedad se prueba en la vida real. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan obra, alguno, hombre. El núcleo del capítulo se percibe en “Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.”."
 }
