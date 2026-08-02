@@ -1,14 +1,62 @@
 [
   {
+    "type": "lexical",
+    "reference": "Salmo 42:7",
+    "title": "'Todas tus ondas y tus olas pasaron sobre mí'",
+    "description": "Jonás 2:3 cita casi literalmente Salmo 42:7 ('todas tus ondas y tus olas han pasado sobre mí'). El salmista describía sed y ausencia; Jonás lo aplica a su hundimiento literal. Muestra que Jonás está orando con el Salterio en la memoria — es un hombre formado por la liturgia del templo, aun cuando huyó de él."
+  },
+  {
+    "type": "lexical",
+    "reference": "Salmo 69:1-2",
+    "title": "Aguas hasta el alma",
+    "description": "'Sálvame, oh Dios, porque las aguas han entrado hasta el alma'. El vocabulario de Jon 2:5 ('las aguas me rodearon hasta el alma') se toma directamente del Sal 69. En el cristianismo, Sal 69 es uno de los salmos mesiánicos más citados (Jn 2:17; 15:25; Ro 15:3), lo que refuerza la lectura tipológica de Jonás como sombra de Cristo."
+  },
+  {
+    "type": "lexical",
+    "reference": "Salmo 30:3",
+    "title": "'Hiciste subir de la sepultura mi vida'",
+    "description": "Salmo 30:3 dice: 'Oh Jehová, hiciste subir mi alma del Seol; me diste vida para que no descendiese a la sepultura'. Jonás 2:6 repite el mismo verbo y la misma imagen. Sal 30 es un salmo de acción de gracias tras una enfermedad grave; Jonás lo canoniza como salmo tras un descenso literal al abismo."
+  },
+  {
+    "type": "lexical",
+    "reference": "Salmo 3:8",
+    "title": "'La salvación es de Jehová'",
+    "description": "La declaración clímax de Jon 2:9 (יְשׁוּעָתָה לַיהוָה, yeshu'atah la-YHWH) tiene su paralelo más cercano en Sal 3:8 (לַיהוָה הַיְשׁוּעָה). Es una fórmula confesional condensada que aparece también en Ap 7:10 ('la salvación es de nuestro Dios que está sentado en el trono') en boca de una multitud multinacional — cerrando el arco de Jonás en la visión escatológica."
+  },
+  {
+    "type": "typological",
+    "reference": "Mateo 12:40",
+    "title": "'Tres días y tres noches en el corazón de la tierra'",
+    "description": "Jesús cita Jonás 1:17/2:1 directamente: 'como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches'. La 'señal de Jonás' es la única señal pública que Jesús promete a la generación que le pide milagros. Jonás 2 se convierte en la matriz veterotestamentaria para pensar la sepultura y resurrección de Cristo."
+  },
+  {
+    "type": "typological",
+    "reference": "Salmo 16:10",
+    "title": "'No dejarás mi alma en el Seol'",
+    "description": "Pedro (Hch 2:27) y Pablo (Hch 13:35) citan Sal 16 como profecía de la resurrección de Cristo. Jonás 2:6 tiene la misma teología en clave narrativa: YHWH saca al que descendió al abismo. El eco vincula la oración de un profeta rebelde con el evento central del evangelio."
+  },
+  {
     "type": "thematic",
-    "reference": "Referencias temáticas en la Biblia",
-    "title": "Tema Central del Capítulo",
-    "description": "Este capítulo conecta con el tema general del libro de jonah."
+    "reference": "1 Reyes 8:38-49",
+    "title": "Orar mirando al templo desde el destierro",
+    "description": "La oración de dedicación de Salomón prevé situaciones exactas como la de Jonás: 'cuando estén cautivos... si oran hacia esta casa, tú oye desde los cielos'. Jonás 2:4, 7 pone en escena narrativa esa teología: oración con dirección literal ('tu santo templo') desde el fondo del mar. Daniel 6:10 hace lo mismo con las ventanas abiertas hacia Jerusalén."
+  },
+  {
+    "type": "thematic",
+    "reference": "Salmo 116:12-19",
+    "title": "El voto pagado con acción de gracias",
+    "description": "'¿Qué pagaré a Jehová por todos sus beneficios para conmigo? Tomaré la copa de la salvación... pagaré mis votos a Jehová delante de todo su pueblo'. Jonás 2:9 usa el mismo vocabulario cúltico. Pero Jonás promete el sacrificio de acción de gracias mientras aún está dentro del pez — antes de saber cómo terminará. Fe de trinchera."
+  },
+  {
+    "type": "prophetic",
+    "reference": "Isaías 53:8-10",
+    "title": "El siervo tragado y restaurado",
+    "description": "El Siervo Sufriente de Isaías 'fue cortado de la tierra de los vivientes' y sin embargo 'verá simiente, prolongará sus días'. La lógica del descenso-ascenso de Jonás 2 es el patrón que Isaías 53 explora para el Mesías. La Iglesia primitiva unió ambos textos (Mt 12:40 + Hch 8:32-35) para explicar la muerte y resurrección de Jesús."
   },
   {
     "type": "historical",
-    "reference": "jonah 2",
-    "title": "Conexión Histórica",
-    "description": "Este pasaje se sitúa en un momento clave de la historia bíblica."
+    "reference": "Lamentaciones 3:19-24",
+    "title": "El giro de la memoria en medio del dolor",
+    "description": "Lam 3:20-21: 'lo tendré aún en memoria, y por eso esperaré'. La estructura psicológica de Lam 3 y Jon 2 es idéntica: descenso al fondo, un pivote de la memoria ('me acordé de Jehová', Jon 2:7), y ascenso a la esperanza. Lamentaciones fue escrito tras la destrucción de Jerusalén (586 a.C.); Jonás usa el mismo mecanismo un siglo antes."
   }
 ]

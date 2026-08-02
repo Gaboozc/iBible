@@ -1182,6 +1182,9 @@ async function generateDetailedContextAndAnalysis(): Promise<void> {
   // Capítulos curados a mano — nunca sobreescribir aunque venga --force.
   const CURATED_CHAPTERS = new Set<string>([
     'jonah:1',
+    'jonah:2',
+    'jonah:3',
+    'jonah:4',
   ]);
 
   for (const book of books) {

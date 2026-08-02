@@ -1,20 +1,20 @@
 {
   "scannedChapters": 1189,
-  "chaptersWithIssues": 1188,
+  "chaptersWithIssues": 1185,
   "issueCounts": {
-    "analysis_generic": 1188,
-    "context_generic": 1188,
-    "questions_generic": 1187,
-    "connections_generic": 1187,
-    "etymology_generic": 1187,
-    "summary_generic_pattern": 1188,
-    "spiritual_generic_pattern": 1188,
-    "section_generic_pattern": 1188
+    "analysis_generic": 1185,
+    "context_generic": 1185,
+    "questions_generic": 1184,
+    "connections_generic": 1184,
+    "etymology_generic": 1184,
+    "summary_generic_pattern": 1185,
+    "spiritual_generic_pattern": 1185,
+    "section_generic_pattern": 1185
   },
   "exactDuplicates": {
     "contextSummary": 0,
     "spiritualContext": 0,
-    "analysisTitle": 1185
+    "analysisTitle": 1182
   },
   "chapters": [
     {
@@ -6482,33 +6482,6 @@
     {
       "book": "john",
       "chapter": 21,
-      "issues": [
-        "summary_generic_pattern",
-        "spiritual_generic_pattern",
-        "section_generic_pattern"
-      ]
-    },
-    {
-      "book": "jonah",
-      "chapter": 2,
-      "issues": [
-        "summary_generic_pattern",
-        "spiritual_generic_pattern",
-        "section_generic_pattern"
-      ]
-    },
-    {
-      "book": "jonah",
-      "chapter": 3,
-      "issues": [
-        "summary_generic_pattern",
-        "spiritual_generic_pattern",
-        "section_generic_pattern"
-      ]
-    },
-    {
-      "book": "jonah",
-      "chapter": 4,
       "issues": [
         "summary_generic_pattern",
         "spiritual_generic_pattern",

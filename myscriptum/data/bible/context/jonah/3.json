@@ -1,13 +1,15 @@
 {
-  "period": "Reinado de Jeroboam II (ca. 780–750 a.C.)",
-  "dominantEmpire": "Asiria (Nínive como capital regional dominante)",
-  "kingName": "Jeroboam II en Israel; rey innominado de Nínive",
-  "kingRegion": "Israel y Asiria",
+  "period": "Reinado de Jeroboam II en Israel (ca. 780–750 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, con Nínive como capital regional",
+  "kingName": "Jeroboam II (Israel); rey de Nínive innominado en el texto",
+  "kingRegion": "Reino del norte de Israel y provincia asiria",
   "activeProphets": [
-    "Jonás (hijo de Amitai)"
+    "Jonás (hijo de Amitai)",
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Templo en Jerusalén en funcionamiento; culto sincretista en el norte",
-  "location": "Gat-hefer, Jope, Tarsis, Nínive",
-  "summary": "Jonás huye del llamado divino y descubre la compasión de Dios hacia Nínive, capital enemiga. En Jonás 3, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: ninive, camino, jonas. Señales textuales: “Y FUÉ palabra de Jehová segunda vez á Jonás, diciendo:” | “Y llegó el negocio hasta el rey de Nínive, y levantóse de su silla, y echó de sí su vestido, y cubrióse de saco, y se s…” | “Y vió Dios lo que hicieron, que se convirtieron de su mal camino: y arrepintióse del mal que había dicho les había de h…”.",
-  "spiritualContext": "Confronta el nacionalismo religioso y muestra la misericordia universal de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo. En su lenguaje central destacan ninive, camino, jonas. El núcleo del capítulo se percibe en “Y llegó el negocio hasta el rey de Nínive, y levantóse de su silla, y echó de sí su vestido, y cubrióse de saco, y se s…”."
+  "templeStatus": "Templo en Jerusalén en funcionamiento; el capítulo enfoca la vida religiosa gentil",
+  "location": "Nínive (capital asiria, junto al Tigris; actual Mosul, Irak)",
+  "summary": "Jonás 3 narra la segunda oportunidad: 'vino palabra de Jehová a Jonás la segunda vez' (v. 1). Esta vez el profeta obedece. El texto describe a Nínive como 'ciudad grande en extremo, de tres días de camino' (v. 3) — hipérbole probable que subraya la magnitud del reto. Jonás pronuncia el mensaje más breve del profetismo bíblico: cinco palabras hebreas (עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת, 'aún cuarenta días y Nínive será destruida', v. 4). Sin llamado explícito al arrepentimiento, sin motivos ofrecidos, sin apelación al Dios de Israel — mensaje al mínimo. Y sin embargo, 'creyeron los hombres de Nínive a Dios' (v. 5). El arrepentimiento es total: ayuno, cilicio 'desde el mayor de ellos hasta el menor de ellos', el rey desciende del trono, y por decreto real incluso los animales ayunan y llevan cilicio (vv. 7-8) — detalle único en la Biblia. El capítulo cierra con el clímax: 'vio Dios lo que hicieron... y arrepintióse del mal que había dicho les haría' (v. 10).",
+  "spiritualContext": "El capítulo confronta expectativas: (1) el mensaje profético más eficaz del AT sale de un profeta reticente con el sermón más corto; (2) la conversión más masiva del AT ocurre entre gentiles, no en Israel; (3) el verbo 'arrepentirse' (נִחַם, niḥam) se aplica tanto al pueblo (v. 8, 'vuélvase cada uno de su mal camino') como a Dios (v. 10, 'arrepintióse Dios del mal'). Jonás 3 desestabiliza cualquier lectura de la salvación como privilegio étnico. También plantea la pregunta que atormentará al profeta en el cap. 4: ¿la palabra de juicio era negociable, o siempre incluyó tácitamente la puerta del arrepentimiento? El paralelo con Jer 18:7-10 sugiere lo segundo: el juicio profético siempre está condicionado por la respuesta humana."
 }

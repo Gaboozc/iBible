@@ -1,14 +1,62 @@
 [
   {
+    "type": "lexical",
+    "reference": "Éxodo 34:6-7",
+    "title": "La fórmula clásica del carácter de YHWH",
+    "description": "Jonás 4:2 cita literalmente Éxodo 34:6 — la autorevelación de YHWH en el Sinaí tras el pecado del becerro de oro: 'Jehová, Jehová, Dios misericordioso, y clemente, tardo para la ira, y grande en benignidad y verdad'. La cita es exacta, pero el propósito es demoledoramente irónico: donde Israel cita la fórmula como evangelio (Sal 103:8), Jonás la cita como acusación. Ninguna otra vez en el AT alguien reprocha a Dios por ser como se autodescribe. El eje teológico del libro entero pivota aquí."
+  },
+  {
+    "type": "lexical",
+    "reference": "1 Reyes 19:4",
+    "title": "Elías bajo el enebro también quiere morir",
+    "description": "'Mejor es mi muerte que mi vida' (Jon 4:3, 8) — palabras casi idénticas a 1 Reyes 19:4 ('bástate ya, oh Jehová, quítame la vida'). Elías se sienta bajo el enebro después de Monte Carmelo; Jonás bajo la calabacera después de Nínive. Ambos profetas piden morir tras un momento aparente de éxito. La conexión intertextual es tan cercana que muchos leen Jonás como reescritura teológica del ciclo de Elías, mostrando otra dimensión del cansancio profético."
+  },
+  {
+    "type": "lexical",
+    "reference": "Génesis 4:5-7",
+    "title": "'¿Por qué se ha ensañado tu rostro?' — la pregunta a Caín",
+    "description": "'¿Haces bien en enojarte?' (Jon 4:4, 9) tiene resonancia estructural con Gn 4:6-7 ('¿Por qué te has ensañado, y por qué se ha inmutado tu rostro?'). Ambas preguntas divinas son socráticas y confrontan una ira que Dios considera peligrosa. Jonás está en la posición de Caín: hermano mayor (elegido, con conocimiento pactual) resentido por la aceptación del 'hermano menor' (Nínive pagana). Ambos rechazan la respuesta y ambos se retiran; el libro de Jonás deja abierto si terminará distinto."
+  },
+  {
+    "type": "typological",
+    "reference": "Lucas 15:25-32",
+    "title": "El hermano mayor que se queda fuera",
+    "description": "La segunda parte de la parábola del hijo pródigo desarrolla la misma teología de Jonás 4: el hermano mayor 'se enojó, y no quería entrar' porque el padre había mostrado misericordia al pródigo. El padre sale a rogarle — igual que YHWH pregunta a Jonás. La parábola queda abierta: no sabemos si el hermano mayor entra a la fiesta. Jesús cierra a propósito con la pregunta sin responder — misma técnica narrativa que Jonás 4:11."
+  },
+  {
+    "type": "typological",
+    "reference": "Mateo 20:1-16",
+    "title": "Los obreros de la hora undécima",
+    "description": "En la parábola de los obreros de la viña, los que trabajaron todo el día se quejan de que reciban lo mismo que los que trabajaron una hora. El dueño pregunta: '¿es malo tu ojo porque yo soy bueno?' — mismo verbo raʿ (mal) que Jonás 4:1. La lógica es idéntica: la generosidad divina hacia los otros se percibe como injusticia por los que sienten haber ganado su lugar. Jesús está exponiendo el 'Jonás interior' de sus discípulos."
+  },
+  {
+    "type": "typological",
+    "reference": "Lucas 6:27-36",
+    "title": "'Amad a vuestros enemigos... porque él es benigno para con los ingratos'",
+    "description": "Jesús funda el amor al enemigo en el carácter de Dios: 'sed misericordiosos, como también vuestro Padre es misericordioso'. La lógica ético-teológica es la de Jonás 4: Dios es compasivo con quienes no lo merecen; ergo, sus hijos también. Jonás rehúsa esa deducción; los seguidores de Jesús están llamados a abrazarla. Es la aplicación cristológica directa de Jon 4:11."
+  },
+  {
+    "type": "prophetic",
+    "reference": "Nahúm 1:3",
+    "title": "La misma fórmula, otra sección de la fórmula",
+    "description": "Nahúm 1:3 también cita Éxodo 34:6-7 — pero enfatiza la parte que Jonás omitió: 'no tendrá por inocente al culpable'. La yuxtaposición canónica de Jonás y Nahúm en el canon menor es teológicamente crucial: la fórmula sinaítica tiene dos vertientes (misericordia + justicia), y cada libro subraya una. La compasión de Jonás 3 y la sentencia de Nahúm no son contradictorias; son las dos caras del mismo carácter divino aplicadas a la misma ciudad en dos momentos diferentes."
+  },
+  {
+    "type": "prophetic",
+    "reference": "Joel 2:13-14",
+    "title": "La misma fórmula, con esperanza abierta",
+    "description": "Joel cita también Éx 34:6-7 y añade el 'quién sabe' (mi yodea') que ya vimos en Jonás 3:9. La red intertextual — Éx 34, Jon 3-4, Jl 2, Neh 9, Sal 103 y 145 — muestra cómo la fórmula sinaítica se convirtió en el eje central de la teología pastoral del AT. Cada crisis histórica del pueblo la volvió a citar como esperanza."
+  },
+  {
     "type": "thematic",
-    "reference": "Referencias temáticas en la Biblia",
-    "title": "Tema Central del Capítulo",
-    "description": "Este capítulo conecta con el tema general del libro de jonah."
+    "reference": "Romanos 9-11",
+    "title": "Pablo lucha con el mismo escándalo",
+    "description": "Romanos 9-11 es la reflexión paulina más extensa sobre por qué Dios extiende misericordia a los gentiles mientras 'endurece' a Israel. Pablo cita a Oseas ('llamaré pueblo mío al que no era mi pueblo', Ro 9:25) — que es la misma teología de Jonás 4 en clave neotestamentaria. La tensión emocional de Pablo ('gran tristeza y continuo dolor en mi corazón', Ro 9:2) refleja el reverso constructivo de la actitud de Jonás: Pablo lamenta la resistencia de Israel; Jonás lamenta la conversión de Nínive."
   },
   {
     "type": "historical",
-    "reference": "jonah 4",
-    "title": "Conexión Histórica",
-    "description": "Este pasaje se sitúa en un momento clave de la historia bíblica."
+    "reference": "2 Reyes 14:25-27",
+    "title": "Jonás y Jeroboam II: nacionalismo y frontera",
+    "description": "2 Reyes 14:25 describe a Jonás profetizando la expansión de las fronteras de Israel bajo Jeroboam II — profecía de restauración nacional. El libro homónimo de Jonás toma a este mismo profeta y lo somete a una crisis: ¿qué pasa cuando el Dios que expandió tu frontera quiere expandir su misericordia hacia el enemigo del otro lado? El diálogo intertextual con 2 R 14 muestra que el nacionalismo religioso de Jonás no es una caricatura literaria — es la teología que él mismo había predicado."
   }
 ]

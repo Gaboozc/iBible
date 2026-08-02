@@ -1,24 +1,123 @@
 [
   {
-    "hebrew": "דָּבָר (dabar)",
-    "english": "word, matter, thing",
-    "literalMeaning": "aquello que se dice o se hace",
-    "primaryMeaning": "Una palabra hablada; un asunto o cuestión",
-    "theologicalMeaning": "En la teología bíblica, \"dabar\" es fundamental - la palabra de Dios es creativa y poderosa. Dios habla y las cosas existen.",
-    "root": "Raíz primitiva, posiblemente relacionada con el movimiento o la acción",
+    "hebrew": "חוּס (chus)",
+    "english": "to pity, spare, have compassion",
+    "literalMeaning": "cuidar de, tener consideración por, no destruir",
+    "primaryMeaning": "Acto de compasión concreta que evita causar daño; no meramente sentir sino abstenerse de destruir",
+    "theologicalMeaning": "El verbo pivota el clímax del libro (Jon 4:10-11): Jonás 'tuvo lástima' de la calabacera, ¿no tendrá YHWH 'lástima' de Nínive? Chus tiene una connotación más activa que la mera emoción — implica renunciar a destruir cuando había derecho a hacerlo. Es la palabra técnica en Deut 7:16 (Israel no debe 'apiadarse' de las naciones cananeas) y 13:8 (no apiadarse del familiar idólatra). El uso en Jonás invierte deliberadamente el patrón deuteronómico: donde Dt manda no compadecer, YHWH aquí decide compadecer. La ley del pacto no agota la compasión divina.",
+    "root": "חוס (compadecer, no destruir)",
     "cognates": [
-      "dibrah (palabra)",
-      "dober (hablador)"
+      "chas ve'shalom (expresión: 'Dios no lo permita')"
     ],
-    "semanticEvolution": "La palabra ha mantenido su significado core a través del hebreo antiguo y moderno.",
+    "semanticEvolution": "Del ámbito legal-militar (perdonar la vida al enemigo) al ámbito teológico de la misericordia divina universal.",
     "relatedWords": [
-      "amar (decir)",
-      "lashon (lengua)",
-      "kol (voz)"
+      "rachamim (compasión visceral)",
+      "chesed (misericordia leal)",
+      "chanan (favor gratuito)"
     ],
     "keyAppearances": [
-      "jonah 4"
+      "Deuteronomio 7:16",
+      "Deuteronomio 13:8",
+      "1 Samuel 24:10",
+      "Ezequiel 5:11",
+      "Jonás 4:10-11",
+      "Joel 2:17"
     ],
-    "biblicalFrequency": 1440
+    "biblicalFrequency": 24
+  },
+  {
+    "hebrew": "חַנּוּן וְרַחוּם (channun ve-rachum)",
+    "english": "gracious and compassionate",
+    "literalMeaning": "'que muestra favor gratuito y compasión visceral'",
+    "primaryMeaning": "Fórmula binomial que resume el carácter de YHWH — favor no merecido + compasión desde las entrañas",
+    "theologicalMeaning": "La fórmula 'clemente y piadoso, tardo para la ira, grande en misericordia' de Jonás 4:2 es la cita más extendida del AT dentro del mismo AT. Su origen es la autorevelación de Sinaí (Éx 34:6-7). Aparece en Nm 14:18, Neh 9:17, Sal 86:15, Sal 103:8, Sal 145:8, Jl 2:13, Jon 4:2, Nah 1:3. Cada libro cita la fórmula pero enfatiza distintos elementos: Nahúm añade 'y no tendrá por inocente al culpable'; Jonás la cita completa como acusación. Que sea la línea teológica más repetida del canon subraya su centralidad — es el 'evangelio antes del evangelio'.",
+    "root": "חנן + רחם (mostrar favor + compasión visceral)",
+    "cognates": [
+      "chen (favor, gracia)",
+      "rachamim (misericordia, del útero — rechem)",
+      "chinnam (gratuitamente)"
+    ],
+    "semanticEvolution": "De autorevelación única en Sinaí (Éx 34) a cita ritual del culto (Salmos) a punto teológico central del NT (Jn 1:14 — 'lleno de gracia y verdad', ecos de Éx 34:6).",
+    "relatedWords": [
+      "chesed (misericordia leal, pactual)",
+      "emet (verdad, fidelidad)",
+      "erek appayim (paciente, literalmente 'largo de narices')"
+    ],
+    "keyAppearances": [
+      "Éxodo 34:6-7",
+      "Números 14:18",
+      "Nehemías 9:17",
+      "Salmo 86:15; 103:8; 145:8",
+      "Joel 2:13",
+      "Jonás 4:2",
+      "Nahúm 1:3"
+    ],
+    "biblicalFrequency": 12
+  },
+  {
+    "hebrew": "קִיקָיוֹן (qiqayon)",
+    "english": "gourd, castor plant, kiki plant",
+    "literalMeaning": "planta de hojas grandes que da sombra rápidamente (probable ricino: Ricinus communis)",
+    "primaryMeaning": "Planta trepadora de crecimiento rápido, común en el antiguo Cercano Oriente, cuyas hojas anchas ofrecen sombra",
+    "theologicalMeaning": "El qiqayon aparece solo en Jonás 4 en toda la Biblia (hapax legomenon). El texto enfatiza su origen milagroso ('creció en una noche', v. 10) y su muerte igualmente rápida por el gusano. Teológicamente funciona como parábola física: lo efímero, lo no ganado, lo aparentemente gratuito. La compasión de Jonás por la planta se convierte en el espejo pedagógico de la compasión divina por Nínive. La discusión rabínica sobre si era ricino, calabaza o hiedra ocupó a Jerónimo cuando tradujo la Vulgata — famosamente eligió 'hedera' (hiedra) en lugar del 'cucurbita' de la Vetus Latina, causando un pequeño escándalo.",
+    "root": "קיק (probable préstamo del egipcio 'kiki', 'ricino')",
+    "cognates": [
+      "egipcio kiki (ricino)",
+      "acadio kukkanitu (planta similar)"
+    ],
+    "semanticEvolution": "Término técnico botánico, sin evolución significativa en hebreo; usado solo en Jonás.",
+    "relatedWords": [
+      "gephen (vid)",
+      "ets (árbol)"
+    ],
+    "keyAppearances": [
+      "Jonás 4:6, 7, 9, 10"
+    ],
+    "biblicalFrequency": 4
+  },
+  {
+    "hebrew": "יְמִינוֹ לִשְׂמֹאלוֹ (yemino li-smolo)",
+    "english": "'his right hand from his left hand'",
+    "literalMeaning": "distinguir mano derecha de mano izquierda",
+    "primaryMeaning": "Expresión idiomática para 'ignorar lo más básico'; probable referencia a niños pequeños o a inocencia moral",
+    "theologicalMeaning": "En Jonás 4:11 la frase describe a los 120.000 habitantes de Nínive 'que no conocen su mano derecha de su mano izquierda'. Tres lecturas posibles: (1) referencia literal a niños pequeños (los adultos serían millones); (2) metáfora de ignorancia moral básica (no distinguen bien de mal); (3) hipérbole del narrador para amplificar la ternura divina. La lectura tradicional judía tiende a (1) — apuntando a que YHWH tiene misericordia por los inocentes; la lectura patrística cristiana tiende a (2) — YHWH busca a los perdidos morales. Ambas lecturas convergen en el punto: la compasión divina se dirige a quienes no pueden defenderse a sí mismos.",
+    "root": "expresión idiomática — combinación de yamin (derecha) + smol (izquierda)",
+    "cognates": [
+      "en el AT la mano derecha simboliza poder y bendición; la izquierda, lo secundario"
+    ],
+    "semanticEvolution": "Del uso literal-anatómico al uso simbólico (autoridad divina en Sal 110:1) al uso idiomático como aquí.",
+    "relatedWords": [
+      "petayim (simples, ingenuos, en Salmos y Proverbios)",
+      "olelim (niños de pecho)"
+    ],
+    "keyAppearances": [
+      "Jonás 4:11 (único uso idiomático completo)"
+    ],
+    "biblicalFrequency": 1
+  },
+  {
+    "hebrew": "חָרָה (charah)",
+    "english": "to burn with anger, be kindled",
+    "literalMeaning": "arder, encenderse (referido a la ira)",
+    "primaryMeaning": "Metáfora de la ira como fuego que se enciende y consume desde adentro",
+    "theologicalMeaning": "El verbo aparece 3 veces en Jonás 4 (vv. 1, 4, 9), estructurando el capítulo. La ira 'arde' (חָרָה) en Jonás — igual que la ira 'ardió' en Caín (Gn 4:5-6), en Balaam (Nm 22:22), en Moisés ante el becerro (Éx 32:19). La pregunta divina '¿haces bien en enojarte?' (heitev charah, vv. 4 y 9) es la misma pregunta de Génesis 4:6-7 a Caín: '¿por qué se ha ensañado tu rostro?'. Jonás está estructuralmente en la posición de Caín — hermano mayor resentido por la aceptación del hermano menor por parte de Dios. La conexión canónica es probablemente deliberada.",
+    "root": "חרה (arder)",
+    "cognates": [
+      "charon (ardor, ira)",
+      "charavah (destrucción por fuego)"
+    ],
+    "semanticEvolution": "Del ámbito físico (arder literal) al emocional (ira) al teológico (la ira de YHWH y la ira humana).",
+    "relatedWords": [
+      "af (nariz/ira)",
+      "chemah (furor, veneno)",
+      "za'am (indignación)"
+    ],
+    "keyAppearances": [
+      "Génesis 4:5-6",
+      "Números 11:1",
+      "Éxodo 32:10-11, 19",
+      "Jonás 4:1, 4, 9"
+    ],
+    "biblicalFrequency": 91
   }
 ]

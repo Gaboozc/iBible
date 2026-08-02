@@ -1,39 +1,57 @@
 {
-  "title": "Análisis Estructural de Jonás 3",
+  "title": "Análisis estructural de Jonás 3: la segunda palabra y el arrepentimiento",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Apertura del capítulo",
-      "description": "Abarca los versículos 1 al 5 con foco léxico en ninive y jonas. Inicia con “Y FUÉ palabra de Jehová segunda vez á Jonás, diciendo:” y avanza hacia la consolidación del mensaje en la unidad.",
-      "significance": "En Jonás 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+      "verses": "1-3",
+      "title": "La segunda palabra y la obediencia (vv. 1-3)",
+      "description": "'Vino palabra de Jehová segunda vez a Jonás, diciendo: Levántate y ve á Nínive... Y levantóse Jonás, y fue a Nínive conforme á la palabra de Jehová'. El paralelismo con 1:1-3 es deliberado y demoledor: mismo verbo (קוּם, qum, 'levántate'), mismo destino, misma orden — solo que ahora la respuesta se invierte. El texto no gasta ni una palabra en explicar el cambio: Jonás obedece. La descripción 'ciudad grande en extremo, de tres días de camino' (v. 3) probablemente se refiere no al perímetro sino al tiempo diplomático necesario para recorrerla oficialmente (visitando barrios).",
+      "significance": "La segunda oportunidad es la clave estructural del libro. YHWH no descarta al profeta desobediente; le reitera la misma comisión. La disciplina divina no reemplaza la vocación."
     },
     {
-      "verses": "6-10",
-      "title": "Desarrollo y cierre",
-      "description": "Abarca los versículos 6 al 10 con foco léxico en ninive y saco. Inicia con “Y llegó el negocio hasta el rey de Nínive, y levantóse de su silla, y echó de sí su vestido, y cubrióse de saco, y se sentó sobre ceniza.” y avanza hacia la consolidación del mensaje en la unidad.",
-      "significance": "En Jonás 3, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+      "verses": "4",
+      "title": "El sermón más breve del AT (v. 4)",
+      "description": "Jonás entra 'camino de un día' — solo un tercio de la ciudad — y proclama el mensaje: en hebreo apenas cinco palabras. 'עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת' — 'aún cuarenta días y Nínive será trastornada'. El verbo נֶהְפָּכֶת (nehepakhet, participio niphal de הפך) es ambiguo deliberadamente: puede significar 'destruida' (como Sodoma en Gn 19:25) o 'trastornada/transformada'. La misma palabra profetiza ruina o conversión. Nínive elegirá la segunda; el narrador ya la insinuó.",
+      "significance": "El texto subraya que la eficacia del mensaje no depende de su elocuencia sino del Dios que lo respalda. Es contra-modelo de la profesionalización homilética. La ambigüedad de nehepakhet abre teológicamente el juicio a la posibilidad del arrepentimiento."
+    },
+    {
+      "verses": "5-6",
+      "title": "Fe y ayuno espontáneo del pueblo (vv. 5-6)",
+      "description": "'Y los hombres de Nínive creyeron a Dios: y pregonaron ayuno, y vistiéronse de sacos desde el mayor de ellos hasta el menor de ellos' (v. 5). Nota: creen 'a Dios' (Elohim, no YHWH); la teología es genérica pero real. El proceso ocurre antes del edicto real: primero el pueblo se convierte, luego la conversión llega al palacio (v. 6). El rey se levanta del trono, cambia el manto por un saco y se sienta 'en ceniza' — inversión ceremonial completa.",
+      "significance": "El orden importa: el reavivamiento sube del pueblo al rey, no al revés. Es contra-narrativa del top-down. También: 'creer a Dios' es la respuesta más antigua del AT (Gn 15:6 sobre Abraham), aplicada aquí a paganos."
+    },
+    {
+      "verses": "7-9",
+      "title": "El decreto real y el ayuno cósmico (vv. 7-9)",
+      "description": "El edicto del rey y los grandes de Nínive extiende el ayuno 'ni hombres ni animales, bueyes ni ovejas gusten cosa alguna: no se les dé pasto, ni beban agua' (v. 7). El detalle de los animales cubiertos de saco y ayunando es único en la Biblia — refleja la costumbre asiria de involucrar al ganado en el luto público, pero teológicamente el narrador lo usa para señalar que el arrepentimiento afecta al orden entero de la creación. La motivación se cita en primera persona: '¿Quién sabe si se volverá y arrepentirá Dios, y se apartará del furor de su ira, y no pereceremos?' (v. 9). No hay presunción; hay esperanza abierta.",
+      "significance": "La fórmula 'quién sabe' (מִי־יוֹדֵעַ, mi yodea') reaparece en 2 S 12:22 (David tras la muerte de su hijo) y Jl 2:14. Es el lenguaje teológico de la fe sin garantías: se busca a Dios no porque el resultado esté asegurado, sino porque el corazón sabe que no hay otra puerta."
+    },
+    {
+      "verses": "10",
+      "title": "El arrepentimiento divino (v. 10)",
+      "description": "'Y vio Dios lo que hicieron, que se convirtieron de su mal camino: y arrepintióse del mal que había dicho les haría, y no lo hizo'. Dos verbos מַעֲשֶׂה (ma'aseh, 'obra/hecho') y שׁוּב (shuv, 'volver/arrepentirse') estructuran el versículo. Dios ve las obras del arrepentimiento — no solo la profesión de fe. Y el niḥam (arrepentimiento) divino no es cambio de plan por ignorancia sino respuesta pactual: la palabra profética siempre incluye la cláusula tácita del arrepentimiento humano (Jer 18:7-10).",
+      "significance": "El capítulo termina donde Jonás no quería: la palabra de juicio no se cumple. Este 'fracaso' de la profecía es el 'éxito' del corazón de Dios. La tensión estalla en el capítulo siguiente."
     }
   ],
   "repeatedWords": [
     {
-      "word": "ninive",
-      "count": 7,
-      "significance": "La recurrencia de “ninive” (7) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 3."
-    },
-    {
-      "word": "camino",
+      "word": "גָּדוֹל (gadol, 'grande')",
       "count": 4,
-      "significance": "La recurrencia de “camino” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 3."
+      "significance": "Se aplica a Nínive dos veces (vv. 2-3), al mayor de los hombres (v. 5) y a la escala del arrepentimiento. Continúa el motivo del cap. 1 (viento, tempestad, ciudad, temor, pez): la 'grandeza' es el marcador de la acción soberana de Dios."
     },
     {
-      "word": "jonas",
+      "word": "שׁוּב (shuv, 'volver/arrepentirse')",
       "count": 3,
-      "significance": "La recurrencia de “jonas” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 3."
+      "significance": "El verbo aparece en la exhortación real (v. 8: 'vuélvase cada uno de su mal camino'), en la esperanza ('quién sabe si se volverá... Dios', v. 9) y en la constatación ('se convirtieron de su mal camino', v. 10). Estructura toda la teología del capítulo."
     },
     {
-      "word": "diciendo",
+      "word": "רַע (ra', 'mal/maldad')",
       "count": 3,
-      "significance": "La recurrencia de “diciendo” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 3."
+      "significance": "Aparece como 'mal camino' del pueblo (vv. 8, 10) y como 'el mal que Dios había dicho les haría' (v. 10). El texto marca que el juicio divino es respuesta al mal humano, no acción arbitraria."
+    },
+    {
+      "word": "נִחַם (niḥam, 'arrepentirse/lamentar')",
+      "count": 2,
+      "significance": "Se aplica solo a Dios (vv. 9 y 10). Contrasta con 'shuv' aplicado al pueblo: el arrepentimiento humano es cambio de dirección; el arrepentimiento divino es respuesta compasiva a esa dirección (cf. Éx 32:14; Jer 18:8)."
     }
   ]
 }

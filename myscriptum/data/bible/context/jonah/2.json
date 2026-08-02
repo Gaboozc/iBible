@@ -1,13 +1,15 @@
 {
-  "period": "Reinado de Jeroboam II (ca. 780–750 a.C.)",
-  "dominantEmpire": "Asiria (Nínive como capital regional dominante)",
-  "kingName": "Jeroboam II en Israel; rey innominado de Nínive",
-  "kingRegion": "Israel y Asiria",
+  "period": "Reinado de Jeroboam II en Israel (ca. 780–750 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, con Nínive como capital regional",
+  "kingName": "Jeroboam II (Israel); rey de Nínive innominado",
+  "kingRegion": "Reino del norte de Israel y provincia asiria",
   "activeProphets": [
-    "Jonás (hijo de Amitai)"
+    "Jonás (hijo de Amitai, de Gat-hefer)",
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Templo en Jerusalén en funcionamiento; culto sincretista en el norte",
-  "location": "Gat-hefer, Jope, Tarsis, Nínive",
-  "summary": "Jonás huye del llamado divino y descubre la compasión de Dios hacia Nínive, capital enemiga. En Jonás 2, el capítulo contiene 10 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jonas, vientre, tres. Señales textuales: “MAS Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noche…” | “Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza.” | “Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece* á Jehová. Y mandó Jehová a…”.",
-  "spiritualContext": "Confronta el nacionalismo religioso y muestra la misericordia universal de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; revelación, santidad y gloria de Dios. En su lenguaje central destacan jonas, vientre, tres. El núcleo del capítulo se percibe en “Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza.”."
+  "templeStatus": "Templo en Jerusalén en funcionamiento; Jonás lo evoca desde el abismo (v. 4, 7)",
+  "location": "Vientre del gran pez, mar Mediterráneo, dirección de vuelta a tierra firme",
+  "summary": "Jonás 2 es un salmo dentro de la narrativa. Los versículos 1 y 10 son marco narrativo — Jonás ora, YHWH ordena al pez vomitarlo — pero vv. 2-9 son poesía intensamente intertextual con el Salterio (Sal 18, 30, 42, 69, 88, 120, 130). Jonás no es un poeta original: está tejiendo con material litúrgico conocido, lo cual habla de una fe formada por el culto del templo. El capítulo revela el fondo teológico del profeta que solo se había mostrado como fugitivo. El movimiento del texto es de descenso extremo ('descendí hasta los cimientos de los montes', v. 6) a ascenso salvífico ('hiciste subir de la sepultura mi vida', v. 6). Estructuralmente es la contraparte del cap. 1: allá desciende hasta el mar, aquí asciende hasta la orilla.",
+  "spiritualContext": "El capítulo introduce el vocabulario del culto en boca del profeta. Jonás usa lenguaje de sacrificio pactual: 'te ofreceré sacrificios con voz de alabanza; pagaré lo que prometí' (v. 9) — precisamente los mismos actos que los marineros paganos hicieron en 1:16. La ironía persiste: Jonás celebra por su salvación individual pero aún no menciona a Nínive. La salvación no cura automáticamente el nacionalismo religioso. Espiritualmente, el capítulo enseña que Dios responde desde el abismo — no exige que subamos primero — y que la oración de un desobediente rescatado puede ser genuina sin ser completa. Prepara el terreno para el cap. 3 (obediencia sin corazón renovado) y el cap. 4 (crisis final)."
 }

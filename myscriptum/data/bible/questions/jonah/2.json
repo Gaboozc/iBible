@@ -1,27 +1,57 @@
 [
   {
     "stage": "observation",
-    "question": "¿Cuáles son los personajes, lugares y eventos principales en jonah 2?",
-    "guidance": "Lee cuidadosamente el texto y anota: ¿Quiénes hablan? ¿Dónde ocurre? ¿Qué acciones suceden? No interpretes aún, solo observa."
+    "question": "¿Dónde y cuándo, en el capítulo, cambia el tono de la oración del descenso al ascenso? Marca el verso pivote y las palabras exactas del giro.",
+    "guidance": "El giro está en v. 6b-7: 'mas tú sacaste mi vida de la sepultura... me acordé de Jehová: y mi oración entró hasta ti'. El punto de bisagra es 'me acordé' (וָאֶזְכְּרָה, va-ezkerah). Observa cómo el vocabulario cambia del pasivo ('me echaste', 'me rodearon') al activo salvador ('sacaste', 'entró')."
   },
   {
     "stage": "observation",
-    "question": "¿Qué palabras o frases se repiten en este capítulo?",
-    "guidance": "Busca patrones lingüísticos que el autor enfatiza. Las repeticiones indican importancia teológica."
+    "question": "Cuenta cuántas veces Jonás menciona palabras del campo semántico del mar (yam, mayim, ondas, olas, algas, abismo, ríos) en solo estos 10 versículos.",
+    "guidance": "Deberías encontrar al menos 6-8 términos densificados en vv. 3, 5-6. Pregunta que sigue: ¿por qué esta acumulación? El texto satura el imaginario acuático para reproducir la sensación de ahogamiento en el lector."
+  },
+  {
+    "stage": "observation",
+    "question": "Localiza cada frase que Jonás toma prestada del Salterio y anota el salmo probable. ¿Hay algún versículo del capítulo que suene 'original'?",
+    "guidance": "Jonás 2 es un mosaico casi puro de citas: Sal 42:7 (v. 3), Sal 69:1-2 (v. 5), Sal 30:3 (v. 6), Sal 116/86 (v. 8), Sal 3:8 (v. 9). Ver 'Conexiones' de este capítulo. Reflexiona: cuando el creyente ora en crisis, ¿qué provee el conocimiento previo del Salterio?"
   },
   {
     "stage": "interpretation",
-    "question": "¿Cuál es el mensaje central o propósito de jonah 2?",
-    "guidance": "Considera el contexto del libro entero. ¿Cómo se relaciona este capítulo con los capítulos anteriores y posteriores?"
+    "question": "¿Por qué el texto usa 'templo' (heikhal) dos veces (vv. 4, 7) siendo que Jonás está físicamente en el mar y espiritualmente en el Seol?",
+    "guidance": "Refleja la teología dedicatoria de Salomón (1 R 8:38-49): existe un lugar donde YHWH se comprometió a escuchar. Jonás no puede estar allí físicamente, pero la dirección de su oración importa. Considera: en un mundo sin templo físico (era post-cristiana), ¿cuál es el equivalente teológico para el creyente hoy? (cf. Jn 4:21-24)"
   },
   {
     "stage": "interpretation",
-    "question": "¿Qué nos enseña este capítulo sobre la naturaleza de Dios?",
-    "guidance": "Busca atributos divinos revelados: poder, amor, justicia, misericordia, etc."
+    "question": "¿Qué te dice sobre la teología del libro que Jonás pueda cantar 'la salvación es de Jehová' (v. 9) y aún así resistir en el cap. 4 que Dios salve a los ninivitas?",
+    "guidance": "Muestra que la ortodoxia teológica personal no cura automáticamente el prejuicio nacional. Jonás confiesa correctamente que la salvación es de YHWH — pero quiere reservar esa salvación para él y los suyos. Es un fenómeno del corazón, no de la doctrina. ¿Dónde lo ves en la iglesia contemporánea?"
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Por qué Jonás promete 'sacrificios con voz de alabanza' y 'pagar votos' (v. 9) — exactamente lo que los marineros paganos hicieron en 1:16?",
+    "guidance": "El paralelismo es intencional. Los marineros gentiles ya habían hecho lo que ahora Jonás promete hacer. El profeta llega tarde al culto verdadero, pero llega. También sugiere: la disciplina divina consigue de Jonás lo que la Ley no consiguió."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Qué implica el verbo crudo 'vomitó' (qi', v. 10) en lugar de una imagen más suave como 'depositó' o 'liberó'?",
+    "guidance": "Es el mismo verbo con el que Levítico 18:25-28 describe la tierra 'vomitando' a sus habitantes por sus abominaciones. Sugiere que incluso el pez rechaza al profeta rebelde. La misericordia divina no es sentimental: rescata sin dulcificar el problema del pecado."
   },
   {
     "stage": "application",
-    "question": "¿Cómo puedo aplicar las enseñanzas de jonah 2 a mi vida hoy?",
-    "guidance": "Busca verdades prácticas que cambien tu forma de pensar, sentir o actuar."
+    "question": "¿Qué salmos, textos bíblicos o himnos memorizados afloran cuando estás en tu propio 'fondo del mar'? Si no hay ninguno, ¿qué texto empezarías a memorizar hoy?",
+    "guidance": "Jonás pudo orar así porque llevaba el Salterio dentro. La memorización bíblica no es un ejercicio de piedad decorativa; es equipamiento para el abismo. Elige un salmo (Sal 23, 42, 46, 51, 91, 121, 130) y comprométete a memorizarlo este mes."
+  },
+  {
+    "stage": "application",
+    "question": "¿Estás esperando que las circunstancias mejoren antes de dar gracias, o puedes prometer alabanza aún dentro del pez?",
+    "guidance": "Jonás promete el sacrificio de acción de gracias antes de estar en tierra firme (v. 9). Su fe se compromete con la salvación antes de verla. Piensa en una situación no resuelta en tu vida y formula, ahora, una acción concreta de gratitud pactual."
+  },
+  {
+    "stage": "application",
+    "question": "¿Dónde has sido 'rescatado' del pecado o de la muerte y sin embargo sigues cargando prejuicios que la gracia debería haber ablandado?",
+    "guidance": "Jonás fue rescatado del abismo pero aún volverá a resistir la misericordia hacia Nínive (cap. 4). El rescate personal no equivale a corazón renovado. Identifica una área concreta: gente que 'no merece' tu paciencia, comunidad que te cuesta amar. La gracia recibida se prueba en la gracia extendida."
+  },
+  {
+    "stage": "application",
+    "question": "¿En qué área concreta estás 'siguiendo vanidades ilusorias' y por tanto abandonando la ḥesed que se te ha dado (v. 8)?",
+    "guidance": "Jonás define la idolatría no como culto explícito a estatuas, sino como cualquier lealtad que suplanta a YHWH. Haz una lista honesta: éxito profesional, aprobación familiar, seguridad económica, autoimagen, consumo digital. ¿Cuál te está costando la ḥesed?"
   }
 ]

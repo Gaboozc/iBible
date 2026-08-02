@@ -1,27 +1,57 @@
 [
   {
     "stage": "observation",
-    "question": "¿Cuáles son los personajes, lugares y eventos principales en jonah 3?",
-    "guidance": "Lee cuidadosamente el texto y anota: ¿Quiénes hablan? ¿Dónde ocurre? ¿Qué acciones suceden? No interpretes aún, solo observa."
+    "question": "Compara palabra por palabra Jonás 1:1-3 con 3:1-3. ¿Qué se repite exactamente? ¿Qué cambia?",
+    "guidance": "El comando divino es idéntico ('levántate, ve a Nínive, aquella gran ciudad, y pregona contra ella'). El verbo 'levantarse' (qum) se repite. Lo que cambia es la dirección de Jonás: 'y fue a Nínive' en vez de 'y descendió a Jope'. El paralelismo hace que el cambio de dirección resalte como el evento del capítulo, sin necesidad de explicación psicológica."
   },
   {
     "stage": "observation",
-    "question": "¿Qué palabras o frases se repiten en este capítulo?",
-    "guidance": "Busca patrones lingüísticos que el autor enfatiza. Las repeticiones indican importancia teológica."
+    "question": "¿Cuántas palabras tiene el sermón de Jonás en hebreo (v. 4)? ¿Menciona el nombre de YHWH? ¿Ofrece motivos o llama al arrepentimiento explícito?",
+    "guidance": "Cinco palabras hebreas ('Aún cuarenta días y Nínive será trastornada'). No menciona a YHWH. No llama al arrepentimiento explícitamente. No da motivos. Reflexiona: ¿qué te dice esto sobre lo que hace poderoso un mensaje?"
+  },
+  {
+    "stage": "observation",
+    "question": "¿Quién se arrepiente primero: el pueblo o el rey? ¿Qué implica el orden narrativo?",
+    "guidance": "El pueblo primero (v. 5), después el rey (v. 6). El orden importa: el movimiento espiritual sube desde abajo. Compara con reformas descendentes (Josías en 2 R 22-23) para ver el contraste."
+  },
+  {
+    "stage": "observation",
+    "question": "Localiza las ocurrencias de los verbos 'shuv' (volver) y 'niḥam' (arrepentirse). ¿Qué patrón semántico se dibuja?",
+    "guidance": "'Shuv' se aplica al pueblo (vv. 8, 10) y a la esperanza sobre Dios (v. 9); 'niḥam' se aplica solo a Dios (vv. 9, 10). El texto marca dos tipos de arrepentimiento simétricos: humano (cambio de dirección) y divino (respuesta compasiva a esa dirección)."
   },
   {
     "stage": "interpretation",
-    "question": "¿Cuál es el mensaje central o propósito de jonah 3?",
-    "guidance": "Considera el contexto del libro entero. ¿Cómo se relaciona este capítulo con los capítulos anteriores y posteriores?"
+    "question": "¿Por qué el narrador incluye el detalle de los animales cubiertos de saco y ayunando (v. 7-8)?",
+    "guidance": "Refleja costumbres asirias reales (documentadas fuera de la Biblia). Pero el narrador lo usa teológicamente: el arrepentimiento sacude el orden entero de la creación, incluidos los animales — anticipa la conclusión de 4:11 ('¿no tendré yo piedad de Nínive... y muchos animales?'). El detalle prepara el clímax del libro."
   },
   {
     "stage": "interpretation",
-    "question": "¿Qué nos enseña este capítulo sobre la naturaleza de Dios?",
-    "guidance": "Busca atributos divinos revelados: poder, amor, justicia, misericordia, etc."
+    "question": "¿Qué significa que el mensaje profético más breve del AT produzca la conversión más masiva del AT?",
+    "guidance": "Deshace la ecuación 'mejor sermón = más conversos'. La eficacia del mensaje reside en el Dios que lo respalda y en la disposición del oyente, no en el arte del predicador. Cuestiona modelos evangelísticos centrados en técnica y espectáculo."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Fue 'falsa' la profecía de Jonás si Nínive no fue destruida? ¿Cómo entender el 'arrepentimiento' de Dios (v. 10) sin comprometer su carácter?",
+    "guidance": "Jeremías 18:7-10 resuelve la tensión: toda palabra profética de juicio incluye la cláusula tácita del arrepentimiento. Dios no cambió de plan por ignorancia; cumplió el plan que siempre incluía la puerta del retorno. La aparente 'falsedad' de la profecía es su verdad más profunda: revela un Dios más grande que su propia amenaza."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Por qué los ninivitas creen 'a Dios' (Elohim) y no 'a YHWH' (v. 5)? ¿Qué implica teológicamente?",
+    "guidance": "Elohim es el nombre genérico de la divinidad. Los ninivitas se convierten al Dios verdadero sin tener aún el conocimiento pactual de su nombre revelado a Israel. La teología es que la fe salvífica puede empezar antes de tener la teología completa. Prefigura la conversión gentil en Hechos: Cornelio temía a Dios antes de conocer a Jesús."
   },
   {
     "stage": "application",
-    "question": "¿Cómo puedo aplicar las enseñanzas de jonah 3 a mi vida hoy?",
-    "guidance": "Busca verdades prácticas que cambien tu forma de pensar, sentir o actuar."
+    "question": "¿Qué 'segunda palabra' de Dios estoy esperando (o ignorando) sobre un llamado que ya rechacé una vez?",
+    "guidance": "Jonás 3:1 muestra que Dios reitera vocaciones. Piensa en una convicción antigua que hayas racionalizado o pospuesto: una conversación difícil, un servicio en la comunidad, una decisión ética. ¿Cuál es la 'segunda palabra' que necesitas escuchar hoy?"
+  },
+  {
+    "stage": "application",
+    "question": "¿Qué 'Nínive' de mi entorno he prejuzgado como incapaz de arrepentirse? ¿Estoy dispuesto a llevar el mensaje y aceptar que el resultado no dependerá de mí?",
+    "guidance": "Los ninivitas eran el enemigo mortal de Israel. Nadie esperaba conversión. Piensa en una comunidad, familia, colectivo político o ideológico que hayas descartado espiritualmente. Ora concretamente por ellos esta semana."
+  },
+  {
+    "stage": "application",
+    "question": "¿Cómo se ve un arrepentimiento 'con obras' (v. 10) — no solo emocional o verbal — en un área específica de mi vida?",
+    "guidance": "Dios respondió al arrepentimiento de Nínive porque 'vio lo que hicieron' (v. 10), no solo lo que dijeron. Un arrepentimiento sin cambio observable es sentimentalismo religioso. Identifica un área donde tu 'shuv' necesita traducirse en acciones concretas: una restitución, un cambio de hábito, una relación restaurada."
   }
 ]

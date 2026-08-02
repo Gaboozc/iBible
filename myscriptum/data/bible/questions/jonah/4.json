@@ -1,27 +1,62 @@
 [
   {
     "stage": "observation",
-    "question": "¿Cuáles son los personajes, lugares y eventos principales en jonah 4?",
-    "guidance": "Lee cuidadosamente el texto y anota: ¿Quiénes hablan? ¿Dónde ocurre? ¿Qué acciones suceden? No interpretes aún, solo observa."
+    "question": "Compara el vocabulario de la oración de Jonás en 4:2 con Éxodo 34:6-7. ¿Qué palabras exactas se toman prestadas? ¿Qué se omite?",
+    "guidance": "Se cita: clemente (channun), piadoso (rachum), tardo para la ira (erek appayim), grande en misericordia (rav-chesed), se arrepiente del mal. Se omite: 'y verdad' (emet) y toda la sección de 34:7b ('no tendrá por inocente al culpable... visita la iniquidad'). Jonás elige polémicamente los atributos de misericordia y omite los de justicia — la selección refuerza su acusación."
   },
   {
     "stage": "observation",
-    "question": "¿Qué palabras o frases se repiten en este capítulo?",
-    "guidance": "Busca patrones lingüísticos que el autor enfatiza. Las repeticiones indican importancia teológica."
+    "question": "Cuenta cuántas veces YHWH 'prepara' (manah) algo en el capítulo 4. ¿Qué prepara y para qué?",
+    "guidance": "Tres veces: la calabacera (v. 6, para consuelo), el gusano (v. 7, para retirar el consuelo), el viento solano (v. 8, para intensificar el sufrimiento). Junto con el pez del cap. 2, YHWH prepara cuatro cosas en el libro. Reflexión: en cada caso el manah está al servicio de la formación del profeta, no del confort."
+  },
+  {
+    "stage": "observation",
+    "question": "¿Cuántas preguntas hace Dios en el capítulo? ¿Cuántas veces responde Jonás?",
+    "guidance": "Tres preguntas divinas (vv. 4, 9, 11). Jonás responde solo una (v. 9). La pregunta final (v. 11) queda sin respuesta. Observa que el libro entero termina con signo de interrogación."
+  },
+  {
+    "stage": "observation",
+    "question": "Marca en el texto cada palabra que se refiere a 'grande' (gadol). ¿A qué se aplica en el capítulo 4?",
+    "guidance": "Gran mal (v. 1), gran alegría (v. 6), gran ciudad (v. 11). El adjetivo del cap. 1 (viento, tempestad, ciudad) reaparece cerrando el motivo. La 'grandeza' del enojo del profeta se yuxtapone a la 'grandeza' de la ciudad que Dios quiere salvar — el contraste es la pregunta."
   },
   {
     "stage": "interpretation",
-    "question": "¿Cuál es el mensaje central o propósito de jonah 4?",
-    "guidance": "Considera el contexto del libro entero. ¿Cómo se relaciona este capítulo con los capítulos anteriores y posteriores?"
+    "question": "¿Qué significa teológicamente que Jonás cite Éxodo 34:6-7 (la fórmula más central del AT) como queja en vez de como confesión?",
+    "guidance": "Muestra que la ortodoxia doctrinal puede coexistir con un corazón antibíblico. Jonás sabe la teología correcta y precisamente por eso se enoja: 'yo sabía que tú harías esto'. Es una crítica profunda a cualquier religiosidad que confiese verdades verdaderas mientras rechaza las implicaciones éticas de esas mismas verdades."
   },
   {
     "stage": "interpretation",
-    "question": "¿Qué nos enseña este capítulo sobre la naturaleza de Dios?",
-    "guidance": "Busca atributos divinos revelados: poder, amor, justicia, misericordia, etc."
+    "question": "¿Por qué Dios responde a Jonás con preguntas ('¿haces bien en enojarte?') y no con argumentos?",
+    "guidance": "La pregunta socrática abre el espacio del auto-examen que el argumento cerraría. Dios pastorea el corazón de Jonás no imponiendo la conclusión sino invitándolo a razonar consigo mismo. Modelo pastoral: cuando alguien está en ira teológica, argumentar suele endurecer; preguntar suele abrir."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Qué función cumple la calabacera dentro de la pedagogía divina de este capítulo?",
+    "guidance": "Es una parábola física. YHWH permite que Jonás sienta en su propio cuerpo lo que significa perder algo efímero que no cultivó, para argumentar por analogía a fortiori (v. 10-11): si tú te duele una planta, ¿cuánto más me duele a mí una ciudad? El libro enseña por experiencia, no por lección abstracta."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Por qué el libro termina con una pregunta sin respuesta? ¿Qué efecto narrativo produce?",
+    "guidance": "La pregunta queda dirigida al lector. Al no responder Jonás, el texto obliga al lector a responderla desde su propio corazón. Es una técnica narrativa deliberada — similar a la parábola del hijo pródigo (Lc 15) o la del sembrador — que traslada la crisis del personaje al receptor. El silencio final es la pedagogía."
+  },
+  {
+    "stage": "interpretation",
+    "question": "¿Qué implica que Dios mencione a 'los muchos animales' al final del libro (v. 11)?",
+    "guidance": "Recoge el detalle del ayuno de los animales en 3:8 y cierra el arco. La misericordia divina incluye a la creación entera, no solo a los humanos. Anticipa la teología escatológica de Ro 8:19-22 ('la creación entera gime') y Ap 5:13 ('toda criatura... oí decir: Al que está sentado en el trono... sea la alabanza'). El Dios de Jonás no es solo el Dios de las almas humanas."
   },
   {
     "stage": "application",
-    "question": "¿Cómo puedo aplicar las enseñanzas de jonah 4 a mi vida hoy?",
-    "guidance": "Busca verdades prácticas que cambien tu forma de pensar, sentir o actuar."
+    "question": "¿Qué doctrina bíblica confieso con precisión pero contradigo con mis emociones o mis reacciones cuando se aplica a personas que desprecio?",
+    "guidance": "Jonás sabía Éxodo 34:6-7. Sabía que Dios es clemente. Se enojó cuando esa clemencia alcanzó a Nínive. Piensa concretamente: doctrina de la justificación por fe frente a alguien que 'no lo merece'; doctrina del amor al enemigo frente a una persona específica; doctrina de la imagen de Dios frente a un grupo que desprecias. Nombra una."
+  },
+  {
+    "stage": "application",
+    "question": "¿A qué 'calabacera' me aferro que Dios podría estar preparándose a quitar para mostrarme algo más grande de sí mismo?",
+    "guidance": "La calabacera de Jonás era comodidad ganada sin esfuerzo. Piensa en algo en tu vida que consideres 'tuyo' sin haberlo cultivado: seguridad económica heredada, prestigio institucional, comunidad de origen. ¿Qué te está enseñando Dios sobre tu apego a eso?"
+  },
+  {
+    "stage": "application",
+    "question": "El libro termina con una pregunta sin respuesta. ¿Cuál sería tu respuesta a Dios: 'sí, tienes razón; deberías tener piedad de X', o 'no, no debiste'? Sé concreto sobre quién es tu 'X'.",
+    "guidance": "El texto sagrado invita a esta respuesta explícita. Nómbralo — persona, grupo, movimiento, generación, comunidad — y escríbelo. Este ejercicio no es teórico: la formación del carácter cristiano pasa por dar a Dios respuestas honestas donde el texto las pide."
   }
 ]

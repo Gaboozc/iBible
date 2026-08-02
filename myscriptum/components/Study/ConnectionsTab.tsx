@@ -2,7 +2,7 @@
 
 import { useMemo } from 'react';
 import { Link2, History, BookOpen, Zap, BookMarked } from 'lucide-react';
-import { ReactFlow, Background, Controls, MarkerType, type Node, type Edge } from '@xyflow/react';
+import { ReactFlow, Background, Controls, MarkerType, useReactFlow, ReactFlowProvider, type Node, type Edge } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import type { Connection } from '@/lib/bible/analysis-loader';
 import { GenericContentBadge } from './GenericContentBadge';
@@ -98,6 +98,43 @@ function buildGraph(
   return { nodes, edges };
 }
 
+function ConnectionGraph({ nodes, edges }: { nodes: Node[]; edges: Edge[] }) {
+  const { fitView } = useReactFlow();
+  const containerRef = useMemo(() => ({ current: null as HTMLDivElement | null }), []);
+
+  return (
+    <div
+      ref={(el) => {
+        containerRef.current = el;
+        if (!el) return;
+        // Re-fit whenever the container size changes (e.g. tab shown, viewport resized).
+        const ro = new ResizeObserver(() => {
+          const { width, height } = el.getBoundingClientRect();
+          if (width > 0 && height > 0) {
+            requestAnimationFrame(() => fitView({ padding: 0.2, duration: 200 }));
+          }
+        });
+        ro.observe(el);
+      }}
+      style={{ width: '100%', height: '100%' }}
+    >
+      <ReactFlow
+        nodes={nodes}
+        edges={edges}
+        fitView
+        fitViewOptions={{ padding: 0.2 }}
+        nodesDraggable
+        nodesConnectable={false}
+        elementsSelectable
+        proOptions={{ hideAttribution: true }}
+      >
+        <Background gap={16} size={1} color="#cbd5e1" />
+        <Controls showInteractive={false} />
+      </ReactFlow>
+    </div>
+  );
+}
+
 export function ConnectionsTab({ connections = [], currentBook = '', currentChapter = 0, isGeneric = false }: ConnectionsTabProps) {
   const { nodes, edges } = useMemo(
     () => buildGraph(connections, currentBook, currentChapter),
@@ -141,19 +178,9 @@ export function ConnectionsTab({ connections = [], currentBook = '', currentChap
           </div>
         </div>
         <div className="h-[360px] sm:h-[440px] bg-slate-50">
-          <ReactFlow
-            nodes={nodes}
-            edges={edges}
-            fitView
-            fitViewOptions={{ padding: 0.2 }}
-            nodesDraggable
-            nodesConnectable={false}
-            elementsSelectable
-            proOptions={{ hideAttribution: true }}
-          >
-            <Background gap={16} size={1} color="#cbd5e1" />
-            <Controls showInteractive={false} />
-          </ReactFlow>
+          <ReactFlowProvider>
+            <ConnectionGraph nodes={nodes} edges={edges} />
+          </ReactFlowProvider>
         </div>
       </div>
 

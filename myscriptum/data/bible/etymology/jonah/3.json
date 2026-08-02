@@ -1,24 +1,134 @@
 [
   {
-    "hebrew": "דָּבָר (dabar)",
-    "english": "word, matter, thing",
-    "literalMeaning": "aquello que se dice o se hace",
-    "primaryMeaning": "Una palabra hablada; un asunto o cuestión",
-    "theologicalMeaning": "En la teología bíblica, \"dabar\" es fundamental - la palabra de Dios es creativa y poderosa. Dios habla y las cosas existen.",
-    "root": "Raíz primitiva, posiblemente relacionada con el movimiento o la acción",
+    "hebrew": "נִחַם (niḥam)",
+    "english": "to relent, to be moved to compassion, to change course",
+    "literalMeaning": "sentir pesar profundo, cambiar de disposición",
+    "primaryMeaning": "Cambio de dirección emocional; en Dios, respuesta compasiva a la respuesta humana; no ignorancia previa sino soberanía relacional",
+    "theologicalMeaning": "Es una de las palabras teológicamente más complejas del AT. Aplicada a Dios (Gn 6:6; Éx 32:14; Jon 3:10; Jer 18:8; Jl 2:13), plantea la pregunta clásica de la impasibilidad divina. La teología clásica distingue: Dios no cambia en su carácter (Nm 23:19; 1 S 15:29) pero sí en su relación pactual con el pueblo según su respuesta. Jonás 3:10 es el ejemplo paradigmático: el niḥam divino no anula la palabra profética; la cumple según su cláusula implícita (Jer 18:7-10).",
+    "root": "נחם (consolar, arrepentir, mostrar compasión)",
     "cognates": [
-      "dibrah (palabra)",
-      "dober (hablador)"
+      "nechamah (consuelo)",
+      "menachem (consolador)",
+      "Nehemías (nombre propio: 'YHWH consuela')"
     ],
-    "semanticEvolution": "La palabra ha mantenido su significado core a través del hebreo antiguo y moderno.",
+    "semanticEvolution": "Del arrepentimiento humano al 'arrepentimiento' pactual de Dios al consuelo mesiánico ('Consolación de Israel', Lc 2:25).",
     "relatedWords": [
-      "amar (decir)",
-      "lashon (lengua)",
-      "kol (voz)"
+      "shuv (volver)",
+      "rachamim (compasión)",
+      "chesed (misericordia leal)"
     ],
     "keyAppearances": [
-      "jonah 3"
+      "Génesis 6:6",
+      "Éxodo 32:14",
+      "1 Samuel 15:11, 29, 35",
+      "Jeremías 18:8",
+      "Joel 2:13-14",
+      "Jonás 3:9-10; 4:2"
     ],
-    "biblicalFrequency": 1440
+    "biblicalFrequency": 108
+  },
+  {
+    "hebrew": "שׁוּב (shuv)",
+    "english": "to turn, return, repent",
+    "literalMeaning": "girar, dar la vuelta, regresar",
+    "primaryMeaning": "Movimiento físico de regreso, aplicado metafóricamente al cambio moral y espiritual",
+    "theologicalMeaning": "Es el verbo teológico central del arrepentimiento en el AT (aparece más de 1000 veces, ~120 con sentido moral/espiritual). No implica primariamente lamento emocional sino cambio de dirección: dejar el camino equivocado y volver al Señor. Jonás 3:8, 10 usa shuv para el arrepentimiento de Nínive. El equivalente griego neotestamentario es μετανοέω (metanoeo), aunque este acentúa más el cambio de mente. Ver también el prólogo de Marcos (1:15): 'arrepentíos y creed en el evangelio'.",
+    "root": "שוב (volver, retornar)",
+    "cognates": [
+      "teshuvah (retorno, arrepentimiento — término técnico judío)",
+      "meshuvah (apostasía, 'volverse de vuelta')"
+    ],
+    "semanticEvolution": "Del retorno físico al retorno espiritual al concepto rabínico de teshuvah como pilar de la vida ética.",
+    "relatedWords": [
+      "niḥam (arrepentirse)",
+      "sur (apartar)",
+      "azav (dejar)"
+    ],
+    "keyAppearances": [
+      "Deuteronomio 30:2",
+      "1 Reyes 8:47-48",
+      "Isaías 55:7",
+      "Jeremías 18:8",
+      "Jonás 3:8, 10",
+      "Zacarías 1:3"
+    ],
+    "biblicalFrequency": 1075
+  },
+  {
+    "hebrew": "הָפַךְ (haphakh)",
+    "english": "to overturn, transform, be turned",
+    "literalMeaning": "voltear, dar la vuelta, invertir",
+    "primaryMeaning": "Movimiento físico o metafórico de inversión: puede significar destrucción total o transformación radical",
+    "theologicalMeaning": "El mensaje de Jonás 3:4 ('Nínive será nehepakhet') usa la forma pasiva/reflexiva de esta raíz. La ambigüedad es teológica: la misma palabra describe el 'trastorno' de Sodoma (Gn 19:25, 29) y la 'transformación' del corazón (1 S 10:6, Saúl 'trastornado' en otro hombre). El texto deja abierta la posibilidad de que 'trastornar' Nínive sea destruirla O transformarla — Nínive elige la segunda, y el juicio de destrucción se cumple como conversión. Es una teología profunda de cómo Dios preserva su palabra cambiando el resultado del juicio.",
+    "root": "הפך (voltear, invertir)",
+    "cognates": [
+      "mahpekhah (destrucción, catástrofe)",
+      "haphekh (revés, opuesto)"
+    ],
+    "semanticEvolution": "Del acto físico de voltear (voltear una tortilla, Os 7:8) a metáforas de destrucción divina (Gn 19) y transformación personal (1 S 10:6).",
+    "relatedWords": [
+      "shachat (destruir)",
+      "chalaph (cambiar)",
+      "chadash (renovar)"
+    ],
+    "keyAppearances": [
+      "Génesis 19:25, 29",
+      "Deuteronomio 29:23",
+      "1 Samuel 10:6",
+      "Jonás 3:4",
+      "Amós 4:11"
+    ],
+    "biblicalFrequency": 95
+  },
+  {
+    "hebrew": "צוֹם (tsom) / קָרָא צוֹם (qara' tsom)",
+    "english": "fast / to proclaim a fast",
+    "literalMeaning": "ayuno; proclamar ayuno",
+    "primaryMeaning": "Abstención voluntaria de comida como acto religioso de humillación, duelo o petición ante YHWH",
+    "theologicalMeaning": "El ayuno en el AT no es ascetismo abstracto sino gesto físico de arrepentimiento y dependencia. Jonás 3:5, 7 es de los ejemplos más dramáticos: ayuno decretado por el rey e incluso extendido a los animales (paralelo al ritual asirio; el narrador lo integra al servicio del mensaje bíblico). Isaías 58 corrige la práctica: el ayuno verdadero es 'desatar las ligaduras de impiedad'. Joel 1-2 muestra el modelo profético del ayuno nacional. En el NT, Jesús presupone el ayuno pero lo desconecta del espectáculo (Mt 6:16-18).",
+    "root": "צום (ayunar)",
+    "cognates": [
+      "tsom kabhed (ayuno solemne)"
+    ],
+    "semanticEvolution": "De rito comunitario en crisis (2 Sam 12:16, Est 4:16) a disciplina espiritual individual (Mt 4:2; 2 Co 6:5).",
+    "relatedWords": [
+      "sak (saco/cilicio)",
+      "'epher (ceniza)",
+      "'inah nephesh (humillar el alma)"
+    ],
+    "keyAppearances": [
+      "1 Samuel 7:6",
+      "Ester 4:16",
+      "Isaías 58:1-14",
+      "Joel 1:14",
+      "Jonás 3:5-7",
+      "Mateo 6:16-18"
+    ],
+    "biblicalFrequency": 27
+  },
+  {
+    "hebrew": "מִי יוֹדֵעַ (mi yodea')",
+    "english": "'who knows?' — expression of hope without presumption",
+    "literalMeaning": "'¿quién sabe?'",
+    "primaryMeaning": "Fórmula que expresa esperanza abierta sin reclamar garantías: se busca a Dios sin manipular el resultado",
+    "theologicalMeaning": "Aparece en momentos teológicos densos: David tras la muerte del hijo con Betsabé (2 S 12:22), el rey de Nínive aquí (Jon 3:9), Joel (2:14). En cada caso, la fórmula rechaza tanto el fatalismo ('todo está decidido, no vale la pena') como la presunción ('si me arrepiento, Dios está obligado'). Es teología pastoral madura: el creyente sabe que no puede forzar la mano de Dios, pero también sabe que Dios responde a quienes le buscan.",
+    "root": "ידע (conocer) + מִי (interrogativo 'quién')",
+    "cognates": [
+      "yada' (conocer)",
+      "da'at (conocimiento)"
+    ],
+    "semanticEvolution": "Fórmula estable desde el AT hasta la literatura rabínica como marco de la oración honesta.",
+    "relatedWords": [
+      "ulai (quizás)",
+      "yesh tikvah (hay esperanza)"
+    ],
+    "keyAppearances": [
+      "2 Samuel 12:22",
+      "Ester 4:14",
+      "Joel 2:14",
+      "Jonás 3:9",
+      "Eclesiastés 3:21"
+    ],
+    "biblicalFrequency": 12
   }
 ]

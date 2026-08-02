@@ -1,13 +1,15 @@
 {
-  "period": "Reinado de Jeroboam II (ca. 780–750 a.C.)",
-  "dominantEmpire": "Asiria (Nínive como capital regional dominante)",
-  "kingName": "Jeroboam II en Israel; rey innominado de Nínive",
-  "kingRegion": "Israel y Asiria",
+  "period": "Reinado de Jeroboam II en Israel (ca. 780–750 a.C.)",
+  "dominantEmpire": "Asiria en ascenso, con Nínive como capital regional",
+  "kingName": "Jeroboam II (Israel); rey de Nínive innominado",
+  "kingRegion": "Reino del norte de Israel y provincia asiria",
   "activeProphets": [
-    "Jonás (hijo de Amitai)"
+    "Jonás (hijo de Amitai)",
+    "Amós",
+    "Oseas"
   ],
-  "templeStatus": "Templo en Jerusalén en funcionamiento; culto sincretista en el norte",
-  "location": "Gat-hefer, Jope, Tarsis, Nínive",
-  "summary": "Jonás huye del llamado divino y descubre la compasión de Dios hacia Nínive, capital enemiga. En Jonás 4, el capítulo contiene 11 versículos y proyecta su mensaje dentro del marco histórico del libro. Los términos dominantes del capítulo son: jonas, calabacera, muerte. Señales textuales: “PERO Jonás se apesadumbró en extremo, y enojóse.” | “Y preparó Jehová Dios una calabacera, la cual creció sobre Jonás para que hiciese sombra sobre su cabeza, y le defendie…” | “¿Y no tendré yo piedad de Nínive, aquella grande ciudad donde hay más de ciento y veinte mil personas que no conocen su…”.",
-  "spiritualContext": "Confronta el nacionalismo religioso y muestra la misericordia universal de Dios. Este capítulo aporta un matiz propio dentro del libro. El desarrollo espiritual converge en énfasis teológico del pasaje y cohesión literaria del capítulo; adoración, oración y respuesta de fe. En su lenguaje central destacan jonas, calabacera, muerte. El núcleo del capítulo se percibe en “Y preparó Jehová Dios una calabacera, la cual creció sobre Jonás para que hiciese sombra sobre su cabeza, y le defendie…”."
+  "templeStatus": "Templo en Jerusalén en funcionamiento; el capítulo se desarrolla en las afueras de Nínive",
+  "location": "Al oriente de Nínive, bajo una enramada improvisada",
+  "summary": "Jonás 4 es el desenlace teológico del libro y — a diferencia de los caps 1-3 — se sitúa después del suceso principal. La estructura invierte la expectativa dramática: se esperaría celebración por la conversión masiva, se recibe indignación profunda. Jonás se enoja ante el niḥam divino (v. 1), cita la fórmula clásica de Éxodo 34:6-7 como acusación (v. 2), y pide morir (v. 3). YHWH responde con dos preguntas: '¿haces bien en enojarte?' (vv. 4, 9) y con una pedagogía físico-teológica: prepara la calabacera (v. 6), el gusano (v. 7) y el viento solano (v. 8) — repitiendo el verbo מָנָה (manah) de 2:1. La calabacera provee sombra momentánea, Jonás se alegra 'con gran alegría' (v. 6). Al día siguiente el gusano la seca, el viento y el sol golpean, y Jonás vuelve a pedir morir (v. 8). El capítulo — y el libro — cierra con la pregunta abierta de YHWH (v. 11): '¿no tendré yo piedad de Nínive, aquella gran ciudad, donde hay más de ciento veinte mil personas que no conocen su mano derecha de su mano izquierda, y muchos animales?'.",
+  "spiritualContext": "El capítulo despliega la crisis del corazón que la conversión de Nínive expuso pero no resolvió. Jonás cita Éx 34:6-7 (la autorevelación clásica del carácter de YHWH) como reproche: 'yo sabía que tú eres Dios clemente y piadoso, tardo á enojarte, y de grande misericordia, y que te arrepientes del mal' — esta es la doctrina más central del AT usada como acusación. La ironía teológica es abrumadora: el profeta cita ortodoxia impecable para quejarse de que Dios sea así. La lección espiritual es que se puede tener teología correcta y corazón resentido; se puede confesar la ḥesed de Dios y sufrir cuando esa ḥesed alcanza a quienes despreciamos. El libro no se cierra con la respuesta de Jonás — el texto queda abierto. Es una técnica narrativa deliberada: la pregunta se dirige al lector. ¿Y tú?"
 }

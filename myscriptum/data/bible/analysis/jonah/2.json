@@ -1,39 +1,57 @@
 {
-  "title": "Análisis Estructural de Jonás 2",
+  "title": "Análisis estructural de Jonás 2: la oración desde el abismo",
   "sections": [
     {
-      "verses": "1-5",
-      "title": "Apertura del capítulo",
-      "description": "Abarca los versículos 1 al 5 con foco léxico en jonas y vientre. Inicia con “MAS Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches.” y avanza hacia la consolidación del mensaje en la unidad.",
-      "significance": "En Jonás 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+      "verses": "1",
+      "title": "Marco narrativo — el pez preparado (v. 1)",
+      "description": "'Preparó Jehová un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches'. El verbo מָנָה (manah, 'preparar/asignar') se repite estratégicamente en el libro: el pez (2:1), la calabacera (4:6), el gusano (4:7), el viento solano (4:8). YHWH gobierna la creación entera — grande y pequeña — para redirigir a su siervo. La frase 'tres días y tres noches' será citada por Jesús como tipo de su propia sepultura (Mt 12:40).",
+      "significance": "Abre y cierra el capítulo un marco narrativo minimalista (vv. 1 y 10) que enmarca la oración poética. La estructura es intencional: el corazón del capítulo no es la acción sino la palabra que sale del profeta cuando ya no queda salida."
     },
     {
-      "verses": "6-10",
-      "title": "Desarrollo y cierre",
-      "description": "Abarca los versículos 6 al 10 con foco léxico en alma y tierra. Inicia con “Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza.” y avanza hacia la consolidación del mensaje en la unidad.",
-      "significance": "En Jonás 2, esta sección refuerza énfasis teológico del pasaje y cohesión literaria del capítulo, articulando el movimiento del texto dentro del libro."
+      "verses": "2-3",
+      "title": "Clamor y respuesta (vv. 2-3)",
+      "description": "'Clamé de mi tribulación á Jehová, y él me oyó; del vientre del Seol clamé, y mi voz oíste'. El paralelismo hebreo es clásico: tribulación ↔ Seol, clamar ↔ ser oído. La mención del Seol (שְׁאוֹל) sitúa a Jonás no solo bajo el mar sino en el reino de los muertos — dimensión teológica más que física. En v. 3 Jonás atribuye directamente su situación a YHWH: 'me echaste en el profundo, en medio de los mares... todas tus ondas y tus olas pasaron sobre mí'. Ecos directos de Sal 42:7.",
+      "significance": "La oración empieza reconociendo tanto la agencia divina (fue Dios quien lo hundió) como la fidelidad divina (fue Dios quien oyó). Es teología pactual: quien juzga es también quien redime."
+    },
+    {
+      "verses": "4-7",
+      "title": "Descenso y giro hacia el templo (vv. 4-7)",
+      "description": "El pico del descenso: 'las aguas me rodearon hasta el alma... las algas se enredaron á mi cabeza... descendí á las raíces de los montes' (vv. 5-6). El vocabulario acumula imágenes cósmicas — abismo primordial, cimientos de la tierra — típicas del Salterio (Sal 69:1-2; 88:6-7). En medio del descenso, un giro decisivo: 'mas tú sacaste mi vida de la sepultura'. El pivote es litúrgico: 'me acordé de Jehová: y mi oración entró hasta ti, en tu santo templo' (v. 7). Aun desde el fondo del mar, la dirección de la oración es hacia Jerusalén — teología del templo davídico-salomónico (1 R 8:38-39).",
+      "significance": "La sección narra la conversión de la mirada: desde el abismo Jonás vuelve el rostro al templo. Es el instante de rescate que precede al rescate físico. La salvación es primero interior/direccional; solo después el pez vomita."
+    },
+    {
+      "verses": "8-9",
+      "title": "Contraste teológico y voto (vv. 8-9)",
+      "description": "'Los que guardan las vanidades ilusorias, su misericordia abandonan'. La palabra 'vanidades' (הַבְלֵי־שָׁוְא, hablé-shav) es el término técnico para los ídolos (Dt 32:21; Sal 31:6). Jonás traza una línea entre idolatría y pérdida de la ḥesed (misericordia pactual). En v. 9 promete lo que hicieron los marineros paganos: 'yo... te ofreceré sacrificios con voz de alabanza; pagaré lo que prometí'. Vocabulario cúltico completo: sacrificio (זֶבַח), acción de gracias (תּוֹדָה), voto (נָדַר).",
+      "significance": "La cima teológica del cántico: 'La salvación es de Jehová' (יְשׁוּעָתָה לַיהוָה) — declaración densa que resume todo el AT y anticipa a 'Yeshua/Jesús' etimológicamente. Pero la ironía: Jonás sabe que la salvación es de YHWH y aún así resiste que YHWH la extienda a Nínive."
+    },
+    {
+      "verses": "10",
+      "title": "Marco narrativo — el vómito (v. 10)",
+      "description": "'Y mandó Jehová al pez, y vomitó á Jonás en tierra'. La formulación es abrupta y sin ceremonia. El verbo קִיא (qi', 'vomitar') es deliberadamente crudo — el mismo verbo aparece en Lv 18:25-28 y 20:22 para describir cómo la tierra 'vomita' a sus habitantes cuando cometen abominaciones. El eco es cortante: incluso el pez expulsa al profeta desobediente.",
+      "significance": "El capítulo termina con una acción divina imperativa y una imagen cruda. El rescate no es un abrazo; es una expulsión. Jonás vuelve a tierra, pero el texto no dice dónde ni con qué disposición interior."
     }
   ],
   "repeatedWords": [
     {
-      "word": "jonas",
-      "count": 4,
-      "significance": "La recurrencia de “jonas” (4) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 2."
+      "word": "יָם (yam, 'mar') / מַיִם (mayim, 'aguas')",
+      "count": 5,
+      "significance": "El campo semántico marino satura la oración (vv. 3, 5): el mar es a la vez lugar de castigo, lugar de rescate y símbolo del caos primordial vencido por YHWH."
     },
     {
-      "word": "vientre",
+      "word": "קָרָא (qara', 'clamar/llamar')",
       "count": 3,
-      "significance": "La recurrencia de “vientre” (3) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 2."
+      "significance": "El mismo verbo con el que Dios mandó a Jonás 'clamar' contra Nínive (1:2) aparece ahora en la boca de Jonás clamando por su vida (vv. 2, 7). Ironía deliberada: hasta ahora solo clama por sí mismo."
     },
     {
-      "word": "tres",
+      "word": "יְשׁוּעָה (yeshu'ah, 'salvación')",
       "count": 2,
-      "significance": "La recurrencia de “tres” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 2."
+      "significance": "Enmarca la oración (v. 9: 'la salvación es de Jehová') y prefigura el nombre Yeshua/Jesús. Es la palabra-clímax teológica del cántico."
     },
     {
-      "word": "clame",
+      "word": "הֵיכָל (heikhal, 'templo')",
       "count": 2,
-      "significance": "La recurrencia de “clame” (2) señala énfasis teológico del pasaje y cohesión literaria del capítulo y ayuda a rastrear el hilo argumental de Jonás 2."
+      "significance": "El templo aparece dos veces (vv. 4 y 7), primero como lo perdido, luego como lo recuperado en la oración. Refleja la teología dedicatoria de 1 R 8:38-39."
     }
   ]
 }

@@ -1,24 +1,133 @@
 [
   {
-    "hebrew": "דָּבָר (dabar)",
-    "english": "word, matter, thing",
-    "literalMeaning": "aquello que se dice o se hace",
-    "primaryMeaning": "Una palabra hablada; un asunto o cuestión",
-    "theologicalMeaning": "En la teología bíblica, \"dabar\" es fundamental - la palabra de Dios es creativa y poderosa. Dios habla y las cosas existen.",
-    "root": "Raíz primitiva, posiblemente relacionada con el movimiento o la acción",
+    "hebrew": "שְׁאוֹל (She'ol)",
+    "english": "Sheol, grave, realm of the dead",
+    "literalMeaning": "lugar de descenso; probable raíz שאל ('preguntar/pedir'), aunque debatida",
+    "primaryMeaning": "El reino de los muertos en la cosmovisión hebrea antigua: lugar subterráneo, sombrío, sin culto ni memoria explícita",
+    "theologicalMeaning": "El Seol no es un lugar de tormento como el infierno posterior sino la sombra general de la muerte. Jonás usa 'vientre del Seol' (v. 2) para amplificar su desesperación — no solo estaba a punto de morir, sino que fenomenológicamente ya estaba muerto. Pero YHWH lo oyó desde allí: teología radical de que Dios tiene acceso incluso al lugar de la muerte (Sal 139:8; Am 9:2). En el NT, Cristo desciende y triunfa sobre el Hades (Hch 2:27, citando Sal 16).",
+    "root": "שאל (raíz debatida)",
     "cognates": [
-      "dibrah (palabra)",
-      "dober (hablador)"
+      "she'ilah (petición, ruego)",
+      "shu'al (probablemente sin relación etimológica pero fonéticamente cercano)"
     ],
-    "semanticEvolution": "La palabra ha mantenido su significado core a través del hebreo antiguo y moderno.",
+    "semanticEvolution": "Del reino indistinto de los muertos (AT temprano) a la distinción entre lugar de justos e injustos (judaísmo tardío) a Hades y Gehena en el NT.",
     "relatedWords": [
-      "amar (decir)",
-      "lashon (lengua)",
-      "kol (voz)"
+      "mavet (muerte)",
+      "bor (fosa)",
+      "shakhat (corrupción, fosa)"
     ],
     "keyAppearances": [
-      "jonah 2"
+      "Génesis 37:35",
+      "Salmo 16:10",
+      "Salmo 139:8",
+      "Jonás 2:2",
+      "Amós 9:2"
     ],
-    "biblicalFrequency": 1440
+    "biblicalFrequency": 66
+  },
+  {
+    "hebrew": "יְשׁוּעָה (yeshu'ah)",
+    "english": "salvation, deliverance",
+    "literalMeaning": "acción de rescate o liberación",
+    "primaryMeaning": "Rescate concreto — militar, físico, judicial — y por extensión salvación integral otorgada por YHWH",
+    "theologicalMeaning": "La declaración de Jonás 'la salvación es de Jehová' (v. 9) es la confesión bíblica más condensada. La raíz יָשַׁע (yasha') genera los nombres Yehoshua/Yeshua (Josué, Jesús) — 'YHWH salva'. Cada vez que Jesús es nombrado en el NT se cita implícitamente Jon 2:9. Que esta declaración salga de labios de un profeta desobediente muestra que la ortodoxia doctrinal precede a la santidad práctica, no la reemplaza.",
+    "root": "ישע (salvar, librar)",
+    "cognates": [
+      "yasha' (verbo: salvar)",
+      "yeshua' (sustantivo masc.: salvación)",
+      "moshia' (salvador)"
+    ],
+    "semanticEvolution": "De rescate militar concreto (Éxodo, Jueces) a salvación escatológica (profetas, salmos) a salvación cristológica en el NT.",
+    "relatedWords": [
+      "padah (redimir)",
+      "ga'al (rescatar por parentesco)",
+      "natsal (librar)"
+    ],
+    "keyAppearances": [
+      "Éxodo 14:13",
+      "Salmo 3:8",
+      "Salmo 27:1",
+      "Jonás 2:9",
+      "Isaías 12:2-3",
+      "Mateo 1:21"
+    ],
+    "biblicalFrequency": 78
+  },
+  {
+    "hebrew": "הֵיכָל (heikhal)",
+    "english": "temple, palace",
+    "literalMeaning": "gran edificio, palacio, santuario",
+    "primaryMeaning": "El santuario central en Jerusalén; también usado para el palacio real o el templo celestial",
+    "theologicalMeaning": "Que Jonás oriente su oración 'al santo templo' (vv. 4, 7) desde el fondo del mar refleja la teología dedicatoria de Salomón: cuando el pueblo esté disperso o cautivo, oren volviendo el rostro hacia el templo, y YHWH oirá desde el cielo (1 R 8:38-39, 47-49). Es teología eclesiológica antes de la iglesia: hay un lugar donde YHWH se compromete a escuchar. Daniel 6:10 y Salmo 138:2 comparten el mismo gesto.",
+    "root": "préstamo sumerio-acadio (é.gal, 'gran casa')",
+    "cognates": [
+      "acadio ekallu",
+      "sumerio é.gal"
+    ],
+    "semanticEvolution": "De palacio real (uso profano) a templo divino (uso cúltico); ambos coexisten en el AT.",
+    "relatedWords": [
+      "mishkan (tabernáculo)",
+      "beth (casa)",
+      "qodesh (santo)"
+    ],
+    "keyAppearances": [
+      "1 Reyes 6:5",
+      "Salmo 5:7",
+      "Salmo 138:2",
+      "Isaías 6:1",
+      "Jonás 2:4, 7"
+    ],
+    "biblicalFrequency": 80
+  },
+  {
+    "hebrew": "מָנָה (manah)",
+    "english": "to prepare, appoint, assign",
+    "literalMeaning": "designar, contar, asignar como porción",
+    "primaryMeaning": "Preparar o disponer soberanamente; asignar a alguien un rol o destino",
+    "theologicalMeaning": "El verbo aparece cuatro veces en Jonás como leitmotiv de la soberanía divina sobre la creación: prepara el pez (2:1), la calabacera (4:6), el gusano (4:7) y el viento (4:8). YHWH gobierna criaturas grandes y microscópicas por igual, y todas conspiran para redirigir a un solo profeta. La teología es que no hay 'accidente' ecológico o meteorológico en la vida del creyente — todo es un manah divino.",
+    "root": "מנה (contar, asignar)",
+    "cognates": [
+      "manah (porción asignada)",
+      "moneh (contador)"
+    ],
+    "semanticEvolution": "Del contar concreto (Núm 23:10) al asignar/designar providencialmente (Job 7:3; Jon 1:17).",
+    "relatedWords": [
+      "chalaq (repartir)",
+      "yatsar (formar)",
+      "kun (establecer)"
+    ],
+    "keyAppearances": [
+      "Job 7:3",
+      "Salmo 61:7",
+      "Daniel 1:5, 10-11",
+      "Jonás 1:17; 4:6-8"
+    ],
+    "biblicalFrequency": 28
+  },
+  {
+    "hebrew": "חֶסֶד (ḥesed)",
+    "english": "steadfast love, covenant loyalty",
+    "literalMeaning": "amor leal, misericordia comprometida",
+    "primaryMeaning": "El amor pactual de YHWH — fiel, activo, comprometido más allá del mérito del receptor",
+    "theologicalMeaning": "En 2:8 Jonás dice que quienes siguen ídolos 'abandonan su ḥesed'. La palabra es uno de los términos teológicos centrales del AT (aparece 245 veces). Éxodo 34:6-7 — la autorevelación de YHWH como 'grande en ḥesed y verdad' — será citada por Jonás mismo en 4:2 como su razón para no querer ir a Nínive. Es decir: Jonás sabe que la ḥesed divina es tan grande que salvará hasta a los ninivitas, y esa es precisamente su queja.",
+    "root": "חסד (mostrar bondad leal)",
+    "cognates": [
+      "chasid (fiel, piadoso)",
+      "chesed como bondad devuelta"
+    ],
+    "semanticEvolution": "De lealtad pactual (Torá) a misericordia amplia (Salmos) a base del evangelio en el NT (gracia = charis, traducción LXX de ḥesed).",
+    "relatedWords": [
+      "rachamim (compasión/vísceras)",
+      "emet (verdad, fidelidad)",
+      "chanan (gracia)"
+    ],
+    "keyAppearances": [
+      "Éxodo 34:6-7",
+      "Salmo 136 (26 veces 'su ḥesed es para siempre')",
+      "Oseas 6:6",
+      "Jonás 2:8; 4:2",
+      "Lamentaciones 3:22-23"
+    ],
+    "biblicalFrequency": 245
   }
 ]
